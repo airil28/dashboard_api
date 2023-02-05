@@ -1,0 +1,4 @@
+{
+"\r\nselect p.ParlimenId,rn.KodNegeri,p. Negeri,p.KodParlimen,p.Penerangan  from Parlimen p \r\nJOIN RefNegeri rn on rn.RefNegeriId = p.RefNegeriId ": [
+	
+]}

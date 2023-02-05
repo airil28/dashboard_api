@@ -1,0 +1,18 @@
+select p3.Kod,p.NoCalon,NamaCalon,p2.KodParti,p2.Penerangan AS Parti, p2.NamaSingkatan AS NamaSingkatanParti ,
+p2.WarnaParti,p2.LogoParti,p.KodParlimen,p.KodDun,p4.RefNegeriId AS KodNegeri ,p4.Negeri, p.NamaParlimen,NULL AS Keputusan, 0 AS JumlahUndi, NULL AS MasaSah
+from Penamaan p 
+JOIN Parti p2 ON p2.PartiId =p.PartiId 
+JOIN Pilihanraya p3 on p3.PilihanrayaId =p.PilihanrayaId
+JOIN Parlimen p4 ON p4.ParlimenId  = p.ParlimenId 
+WHERE p.PilihanrayaId ='E5B1D6F4-C243-4F3D-87C0-4DBDF186E30A' 
+and LEN(KodBahagianPilihanRaya)='3' 
+
+select p3.Kod,p.NoCalon,NamaCalon,p2.KodParti,p2.Penerangan AS Parti, p2.NamaSingkatan AS NamaSingkatanParti ,
+p2.WarnaParti,p2.LogoParti,p.KodParlimen,p.KodDun,p5.RefNegeriId AS KodNegeri ,p5.Negeri, p.NamaParlimen,NULL AS Keputusan, 0 AS JumlahUndi, NULL AS MasaSah
+from Penamaan p 
+JOIN Parti p2 ON p2.PartiId =p.PartiId 
+JOIN Pilihanraya p3 on p3.PilihanrayaId =p.PilihanrayaId
+left JOIN DUN p4 ON p4.DunId  = p.DunId 
+left JOIN Parlimen p5 ON p5.ParlimenId  = p4.ParlimenId 
+WHERE p.PilihanrayaId ='E5B1D6F4-C243-4F3D-87C0-4DBDF186E30A' 
+and LEN(KodBahagianPilihanRaya)!='3'

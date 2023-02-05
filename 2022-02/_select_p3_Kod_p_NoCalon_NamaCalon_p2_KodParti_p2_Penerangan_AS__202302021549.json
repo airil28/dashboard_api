@@ -1,0 +1,54 @@
+{
+"select p3.Kod,p.NoCalon,NamaCalon,p2.KodParti,p2.Penerangan AS Parti, p2.NamaSingkatan AS NamaSingkatanParti,\r\np2.WarnaParti,p2.LogoParti,p.KodParlimen,rn.KodNegeri  ,p4.Negeri, p.NamaParlimen,NULL AS Keputusan, 0 AS JumlahUndi, NULL AS MasaSah\r\nfrom Penamaan p \r\nJOIN Parti p2 ON p2.PartiId =p.PartiId \r\nJOIN Pilihanraya p3 on p3.PilihanrayaId =p.PilihanrayaId\r\nJOIN Parlimen p4 ON p4.ParlimenId  = p.ParlimenId\r\nJOIN RefNegeri rn ON rn.RefNegeriId = p4.RefNegeriId \r\nWHERE p.PilihanrayaId ='E5B1D6F4-C243-4F3D-87C0-4DBDF186E30A' \r\nand LEN(KodBahagianPilihanRaya)='3' ": [
+	{
+		"Kod" : "2022-02",
+		"NoCalon" : 3,
+		"NamaCalon" : "WILFRED ENTIKA ANAK REBAI",
+		"KodParti" : 20,
+		"Parti" : "BEBAS",
+		"NamaSingkatanParti" : "BEBAS",
+		"WarnaParti" : "#993300",
+		"LogoParti" : "BEBAS.png",
+		"KodParlimen" : "220",
+		"KodNegeri" : "13",
+		"Negeri" : "SARAWAK",
+		"NamaParlimen" : "BARAM",
+		"Keputusan" : null,
+		"JumlahUndi" : 0,
+		"MasaSah" : null
+	},
+	{
+		"Kod" : "2022-02",
+		"NoCalon" : 2,
+		"NamaCalon" : "ROLAND ENGAN",
+		"KodParti" : 50,
+		"Parti" : "PAKATAN HARAPAN",
+		"NamaSingkatanParti" : "PH",
+		"WarnaParti" : "#d7292f",
+		"LogoParti" : "PH_1gxNOLEm4U.png",
+		"KodParlimen" : "220",
+		"KodNegeri" : "13",
+		"Negeri" : "SARAWAK",
+		"NamaParlimen" : "BARAM",
+		"Keputusan" : null,
+		"JumlahUndi" : 0,
+		"MasaSah" : null
+	},
+	{
+		"Kod" : "2022-02",
+		"NoCalon" : 1,
+		"NamaCalon" : "ANYI NGAU",
+		"KodParti" : 51,
+		"Parti" : "GABUNGAN PARTI SARAWAK",
+		"NamaSingkatanParti" : "GPS",
+		"WarnaParti" : "#ff794d",
+		"LogoParti" : "GPS.png",
+		"KodParlimen" : "220",
+		"KodNegeri" : "13",
+		"Negeri" : "SARAWAK",
+		"NamaParlimen" : "BARAM",
+		"Keputusan" : null,
+		"JumlahUndi" : 0,
+		"MasaSah" : null
+	}
+]}
