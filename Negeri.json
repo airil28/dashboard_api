@@ -1,0 +1,98 @@
+[
+	{
+		"KodNegeri" : "01",
+		"Negeri" : "JOHOR",
+		"Singkatan" : "JHR",
+		"ParlimenOrder" : 13
+	},
+	{
+		"KodNegeri" : "02",
+		"Negeri" : "KEDAH",
+		"Singkatan" : "KED",
+		"ParlimenOrder" : 2
+	},
+	{
+		"KodNegeri" : "03",
+		"Negeri" : "KELANTAN",
+		"Singkatan" : "KEL",
+		"ParlimenOrder" : 3
+	},
+	{
+		"KodNegeri" : "04",
+		"Negeri" : "MELAKA",
+		"Singkatan" : "MKA",
+		"ParlimenOrder" : 12
+	},
+	{
+		"KodNegeri" : "05",
+		"Negeri" : "NEGERI SEMBILAN",
+		"Singkatan" : "NS",
+		"ParlimenOrder" : 11
+	},
+	{
+		"KodNegeri" : "06",
+		"Negeri" : "PAHANG",
+		"Singkatan" : "PHG",
+		"ParlimenOrder" : 7
+	},
+	{
+		"KodNegeri" : "07",
+		"Negeri" : "PULAU PINANG",
+		"Singkatan" : "PP",
+		"ParlimenOrder" : 5
+	},
+	{
+		"KodNegeri" : "08",
+		"Negeri" : "PERAK",
+		"Singkatan" : "PRK",
+		"ParlimenOrder" : 6
+	},
+	{
+		"KodNegeri" : "09",
+		"Negeri" : "PERLIS",
+		"Singkatan" : "PER",
+		"ParlimenOrder" : 1
+	},
+	{
+		"KodNegeri" : "10",
+		"Negeri" : "SELANGOR",
+		"Singkatan" : "SGOR",
+		"ParlimenOrder" : 8
+	},
+	{
+		"KodNegeri" : "11",
+		"Negeri" : "TERENGGANU",
+		"Singkatan" : "TRG",
+		"ParlimenOrder" : 4
+	},
+	{
+		"KodNegeri" : "12",
+		"Negeri" : "SABAH",
+		"Singkatan" : "SBH",
+		"ParlimenOrder" : 15
+	},
+	{
+		"KodNegeri" : "13",
+		"Negeri" : "SARAWAK",
+		"Singkatan" : "SRWK",
+		"ParlimenOrder" : 16
+	},
+	{
+		"KodNegeri" : "14",
+		"Negeri" : "W.P KUALA LUMPUR",
+		"Singkatan" : "WPKL",
+		"ParlimenOrder" : 9
+	},
+	{
+		"KodNegeri" : "15",
+		"Negeri" : "W.P LABUAN",
+		"Singkatan" : "WPL",
+		"ParlimenOrder" : 14
+	},
+	{
+		"KodNegeri" : "16",
+		"Negeri" : "W.P PUTRAJAYA",
+		"Singkatan" : "WPPj",
+		"ParlimenOrder" : 10
+	}
+]

@@ -1,0 +1,20 @@
+{
+  "parlimen": [
+    {
+      "Kod": "P.102",
+      "JumlahBerdaftar": "8888 UndiKeluarPeti",
+      "JumlahUndi": "7777 UndiDalamPeti",
+      "Peratusan": "89%",
+      "Majoriti":8999
+    },
+     {
+      "Kod": "P.103",
+      "JumlahBerdaftar": "8888 UndiKeluarPeti",
+      "JumlahUndi": "7777 UndiDalamPeti",
+      "Peratusan": "89%",
+      "Majoriti":8999
+    },
+   
+  ],
+  "DUN": []
+}
