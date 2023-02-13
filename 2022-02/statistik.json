@@ -2,13 +2,14 @@
   {
     "Kod": "2022:02",
     "Jumlah": {
-      "Berdaftar":20905366,
-      "Hadir":10905000
+      "Berdaftar":21039771,
+      "PeratusHadir":85.87,
+      "JumlahHadir":18068322
               },
     "Jenis": {
-      "awal":20905366,
-      "biasa":10905000 ,
-      "pos":10905000
+      "awal":268181,
+      "biasa":20771590 ,
+      "pos":361011
     },
     "Jantina": { 
         "L": [
