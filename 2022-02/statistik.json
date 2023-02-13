@@ -14,77 +14,77 @@
         "L": [
            {
              "range":"18-20",
-             "value":11112
+             "value":1023945
            },
            {
              "range":"21-29",
-             "value":77777
+             "value":6261883
            },
            {
              "range":"30-39",
-             "value":11112
+             "value":6542985
            },
            {
              "range":"40-49",
-             "value":11112
+             "value":5102041
            },
            {
              "range":"50-59",
-             "value":11112
+             "value":4114994
            },
            {
              "range":"60-69",
-             "value":11112
+             "value":3185632
            },
            {
              "range":"70-79",
-             "value":11112
+             "value":1636314
            },
            {
              "range":"80-89",
-             "value":11112
+             "value":1636314
            },
            {
              "range":"90>",
-             "value":11112
+             "value":114731
            }
         ],
         "P": [
            {
              "range":"18-20",
-             "value":11112
+             "value":1023945
            },
            {
              "range":"21-29",
-             "value":77777
+             "value":6261883
            },
            {
              "range":"30-39",
-             "value":11112
+             "value":6542985
            },
            {
              "range":"40-49",
-             "value":11112
+             "value":5102041
            },
            {
              "range":"50-59",
-             "value":11112
+             "value":4114994
            },
            {
              "range":"60-69",
-             "value":11112
+             "value":3185632
            },
            {
              "range":"70-79",
-             "value":11112
+             "value":1636314
            },
            {
              "range":"80-89",
-             "value":11112
+             "value":556673
            },
            {
              "range":"90>",
-             "value":11112
+             "value":556673
            }
         ]
         
