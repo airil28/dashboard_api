@@ -1,0 +1,36 @@
+SELECT 
+	c.Kod,
+	a.NoCalon,
+	a.StatusCalon,
+	a.NamaCalon,
+	f.KodParti,
+	f.Penerangan AS Parti,
+	f.SusunanParti,
+	f.NamaSingkatan AS NamaSingkatanParti,
+	f.WarnaParti,
+	f.LogoParti,
+	e.KodParlimen,
+	a.KodDun,
+	g.KodNegeri AS KodNegeri,
+	g.ParlimenOrder,
+	e.Negeri,
+	e.Penerangan AS NamaParlimen,
+	NULL AS Keputusan,
+	0 AS JumlahUndi,
+	NULL AS MasaSah 
+	
+-- SELECT COUNT(*)	
+FROM [dbo].[Penamaan] a 
+INNER JOIN BahagianPilihanRaya b on b.BahagianPilihanRayaId = a.BahagianPilihanRayaId AND b.Jenis='PAR'
+INNER JOIN Pilihanraya c on c.PilihanrayaId = a.PilihanrayaId
+LEFT JOIN Dun d ON d.KodDUN=a.KodDUN
+LEFT JOIN Parlimen e ON e.KodParlimen=a.KodParlimen
+LEFT JOIN RefNegeri g ON g.RefNegeriId = e.RefNegeriId
+INNER JOIN Parti f ON f.PartiId = a.PartiId
+WHERE a.PilihanrayaId ='E5B1D6F4-C243-4F3D-87C0-4DBDF186E30A';
+
+
+--E5B1D6F4-C243-4F3D-87C0-4DBDF186E30A
+--pru 15
+--7FC9A145-18BD-4431-BE14-6552152DCB65
+--pru ke 14
