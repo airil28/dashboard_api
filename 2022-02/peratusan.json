@@ -13,8 +13,23 @@
       "JumlahUndi": "7777 UndiDalamPeti",
       "Peratusan": "89%",
       "Majoriti":8999
-    },
+    }
    
   ],
-  "DUN": []
+  "DUN": [
+    {
+      "Kod": "01",
+      "JumlahBerdaftar": "8888 UndiKeluarPeti",
+      "JumlahUndi": "7777 UndiDalamPeti",
+      "Peratusan": "89%",
+      "Majoriti":8999
+    },
+     {
+      "Kod": "02",
+      "JumlahBerdaftar": "8888 UndiKeluarPeti",
+      "JumlahUndi": "7777 UndiDalamPeti",
+      "Peratusan": "89%",
+      "Majoriti":8999
+    }
+  ]
 }
