@@ -25,8 +25,21 @@ app.get('/dun', (req, res) => {
   res.sendFile(__dirname + '/2022-02/dun.json');
 });
 
-app.get('/peratusan', (req, res) => {
-  res.sendFile(__dirname + '/2022-02/peratusan.json');
+app.get('/keputusan', (req, res) => {
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+  const data = require('./2022-02/keputusan.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  req.on('close', () => {
+    res.end();
+  });
 });
 
 app.get('/statistik', (req, res) => {
