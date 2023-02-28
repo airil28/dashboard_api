@@ -9,10 +9,6 @@ app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
-// app.get('/dun', (req, res) => {
-//   res.sendFile(__dirname + '/2022-02/dun.json');
-// });
-
 app.get('/pilihanraya', (req, res) => {
   res.sendFile(__dirname + '/pilihanraya.json');
 });
@@ -25,7 +21,27 @@ app.get('/dun', (req, res) => {
   res.sendFile(__dirname + '/2022-02/dun.json');
 });
 
+app.get('/negeri', (req, res) => {
+  res.sendFile(__dirname + '/negeri.json');
+});
+
+app.get('/calonparlimen', (req, res) => {
+  res.sendFile(__dirname + '/2022-02/calon_parlimen.json');
+});
+
+app.get('/calondun', (req, res) => {
+  res.sendFile(__dirname + '/2022-02/calon_dun.json');
+});
+
 app.get('/keputusan', (req, res) => {
+  res.sendFile(__dirname + '/2022-02/keputusan.json');
+});
+
+app.get('/statistik', (req, res) => {
+  res.sendFile(__dirname + '/2022-02/statistik.json');
+});
+
+app.get('/keputusan2', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'text/event-stream',
     'Cache-Control': 'no-cache',
@@ -42,7 +58,7 @@ app.get('/keputusan', (req, res) => {
   });
 });
 
-app.get('/statistik', (req, res) => {
+app.get('/statistik2', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'text/event-stream',
     'Cache-Control': 'no-cache',
@@ -59,9 +75,7 @@ app.get('/statistik', (req, res) => {
   });
 });
 
-app.get('/negeri', (req, res) => {
-  res.sendFile(__dirname + '/negeri.json');
-});
+
 
 app.get('/negeri2', (req, res) => {
   res.writeHead(200, {
@@ -80,7 +94,7 @@ app.get('/negeri2', (req, res) => {
   });
 });
 
-app.get('/calonparlimen', (req, res) => {
+app.get('/calonparlimen2', (req, res) => {
   // Set headers for SSE
   res.writeHead(200, {
     'Content-Type': 'text/event-stream',
@@ -99,7 +113,7 @@ app.get('/calonparlimen', (req, res) => {
   });
 });
 
-app.get('/calondun', (req, res) => {
+app.get('/calondun2', (req, res) => {
   // Set headers for SSE
   res.writeHead(200, {
     'Content-Type': 'text/event-stream',
