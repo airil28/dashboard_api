@@ -41,6 +41,10 @@ app.get('/statistik', (req, res) => {
   res.sendFile(__dirname + '/2022-02/statistik.json');
 });
 
+app.get('/dppr', (req, res) => {
+  res.sendFile(__dirname + '/2022-02/DPPR.json');
+});
+
 app.get('/keputusan2', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'text/event-stream',
