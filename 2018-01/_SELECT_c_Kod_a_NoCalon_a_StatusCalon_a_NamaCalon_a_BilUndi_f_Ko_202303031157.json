@@ -1,4 +1,5 @@
-[
+{
+"SELECT \r\n\tc.Kod,\r\n\ta.NoCalon,\r\n\ta.StatusCalon,\r\n\ta.NamaCalon,\r\n    a.BilUndi,\r\n\tf.KodParti,\r\n\tf.Penerangan AS Parti,\r\n\tf.SusunanParti,\r\n\tf.NamaSingkatan AS NamaSingkatanParti,\r\n\tf.WarnaParti,\r\n\tf.LogoParti,\r\n\te.KodParlimen,\r\n\ta.KodDun,\r\n\tg.KodNegeri AS KodNegeri,\r\n\te.Negeri,\r\n\te.Penerangan AS NamaParlimen,\r\n\ta.MasaSah \r\n\t\r\n-- SELECT COUNT(*)\t\r\nFROM [dbo].[Penamaan] a \r\nINNER JOIN BahagianPilihanRaya b on b.BahagianPilihanRayaId = a.BahagianPilihanRayaId AND b.Jenis='PAR'\r\nINNER JOIN Pilihanraya c on c.PilihanrayaId = a.PilihanrayaId\r\nLEFT JOIN Dun d ON d.KodDUN=a.KodDUN\r\nLEFT JOIN Parlimen e ON e.KodParlimen=a.KodParlimen\r\nLEFT JOIN RefNegeri g ON g.RefNegeriId = e.RefNegeriId\r\nINNER JOIN Parti f ON f.PartiId = a.PartiId\r\nWHERE a.PilihanrayaId ='7FC9A145-18BD-4431-BE14-6552152DCB65';": [
 	{
 		"Kod" : "2018-01",
 		"NoCalon" : 3,
@@ -12330,4 +12331,4 @@
 		"NamaParlimen" : "LAWAS",
 		"MasaSah" : null
 	}
-]
+]}

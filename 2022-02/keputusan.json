@@ -1,2340 +1,2674 @@
-[
-  {
-		"KodParlimen" : "064",
-		"KodDun" : "06400",
-		"UndiDalamPeti" : 80458,
-		"PeratusUndi" : "68.4",
-		"Majoriti" : 43888
-	},
-	{
-		"KodParlimen" : "039",
-		"KodDun" : "03900",
-		"UndiDalamPeti" : 92005,
-		"PeratusUndi" : "79.7",
-		"Majoriti" : 34105
-	},
-	{
-		"KodParlimen" : "115",
-		"KodDun" : "11500",
-		"UndiDalamPeti" : 87623,
-		"PeratusUndi" : "77.1",
-		"Majoriti" : 22241
-	},
-	{
-		"KodParlimen" : "105",
-		"KodDun" : "10500",
-		"UndiDalamPeti" : 147526,
-		"PeratusUndi" : "75.9",
-		"Majoriti" : 50575
-	},
-	{
-		"KodParlimen" : "143",
-		"KodDun" : "14300",
-		"UndiDalamPeti" : 54810,
-		"PeratusUndi" : "78.5",
-		"Majoriti" : 10007
-	},
-	{
-		"KodParlimen" : "072",
-		"KodDun" : "07248",
-		"UndiDalamPeti" : 23860,
-		"PeratusUndi" : "74.8",
-		"Majoriti" : 2213
-	},
-	{
-		"KodParlimen" : "051",
-		"KodDun" : "05100",
-		"UndiDalamPeti" : 86719,
-		"PeratusUndi" : "74.3",
-		"Majoriti" : 63112
-	},
-	{
-		"KodParlimen" : "090",
-		"KodDun" : "09038",
-		"UndiDalamPeti" : 19207,
-		"PeratusUndi" : "74.2",
-		"Majoriti" : 6219
-	},
-	{
-		"KodParlimen" : "008",
-		"KodDun" : "00800",
-		"UndiDalamPeti" : 88767,
-		"PeratusUndi" : "77.5",
-		"Majoriti" : 31751
-	},
-	{
-		"KodParlimen" : "160",
-		"KodDun" : "16000",
-		"UndiDalamPeti" : 95230,
-		"PeratusUndi" : "70",
-		"Majoriti" : 16041
-	},
-	{
-		"KodParlimen" : "024",
-		"KodDun" : "02400",
-		"UndiDalamPeti" : 82159,
-		"PeratusUndi" : "72.6",
-		"Majoriti" : 40847
-	},
-	{
-		"KodParlimen" : "002",
-		"KodDun" : "00200",
-		"UndiDalamPeti" : 56860,
-		"PeratusUndi" : "76.1",
-		"Majoriti" : 9192
-	},
-	{
-		"KodParlimen" : "118",
-		"KodDun" : "11800",
-		"UndiDalamPeti" : 75460,
-		"PeratusUndi" : "79.1",
-		"Majoriti" : 12164
-	},
-	{
-		"KodParlimen" : "081",
-		"KodDun" : "08110",
-		"UndiDalamPeti" : 26525,
-		"PeratusUndi" : "76.1",
-		"Majoriti" : 2296
-	},
-	{
-		"KodParlimen" : "100",
-		"KodDun" : "10000",
-		"UndiDalamPeti" : 116262,
-		"PeratusUndi" : "78.3",
-		"Majoriti" : 48296
-	},
-	{
-		"KodParlimen" : "131",
-		"KodDun" : "13100",
-		"UndiDalamPeti" : 110262,
-		"PeratusUndi" : "82.8",
-		"Majoriti" : 19897
-	},
-	{
-		"KodParlimen" : "066",
-		"KodDun" : "06632",
-		"UndiDalamPeti" : 26244,
-		"PeratusUndi" : "67.9",
-		"Majoriti" : 21191
-	},
+[	
 	{
 		"KodParlimen" : "084",
 		"KodDun" : "08419",
 		"UndiDalamPeti" : 27823,
 		"PeratusUndi" : "79.9",
-		"Majoriti" : 7136
-	},
-	{
-		"KodParlimen" : "082",
-		"KodDun" : "08212",
-		"UndiDalamPeti" : 46484,
-		"PeratusUndi" : "78.6",
-		"Majoriti" : 11521
-	},
-	{
-		"KodParlimen" : "089",
-		"KodDun" : "08935",
-		"UndiDalamPeti" : 11981,
-		"PeratusUndi" : "76.7",
-		"Majoriti" : 96
-	},
-	{
-		"KodParlimen" : "202",
-		"KodDun" : "20200",
-		"UndiDalamPeti" : 32352,
-		"PeratusUndi" : "64.7",
-		"Majoriti" : 4039
-	},
-	{
-		"KodParlimen" : "088",
-		"KodDun" : "08832",
-		"UndiDalamPeti" : 29449,
-		"PeratusUndi" : "80.3",
-		"Majoriti" : 1738
-	},
-	{
-		"KodParlimen" : "006",
-		"KodDun" : "00600",
-		"UndiDalamPeti" : 84239,
-		"PeratusUndi" : "78.1",
-		"Majoriti" : 31584
-	},
-	{
-		"KodParlimen" : "158",
-		"KodDun" : "15800",
-		"UndiDalamPeti" : 168979,
-		"PeratusUndi" : "75.9",
-		"Majoriti" : 30720
-	},
-	{
-		"KodParlimen" : "057",
-		"KodDun" : "05708",
-		"UndiDalamPeti" : 28667,
-		"PeratusUndi" : "80",
-		"Majoriti" : 5274
-	},
-	{
-		"KodParlimen" : "081",
-		"KodDun" : "08109",
-		"UndiDalamPeti" : 16531,
-		"PeratusUndi" : "79.3",
-		"Majoriti" : 2014
-	},
-	{
-		"KodParlimen" : "077",
-		"KodDun" : "07757",
-		"UndiDalamPeti" : 16466,
-		"PeratusUndi" : "70.6",
-		"Majoriti" : 5238
-	},
-	{
-		"KodParlimen" : "062",
-		"KodDun" : "06222",
-		"UndiDalamPeti" : 27345,
-		"PeratusUndi" : "69.7",
-		"Majoriti" : 8713
-	},
-	{
-		"KodParlimen" : "089",
-		"KodDun" : "08900",
-		"UndiDalamPeti" : 67332,
-		"PeratusUndi" : "77.5",
-		"Majoriti" : 692
-	},
-	{
-		"KodParlimen" : "064",
-		"KodDun" : "06427",
-		"UndiDalamPeti" : 26383,
-		"PeratusUndi" : "66.1",
-		"Majoriti" : 22169
-	},
-	{
-		"KodParlimen" : "077",
-		"KodDun" : "07700",
-		"UndiDalamPeti" : 70815,
-		"PeratusUndi" : "75.6",
-		"Majoriti" : 3541
-	},
-	{
-		"KodParlimen" : "052",
-		"KodDun" : "05200",
-		"UndiDalamPeti" : 90878,
-		"PeratusUndi" : "76.2",
-		"Majoriti" : 34902
-	},
-	{
-		"KodParlimen" : "209",
-		"KodDun" : "20900",
-		"UndiDalamPeti" : 22868,
-		"PeratusUndi" : "65.8",
-		"Majoriti" : 1340
-	},
-	{
-		"KodParlimen" : "145",
-		"KodDun" : "14500",
-		"UndiDalamPeti" : 73882,
-		"PeratusUndi" : "76.2",
-		"Majoriti" : 19254
-	},
-	{
-		"KodParlimen" : "194",
-		"KodDun" : "19400",
-		"UndiDalamPeti" : 69714,
-		"PeratusUndi" : "63.8",
-		"Majoriti" : 41363
-	},
-	{
-		"KodParlimen" : "074",
-		"KodDun" : "07451",
-		"UndiDalamPeti" : 49589,
-		"PeratusUndi" : "80",
-		"Majoriti" : 5117
-	},
-	{
-		"KodParlimen" : "084",
-		"KodDun" : "08417",
-		"UndiDalamPeti" : 14866,
-		"PeratusUndi" : "77.8",
-		"Majoriti" : 1054
-	},
-	{
-		"KodParlimen" : "065",
-		"KodDun" : "06529",
-		"UndiDalamPeti" : 16671,
-		"PeratusUndi" : "66.3",
-		"Majoriti" : 9491
-	},
-	{
-		"KodParlimen" : "019",
-		"KodDun" : "01900",
-		"UndiDalamPeti" : 105892,
-		"PeratusUndi" : "71.1",
-		"Majoriti" : 34793
-	},
-	{
-		"KodParlimen" : "150",
-		"KodDun" : "15000",
-		"UndiDalamPeti" : 100340,
-		"PeratusUndi" : "75.2",
-		"Majoriti" : 15972
-	},
-	{
-		"KodParlimen" : "087",
-		"KodDun" : "08728",
-		"UndiDalamPeti" : 12262,
-		"PeratusUndi" : "80.9",
-		"Majoriti" : 1929
-	},
-	{
-		"KodParlimen" : "128",
-		"KodDun" : "12800",
-		"UndiDalamPeti" : 124393,
-		"PeratusUndi" : "79.4",
-		"Majoriti" : 30841
-	},
-	{
-		"KodParlimen" : "066",
-		"KodDun" : "06600",
-		"UndiDalamPeti" : 75780,
-		"PeratusUndi" : "67.9",
-		"Majoriti" : 53836
-	},
-	{
-		"KodParlimen" : "002",
-		"KodDun" : "00206",
-		"UndiDalamPeti" : 12893,
-		"PeratusUndi" : "79",
-		"Majoriti" : 4329
-	},
-	{
-		"KodParlimen" : "193",
-		"KodDun" : "19300",
-		"UndiDalamPeti" : 52459,
-		"PeratusUndi" : "66.3",
-		"Majoriti" : 38681
-	},
-	{
-		"KodParlimen" : "076",
-		"KodDun" : "07656",
-		"UndiDalamPeti" : 37193,
-		"PeratusUndi" : "77.6",
-		"Majoriti" : 1087
-	},
-	{
-		"KodParlimen" : "022",
-		"KodDun" : "02200",
-		"UndiDalamPeti" : 65972,
-		"PeratusUndi" : "70",
-		"Majoriti" : 30717
-	},
-	{
-		"KodParlimen" : "066",
-		"KodDun" : "06633",
-		"UndiDalamPeti" : 25003,
-		"PeratusUndi" : "65.7",
-		"Majoriti" : 11372
-	},
-	{
-		"KodParlimen" : "151",
-		"KodDun" : "15100",
-		"UndiDalamPeti" : 44669,
-		"PeratusUndi" : "75.9",
-		"Majoriti" : 1821
-	},
-	{
-		"KodParlimen" : "064",
-		"KodDun" : "06426",
-		"UndiDalamPeti" : 28063,
-		"PeratusUndi" : "75.7",
-		"Majoriti" : 660
-	},
-	{
-		"KodParlimen" : "152",
-		"KodDun" : "15200",
-		"UndiDalamPeti" : 96825,
-		"PeratusUndi" : "73.4",
-		"Majoriti" : 26406
-	},
-	{
-		"KodParlimen" : "181",
-		"KodDun" : "18100",
-		"UndiDalamPeti" : 29034,
-		"PeratusUndi" : "69.2",
-		"Majoriti" : 1108
-	},
-	{
-		"KodParlimen" : "189",
-		"KodDun" : "18900",
-		"UndiDalamPeti" : 39191,
-		"PeratusUndi" : "55.4",
-		"Majoriti" : 20810
-	},
-	{
-		"KodParlimen" : "033",
-		"KodDun" : "03300",
-		"UndiDalamPeti" : 86241,
-		"PeratusUndi" : "77.5",
-		"Majoriti" : 18666
-	},
-	{
-		"KodParlimen" : "003",
-		"KodDun" : "00314",
-		"UndiDalamPeti" : 8269,
-		"PeratusUndi" : "77.4",
-		"Majoriti" : 4008
-	},
-	{
-		"KodParlimen" : "175",
-		"KodDun" : "17500",
-		"UndiDalamPeti" : 44172,
-		"PeratusUndi" : "73.9",
-		"Majoriti" : 12224
-	},
-	{
-		"KodParlimen" : "218",
-		"KodDun" : "21800",
-		"UndiDalamPeti" : 34284,
-		"PeratusUndi" : "58.7",
-		"Majoriti" : 11745
-	},
-	{
-		"KodParlimen" : "080",
-		"KodDun" : "08006",
-		"UndiDalamPeti" : 15340,
-		"PeratusUndi" : "78.1",
-		"Majoriti" : 2869
-	},
-	{
-		"KodParlimen" : "070",
-		"KodDun" : "07042",
-		"UndiDalamPeti" : 17806,
-		"PeratusUndi" : "63.2",
-		"Majoriti" : 8749
-	},
-	{
-		"KodParlimen" : "090",
-		"KodDun" : "09039",
-		"UndiDalamPeti" : 21852,
-		"PeratusUndi" : "80",
-		"Majoriti" : 6913
-	},
-	{
-		"KodParlimen" : "032",
-		"KodDun" : "03200",
-		"UndiDalamPeti" : 49120,
-		"PeratusUndi" : "70.7",
-		"Majoriti" : 163
-	},
-	{
-		"KodParlimen" : "089",
-		"KodDun" : "08934",
-		"UndiDalamPeti" : 23856,
-		"PeratusUndi" : "77.7",
-		"Majoriti" : 120
-	},
-	{
-		"KodParlimen" : "214",
-		"KodDun" : "21400",
-		"UndiDalamPeti" : 29224,
-		"PeratusUndi" : "64",
-		"Majoriti" : 4986
-	},
-	{
-		"KodParlimen" : "154",
-		"KodDun" : "15400",
-		"UndiDalamPeti" : 47294,
-		"PeratusUndi" : "71.6",
-		"Majoriti" : 2337
-	},
-	{
-		"KodParlimen" : "075",
-		"KodDun" : "07553",
-		"UndiDalamPeti" : 14421,
-		"PeratusUndi" : "73.4",
-		"Majoriti" : 3409
-	},
-	{
-		"KodParlimen" : "058",
-		"KodDun" : "05811",
-		"UndiDalamPeti" : 21946,
-		"PeratusUndi" : "80.2",
-		"Majoriti" : 7466
-	},
-	{
-		"KodParlimen" : "085",
-		"KodDun" : "08522",
-		"UndiDalamPeti" : 15965,
-		"PeratusUndi" : "75.1",
-		"Majoriti" : 6273
-	},
-	{
-		"KodParlimen" : "085",
-		"KodDun" : "08520",
-		"UndiDalamPeti" : 24374,
-		"PeratusUndi" : "81.1",
-		"Majoriti" : 3931
-	},
-	{
-		"KodParlimen" : "187",
-		"KodDun" : "18700",
-		"UndiDalamPeti" : 29806,
-		"PeratusUndi" : "66.7",
-		"Majoriti" : 4330
-	},
-	{
-		"KodParlimen" : "072",
-		"KodDun" : "07200",
-		"UndiDalamPeti" : 45447,
-		"PeratusUndi" : "73.5",
-		"Majoriti" : 5064
-	},
-	{
-		"KodParlimen" : "190",
-		"KodDun" : "19000",
-		"UndiDalamPeti" : 51384,
-		"PeratusUndi" : "59",
-		"Majoriti" : 3800
-	},
-	{
-		"KodParlimen" : "203",
-		"KodDun" : "20300",
-		"UndiDalamPeti" : 19494,
-		"PeratusUndi" : "67.4",
-		"Majoriti" : 100
-	},
-	{
-		"KodParlimen" : "083",
-		"KodDun" : "08300",
-		"UndiDalamPeti" : 68393,
-		"PeratusUndi" : "78.2",
-		"Majoriti" : 2866
-	},
-	{
-		"KodParlimen" : "173",
-		"KodDun" : "17300",
-		"UndiDalamPeti" : 42038,
-		"PeratusUndi" : "66.8",
-		"Majoriti" : 124
-	},
-	{
-		"KodParlimen" : "134",
-		"KodDun" : "13400",
-		"UndiDalamPeti" : 55155,
-		"PeratusUndi" : "79.9",
-		"Majoriti" : 4411
-	},
-	{
-		"KodParlimen" : "095",
-		"KodDun" : "09500",
-		"UndiDalamPeti" : 51778,
-		"PeratusUndi" : "83.4",
-		"Majoriti" : 2180
-	},
-	{
-		"KodParlimen" : "200",
-		"KodDun" : "20000",
-		"UndiDalamPeti" : 22822,
-		"PeratusUndi" : "70.2",
-		"Majoriti" : 14893
-	},
-	{
-		"KodParlimen" : "058",
-		"KodDun" : "05812",
-		"UndiDalamPeti" : 18932,
-		"PeratusUndi" : "78.2",
-		"Majoriti" : 3279
-	},
-	{
-		"KodParlimen" : "157",
-		"KodDun" : "15700",
-		"UndiDalamPeti" : 42159,
-		"PeratusUndi" : "76.4",
-		"Majoriti" : 5010
-	},
-	{
-		"KodParlimen" : "027",
-		"KodDun" : "02700",
-		"UndiDalamPeti" : 70310,
-		"PeratusUndi" : "71.5",
-		"Majoriti" : 44485
-	},
-	{
-		"KodParlimen" : "003",
-		"KodDun" : "00315",
-		"UndiDalamPeti" : 8364,
-		"PeratusUndi" : "80.4",
-		"Majoriti" : 3335
-	},
-	{
-		"KodParlimen" : "061",
-		"KodDun" : "06120",
-		"UndiDalamPeti" : 16568,
-		"PeratusUndi" : "79.4",
-		"Majoriti" : 2955
-	},
-	{
-		"KodParlimen" : "199",
-		"KodDun" : "19900",
-		"UndiDalamPeti" : 40485,
-		"PeratusUndi" : "62.2",
-		"Majoriti" : 16697
-	},
-	{
-		"KodParlimen" : "066",
-		"KodDun" : "06631",
-		"UndiDalamPeti" : 24510,
-		"PeratusUndi" : "70.1",
-		"Majoriti" : 20111
-	},
-	{
-		"KodParlimen" : "005",
-		"KodDun" : "00500",
-		"UndiDalamPeti" : 52824,
-		"PeratusUndi" : "78.3",
-		"Majoriti" : 20456
-	},
-	{
-		"KodParlimen" : "080",
-		"KodDun" : "08008",
-		"UndiDalamPeti" : 13692,
-		"PeratusUndi" : "80.5",
-		"Majoriti" : 1046
-	},
-	{
-		"KodParlimen" : "121",
-		"KodDun" : "12100",
-		"UndiDalamPeti" : 77229,
-		"PeratusUndi" : "76.1",
-		"Majoriti" : 13912
-	},
-	{
-		"KodParlimen" : "004",
-		"KodDun" : "00400",
-		"UndiDalamPeti" : 47988,
-		"PeratusUndi" : "72.1",
-		"Majoriti" : 13518
-	},
-	{
-		"KodParlimen" : "002",
-		"KodDun" : "00207",
-		"UndiDalamPeti" : 11908,
-		"PeratusUndi" : "75.2",
-		"Majoriti" : 2200
-	},
-	{
-		"KodParlimen" : "071",
-		"KodDun" : "07146",
-		"UndiDalamPeti" : 23566,
-		"PeratusUndi" : "71.6",
-		"Majoriti" : 4555
-	},
-	{
-		"KodParlimen" : "133",
-		"KodDun" : "13300",
-		"UndiDalamPeti" : 61814,
-		"PeratusUndi" : "76.4",
-		"Majoriti" : 1276
-	},
-	{
-		"KodParlimen" : "108",
-		"KodDun" : "10800",
-		"UndiDalamPeti" : 136689,
-		"PeratusUndi" : "82.7",
-		"Majoriti" : 18095
-	},
-	{
-		"KodParlimen" : "069",
-		"KodDun" : "06900",
-		"UndiDalamPeti" : 38046,
-		"PeratusUndi" : "79.7",
-		"Majoriti" : 2155
-	},
-	{
-		"KodParlimen" : "107",
-		"KodDun" : "10700",
-		"UndiDalamPeti" : 130584,
-		"PeratusUndi" : "82.8",
-		"Majoriti" : 2693
-	},
-	{
-		"KodParlimen" : "167",
-		"KodDun" : "16700",
-		"UndiDalamPeti" : 45822,
-		"PeratusUndi" : "60.8",
-		"Majoriti" : 1967
-	},
-	{
-		"KodParlimen" : "092",
-		"KodDun" : "09200",
-		"UndiDalamPeti" : 41423,
-		"PeratusUndi" : "80.4",
-		"Majoriti" : 5056
-	},
-	{
-		"KodParlimen" : "172",
-		"KodDun" : "17200",
-		"UndiDalamPeti" : 44477,
-		"PeratusUndi" : "60.3",
-		"Majoriti" : 23783
-	},
-	{
-		"KodParlimen" : "090",
-		"KodDun" : "09000",
-		"UndiDalamPeti" : 60362,
-		"PeratusUndi" : "77.9",
-		"Majoriti" : 16695
-	},
-	{
-		"KodParlimen" : "207",
-		"KodDun" : "20700",
-		"UndiDalamPeti" : 17220,
-		"PeratusUndi" : "61.1",
-		"Majoriti" : 14662
-	},
-	{
-		"KodParlimen" : "179",
-		"KodDun" : "17900",
-		"UndiDalamPeti" : 42681,
-		"PeratusUndi" : "64.4",
-		"Majoriti" : 11092
-	},
-	{
-		"KodParlimen" : "081",
-		"KodDun" : "08111",
-		"UndiDalamPeti" : 24468,
-		"PeratusUndi" : "78.7",
-		"Majoriti" : 3487
-	},
-	{
-		"KodParlimen" : "001",
-		"KodDun" : "00103",
-		"UndiDalamPeti" : 11098,
-		"PeratusUndi" : "78",
-		"Majoriti" : 2420
-	},
-	{
-		"KodParlimen" : "062",
-		"KodDun" : "06200",
-		"UndiDalamPeti" : 52640,
-		"PeratusUndi" : "72.8",
-		"Majoriti" : 1846
-	},
-	{
-		"KodParlimen" : "111",
-		"KodDun" : "11100",
-		"UndiDalamPeti" : 199326,
-		"PeratusUndi" : "81.7",
-		"Majoriti" : 73998
-	},
-	{
-		"KodParlimen" : "003",
-		"KodDun" : "00300",
-		"UndiDalamPeti" : 47516,
-		"PeratusUndi" : "78.2",
-		"Majoriti" : 23216
-	},
-	{
-		"KodParlimen" : "124",
-		"KodDun" : "12400",
-		"UndiDalamPeti" : 93593,
-		"PeratusUndi" : "78.7",
-		"Majoriti" : 9817
-	},
-	{
-		"KodParlimen" : "014",
-		"KodDun" : "01400",
-		"UndiDalamPeti" : 103571,
-		"PeratusUndi" : "78.4",
-		"Majoriti" : 21019
-	},
-	{
-		"KodParlimen" : "088",
-		"KodDun" : "08830",
-		"UndiDalamPeti" : 28618,
-		"PeratusUndi" : "77",
-		"Majoriti" : 3657
-	},
-	{
-		"KodParlimen" : "037",
-		"KodDun" : "03700",
-		"UndiDalamPeti" : 110016,
-		"PeratusUndi" : "83.7",
-		"Majoriti" : 41729
-	},
-	{
-		"KodParlimen" : "136",
-		"KodDun" : "13600",
-		"UndiDalamPeti" : 92746,
-		"PeratusUndi" : "80.2",
-		"Majoriti" : 8849
-	},
-	{
-		"KodParlimen" : "078",
-		"KodDun" : "07802",
-		"UndiDalamPeti" : 15149,
-		"PeratusUndi" : "79.2",
-		"Majoriti" : 6983
-	},
-	{
-		"KodParlimen" : "161",
-		"KodDun" : "16100",
-		"UndiDalamPeti" : 118066,
-		"PeratusUndi" : "71.6",
-		"Majoriti" : 33174
-	},
-	{
-		"KodParlimen" : "208",
-		"KodDun" : "20800",
-		"UndiDalamPeti" : 36899,
-		"PeratusUndi" : "67.3",
-		"Majoriti" : 3697
-	},
-	{
-		"KodParlimen" : "206",
-		"KodDun" : "20600",
-		"UndiDalamPeti" : 19278,
-		"PeratusUndi" : "58.9",
-		"Majoriti" : 13908
-	},
-	{
-		"KodParlimen" : "047",
-		"KodDun" : "04700",
-		"UndiDalamPeti" : 80329,
-		"PeratusUndi" : "80.4",
-		"Majoriti" : 16293
-	},
-	{
-		"KodParlimen" : "101",
-		"KodDun" : "10100",
-		"UndiDalamPeti" : 138003,
-		"PeratusUndi" : "82.9",
-		"Majoriti" : 14896
-	},
-	{
-		"KodParlimen" : "054",
-		"KodDun" : "05402",
-		"UndiDalamPeti" : 20062,
-		"PeratusUndi" : "73.4",
-		"Majoriti" : 1048
-	},
-	{
-		"KodParlimen" : "106",
-		"KodDun" : "10600",
-		"UndiDalamPeti" : 175910,
-		"PeratusUndi" : "73.9",
-		"Majoriti" : 124619
-	},
-	{
-		"KodParlimen" : "073",
-		"KodDun" : "07300",
-		"UndiDalamPeti" : 57908,
-		"PeratusUndi" : "77.9",
-		"Majoriti" : 5003
-	},
-	{
-		"KodParlimen" : "222",
-		"KodDun" : "22200",
-		"UndiDalamPeti" : 18406,
-		"PeratusUndi" : "55",
-		"Majoriti" : 5677
-	},
-	{
-		"KodParlimen" : "122",
-		"KodDun" : "12200",
-		"UndiDalamPeti" : 87856,
-		"PeratusUndi" : "70.6",
-		"Majoriti" : 67187
-	},
-	{
-		"KodParlimen" : "084",
-		"KodDun" : "08418",
-		"UndiDalamPeti" : 19978,
-		"PeratusUndi" : "77.8",
-		"Majoriti" : 419
-	},
-	{
-		"KodParlimen" : "213",
-		"KodDun" : "21300",
-		"UndiDalamPeti" : 28096,
-		"PeratusUndi" : "60",
-		"Majoriti" : 15686
-	},
-	{
-		"KodParlimen" : "042",
-		"KodDun" : "04200",
-		"UndiDalamPeti" : 67654,
-		"PeratusUndi" : "83.8",
-		"Majoriti" : 12252
-	},
-	{
-		"KodParlimen" : "091",
-		"KodDun" : "09141",
-		"UndiDalamPeti" : 22678,
-		"PeratusUndi" : "76.6",
-		"Majoriti" : 1234
-	},
-	{
-		"KodParlimen" : "125",
-		"KodDun" : "12500",
-		"UndiDalamPeti" : 36811,
-		"PeratusUndi" : "86.2",
-		"Majoriti" : 2310
-	},
-	{
-		"KodParlimen" : "065",
-		"KodDun" : "06500",
-		"UndiDalamPeti" : 79129,
-		"PeratusUndi" : "69.2",
-		"Majoriti" : 56667
-	},
-	{
-		"KodParlimen" : "088",
-		"KodDun" : "08800",
-		"UndiDalamPeti" : 83396,
-		"PeratusUndi" : "78.3",
-		"Majoriti" : 5520
-	},
-	{
-		"KodParlimen" : "013",
-		"KodDun" : "01300",
-		"UndiDalamPeti" : 51577,
-		"PeratusUndi" : "81.8",
-		"Majoriti" : 21787
-	},
-	{
-		"KodParlimen" : "083",
-		"KodDun" : "08314",
-		"UndiDalamPeti" : 22326,
-		"PeratusUndi" : "72.5",
-		"Majoriti" : 8679
-	},
-	{
-		"KodParlimen" : "056",
-		"KodDun" : "05605",
-		"UndiDalamPeti" : 18020,
-		"PeratusUndi" : "80.8",
-		"Majoriti" : 5358
-	},
-	{
-		"KodParlimen" : "010",
-		"KodDun" : "01000",
-		"UndiDalamPeti" : 101286,
-		"PeratusUndi" : "76.6",
-		"Majoriti" : 28061
-	},
-	{
-		"KodParlimen" : "188",
-		"KodDun" : "18800",
-		"UndiDalamPeti" : 58973,
-		"PeratusUndi" : "59",
-		"Majoriti" : 4376
-	},
-	{
-		"KodParlimen" : "147",
-		"KodDun" : "14700",
-		"UndiDalamPeti" : 63453,
-		"PeratusUndi" : "80.1",
-		"Majoriti" : 2021
-	},
-	{
-		"KodParlimen" : "191",
-		"KodDun" : "19100",
-		"UndiDalamPeti" : 50545,
-		"PeratusUndi" : "60.5",
-		"Majoriti" : 9100
-	},
-	{
-		"KodParlimen" : "067",
-		"KodDun" : "06734",
-		"UndiDalamPeti" : 17255,
-		"PeratusUndi" : "77.9",
-		"Majoriti" : 1164
-	},
-	{
-		"KodParlimen" : "086",
-		"KodDun" : "08626",
-		"UndiDalamPeti" : 15800,
-		"PeratusUndi" : "81.6",
-		"Majoriti" : 2706
-	},
-	{
-		"KodParlimen" : "043",
-		"KodDun" : "04300",
-		"UndiDalamPeti" : 69392,
-		"PeratusUndi" : "77.7",
-		"Majoriti" : 49648
-	},
-	{
-		"KodParlimen" : "056",
-		"KodDun" : "05607",
-		"UndiDalamPeti" : 17628,
-		"PeratusUndi" : "80.3",
-		"Majoriti" : 3218
-	},
-	{
-		"KodParlimen" : "055",
-		"KodDun" : "05500",
-		"UndiDalamPeti" : 28122,
-		"PeratusUndi" : "76.3",
-		"Majoriti" : 879
-	},
-	{
-		"KodParlimen" : "211",
-		"KodDun" : "21100",
-		"UndiDalamPeti" : 53811,
-		"PeratusUndi" : "61.8",
-		"Majoriti" : 11544
-	},
-	{
-		"KodParlimen" : "123",
-		"KodDun" : "12300",
-		"UndiDalamPeti" : 72046,
-		"PeratusUndi" : "71.4",
-		"Majoriti" : 54448
-	},
-	{
-		"KodParlimen" : "077",
-		"KodDun" : "07759",
-		"UndiDalamPeti" : 30515,
-		"PeratusUndi" : "76.8",
-		"Majoriti" : 202
-	},
-	{
-		"KodParlimen" : "065",
-		"KodDun" : "06528",
-		"UndiDalamPeti" : 36699,
-		"PeratusUndi" : "69.7",
-		"Majoriti" : 26114
-	},
-	{
-		"KodParlimen" : "031",
-		"KodDun" : "03100",
-		"UndiDalamPeti" : 65477,
-		"PeratusUndi" : "71.1",
-		"Majoriti" : 25188
-	},
-	{
-		"KodParlimen" : "012",
-		"KodDun" : "01200",
-		"UndiDalamPeti" : 83130,
-		"PeratusUndi" : "79.3",
-		"Majoriti" : 33192
-	},
-	{
-		"KodParlimen" : "078",
-		"KodDun" : "07801",
-		"UndiDalamPeti" : 19019,
-		"PeratusUndi" : "71",
-		"Majoriti" : 2484
-	},
-	{
-		"KodParlimen" : "162",
-		"KodDun" : "16200",
-		"UndiDalamPeti" : 164995,
-		"PeratusUndi" : "74.4",
-		"Majoriti" : 60036
-	},
-	{
-		"KodParlimen" : "054",
-		"KodDun" : "05401",
-		"UndiDalamPeti" : 15216,
-		"PeratusUndi" : "75.7",
-		"Majoriti" : 1324
-	},
-	{
-		"KodParlimen" : "074",
-		"KodDun" : "07452",
-		"UndiDalamPeti" : 22420,
-		"PeratusUndi" : "74.4",
-		"Majoriti" : 1011
-	},
-	{
-		"KodParlimen" : "137",
-		"KodDun" : "13700",
-		"UndiDalamPeti" : 95223,
-		"PeratusUndi" : "80.7",
-		"Majoriti" : 8638
-	},
-	{
-		"KodParlimen" : "001",
-		"KodDun" : "00100",
-		"UndiDalamPeti" : 45982,
-		"PeratusUndi" : "76.5",
-		"Majoriti" : 12514
-	},
-	{
-		"KodParlimen" : "015",
-		"KodDun" : "01500",
-		"UndiDalamPeti" : 131191,
-		"PeratusUndi" : "77.8",
-		"Majoriti" : 1115
-	},
-	{
-		"KodParlimen" : "070",
-		"KodDun" : "07041",
-		"UndiDalamPeti" : 18826,
-		"PeratusUndi" : "63.6",
-		"Majoriti" : 7259
-	},
-	{
-		"KodParlimen" : "055",
-		"KodDun" : "05504",
-		"UndiDalamPeti" : 11494,
-		"PeratusUndi" : "75",
-		"Majoriti" : 1237
-	},
-	{
-		"KodParlimen" : "089",
-		"KodDun" : "08933",
-		"UndiDalamPeti" : 18663,
-		"PeratusUndi" : "77",
-		"Majoriti" : 3111
-	},
-	{
-		"KodParlimen" : "071",
-		"KodDun" : "07145",
-		"UndiDalamPeti" : 44862,
-		"PeratusUndi" : "71.6",
-		"Majoriti" : 23273
-	},
-	{
-		"KodParlimen" : "087",
-		"KodDun" : "08700",
-		"UndiDalamPeti" : 48348,
-		"PeratusUndi" : "80",
-		"Majoriti" : 1024
-	},
-	{
-		"KodParlimen" : "204",
-		"KodDun" : "20400",
-		"UndiDalamPeti" : 27141,
-		"PeratusUndi" : "65.3",
-		"Majoriti" : 11302
-	},
-	{
-		"KodParlimen" : "068",
-		"KodDun" : "06836",
-		"UndiDalamPeti" : 16677,
-		"PeratusUndi" : "74",
-		"Majoriti" : 1076
-	},
-	{
-		"KodParlimen" : "099",
-		"KodDun" : "09900",
-		"UndiDalamPeti" : 105264,
-		"PeratusUndi" : "79.1",
-		"Majoriti" : 29681
-	},
-	{
-		"KodParlimen" : "079",
-		"KodDun" : "07900",
-		"UndiDalamPeti" : 36243,
-		"PeratusUndi" : "77.1",
-		"Majoriti" : 6118
-	},
-	{
-		"KodParlimen" : "176",
-		"KodDun" : "17600",
-		"UndiDalamPeti" : 31412,
-		"PeratusUndi" : "77.3",
-		"Majoriti" : 3037
-	},
-	{
-		"KodParlimen" : "061",
-		"KodDun" : "06100",
-		"UndiDalamPeti" : 30248,
-		"PeratusUndi" : "78.4",
-		"Majoriti" : 3046
-	},
-	{
-		"KodParlimen" : "002",
-		"KodDun" : "00209",
-		"UndiDalamPeti" : 10806,
-		"PeratusUndi" : "73.5",
-		"Majoriti" : 154
-	},
-	{
-		"KodParlimen" : "057",
-		"KodDun" : "05700",
-		"UndiDalamPeti" : 53495,
-		"PeratusUndi" : "78.2",
-		"Majoriti" : 5395
-	},
-	{
-		"KodParlimen" : "067",
-		"KodDun" : "06735",
-		"UndiDalamPeti" : 18891,
-		"PeratusUndi" : "76.4",
-		"Majoriti" : 2912
-	},
-	{
-		"KodParlimen" : "219",
-		"KodDun" : "21900",
-		"UndiDalamPeti" : 78768,
-		"PeratusUndi" : "55.2",
-		"Majoriti" : 6159
-	},
-	{
-		"KodParlimen" : "091",
-		"KodDun" : "09140",
-		"UndiDalamPeti" : 23984,
-		"PeratusUndi" : "77.5",
-		"Majoriti" : 2456
-	},
-	{
-		"KodParlimen" : "205",
-		"KodDun" : "20500",
-		"UndiDalamPeti" : 31217,
-		"PeratusUndi" : "70.3",
-		"Majoriti" : 8826
-	},
-	{
-		"KodParlimen" : "003",
-		"KodDun" : "00312",
-		"UndiDalamPeti" : 10388,
-		"PeratusUndi" : "78.1",
-		"Majoriti" : 2485
-	},
-	{
-		"KodParlimen" : "072",
-		"KodDun" : "07247",
-		"UndiDalamPeti" : 21593,
-		"PeratusUndi" : "72.1",
-		"Majoriti" : 2251
-	},
-	{
-		"KodParlimen" : "132",
-		"KodDun" : "13200",
-		"UndiDalamPeti" : 81274,
-		"PeratusUndi" : "78",
-		"Majoriti" : 23601
-	},
-	{
-		"KodParlimen" : "091",
-		"KodDun" : "09100",
-		"UndiDalamPeti" : 68056,
-		"PeratusUndi" : "76.6",
-		"Majoriti" : 1438
-	},
-	{
-		"KodParlimen" : "197",
-		"KodDun" : "19700",
-		"UndiDalamPeti" : 56003,
-		"PeratusUndi" : "68.4",
-		"Majoriti" : 29445
-	},
-	{
-		"KodParlimen" : "113",
-		"KodDun" : "11300",
-		"UndiDalamPeti" : 139378,
-		"PeratusUndi" : "83.1",
-		"Majoriti" : 8949
-	},
-	{
-		"KodParlimen" : "016",
-		"KodDun" : "01600",
-		"UndiDalamPeti" : 110205,
-		"PeratusUndi" : "83.5",
-		"Majoriti" : 29137
-	},
-	{
-		"KodParlimen" : "195",
-		"KodDun" : "19500",
-		"UndiDalamPeti" : 63876,
-		"PeratusUndi" : "58.4",
-		"Majoriti" : 28891
-	},
-	{
-		"KodParlimen" : "073",
-		"KodDun" : "07349",
-		"UndiDalamPeti" : 26873,
-		"PeratusUndi" : "76",
-		"Majoriti" : 3950
-	},
-	{
-		"KodParlimen" : "103",
-		"KodDun" : "10300",
-		"UndiDalamPeti" : 122171,
-		"PeratusUndi" : "80.1",
-		"Majoriti" : 57957
-	},
-	{
-		"KodParlimen" : "058",
-		"KodDun" : "05810",
-		"UndiDalamPeti" : 22571,
-		"PeratusUndi" : "78.8",
-		"Majoriti" : 4015
-	},
-	{
-		"KodParlimen" : "076",
-		"KodDun" : "07600",
-		"UndiDalamPeti" : 64910,
-		"PeratusUndi" : "74.7",
-		"Majoriti" : 15169
-	},
-	{
-		"KodParlimen" : "059",
-		"KodDun" : "05900",
-		"UndiDalamPeti" : 72600,
-		"PeratusUndi" : "77.2",
-		"Majoriti" : 12756
-	},
-	{
-		"KodParlimen" : "003",
-		"KodDun" : "00311",
-		"UndiDalamPeti" : 11314,
-		"PeratusUndi" : "76.6",
-		"Majoriti" : 2229
-	},
-	{
-		"KodParlimen" : "097",
-		"KodDun" : "09700",
-		"UndiDalamPeti" : 146069,
-		"PeratusUndi" : "80.6",
-		"Majoriti" : 23619
-	},
-	{
-		"KodParlimen" : "059",
-		"KodDun" : "05915",
-		"UndiDalamPeti" : 13148,
-		"PeratusUndi" : "77.3",
-		"Majoriti" : 616
-	},
-	{
-		"KodParlimen" : "044",
-		"KodDun" : "04400",
-		"UndiDalamPeti" : 88096,
-		"PeratusUndi" : "82.3",
-		"Majoriti" : 5272
-	},
-	{
-		"KodParlimen" : "026",
-		"KodDun" : "02600",
-		"UndiDalamPeti" : 63762,
-		"PeratusUndi" : "75.1",
-		"Majoriti" : 23107
-	},
-	{
-		"KodParlimen" : "178",
-		"KodDun" : "17800",
-		"UndiDalamPeti" : 29708,
-		"PeratusUndi" : "65",
-		"Majoriti" : 4691
-	},
-	{
-		"KodParlimen" : "063",
-		"KodDun" : "06324",
-		"UndiDalamPeti" : 57784,
-		"PeratusUndi" : "78",
-		"Majoriti" : 4163
-	},
-	{
-		"KodParlimen" : "153",
-		"KodDun" : "15300",
-		"UndiDalamPeti" : 41320,
-		"PeratusUndi" : "75.4",
-		"Majoriti" : 10880
-	},
-	{
-		"KodParlimen" : "085",
-		"KodDun" : "08500",
-		"UndiDalamPeti" : 94391,
-		"PeratusUndi" : "79.2",
-		"Majoriti" : 8949
-	},
-	{
-		"KodParlimen" : "116",
-		"KodDun" : "11600",
-		"UndiDalamPeti" : 93238,
-		"PeratusUndi" : "77.7",
-		"Majoriti" : 20696
-	},
-	{
-		"KodParlimen" : "002",
-		"KodDun" : "00208",
-		"UndiDalamPeti" : 10534,
-		"PeratusUndi" : "72.9",
-		"Majoriti" : 1873
-	},
-	{
-		"KodParlimen" : "023",
-		"KodDun" : "02300",
-		"UndiDalamPeti" : 61195,
-		"PeratusUndi" : "65.9",
-		"Majoriti" : 20636
-	},
-	{
-		"KodParlimen" : "075",
-		"KodDun" : "07500",
-		"UndiDalamPeti" : 42604,
-		"PeratusUndi" : "73.4",
-		"Majoriti" : 348
-	},
-	{
-		"KodParlimen" : "156",
-		"KodDun" : "15600",
-		"UndiDalamPeti" : 47651,
-		"PeratusUndi" : "78.5",
-		"Majoriti" : 8390
-	},
-	{
-		"KodParlimen" : "001",
-		"KodDun" : "00102",
-		"UndiDalamPeti" : 8921,
-		"PeratusUndi" : "73.7",
-		"Majoriti" : 1047
-	},
-	{
-		"KodParlimen" : "146",
-		"KodDun" : "14600",
-		"UndiDalamPeti" : 53532,
-		"PeratusUndi" : "77.9",
-		"Majoriti" : 1345
-	},
-	{
-		"KodParlimen" : "028",
-		"KodDun" : "02800",
-		"UndiDalamPeti" : 81991,
-		"PeratusUndi" : "72.7",
-		"Majoriti" : 29109
-	},
-	{
-		"KodParlimen" : "198",
-		"KodDun" : "19800",
-		"UndiDalamPeti" : 51794,
-		"PeratusUndi" : "65.1",
-		"Majoriti" : 13338
-	},
-	{
-		"KodParlimen" : "069",
-		"KodDun" : "06940",
-		"UndiDalamPeti" : 24293,
-		"PeratusUndi" : "80.8",
-		"Majoriti" : 1963
-	},
-	{
-		"KodParlimen" : "129",
-		"KodDun" : "12900",
-		"UndiDalamPeti" : 49151,
-		"PeratusUndi" : "78.1",
-		"Majoriti" : 6483
-	},
-	{
-		"KodParlimen" : "003",
-		"KodDun" : "00313",
-		"UndiDalamPeti" : 9193,
-		"PeratusUndi" : "80",
-		"Majoriti" : 5101
-	},
-	{
-		"KodParlimen" : "056",
-		"KodDun" : "05606",
-		"UndiDalamPeti" : 16961,
-		"PeratusUndi" : "79.6",
-		"Majoriti" : 4322
-	},
-	{
-		"KodParlimen" : "089",
-		"KodDun" : "08936",
-		"UndiDalamPeti" : 12828,
-		"PeratusUndi" : "78.5",
-		"Majoriti" : 4048
-	},
-	{
-		"KodParlimen" : "079",
-		"KodDun" : "07905",
-		"UndiDalamPeti" : 8263,
-		"PeratusUndi" : "76",
-		"Majoriti" : 1521
-	},
-	{
-		"KodParlimen" : "077",
-		"KodDun" : "07758",
-		"UndiDalamPeti" : 23818,
-		"PeratusUndi" : "78",
-		"Majoriti" : 416
-	},
-	{
-		"KodParlimen" : "096",
-		"KodDun" : "09600",
-		"UndiDalamPeti" : 87553,
-		"PeratusUndi" : "85.2",
-		"Majoriti" : 1002
-	},
-	{
-		"KodParlimen" : "025",
-		"KodDun" : "02500",
-		"UndiDalamPeti" : 90956,
-		"PeratusUndi" : "74.1",
-		"Majoriti" : 29901
-	},
-	{
-		"KodParlimen" : "083",
-		"KodDun" : "08315",
-		"UndiDalamPeti" : 30678,
-		"PeratusUndi" : "80.5",
-		"Majoriti" : 8989
-	},
-	{
-		"KodParlimen" : "186",
-		"KodDun" : "18600",
-		"UndiDalamPeti" : 31399,
-		"PeratusUndi" : "56.8",
-		"Majoriti" : 11031
-	},
-	{
-		"KodParlimen" : "184",
-		"KodDun" : "18400",
-		"UndiDalamPeti" : 45438,
-		"PeratusUndi" : "63.1",
-		"Majoriti" : 12618
-	},
-	{
-		"KodParlimen" : "068",
-		"KodDun" : "06838",
-		"UndiDalamPeti" : 27370,
-		"PeratusUndi" : "66.6",
-		"Majoriti" : 17835
-	},
-	{
-		"KodParlimen" : "180",
-		"KodDun" : "18000",
-		"UndiDalamPeti" : 55296,
-		"PeratusUndi" : "63.4",
-		"Majoriti" : 8056
-	},
-	{
-		"KodParlimen" : "215",
-		"KodDun" : "21500",
-		"UndiDalamPeti" : 22381,
-		"PeratusUndi" : "49.9",
-		"Majoriti" : 12402
-	},
-	{
-		"KodParlimen" : "168",
-		"KodDun" : "16800",
-		"UndiDalamPeti" : 50701,
-		"PeratusUndi" : "63.0",
-		"Majoriti" : 8174
-	},
-	{
-		"KodParlimen" : "192",
-		"KodDun" : "19200",
-		"UndiDalamPeti" : 31798,
-		"PeratusUndi" : "67.6",
-		"Majoriti" : 5480
-	},
-	{
-		"KodParlimen" : "067",
-		"KodDun" : "06700",
-		"UndiDalamPeti" : 36196,
-		"PeratusUndi" : "77.1",
-		"Majoriti" : 3566
-	},
-	{
-		"KodParlimen" : "060",
-		"KodDun" : "06000",
-		"UndiDalamPeti" : 85890,
-		"PeratusUndi" : "70.9",
-		"Majoriti" : 25529
-	},
-	{
-		"KodParlimen" : "086",
-		"KodDun" : "08600",
-		"UndiDalamPeti" : 41514,
-		"PeratusUndi" : "78.4",
-		"Majoriti" : 1821
-	},
-	{
-		"KodParlimen" : "060",
-		"KodDun" : "06017",
-		"UndiDalamPeti" : 25026,
-		"PeratusUndi" : "68.7",
-		"Majoriti" : 12180
-	},
-	{
-		"KodParlimen" : "138",
-		"KodDun" : "13800",
-		"UndiDalamPeti" : 124519,
-		"PeratusUndi" : "76",
-		"Majoriti" : 46420
-	},
-	{
-		"KodParlimen" : "021",
-		"KodDun" : "02100",
-		"UndiDalamPeti" : 78740,
-		"PeratusUndi" : "68.5",
-		"Majoriti" : 22613
-	},
-	{
-		"KodParlimen" : "216",
-		"KodDun" : "21600",
-		"UndiDalamPeti" : 23718,
-		"PeratusUndi" : "54.8",
-		"Majoriti" : 7505
-	},
-	{
-		"KodParlimen" : "081",
-		"KodDun" : "08100",
-		"UndiDalamPeti" : 67592,
-		"PeratusUndi" : "77.9",
-		"Majoriti" : 8092
-	},
-	{
-		"KodParlimen" : "163",
-		"KodDun" : "16300",
-		"UndiDalamPeti" : 116110,
-		"PeratusUndi" : "76.9",
-		"Majoriti" : 36023
-	},
-	{
-		"KodParlimen" : "001",
-		"KodDun" : "00104",
-		"UndiDalamPeti" : 7732,
-		"PeratusUndi" : "80.2",
-		"Majoriti" : 2021
-	},
-	{
-		"KodParlimen" : "085",
-		"KodDun" : "08523",
-		"UndiDalamPeti" : 20204,
-		"PeratusUndi" : "77.5",
-		"Majoriti" : 2125
-	},
-	{
-		"KodParlimen" : "201",
-		"KodDun" : "20100",
-		"UndiDalamPeti" : 28017,
-		"PeratusUndi" : "65.3",
-		"Majoriti" : 14463
-	},
-	{
-		"KodParlimen" : "040",
-		"KodDun" : "04000",
-		"UndiDalamPeti" : 114383,
-		"PeratusUndi" : "82.1",
-		"Majoriti" : 27179
-	},
-	{
-		"KodParlimen" : "059",
-		"KodDun" : "05913",
-		"UndiDalamPeti" : 30923,
-		"PeratusUndi" : "77",
-		"Majoriti" : 3580
-	},
-	{
-		"KodParlimen" : "142",
-		"KodDun" : "14200",
-		"UndiDalamPeti" : 35179,
-		"PeratusUndi" : "70.8",
-		"Majoriti" : 2833
-	},
-	{
-		"KodParlimen" : "087",
-		"KodDun" : "08729",
-		"UndiDalamPeti" : 25038,
-		"PeratusUndi" : "80.1",
-		"Majoriti" : 6904
-	},
-	{
-		"KodParlimen" : "059",
-		"KodDun" : "05914",
-		"UndiDalamPeti" : 28533,
-		"PeratusUndi" : "77.3",
-		"Majoriti" : 3151
-	},
-	{
-		"KodParlimen" : "071",
-		"KodDun" : "07100",
-		"UndiDalamPeti" : 104730,
-		"PeratusUndi" : "73.1",
-		"Majoriti" : 27148
-	},
-	{
-		"KodParlimen" : "050",
-		"KodDun" : "05000",
-		"UndiDalamPeti" : 71565,
-		"PeratusUndi" : "76.3",
-		"Majoriti" : 38604
-	},
-	{
-		"KodParlimen" : "090",
-		"KodDun" : "09037",
-		"UndiDalamPeti" : 19306,
-		"PeratusUndi" : "79.5",
-		"Majoriti" : 2678
-	},
-	{
-		"KodParlimen" : "083",
-		"KodDun" : "08316",
-		"UndiDalamPeti" : 15389,
-		"PeratusUndi" : "83",
-		"Majoriti" : 922
-	},
-	{
-		"KodParlimen" : "177",
-		"KodDun" : "17700",
-		"UndiDalamPeti" : 29850,
-		"PeratusUndi" : "69.2",
-		"Majoriti" : 2518
-	},
-	{
-		"KodParlimen" : "001",
-		"KodDun" : "00105",
-		"UndiDalamPeti" : 8498,
-		"PeratusUndi" : "79.2",
-		"Majoriti" : 2108
-	},
-	{
-		"KodParlimen" : "080",
-		"KodDun" : "08000",
-		"UndiDalamPeti" : 56968,
-		"PeratusUndi" : "76.1",
-		"Majoriti" : 4357
-	},
-	{
-		"KodParlimen" : "220",
-		"KodDun" : "22000",
-		"UndiDalamPeti" : 30115,
-		"PeratusUndi" : "50.8",
-		"Majoriti" : 7339
-	},
-	{
-		"KodParlimen" : "159",
-		"KodDun" : "15900",
-		"UndiDalamPeti" : 150578,
-		"PeratusUndi" : "76",
-		"Majoriti" : 31558
-	},
-	{
-		"KodParlimen" : "079",
-		"KodDun" : "07903",
-		"UndiDalamPeti" : 15450,
-		"PeratusUndi" : "79.9",
-		"Majoriti" : 507
-	},
-	{
-		"KodParlimen" : "068",
-		"KodDun" : "06837",
-		"UndiDalamPeti" : 29256,
-		"PeratusUndi" : "66",
-		"Majoriti" : 16432
-	},
-	{
-		"KodParlimen" : "065",
-		"KodDun" : "06530",
-		"UndiDalamPeti" : 25761,
-		"PeratusUndi" : "70.3",
-		"Majoriti" : 19155
-	},
-	{
-		"KodParlimen" : "196",
-		"KodDun" : "19600",
-		"UndiDalamPeti" : 74299,
-		"PeratusUndi" : "61.6",
-		"Majoriti" : 7158
-	},
-	{
-		"KodParlimen" : "078",
-		"KodDun" : "07800",
-		"UndiDalamPeti" : 34115,
-		"PeratusUndi" : "74.3",
-		"Majoriti" : 4544
-	},
-	{
-		"KodParlimen" : "217",
-		"KodDun" : "21700",
-		"UndiDalamPeti" : 71152,
-		"PeratusUndi" : "62.7",
-		"Majoriti" : 22168
-	},
-	{
-		"KodParlimen" : "102",
-		"KodDun" : "10200",
-		"UndiDalamPeti" : 246221,
-		"PeratusUndi" : "81.3",
-		"Majoriti" : 69701
-	},
-	{
-		"KodParlimen" : "041",
-		"KodDun" : "04100",
-		"UndiDalamPeti" : 70016,
-		"PeratusUndi" : "84.4",
-		"Majoriti" : 2867
-	},
-	{
-		"KodParlimen" : "063",
-		"KodDun" : "06323",
-		"UndiDalamPeti" : 68394,
-		"PeratusUndi" : "79.5",
-		"Majoriti" : 6768
-	},
-	{
-		"KodParlimen" : "117",
-		"KodDun" : "11700",
-		"UndiDalamPeti" : 85885,
-		"PeratusUndi" : "72.1",
-		"Majoriti" : 59684
-	},
-	{
-		"KodParlimen" : "086",
-		"KodDun" : "08624",
-		"UndiDalamPeti" : 12561,
-		"PeratusUndi" : "77.4",
-		"Majoriti" : 1166
-	},
-	{
-		"KodParlimen" : "057",
-		"KodDun" : "05709",
-		"UndiDalamPeti" : 24822,
-		"PeratusUndi" : "76.3",
-		"Majoriti" : 1347
-	},
-	{
-		"KodParlimen" : "120",
-		"KodDun" : "12000",
-		"UndiDalamPeti" : 53154,
-		"PeratusUndi" : "66.7",
-		"Majoriti" : 38977
-	},
-	{
-		"KodParlimen" : "011",
-		"KodDun" : "01100",
-		"UndiDalamPeti" : 76244,
-		"PeratusUndi" : "80.8",
-		"Majoriti" : 31289
-	},
-	{
-		"KodParlimen" : "055",
-		"KodDun" : "05503",
-		"UndiDalamPeti" : 16635,
-		"PeratusUndi" : "77.2",
-		"Majoriti" : 763
-	},
-	{
-		"KodParlimen" : "126",
-		"KodDun" : "12600",
-		"UndiDalamPeti" : 45907,
-		"PeratusUndi" : "77.2",
-		"Majoriti" : 8125
-	},
-	{
-		"KodParlimen" : "069",
-		"KodDun" : "06939",
-		"UndiDalamPeti" : 13780,
-		"PeratusUndi" : "77.8",
-		"Majoriti" : 1223
-	},
-	{
-		"KodParlimen" : "110",
-		"KodDun" : "11000",
-		"UndiDalamPeti" : 165279,
-		"PeratusUndi" : "79.2",
-		"Majoriti" : 91801
-	},
-	{
-		"KodParlimen" : "165",
-		"KodDun" : "16500",
-		"UndiDalamPeti" : 54983,
-		"PeratusUndi" : "78",
-		"Majoriti" : 6360
-	},
-	{
-		"KodParlimen" : "061",
-		"KodDun" : "06119",
-		"UndiDalamPeti" : 13682,
-		"PeratusUndi" : "77.1",
-		"Majoriti" : 75
-	},
-	{
-		"KodParlimen" : "070",
-		"KodDun" : "07043",
-		"UndiDalamPeti" : 23610,
-		"PeratusUndi" : "74.1",
-		"Majoriti" : 253
-	},
-	{
-		"KodParlimen" : "074",
-		"KodDun" : "07400",
-		"UndiDalamPeti" : 72152,
-		"PeratusUndi" : "78.2",
-		"Majoriti" : 363
-	},
-	{
-		"KodParlimen" : "135",
-		"KodDun" : "13500",
-		"UndiDalamPeti" : 73726,
-		"PeratusUndi" : "79.2",
-		"Majoriti" : 890
-	},
-	{
-		"KodParlimen" : "020",
-		"KodDun" : "02000",
-		"UndiDalamPeti" : 78391,
-		"PeratusUndi" : "73.5",
-		"Majoriti" : 38270
-	},
-	{
-		"KodParlimen" : "127",
-		"KodDun" : "12700",
-		"UndiDalamPeti" : 72629,
-		"PeratusUndi" : "76",
-		"Majoriti" : 5857
-	},
-	{
-		"KodParlimen" : "141",
-		"KodDun" : "14100",
-		"UndiDalamPeti" : 48712,
-		"PeratusUndi" : "76.4",
-		"Majoriti" : 1734
-	},
-	{
-		"KodParlimen" : "104",
-		"KodDun" : "10400",
-		"UndiDalamPeti" : 178921,
-		"PeratusUndi" : "77.8",
-		"Majoriti" : 115074
-	},
-	{
-		"KodParlimen" : "002",
-		"KodDun" : "00210",
-		"UndiDalamPeti" : 10722,
-		"PeratusUndi" : "79.9",
-		"Majoriti" : 3261
-	},
-	{
-		"KodParlimen" : "094",
-		"KodDun" : "09400",
-		"UndiDalamPeti" : 123866,
-		"PeratusUndi" : "80.4",
-		"Majoriti" : 1562
-	},
-	{
-		"KodParlimen" : "221",
-		"KodDun" : "22100",
-		"UndiDalamPeti" : 20024,
-		"PeratusUndi" : "47.9",
-		"Majoriti" : 9998
-	},
-	{
-		"KodParlimen" : "140",
-		"KodDun" : "14000",
-		"UndiDalamPeti" : 51238,
-		"PeratusUndi" : "74.1",
-		"Majoriti" : 5669
-	},
-	{
-		"KodParlimen" : "171",
-		"KodDun" : "17100",
-		"UndiDalamPeti" : 71279,
-		"PeratusUndi" : "66.1",
-		"Majoriti" : 7042
-	},
-	{
-		"KodParlimen" : "085",
-		"KodDun" : "08521",
-		"UndiDalamPeti" : 33854,
-		"PeratusUndi" : "81",
-		"Majoriti" : 7823
-	},
-	{
-		"KodParlimen" : "183",
-		"KodDun" : "18300",
-		"UndiDalamPeti" : 29868,
-		"PeratusUndi" : "67",
-		"Majoriti" : 1594
-	},
-	{
-		"KodParlimen" : "035",
-		"KodDun" : "03500",
-		"UndiDalamPeti" : 88364,
-		"PeratusUndi" : "83.6",
-		"Majoriti" : 29765
-	},
-	{
-		"KodParlimen" : "174",
-		"KodDun" : "17400",
-		"UndiDalamPeti" : 51175,
-		"PeratusUndi" : "66.4",
-		"Majoriti" : 14410
-	},
-	{
-		"KodParlimen" : "036",
-		"KodDun" : "03600",
-		"UndiDalamPeti" : 97319,
-		"PeratusUndi" : "79.2",
-		"Majoriti" : 40907
-	},
-	{
-		"KodParlimen" : "045",
-		"KodDun" : "04500",
-		"UndiDalamPeti" : 93512,
-		"PeratusUndi" : "77.5",
-		"Majoriti" : 57685
-	},
-	{
-		"KodParlimen" : "170",
-		"KodDun" : "17000",
-		"UndiDalamPeti" : 58973,
-		"PeratusUndi" : "70.9",
-		"Majoriti" : 233
-	},
-	{
-		"KodParlimen" : "109",
-		"KodDun" : "10900",
-		"UndiDalamPeti" : 159494,
-		"PeratusUndi" : "84.3",
-		"Majoriti" : 11782
-	},
-	{
-		"KodParlimen" : "082",
-		"KodDun" : "08213",
-		"UndiDalamPeti" : 47647,
-		"PeratusUndi" : "78",
-		"Majoriti" : 1804
-	},
-	{
-		"KodParlimen" : "169",
-		"KodDun" : "16900",
-		"UndiDalamPeti" : 54786,
-		"PeratusUndi" : "69.2",
-		"Majoriti" : 4582
+		"Majoriti" : 7136,
+		"MasaSah" : "2022-11-19T20:24:00.713Z"
 	},
 	{
 		"KodParlimen" : "071",
 		"KodDun" : "07144",
 		"UndiDalamPeti" : 36484,
 		"PeratusUndi" : "76.1",
-		"Majoriti" : 3494
-	},
-	{
-		"KodParlimen" : "155",
-		"KodDun" : "15500",
-		"UndiDalamPeti" : 51796,
-		"PeratusUndi" : "77.3",
-		"Majoriti" : 2991
-	},
-	{
-		"KodParlimen" : "063",
-		"KodDun" : "06300",
-		"UndiDalamPeti" : 126138,
-		"PeratusUndi" : "78.8",
-		"Majoriti" : 3736
+		"Majoriti" : 3494,
+		"MasaSah" : "2022-11-19T20:19:59.780Z"
 	},
 	{
 		"KodParlimen" : "084",
-		"KodDun" : "08400",
-		"UndiDalamPeti" : 62661,
-		"PeratusUndi" : "78.7",
-		"Majoriti" : 1317
-	},
-	{
-		"KodParlimen" : "001",
-		"KodDun" : "00101",
-		"UndiDalamPeti" : 9732,
-		"PeratusUndi" : "72.7",
-		"Majoriti" : 3785
-	},
-	{
-		"KodParlimen" : "049",
-		"KodDun" : "04900",
-		"UndiDalamPeti" : 38069,
-		"PeratusUndi" : "72.2",
-		"Majoriti" : 28754
-	},
-	{
-		"KodParlimen" : "007",
-		"KodDun" : "00700",
-		"UndiDalamPeti" : 49261,
-		"PeratusUndi" : "82.5",
-		"Majoriti" : 10959
-	},
-	{
-		"KodParlimen" : "056",
-		"KodDun" : "05600",
-		"UndiDalamPeti" : 52610,
-		"PeratusUndi" : "80.3",
-		"Majoriti" : 11598
-	},
-	{
-		"KodParlimen" : "212",
-		"KodDun" : "21200",
-		"UndiDalamPeti" : 67172,
-		"PeratusUndi" : "63.7",
-		"Majoriti" : 7760
-	},
-	{
-		"KodParlimen" : "098",
-		"KodDun" : "09800",
-		"UndiDalamPeti" : 166548,
-		"PeratusUndi" : "80.8",
-		"Majoriti" : 12729
-	},
-	{
-		"KodParlimen" : "139",
-		"KodDun" : "13900",
-		"UndiDalamPeti" : 78151,
-		"PeratusUndi" : "81.4",
-		"Majoriti" : 322
-	},
-	{
-		"KodParlimen" : "054",
-		"KodDun" : "05400",
-		"UndiDalamPeti" : 35282,
-		"PeratusUndi" : "74.3",
-		"Majoriti" : 1377
-	},
-	{
-		"KodParlimen" : "038",
-		"KodDun" : "03800",
-		"UndiDalamPeti" : 72801,
-		"PeratusUndi" : "83",
-		"Majoriti" : 15734
-	},
-	{
-		"KodParlimen" : "149",
-		"KodDun" : "14900",
-		"UndiDalamPeti" : 61900,
-		"PeratusUndi" : "79",
-		"Majoriti" : 4000
-	},
-	{
-		"KodParlimen" : "060",
-		"KodDun" : "06018",
-		"UndiDalamPeti" : 30926,
-		"PeratusUndi" : "68.6",
-		"Majoriti" : 14857
-	},
-	{
-		"KodParlimen" : "164",
-		"KodDun" : "16400",
-		"UndiDalamPeti" : 57471,
-		"PeratusUndi" : "77",
-		"Majoriti" : 5758
-	},
-	{
-		"KodParlimen" : "112",
-		"KodDun" : "11200",
-		"UndiDalamPeti" : 125296,
-		"PeratusUndi" : "84.4",
-		"Majoriti" : 1833
-	},
-	{
-		"KodParlimen" : "086",
-		"KodDun" : "08625",
-		"UndiDalamPeti" : 13195,
-		"PeratusUndi" : "75.9",
-		"Majoriti" : 241
-	},
-	{
-		"KodParlimen" : "166",
-		"KodDun" : "16600",
-		"UndiDalamPeti" : 28695,
-		"PeratusUndi" : "64.7",
-		"Majoriti" : 708
-	},
-	{
-		"KodParlimen" : "148",
-		"KodDun" : "14800",
-		"UndiDalamPeti" : 47053,
-		"PeratusUndi" : "77.3",
-		"Majoriti" : 2963
-	},
-	{
-		"KodParlimen" : "046",
-		"KodDun" : "04600",
-		"UndiDalamPeti" : 69670,
-		"PeratusUndi" : "78.5",
-		"Majoriti" : 40400
-	},
-	{
-		"KodParlimen" : "009",
-		"KodDun" : "00900",
-		"UndiDalamPeti" : 77760,
-		"PeratusUndi" : "73.6",
-		"Majoriti" : 9931
-	},
-	{
-		"KodParlimen" : "058",
-		"KodDun" : "05800",
-		"UndiDalamPeti" : 63428,
-		"PeratusUndi" : "79.1",
-		"Majoriti" : 18551
-	},
-	{
-		"KodParlimen" : "070",
-		"KodDun" : "07000",
-		"UndiDalamPeti" : 60238,
-		"PeratusUndi" : "67.2",
-		"Majoriti" : 14330
-	},
-	{
-		"KodParlimen" : "185",
-		"KodDun" : "18500",
-		"UndiDalamPeti" : 27516,
-		"PeratusUndi" : "62.9",
-		"Majoriti" : 4821
-	},
-	{
-		"KodParlimen" : "030",
-		"KodDun" : "03000",
-		"UndiDalamPeti" : 43588,
-		"PeratusUndi" : "73.1",
-		"Majoriti" : 12464
-	},
-	{
-		"KodParlimen" : "114",
-		"KodDun" : "11400",
-		"UndiDalamPeti" : 72587,
-		"PeratusUndi" : "77.2",
-		"Majoriti" : 61081
-	},
-	{
-		"KodParlimen" : "073",
-		"KodDun" : "07350",
-		"UndiDalamPeti" : 31095,
-		"PeratusUndi" : "79.6",
-		"Majoriti" : 3757
-	},
-	{
-		"KodParlimen" : "087",
-		"KodDun" : "08727",
-		"UndiDalamPeti" : 11042,
-		"PeratusUndi" : "79",
-		"Majoriti" : 1454
-	},
-	{
-		"KodParlimen" : "018",
-		"KodDun" : "01800",
-		"UndiDalamPeti" : 71267,
-		"PeratusUndi" : "79.4",
-		"Majoriti" : 13061
-	},
-	{
-		"KodParlimen" : "079",
-		"KodDun" : "07904",
-		"UndiDalamPeti" : 12524,
-		"PeratusUndi" : "74.7",
-		"Majoriti" : 1223
+		"KodDun" : "08418",
+		"UndiDalamPeti" : 19978,
+		"PeratusUndi" : "77.8",
+		"Majoriti" : 419,
+		"MasaSah" : "2022-11-19T20:19:11.287Z"
 	},
 	{
 		"KodParlimen" : "075",
 		"KodDun" : "07554",
 		"UndiDalamPeti" : 28179,
 		"PeratusUndi" : "73.4",
-		"Majoriti" : 1130
+		"Majoriti" : 1130,
+		"MasaSah" : "2022-11-19T20:17:53.880Z"
 	},
 	{
-		"KodParlimen" : "182",
-		"KodDun" : "18200",
-		"UndiDalamPeti" : 37493,
-		"PeratusUndi" : "67.5",
-		"Majoriti" : 5412
+		"KodParlimen" : "071",
+		"KodDun" : "07145",
+		"UndiDalamPeti" : 44862,
+		"PeratusUndi" : "71.6",
+		"Majoriti" : 23273,
+		"MasaSah" : "2022-11-19T20:16:25.900Z"
 	},
 	{
-		"KodParlimen" : "062",
-		"KodDun" : "06221",
-		"UndiDalamPeti" : 25300,
-		"PeratusUndi" : "76.5",
-		"Majoriti" : 5280
+		"KodParlimen" : "071",
+		"KodDun" : "07100",
+		"UndiDalamPeti" : 104730,
+		"PeratusUndi" : "73.1",
+		"Majoriti" : 27148,
+		"MasaSah" : "2022-11-19T20:15:32.927Z"
 	},
 	{
-		"KodParlimen" : "088",
-		"KodDun" : "08831",
-		"UndiDalamPeti" : 25329,
-		"PeratusUndi" : "77.5",
-		"Majoriti" : 451
-	},
-	{
-		"KodParlimen" : "144",
-		"KodDun" : "14400",
-		"UndiDalamPeti" : 81145,
+		"KodParlimen" : "084",
+		"KodDun" : "08417",
+		"UndiDalamPeti" : 14866,
 		"PeratusUndi" : "77.8",
-		"Majoriti" : 9769
+		"Majoriti" : 1054,
+		"MasaSah" : "2022-11-19T20:14:27.013Z"
 	},
 	{
-		"KodParlimen" : "034",
-		"KodDun" : "03400",
-		"UndiDalamPeti" : 85876,
-		"PeratusUndi" : "80.2",
-		"Majoriti" : 19032
+		"KodParlimen" : "068",
+		"KodDun" : "06836",
+		"UndiDalamPeti" : 16677,
+		"PeratusUndi" : "74",
+		"Majoriti" : 1076,
+		"MasaSah" : "2022-11-19T19:56:24.043Z"
 	},
 	{
-		"KodParlimen" : "093",
-		"KodDun" : "09300",
-		"UndiDalamPeti" : 51511,
-		"PeratusUndi" : "80.1",
-		"Majoriti" : 2721
+		"KodParlimen" : "117",
+		"KodDun" : "11700",
+		"UndiDalamPeti" : 85885,
+		"PeratusUndi" : "72.1",
+		"Majoriti" : 59684,
+		"MasaSah" : "2022-11-19T19:53:14.583Z"
 	},
 	{
-		"KodParlimen" : "210",
-		"KodDun" : "21000",
-		"UndiDalamPeti" : 18349,
-		"PeratusUndi" : "59.4",
-		"Majoriti" : 236
+		"KodParlimen" : "116",
+		"KodDun" : "11600",
+		"UndiDalamPeti" : 93238,
+		"PeratusUndi" : "77.7",
+		"Majoriti" : 20696,
+		"MasaSah" : "2022-11-19T19:49:05.120Z"
 	},
 	{
-		"KodParlimen" : "082",
-		"KodDun" : "08200",
-		"UndiDalamPeti" : 94162,
-		"PeratusUndi" : "78.3",
-		"Majoriti" : 8399
+		"KodParlimen" : "089",
+		"KodDun" : "08934",
+		"UndiDalamPeti" : 23856,
+		"PeratusUndi" : "77.7",
+		"Majoriti" : 120,
+		"MasaSah" : "2022-11-19T19:41:54.237Z"
+	},
+	{
+		"KodParlimen" : "075",
+		"KodDun" : "07500",
+		"UndiDalamPeti" : 42604,
+		"PeratusUndi" : "73.4",
+		"Majoriti" : 348,
+		"MasaSah" : "2022-11-19T19:40:25.977Z"
+	},
+	{
+		"KodParlimen" : "069",
+		"KodDun" : "06940",
+		"UndiDalamPeti" : 24293,
+		"PeratusUndi" : "80.8",
+		"Majoriti" : 1963,
+		"MasaSah" : "2022-11-19T19:38:08.997Z"
+	},
+	{
+		"KodParlimen" : "089",
+		"KodDun" : "08935",
+		"UndiDalamPeti" : 11981,
+		"PeratusUndi" : "76.7",
+		"Majoriti" : 96,
+		"MasaSah" : "2022-11-19T19:37:44.573Z"
 	},
 	{
 		"KodParlimen" : "068",
 		"KodDun" : "06800",
 		"UndiDalamPeti" : 73297,
 		"PeratusUndi" : "67.9",
-		"Majoriti" : 33971
+		"Majoriti" : 33971,
+		"MasaSah" : "2022-11-19T19:32:41.390Z"
 	},
 	{
-		"KodParlimen" : "119",
-		"KodDun" : "11900",
-		"UndiDalamPeti" : 61370,
-		"PeratusUndi" : "76.4",
-		"Majoriti" : 4632
+		"KodParlimen" : "122",
+		"KodDun" : "12200",
+		"UndiDalamPeti" : 87856,
+		"PeratusUndi" : "70.6",
+		"Majoriti" : 67187,
+		"MasaSah" : "2022-11-19T19:30:52.683Z"
 	},
 	{
-		"KodParlimen" : "080",
-		"KodDun" : "08007",
-		"UndiDalamPeti" : 27944,
-		"PeratusUndi" : "73.1",
-		"Majoriti" : 11397
+		"KodParlimen" : "115",
+		"KodDun" : "11500",
+		"UndiDalamPeti" : 87623,
+		"PeratusUndi" : "77.1",
+		"Majoriti" : 22241,
+		"MasaSah" : "2022-11-19T19:27:35.390Z"
 	},
 	{
-		"KodParlimen" : "029",
-		"KodDun" : "02900",
-		"UndiDalamPeti" : 65847,
-		"PeratusUndi" : "74.3",
-		"Majoriti" : 10154
+		"KodParlimen" : "069",
+		"KodDun" : "06900",
+		"UndiDalamPeti" : 38046,
+		"PeratusUndi" : "79.7",
+		"Majoriti" : 2155,
+		"MasaSah" : "2022-11-19T19:19:37.930Z"
 	},
 	{
-		"KodParlimen" : "076",
-		"KodDun" : "07655",
-		"UndiDalamPeti" : 27751,
-		"PeratusUndi" : "71.1",
-		"Majoriti" : 17446
+		"KodParlimen" : "089",
+		"KodDun" : "08933",
+		"UndiDalamPeti" : 18663,
+		"PeratusUndi" : "77",
+		"Majoriti" : 3111,
+		"MasaSah" : "2022-11-19T19:19:15.290Z"
 	},
 	{
-		"KodParlimen" : "064",
-		"KodDun" : "06425",
-		"UndiDalamPeti" : 26041,
-		"PeratusUndi" : "63.8",
-		"Majoriti" : 20734
+		"KodParlimen" : "069",
+		"KodDun" : "06939",
+		"UndiDalamPeti" : 13780,
+		"PeratusUndi" : "77.8",
+		"Majoriti" : 1223,
+		"MasaSah" : "2022-11-19T19:18:02.440Z"
 	},
 	{
-		"KodParlimen" : "130",
-		"KodDun" : "13000",
-		"UndiDalamPeti" : 120594,
-		"PeratusUndi" : "77.6",
-		"Majoriti" : 61987
+		"KodParlimen" : "058",
+		"KodDun" : "05810",
+		"UndiDalamPeti" : 22571,
+		"PeratusUndi" : "78.8",
+		"Majoriti" : 4015,
+		"MasaSah" : "2022-11-19T19:14:17.793Z"
+	},
+	{
+		"KodParlimen" : "063",
+		"KodDun" : "06323",
+		"UndiDalamPeti" : 68394,
+		"PeratusUndi" : "79.5",
+		"Majoriti" : 6768,
+		"MasaSah" : "2022-11-19T19:12:37.270Z"
+	},
+	{
+		"KodParlimen" : "132",
+		"KodDun" : "13200",
+		"UndiDalamPeti" : 81274,
+		"PeratusUndi" : "78",
+		"Majoriti" : 23601,
+		"MasaSah" : "2022-11-19T19:08:07.023Z"
+	},
+	{
+		"KodParlimen" : "068",
+		"KodDun" : "06838",
+		"UndiDalamPeti" : 27370,
+		"PeratusUndi" : "66.6",
+		"Majoriti" : 17835,
+		"MasaSah" : "2022-11-19T19:06:33.743Z"
+	},
+	{
+		"KodParlimen" : "063",
+		"KodDun" : "06324",
+		"UndiDalamPeti" : 57784,
+		"PeratusUndi" : "78",
+		"Majoriti" : 4163,
+		"MasaSah" : "2022-11-19T19:06:09.007Z"
+	},
+	{
+		"KodParlimen" : "063",
+		"KodDun" : "06300",
+		"UndiDalamPeti" : 126138,
+		"PeratusUndi" : "78.8",
+		"Majoriti" : 3736,
+		"MasaSah" : "2022-11-19T19:05:29.603Z"
+	},
+	{
+		"KodParlimen" : "073",
+		"KodDun" : "07350",
+		"UndiDalamPeti" : 31095,
+		"PeratusUndi" : "79.6",
+		"Majoriti" : 3757,
+		"MasaSah" : "2022-11-19T19:01:44.410Z"
+	},
+	{
+		"KodParlimen" : "068",
+		"KodDun" : "06837",
+		"UndiDalamPeti" : 29256,
+		"PeratusUndi" : "66",
+		"Majoriti" : 16432,
+		"MasaSah" : "2022-11-19T19:01:18.877Z"
+	},
+	{
+		"KodParlimen" : "088",
+		"KodDun" : "08832",
+		"UndiDalamPeti" : 29449,
+		"PeratusUndi" : "80.3",
+		"Majoriti" : 1738,
+		"MasaSah" : "2022-11-19T18:57:54.987Z"
+	},
+	{
+		"KodParlimen" : "074",
+		"KodDun" : "07452",
+		"UndiDalamPeti" : 22420,
+		"PeratusUndi" : "74.4",
+		"Majoriti" : 1011,
+		"MasaSah" : "2022-11-19T18:57:36.700Z"
+	},
+	{
+		"KodParlimen" : "109",
+		"KodDun" : "10900",
+		"UndiDalamPeti" : 159494,
+		"PeratusUndi" : "84.3",
+		"Majoriti" : 11782,
+		"MasaSah" : "2022-11-19T18:55:46.527Z"
+	},
+	{
+		"KodParlimen" : "055",
+		"KodDun" : "05504",
+		"UndiDalamPeti" : 11494,
+		"PeratusUndi" : "75",
+		"Majoriti" : 1237,
+		"MasaSah" : "2022-11-19T18:53:39.857Z"
+	},
+	{
+		"KodParlimen" : "089",
+		"KodDun" : "08936",
+		"UndiDalamPeti" : 12828,
+		"PeratusUndi" : "78.5",
+		"Majoriti" : 4048,
+		"MasaSah" : "2022-11-19T18:52:44.587Z"
+	},
+	{
+		"KodParlimen" : "112",
+		"KodDun" : "11200",
+		"UndiDalamPeti" : 125296,
+		"PeratusUndi" : "84.4",
+		"Majoriti" : 1833,
+		"MasaSah" : "2022-11-19T18:50:05.713Z"
+	},
+	{
+		"KodParlimen" : "010",
+		"KodDun" : "01000",
+		"UndiDalamPeti" : 101286,
+		"PeratusUndi" : "76.6",
+		"Majoriti" : 28061,
+		"MasaSah" : "2022-11-19T18:48:37.293Z"
+	},
+	{
+		"KodParlimen" : "011",
+		"KodDun" : "01100",
+		"UndiDalamPeti" : 76244,
+		"PeratusUndi" : "80.8",
+		"Majoriti" : 31289,
+		"MasaSah" : "2022-11-19T18:46:59.953Z"
+	},
+	{
+		"KodParlimen" : "074",
+		"KodDun" : "07451",
+		"UndiDalamPeti" : 49589,
+		"PeratusUndi" : "80",
+		"Majoriti" : 5117,
+		"MasaSah" : "2022-11-19T18:46:23.507Z"
+	},
+	{
+		"KodParlimen" : "088",
+		"KodDun" : "08800",
+		"UndiDalamPeti" : 83396,
+		"PeratusUndi" : "78.3",
+		"Majoriti" : 5520,
+		"MasaSah" : "2022-11-19T18:42:00.250Z"
 	},
 	{
 		"KodParlimen" : "060",
 		"KodDun" : "06016",
 		"UndiDalamPeti" : 29946,
 		"PeratusUndi" : "75.4",
-		"Majoriti" : 3100
+		"Majoriti" : 3100,
+		"MasaSah" : "2022-11-19T18:40:39.303Z"
+	},
+	{
+		"KodParlimen" : "074",
+		"KodDun" : "07400",
+		"UndiDalamPeti" : 72152,
+		"PeratusUndi" : "78.2",
+		"Majoriti" : 363,
+		"MasaSah" : "2022-11-19T18:39:27.923Z"
+	},
+	{
+		"KodParlimen" : "089",
+		"KodDun" : "08900",
+		"UndiDalamPeti" : 67332,
+		"PeratusUndi" : "77.5",
+		"Majoriti" : 692,
+		"MasaSah" : "2022-11-19T18:34:10.370Z"
+	},
+	{
+		"KodParlimen" : "060",
+		"KodDun" : "06000",
+		"UndiDalamPeti" : 85890,
+		"PeratusUndi" : "70.9",
+		"Majoriti" : 25529,
+		"MasaSah" : "2022-11-19T18:31:35.810Z"
+	},
+	{
+		"KodParlimen" : "058",
+		"KodDun" : "05800",
+		"UndiDalamPeti" : 63428,
+		"PeratusUndi" : "79.1",
+		"Majoriti" : 18551,
+		"MasaSah" : "2022-11-19T18:29:52.980Z"
+	},
+	{
+		"KodParlimen" : "060",
+		"KodDun" : "06017",
+		"UndiDalamPeti" : 25026,
+		"PeratusUndi" : "68.7",
+		"Majoriti" : 12180,
+		"MasaSah" : "2022-11-19T18:28:20.993Z"
+	},
+	{
+		"KodParlimen" : "056",
+		"KodDun" : "05607",
+		"UndiDalamPeti" : 17628,
+		"PeratusUndi" : "80.3",
+		"Majoriti" : 3218,
+		"MasaSah" : "2022-11-19T18:25:56.997Z"
+	},
+	{
+		"KodParlimen" : "085",
+		"KodDun" : "08523",
+		"UndiDalamPeti" : 20204,
+		"PeratusUndi" : "77.5",
+		"Majoriti" : 2125,
+		"MasaSah" : "2022-11-19T18:24:22.043Z"
+	},
+	{
+		"KodParlimen" : "085",
+		"KodDun" : "08522",
+		"UndiDalamPeti" : 15965,
+		"PeratusUndi" : "75.1",
+		"Majoriti" : 6273,
+		"MasaSah" : "2022-11-19T18:23:23.077Z"
+	},
+	{
+		"KodParlimen" : "088",
+		"KodDun" : "08831",
+		"UndiDalamPeti" : 25329,
+		"PeratusUndi" : "77.5",
+		"Majoriti" : 451,
+		"MasaSah" : "2022-11-19T18:23:13.777Z"
+	},
+	{
+		"KodParlimen" : "085",
+		"KodDun" : "08521",
+		"UndiDalamPeti" : 33854,
+		"PeratusUndi" : "81",
+		"Majoriti" : 7823,
+		"MasaSah" : "2022-11-19T18:22:12.013Z"
+	},
+	{
+		"KodParlimen" : "045",
+		"KodDun" : "04500",
+		"UndiDalamPeti" : 93512,
+		"PeratusUndi" : "77.5",
+		"Majoriti" : 57685,
+		"MasaSah" : "2022-11-19T18:22:07.690Z"
+	},
+	{
+		"KodParlimen" : "060",
+		"KodDun" : "06018",
+		"UndiDalamPeti" : 30926,
+		"PeratusUndi" : "68.6",
+		"Majoriti" : 14857,
+		"MasaSah" : "2022-11-19T18:22:05.397Z"
+	},
+	{
+		"KodParlimen" : "124",
+		"KodDun" : "12400",
+		"UndiDalamPeti" : 93593,
+		"PeratusUndi" : "78.7",
+		"Majoriti" : 9817,
+		"MasaSah" : "2022-11-19T18:21:30.670Z"
+	},
+	{
+		"KodParlimen" : "085",
+		"KodDun" : "08520",
+		"UndiDalamPeti" : 24374,
+		"PeratusUndi" : "81.1",
+		"Majoriti" : 3931,
+		"MasaSah" : "2022-11-19T18:21:05.790Z"
+	},
+	{
+		"KodParlimen" : "085",
+		"KodDun" : "08500",
+		"UndiDalamPeti" : 94391,
+		"PeratusUndi" : "79.2",
+		"Majoriti" : 8949,
+		"MasaSah" : "2022-11-19T18:20:00.707Z"
+	},
+	{
+		"KodParlimen" : "108",
+		"KodDun" : "10800",
+		"UndiDalamPeti" : 136689,
+		"PeratusUndi" : "82.7",
+		"Majoriti" : 18095,
+		"MasaSah" : "2022-11-19T18:18:34.250Z"
+	},
+	{
+		"KodParlimen" : "056",
+		"KodDun" : "05600",
+		"UndiDalamPeti" : 52610,
+		"PeratusUndi" : "80.3",
+		"Majoriti" : 11598,
+		"MasaSah" : "2022-11-19T18:18:03.190Z"
+	},
+	{
+		"KodParlimen" : "082",
+		"KodDun" : "08200",
+		"UndiDalamPeti" : 94162,
+		"PeratusUndi" : "78.3",
+		"Majoriti" : 8399,
+		"MasaSah" : "2022-11-19T18:13:25.223Z"
+	},
+	{
+		"KodParlimen" : "065",
+		"KodDun" : "06529",
+		"UndiDalamPeti" : 16671,
+		"PeratusUndi" : "66.3",
+		"Majoriti" : 9491,
+		"MasaSah" : "2022-11-19T18:13:13.460Z"
+	},
+	{
+		"KodParlimen" : "082",
+		"KodDun" : "08213",
+		"UndiDalamPeti" : 47647,
+		"PeratusUndi" : "78",
+		"Majoriti" : 1804,
+		"MasaSah" : "2022-11-19T18:11:20.637Z"
+	},
+	{
+		"KodParlimen" : "078",
+		"KodDun" : "07800",
+		"UndiDalamPeti" : 34115,
+		"PeratusUndi" : "74.3",
+		"Majoriti" : 4544,
+		"MasaSah" : "2022-11-19T18:10:28.600Z"
+	},
+	{
+		"KodParlimen" : "078",
+		"KodDun" : "07802",
+		"UndiDalamPeti" : 15149,
+		"PeratusUndi" : "79.2",
+		"Majoriti" : 6983,
+		"MasaSah" : "2022-11-19T18:08:42.567Z"
+	},
+	{
+		"KodParlimen" : "082",
+		"KodDun" : "08212",
+		"UndiDalamPeti" : 46484,
+		"PeratusUndi" : "78.6",
+		"Majoriti" : 11521,
+		"MasaSah" : "2022-11-19T18:08:40.817Z"
+	},
+	{
+		"KodParlimen" : "065",
+		"KodDun" : "06530",
+		"UndiDalamPeti" : 25761,
+		"PeratusUndi" : "70.3",
+		"Majoriti" : 19155,
+		"MasaSah" : "2022-11-19T18:04:21.163Z"
+	},
+	{
+		"KodParlimen" : "066",
+		"KodDun" : "06633",
+		"UndiDalamPeti" : 25003,
+		"PeratusUndi" : "65.7",
+		"Majoriti" : 11372,
+		"MasaSah" : "2022-11-19T18:03:34.877Z"
+	},
+	{
+		"KodParlimen" : "072",
+		"KodDun" : "07200",
+		"UndiDalamPeti" : 45447,
+		"PeratusUndi" : "73.5",
+		"Majoriti" : 5064,
+		"MasaSah" : "2022-11-19T18:02:26.583Z"
+	},
+	{
+		"KodParlimen" : "066",
+		"KodDun" : "06631",
+		"UndiDalamPeti" : 24510,
+		"PeratusUndi" : "70.1",
+		"Majoriti" : 20111,
+		"MasaSah" : "2022-11-19T18:02:17.780Z"
+	},
+	{
+		"KodParlimen" : "091",
+		"KodDun" : "09100",
+		"UndiDalamPeti" : 68056,
+		"PeratusUndi" : "76.6",
+		"Majoriti" : 1438,
+		"MasaSah" : "2022-11-19T18:00:56.647Z"
+	},
+	{
+		"KodParlimen" : "066",
+		"KodDun" : "06632",
+		"UndiDalamPeti" : 26244,
+		"PeratusUndi" : "67.9",
+		"Majoriti" : 21191,
+		"MasaSah" : "2022-11-19T18:00:48.790Z"
+	},
+	{
+		"KodParlimen" : "167",
+		"KodDun" : "16700",
+		"UndiDalamPeti" : 45822,
+		"PeratusUndi" : "60.8",
+		"Majoriti" : 1967,
+		"MasaSah" : "2022-11-19T17:59:54.120Z"
+	},
+	{
+		"KodParlimen" : "087",
+		"KodDun" : "08729",
+		"UndiDalamPeti" : 25038,
+		"PeratusUndi" : "80.1",
+		"Majoriti" : 6904,
+		"MasaSah" : "2022-11-19T17:59:25.853Z"
+	},
+	{
+		"KodParlimen" : "066",
+		"KodDun" : "06600",
+		"UndiDalamPeti" : 75780,
+		"PeratusUndi" : "67.9",
+		"Majoriti" : 53836,
+		"MasaSah" : "2022-11-19T17:58:33.730Z"
+	},
+	{
+		"KodParlimen" : "062",
+		"KodDun" : "06222",
+		"UndiDalamPeti" : 27345,
+		"PeratusUndi" : "69.7",
+		"Majoriti" : 8713,
+		"MasaSah" : "2022-11-19T17:57:58.917Z"
+	},
+	{
+		"KodParlimen" : "065",
+		"KodDun" : "06500",
+		"UndiDalamPeti" : 79129,
+		"PeratusUndi" : "69.2",
+		"Majoriti" : 56667,
+		"MasaSah" : "2022-11-19T17:56:55.763Z"
+	},
+	{
+		"KodParlimen" : "110",
+		"KodDun" : "11000",
+		"UndiDalamPeti" : 165279,
+		"PeratusUndi" : "79.2",
+		"Majoriti" : 91801,
+		"MasaSah" : "2022-11-19T17:56:14.077Z"
+	},
+	{
+		"KodParlimen" : "014",
+		"KodDun" : "01400",
+		"UndiDalamPeti" : 103571,
+		"PeratusUndi" : "78.4",
+		"Majoriti" : 21019,
+		"MasaSah" : "2022-11-19T17:55:53.137Z"
+	},
+	{
+		"KodParlimen" : "056",
+		"KodDun" : "05606",
+		"UndiDalamPeti" : 16961,
+		"PeratusUndi" : "79.6",
+		"Majoriti" : 4322,
+		"MasaSah" : "2022-11-19T17:55:44.113Z"
+	},
+	{
+		"KodParlimen" : "065",
+		"KodDun" : "06528",
+		"UndiDalamPeti" : 36699,
+		"PeratusUndi" : "69.7",
+		"Majoriti" : 26114,
+		"MasaSah" : "2022-11-19T17:54:59.457Z"
+	},
+	{
+		"KodParlimen" : "131",
+		"KodDun" : "13100",
+		"UndiDalamPeti" : 110262,
+		"PeratusUndi" : "82.8",
+		"Majoriti" : 19897,
+		"MasaSah" : "2022-11-19T17:54:56.957Z"
+	},
+	{
+		"KodParlimen" : "062",
+		"KodDun" : "06221",
+		"UndiDalamPeti" : 25300,
+		"PeratusUndi" : "76.5",
+		"Majoriti" : 5280,
+		"MasaSah" : "2022-11-19T17:54:09.020Z"
+	},
+	{
+		"KodParlimen" : "062",
+		"KodDun" : "06200",
+		"UndiDalamPeti" : 52640,
+		"PeratusUndi" : "72.8",
+		"Majoriti" : 1846,
+		"MasaSah" : "2022-11-19T17:52:49.443Z"
+	},
+	{
+		"KodParlimen" : "128",
+		"KodDun" : "12800",
+		"UndiDalamPeti" : 124393,
+		"PeratusUndi" : "79.4",
+		"Majoriti" : 30841,
+		"MasaSah" : "2022-11-19T17:52:05.253Z"
+	},
+	{
+		"KodParlimen" : "072",
+		"KodDun" : "07248",
+		"UndiDalamPeti" : 23860,
+		"PeratusUndi" : "74.8",
+		"Majoriti" : 2213,
+		"MasaSah" : "2022-11-19T17:51:06.393Z"
+	},
+	{
+		"KodParlimen" : "072",
+		"KodDun" : "07247",
+		"UndiDalamPeti" : 21593,
+		"PeratusUndi" : "72.1",
+		"Majoriti" : 2251,
+		"MasaSah" : "2022-11-19T17:51:01.663Z"
+	},
+	{
+		"KodParlimen" : "058",
+		"KodDun" : "05811",
+		"UndiDalamPeti" : 21946,
+		"PeratusUndi" : "80.2",
+		"Majoriti" : 7466,
+		"MasaSah" : "2022-11-19T17:50:19.283Z"
+	},
+	{
+		"KodParlimen" : "059",
+		"KodDun" : "05915",
+		"UndiDalamPeti" : 13148,
+		"PeratusUndi" : "77.3",
+		"Majoriti" : 616,
+		"MasaSah" : "2022-11-19T17:47:20.627Z"
+	},
+	{
+		"KodParlimen" : "107",
+		"KodDun" : "10700",
+		"UndiDalamPeti" : 130584,
+		"PeratusUndi" : "82.8",
+		"Majoriti" : 2693,
+		"MasaSah" : "2022-11-19T17:44:34.180Z"
+	},
+	{
+		"KodParlimen" : "081",
+		"KodDun" : "08100",
+		"UndiDalamPeti" : 67592,
+		"PeratusUndi" : "77.9",
+		"Majoriti" : 8092,
+		"MasaSah" : "2022-11-19T17:43:53.317Z"
+	},
+	{
+		"KodParlimen" : "077",
+		"KodDun" : "07758",
+		"UndiDalamPeti" : 23818,
+		"PeratusUndi" : "78",
+		"Majoriti" : 416,
+		"MasaSah" : "2022-11-19T17:42:59.087Z"
+	},
+	{
+		"KodParlimen" : "057",
+		"KodDun" : "05709",
+		"UndiDalamPeti" : 24822,
+		"PeratusUndi" : "76.3",
+		"Majoriti" : 1347,
+		"MasaSah" : "2022-11-19T17:41:48.470Z"
+	},
+	{
+		"KodParlimen" : "086",
+		"KodDun" : "08600",
+		"UndiDalamPeti" : 41514,
+		"PeratusUndi" : "78.4",
+		"Majoriti" : 1821,
+		"MasaSah" : "2022-11-19T17:41:46.860Z"
+	},
+	{
+		"KodParlimen" : "111",
+		"KodDun" : "11100",
+		"UndiDalamPeti" : 199326,
+		"PeratusUndi" : "81.7",
+		"Majoriti" : 73998,
+		"MasaSah" : "2022-11-19T17:41:19.923Z"
+	},
+	{
+		"KodParlimen" : "081",
+		"KodDun" : "08109",
+		"UndiDalamPeti" : 16531,
+		"PeratusUndi" : "79.3",
+		"Majoriti" : 2014,
+		"MasaSah" : "2022-11-19T17:40:32.367Z"
+	},
+	{
+		"KodParlimen" : "081",
+		"KodDun" : "08110",
+		"UndiDalamPeti" : 26525,
+		"PeratusUndi" : "76.1",
+		"Majoriti" : 2296,
+		"MasaSah" : "2022-11-19T17:40:04.410Z"
+	},
+	{
+		"KodParlimen" : "081",
+		"KodDun" : "08111",
+		"UndiDalamPeti" : 24468,
+		"PeratusUndi" : "78.7",
+		"Majoriti" : 3487,
+		"MasaSah" : "2022-11-19T17:39:30.743Z"
+	},
+	{
+		"KodParlimen" : "084",
+		"KodDun" : "08400",
+		"UndiDalamPeti" : 62661,
+		"PeratusUndi" : "78.7",
+		"Majoriti" : 1317,
+		"MasaSah" : "2022-11-19T17:37:55.833Z"
+	},
+	{
+		"KodParlimen" : "044",
+		"KodDun" : "04400",
+		"UndiDalamPeti" : 88096,
+		"PeratusUndi" : "82.3",
+		"Majoriti" : 5272,
+		"MasaSah" : "2022-11-19T17:37:19.753Z"
+	},
+	{
+		"KodParlimen" : "005",
+		"KodDun" : "00500",
+		"UndiDalamPeti" : 52824,
+		"PeratusUndi" : "78.3",
+		"Majoriti" : 20456,
+		"MasaSah" : "2022-11-19T17:36:23.417Z"
+	},
+	{
+		"KodParlimen" : "073",
+		"KodDun" : "07349",
+		"UndiDalamPeti" : 26873,
+		"PeratusUndi" : "76",
+		"Majoriti" : 3950,
+		"MasaSah" : "2022-11-19T17:36:05.170Z"
+	},
+	{
+		"KodParlimen" : "086",
+		"KodDun" : "08625",
+		"UndiDalamPeti" : 13195,
+		"PeratusUndi" : "75.9",
+		"Majoriti" : 241,
+		"MasaSah" : "2022-11-19T17:35:54.970Z"
+	},
+	{
+		"KodParlimen" : "073",
+		"KodDun" : "07300",
+		"UndiDalamPeti" : 57908,
+		"PeratusUndi" : "77.9",
+		"Majoriti" : 5003,
+		"MasaSah" : "2022-11-19T17:35:31.753Z"
+	},
+	{
+		"KodParlimen" : "088",
+		"KodDun" : "08830",
+		"UndiDalamPeti" : 28618,
+		"PeratusUndi" : "77",
+		"Majoriti" : 3657,
+		"MasaSah" : "2022-11-19T17:34:54.237Z"
+	},
+	{
+		"KodParlimen" : "059",
+		"KodDun" : "05913",
+		"UndiDalamPeti" : 30923,
+		"PeratusUndi" : "77",
+		"Majoriti" : 3580,
+		"MasaSah" : "2022-11-19T17:34:02.090Z"
+	},
+	{
+		"KodParlimen" : "097",
+		"KodDun" : "09700",
+		"UndiDalamPeti" : 146069,
+		"PeratusUndi" : "80.6",
+		"Majoriti" : 23619,
+		"MasaSah" : "2022-11-19T17:31:03.100Z"
+	},
+	{
+		"KodParlimen" : "077",
+		"KodDun" : "07757",
+		"UndiDalamPeti" : 16466,
+		"PeratusUndi" : "70.6",
+		"Majoriti" : 5238,
+		"MasaSah" : "2022-11-19T17:30:56.383Z"
+	},
+	{
+		"KodParlimen" : "059",
+		"KodDun" : "05900",
+		"UndiDalamPeti" : 72600,
+		"PeratusUndi" : "77.2",
+		"Majoriti" : 12756,
+		"MasaSah" : "2022-11-19T17:29:47.797Z"
+	},
+	{
+		"KodParlimen" : "056",
+		"KodDun" : "05605",
+		"UndiDalamPeti" : 18020,
+		"PeratusUndi" : "80.8",
+		"Majoriti" : 5358,
+		"MasaSah" : "2022-11-19T17:27:32.690Z"
+	},
+	{
+		"KodParlimen" : "051",
+		"KodDun" : "05100",
+		"UndiDalamPeti" : 86719,
+		"PeratusUndi" : "74.3",
+		"Majoriti" : 63112,
+		"MasaSah" : "2022-11-19T17:27:12.653Z"
+	},
+	{
+		"KodParlimen" : "091",
+		"KodDun" : "09140",
+		"UndiDalamPeti" : 23984,
+		"PeratusUndi" : "77.5",
+		"Majoriti" : 2456,
+		"MasaSah" : "2022-11-19T17:27:04.153Z"
+	},
+	{
+		"KodParlimen" : "077",
+		"KodDun" : "07700",
+		"UndiDalamPeti" : 70815,
+		"PeratusUndi" : "75.6",
+		"Majoriti" : 3541,
+		"MasaSah" : "2022-11-19T17:25:20.327Z"
+	},
+	{
+		"KodParlimen" : "118",
+		"KodDun" : "11800",
+		"UndiDalamPeti" : 75460,
+		"PeratusUndi" : "79.1",
+		"Majoriti" : 12164,
+		"MasaSah" : "2022-11-19T17:25:07.530Z"
+	},
+	{
+		"KodParlimen" : "212",
+		"KodDun" : "21200",
+		"UndiDalamPeti" : 67172,
+		"PeratusUndi" : "63.7",
+		"Majoriti" : 7760,
+		"MasaSah" : "2022-11-19T17:24:23.830Z"
+	},
+	{
+		"KodParlimen" : "016",
+		"KodDun" : "01600",
+		"UndiDalamPeti" : 110205,
+		"PeratusUndi" : "83.5",
+		"Majoriti" : 29137,
+		"MasaSah" : "2022-11-19T17:23:33.780Z"
+	},
+	{
+		"KodParlimen" : "055",
+		"KodDun" : "05503",
+		"UndiDalamPeti" : 16635,
+		"PeratusUndi" : "77.2",
+		"Majoriti" : 763,
+		"MasaSah" : "2022-11-19T17:22:59.693Z"
+	},
+	{
+		"KodParlimen" : "041",
+		"KodDun" : "04100",
+		"UndiDalamPeti" : 70016,
+		"PeratusUndi" : "84.4",
+		"Majoriti" : 2867,
+		"MasaSah" : "2022-11-19T17:22:30.360Z"
+	},
+	{
+		"KodParlimen" : "058",
+		"KodDun" : "05812",
+		"UndiDalamPeti" : 18932,
+		"PeratusUndi" : "78.2",
+		"Majoriti" : 3279,
+		"MasaSah" : "2022-11-19T17:22:10.960Z"
+	},
+	{
+		"KodParlimen" : "061",
+		"KodDun" : "06100",
+		"UndiDalamPeti" : 30248,
+		"PeratusUndi" : "78.4",
+		"Majoriti" : 3046,
+		"MasaSah" : "2022-11-19T17:21:21.977Z"
+	},
+	{
+		"KodParlimen" : "091",
+		"KodDun" : "09141",
+		"UndiDalamPeti" : 22678,
+		"PeratusUndi" : "76.6",
+		"Majoriti" : 1234,
+		"MasaSah" : "2022-11-19T17:18:30.853Z"
+	},
+	{
+		"KodParlimen" : "080",
+		"KodDun" : "08008",
+		"UndiDalamPeti" : 13692,
+		"PeratusUndi" : "80.5",
+		"Majoriti" : 1046,
+		"MasaSah" : "2022-11-19T17:17:26.570Z"
+	},
+	{
+		"KodParlimen" : "086",
+		"KodDun" : "08626",
+		"UndiDalamPeti" : 15800,
+		"PeratusUndi" : "81.6",
+		"Majoriti" : 2706,
+		"MasaSah" : "2022-11-19T17:17:11.840Z"
+	},
+	{
+		"KodParlimen" : "002",
+		"KodDun" : "00200",
+		"UndiDalamPeti" : 56860,
+		"PeratusUndi" : "76.1",
+		"Majoriti" : 9192,
+		"MasaSah" : "2022-11-19T17:16:38.903Z"
+	},
+	{
+		"KodParlimen" : "221",
+		"KodDun" : "22100",
+		"UndiDalamPeti" : 20024,
+		"PeratusUndi" : "47.9",
+		"Majoriti" : 9998,
+		"MasaSah" : "2022-11-19T17:15:57.113Z"
+	},
+	{
+		"KodParlimen" : "220",
+		"KodDun" : "22000",
+		"UndiDalamPeti" : 30115,
+		"PeratusUndi" : "50.8",
+		"Majoriti" : 7339,
+		"MasaSah" : "2022-11-19T17:15:57.113Z"
+	},
+	{
+		"KodParlimen" : "055",
+		"KodDun" : "05500",
+		"UndiDalamPeti" : 28122,
+		"PeratusUndi" : "76.3",
+		"Majoriti" : 879,
+		"MasaSah" : "2022-11-19T17:13:58.970Z"
+	},
+	{
+		"KodParlimen" : "059",
+		"KodDun" : "05914",
+		"UndiDalamPeti" : 28533,
+		"PeratusUndi" : "77.3",
+		"Majoriti" : 3151,
+		"MasaSah" : "2022-11-19T17:13:55.500Z"
+	},
+	{
+		"KodParlimen" : "080",
+		"KodDun" : "08000",
+		"UndiDalamPeti" : 56968,
+		"PeratusUndi" : "76.1",
+		"Majoriti" : 4357,
+		"MasaSah" : "2022-11-19T17:13:39.410Z"
+	},
+	{
+		"KodParlimen" : "061",
+		"KodDun" : "06120",
+		"UndiDalamPeti" : 16568,
+		"PeratusUndi" : "79.4",
+		"Majoriti" : 2955,
+		"MasaSah" : "2022-11-19T17:12:59.200Z"
+	},
+	{
+		"KodParlimen" : "098",
+		"KodDun" : "09800",
+		"UndiDalamPeti" : 166548,
+		"PeratusUndi" : "80.8",
+		"Majoriti" : 12729,
+		"MasaSah" : "2022-11-19T17:12:43.167Z"
+	},
+	{
+		"KodParlimen" : "061",
+		"KodDun" : "06119",
+		"UndiDalamPeti" : 13682,
+		"PeratusUndi" : "77.1",
+		"Majoriti" : 75,
+		"MasaSah" : "2022-11-19T17:12:04.690Z"
+	},
+	{
+		"KodParlimen" : "077",
+		"KodDun" : "07759",
+		"UndiDalamPeti" : 30515,
+		"PeratusUndi" : "76.8",
+		"Majoriti" : 202,
+		"MasaSah" : "2022-11-19T17:11:41.143Z"
+	},
+	{
+		"KodParlimen" : "001",
+		"KodDun" : "00101",
+		"UndiDalamPeti" : 9732,
+		"PeratusUndi" : "72.7",
+		"Majoriti" : 3785,
+		"MasaSah" : "2022-11-19T17:10:24.023Z"
+	},
+	{
+		"KodParlimen" : "217",
+		"KodDun" : "21700",
+		"UndiDalamPeti" : 71152,
+		"PeratusUndi" : "62.7",
+		"Majoriti" : 22168,
+		"MasaSah" : "2022-11-19T17:09:11.110Z"
+	},
+	{
+		"KodParlimen" : "087",
+		"KodDun" : "08728",
+		"UndiDalamPeti" : 12262,
+		"PeratusUndi" : "80.9",
+		"Majoriti" : 1929,
+		"MasaSah" : "2022-11-19T17:08:26.523Z"
+	},
+	{
+		"KodParlimen" : "090",
+		"KodDun" : "09037",
+		"UndiDalamPeti" : 19306,
+		"PeratusUndi" : "79.5",
+		"Majoriti" : 2678,
+		"MasaSah" : "2022-11-19T17:08:26.077Z"
+	},
+	{
+		"KodParlimen" : "001",
+		"KodDun" : "00100",
+		"UndiDalamPeti" : 45982,
+		"PeratusUndi" : "76.5",
+		"Majoriti" : 12514,
+		"MasaSah" : "2022-11-19T17:07:58.383Z"
+	},
+	{
+		"KodParlimen" : "087",
+		"KodDun" : "08700",
+		"UndiDalamPeti" : 48348,
+		"PeratusUndi" : "80",
+		"Majoriti" : 1024,
+		"MasaSah" : "2022-11-19T17:07:36.263Z"
+	},
+	{
+		"KodParlimen" : "121",
+		"KodDun" : "12100",
+		"UndiDalamPeti" : 77229,
+		"PeratusUndi" : "76.1",
+		"Majoriti" : 13912,
+		"MasaSah" : "2022-11-19T17:07:10.550Z"
+	},
+	{
+		"KodParlimen" : "002",
+		"KodDun" : "00206",
+		"UndiDalamPeti" : 12893,
+		"PeratusUndi" : "79",
+		"Majoriti" : 4329,
+		"MasaSah" : "2022-11-19T17:06:34.727Z"
+	},
+	{
+		"KodParlimen" : "086",
+		"KodDun" : "08624",
+		"UndiDalamPeti" : 12561,
+		"PeratusUndi" : "77.4",
+		"Majoriti" : 1166,
+		"MasaSah" : "2022-11-19T17:05:11.813Z"
+	},
+	{
+		"KodParlimen" : "130",
+		"KodDun" : "13000",
+		"UndiDalamPeti" : 120594,
+		"PeratusUndi" : "77.6",
+		"Majoriti" : 61987,
+		"MasaSah" : "2022-11-19T17:05:05.433Z"
+	},
+	{
+		"KodParlimen" : "052",
+		"KodDun" : "05200",
+		"UndiDalamPeti" : 90878,
+		"PeratusUndi" : "76.2",
+		"Majoriti" : 34902,
+		"MasaSah" : "2022-11-19T17:05:01.490Z"
+	},
+	{
+		"KodParlimen" : "102",
+		"KodDun" : "10200",
+		"UndiDalamPeti" : 246221,
+		"PeratusUndi" : "81.3",
+		"Majoriti" : 69701,
+		"MasaSah" : "2022-11-19T17:04:27.360Z"
+	},
+	{
+		"KodParlimen" : "104",
+		"KodDun" : "10400",
+		"UndiDalamPeti" : 178921,
+		"PeratusUndi" : "77.8",
+		"Majoriti" : 115074,
+		"MasaSah" : "2022-11-19T17:03:42.800Z"
+	},
+	{
+		"KodParlimen" : "105",
+		"KodDun" : "10500",
+		"UndiDalamPeti" : 147526,
+		"PeratusUndi" : "75.9",
+		"Majoriti" : 50575,
+		"MasaSah" : "2022-11-19T17:01:14.667Z"
+	},
+	{
+		"KodParlimen" : "057",
+		"KodDun" : "05700",
+		"UndiDalamPeti" : 53495,
+		"PeratusUndi" : "78.2",
+		"Majoriti" : 5395,
+		"MasaSah" : "2022-11-19T17:00:39.880Z"
+	},
+	{
+		"KodParlimen" : "001",
+		"KodDun" : "00103",
+		"UndiDalamPeti" : 11098,
+		"PeratusUndi" : "78",
+		"Majoriti" : 2420,
+		"MasaSah" : "2022-11-19T16:59:03.613Z"
+	},
+	{
+		"KodParlimen" : "057",
+		"KodDun" : "05708",
+		"UndiDalamPeti" : 28667,
+		"PeratusUndi" : "80",
+		"Majoriti" : 5274,
+		"MasaSah" : "2022-11-19T16:58:10.080Z"
+	},
+	{
+		"KodParlimen" : "173",
+		"KodDun" : "17300",
+		"UndiDalamPeti" : 42038,
+		"PeratusUndi" : "66.8",
+		"Majoriti" : 124,
+		"MasaSah" : "2022-11-19T16:57:13.563Z"
+	},
+	{
+		"KodParlimen" : "090",
+		"KodDun" : "09039",
+		"UndiDalamPeti" : 21852,
+		"PeratusUndi" : "80",
+		"Majoriti" : 6913,
+		"MasaSah" : "2022-11-19T16:57:03.293Z"
+	},
+	{
+		"KodParlimen" : "170",
+		"KodDun" : "17000",
+		"UndiDalamPeti" : 58973,
+		"PeratusUndi" : "70.9",
+		"Majoriti" : 233,
+		"MasaSah" : "2022-11-19T16:56:02.560Z"
+	},
+	{
+		"KodParlimen" : "175",
+		"KodDun" : "17500",
+		"UndiDalamPeti" : 44172,
+		"PeratusUndi" : "73.9",
+		"Majoriti" : 12224,
+		"MasaSah" : "2022-11-19T16:54:42.590Z"
+	},
+	{
+		"KodParlimen" : "054",
+		"KodDun" : "05400",
+		"UndiDalamPeti" : 35282,
+		"PeratusUndi" : "74.3",
+		"Majoriti" : 1377,
+		"MasaSah" : "2022-11-19T16:54:34.560Z"
+	},
+	{
+		"KodParlimen" : "090",
+		"KodDun" : "09038",
+		"UndiDalamPeti" : 19207,
+		"PeratusUndi" : "74.2",
+		"Majoriti" : 6219,
+		"MasaSah" : "2022-11-19T16:54:13.533Z"
+	},
+	{
+		"KodParlimen" : "103",
+		"KodDun" : "10300",
+		"UndiDalamPeti" : 122171,
+		"PeratusUndi" : "80.1",
+		"Majoriti" : 57957,
+		"MasaSah" : "2022-11-19T16:51:52.983Z"
+	},
+	{
+		"KodParlimen" : "002",
+		"KodDun" : "00210",
+		"UndiDalamPeti" : 10722,
+		"PeratusUndi" : "79.9",
+		"Majoriti" : 3261,
+		"MasaSah" : "2022-11-19T16:50:58.720Z"
+	},
+	{
+		"KodParlimen" : "189",
+		"KodDun" : "18900",
+		"UndiDalamPeti" : 39191,
+		"PeratusUndi" : "55.4",
+		"Majoriti" : 20810,
+		"MasaSah" : "2022-11-19T16:48:44.340Z"
+	},
+	{
+		"KodParlimen" : "080",
+		"KodDun" : "08007",
+		"UndiDalamPeti" : 27944,
+		"PeratusUndi" : "73.1",
+		"Majoriti" : 11397,
+		"MasaSah" : "2022-11-19T16:46:46.510Z"
+	},
+	{
+		"KodParlimen" : "002",
+		"KodDun" : "00208",
+		"UndiDalamPeti" : 10534,
+		"PeratusUndi" : "72.9",
+		"Majoriti" : 1873,
+		"MasaSah" : "2022-11-19T16:46:14.583Z"
+	},
+	{
+		"KodParlimen" : "070",
+		"KodDun" : "07000",
+		"UndiDalamPeti" : 60238,
+		"PeratusUndi" : "67.2",
+		"Majoriti" : 14330,
+		"MasaSah" : "2022-11-19T16:45:11.080Z"
+	},
+	{
+		"KodParlimen" : "080",
+		"KodDun" : "08006",
+		"UndiDalamPeti" : 15340,
+		"PeratusUndi" : "78.1",
+		"Majoriti" : 2869,
+		"MasaSah" : "2022-11-19T16:45:07.367Z"
+	},
+	{
+		"KodParlimen" : "012",
+		"KodDun" : "01200",
+		"UndiDalamPeti" : 83130,
+		"PeratusUndi" : "79.3",
+		"Majoriti" : 33192,
+		"MasaSah" : "2022-11-19T16:44:33.337Z"
+	},
+	{
+		"KodParlimen" : "079",
+		"KodDun" : "07900",
+		"UndiDalamPeti" : 36243,
+		"PeratusUndi" : "77.1",
+		"Majoriti" : 6118,
+		"MasaSah" : "2022-11-19T16:43:47.223Z"
+	},
+	{
+		"KodParlimen" : "064",
+		"KodDun" : "06426",
+		"UndiDalamPeti" : 28063,
+		"PeratusUndi" : "75.7",
+		"Majoriti" : 660,
+		"MasaSah" : "2022-11-19T16:43:00.183Z"
+	},
+	{
+		"KodParlimen" : "113",
+		"KodDun" : "11300",
+		"UndiDalamPeti" : 139378,
+		"PeratusUndi" : "83.1",
+		"Majoriti" : 8949,
+		"MasaSah" : "2022-11-19T16:42:52.917Z"
+	},
+	{
+		"KodParlimen" : "002",
+		"KodDun" : "00209",
+		"UndiDalamPeti" : 10806,
+		"PeratusUndi" : "73.5",
+		"Majoriti" : 154,
+		"MasaSah" : "2022-11-19T16:42:15.303Z"
+	},
+	{
+		"KodParlimen" : "064",
+		"KodDun" : "06400",
+		"UndiDalamPeti" : 80458,
+		"PeratusUndi" : "68.4",
+		"Majoriti" : 43888,
+		"MasaSah" : "2022-11-19T16:41:00.197Z"
+	},
+	{
+		"KodParlimen" : "008",
+		"KodDun" : "00800",
+		"UndiDalamPeti" : 88767,
+		"PeratusUndi" : "77.5",
+		"Majoriti" : 31751,
+		"MasaSah" : "2022-11-19T16:40:35.700Z"
+	},
+	{
+		"KodParlimen" : "090",
+		"KodDun" : "09000",
+		"UndiDalamPeti" : 60362,
+		"PeratusUndi" : "77.9",
+		"Majoriti" : 16695,
+		"MasaSah" : "2022-11-19T16:39:59.447Z"
+	},
+	{
+		"KodParlimen" : "127",
+		"KodDun" : "12700",
+		"UndiDalamPeti" : 72629,
+		"PeratusUndi" : "76",
+		"Majoriti" : 5857,
+		"MasaSah" : "2022-11-19T16:37:21.770Z"
+	},
+	{
+		"KodParlimen" : "070",
+		"KodDun" : "07043",
+		"UndiDalamPeti" : 23610,
+		"PeratusUndi" : "74.1",
+		"Majoriti" : 253,
+		"MasaSah" : "2022-11-19T16:37:21.077Z"
+	},
+	{
+		"KodParlimen" : "070",
+		"KodDun" : "07041",
+		"UndiDalamPeti" : 18826,
+		"PeratusUndi" : "63.6",
+		"Majoriti" : 7259,
+		"MasaSah" : "2022-11-19T16:34:36.093Z"
+	},
+	{
+		"KodParlimen" : "076",
+		"KodDun" : "07600",
+		"UndiDalamPeti" : 64910,
+		"PeratusUndi" : "74.7",
+		"Majoriti" : 15169,
+		"MasaSah" : "2022-11-19T16:33:48.890Z"
+	},
+	{
+		"KodParlimen" : "079",
+		"KodDun" : "07904",
+		"UndiDalamPeti" : 12524,
+		"PeratusUndi" : "74.7",
+		"Majoriti" : 1223,
+		"MasaSah" : "2022-11-19T16:33:41.083Z"
+	},
+	{
+		"KodParlimen" : "039",
+		"KodDun" : "03900",
+		"UndiDalamPeti" : 92005,
+		"PeratusUndi" : "79.7",
+		"Majoriti" : 34105,
+		"MasaSah" : "2022-11-19T16:33:36.477Z"
+	},
+	{
+		"KodParlimen" : "054",
+		"KodDun" : "05402",
+		"UndiDalamPeti" : 20062,
+		"PeratusUndi" : "73.4",
+		"Majoriti" : 1048,
+		"MasaSah" : "2022-11-19T16:32:30.267Z"
+	},
+	{
+		"KodParlimen" : "126",
+		"KodDun" : "12600",
+		"UndiDalamPeti" : 45907,
+		"PeratusUndi" : "77.2",
+		"Majoriti" : 8125,
+		"MasaSah" : "2022-11-19T16:31:53.277Z"
+	},
+	{
+		"KodParlimen" : "079",
+		"KodDun" : "07903",
+		"UndiDalamPeti" : 15450,
+		"PeratusUndi" : "79.9",
+		"Majoriti" : 507,
+		"MasaSah" : "2022-11-19T16:31:30.233Z"
+	},
+	{
+		"KodParlimen" : "067",
+		"KodDun" : "06735",
+		"UndiDalamPeti" : 18891,
+		"PeratusUndi" : "76.4",
+		"Majoriti" : 2912,
+		"MasaSah" : "2022-11-19T16:31:07.607Z"
+	},
+	{
+		"KodParlimen" : "003",
+		"KodDun" : "00300",
+		"UndiDalamPeti" : 47516,
+		"PeratusUndi" : "78.2",
+		"Majoriti" : 23216,
+		"MasaSah" : "2022-11-19T16:30:57.577Z"
+	},
+	{
+		"KodParlimen" : "187",
+		"KodDun" : "18700",
+		"UndiDalamPeti" : 29806,
+		"PeratusUndi" : "66.7",
+		"Majoriti" : 4330,
+		"MasaSah" : "2022-11-19T16:30:55.737Z"
+	},
+	{
+		"KodParlimen" : "054",
+		"KodDun" : "05401",
+		"UndiDalamPeti" : 15216,
+		"PeratusUndi" : "75.7",
+		"Majoriti" : 1324,
+		"MasaSah" : "2022-11-19T16:30:27.960Z"
+	},
+	{
+		"KodParlimen" : "079",
+		"KodDun" : "07905",
+		"UndiDalamPeti" : 8263,
+		"PeratusUndi" : "76",
+		"Majoriti" : 1521,
+		"MasaSah" : "2022-11-19T16:30:03.347Z"
+	},
+	{
+		"KodParlimen" : "015",
+		"KodDun" : "01500",
+		"UndiDalamPeti" : 131191,
+		"PeratusUndi" : "77.8",
+		"Majoriti" : 1115,
+		"MasaSah" : "2022-11-19T16:29:17.983Z"
+	},
+	{
+		"KodParlimen" : "003",
+		"KodDun" : "00311",
+		"UndiDalamPeti" : 11314,
+		"PeratusUndi" : "76.6",
+		"Majoriti" : 2229,
+		"MasaSah" : "2022-11-19T16:28:48.870Z"
+	},
+	{
+		"KodParlimen" : "076",
+		"KodDun" : "07656",
+		"UndiDalamPeti" : 37193,
+		"PeratusUndi" : "77.6",
+		"Majoriti" : 1087,
+		"MasaSah" : "2022-11-19T16:28:26.193Z"
+	},
+	{
+		"KodParlimen" : "171",
+		"KodDun" : "17100",
+		"UndiDalamPeti" : 71279,
+		"PeratusUndi" : "66.1",
+		"Majoriti" : 7042,
+		"MasaSah" : "2022-11-19T16:26:49.760Z"
+	},
+	{
+		"KodParlimen" : "123",
+		"KodDun" : "12300",
+		"UndiDalamPeti" : 72046,
+		"PeratusUndi" : "71.4",
+		"Majoriti" : 54448,
+		"MasaSah" : "2022-11-19T16:26:09.303Z"
+	},
+	{
+		"KodParlimen" : "001",
+		"KodDun" : "00105",
+		"UndiDalamPeti" : 8498,
+		"PeratusUndi" : "79.2",
+		"Majoriti" : 2108,
+		"MasaSah" : "2022-11-19T16:26:05.927Z"
+	},
+	{
+		"KodParlimen" : "083",
+		"KodDun" : "08300",
+		"UndiDalamPeti" : 68393,
+		"PeratusUndi" : "78.2",
+		"Majoriti" : 2866,
+		"MasaSah" : "2022-11-19T16:25:47.913Z"
+	},
+	{
+		"KodParlimen" : "070",
+		"KodDun" : "07042",
+		"UndiDalamPeti" : 17806,
+		"PeratusUndi" : "63.2",
+		"Majoriti" : 8749,
+		"MasaSah" : "2022-11-19T16:25:43.623Z"
+	},
+	{
+		"KodParlimen" : "185",
+		"KodDun" : "18500",
+		"UndiDalamPeti" : 27516,
+		"PeratusUndi" : "62.9",
+		"Majoriti" : 4821,
+		"MasaSah" : "2022-11-19T16:23:45.127Z"
+	},
+	{
+		"KodParlimen" : "076",
+		"KodDun" : "07655",
+		"UndiDalamPeti" : 27751,
+		"PeratusUndi" : "71.1",
+		"Majoriti" : 17446,
+		"MasaSah" : "2022-11-19T16:23:43.887Z"
+	},
+	{
+		"KodParlimen" : "163",
+		"KodDun" : "16300",
+		"UndiDalamPeti" : 116110,
+		"PeratusUndi" : "76.9",
+		"Majoriti" : 36023,
+		"MasaSah" : "2022-11-19T16:23:14.377Z"
+	},
+	{
+		"KodParlimen" : "106",
+		"KodDun" : "10600",
+		"UndiDalamPeti" : 175910,
+		"PeratusUndi" : "73.9",
+		"Majoriti" : 124619,
+		"MasaSah" : "2022-11-19T16:22:56.263Z"
+	},
+	{
+		"KodParlimen" : "182",
+		"KodDun" : "18200",
+		"UndiDalamPeti" : 37493,
+		"PeratusUndi" : "67.5",
+		"Majoriti" : 5412,
+		"MasaSah" : "2022-11-19T16:21:49.030Z"
+	},
+	{
+		"KodParlimen" : "093",
+		"KodDun" : "09300",
+		"UndiDalamPeti" : 51511,
+		"PeratusUndi" : "80.1",
+		"Majoriti" : 2721,
+		"MasaSah" : "2022-11-19T16:21:40.507Z"
+	},
+	{
+		"KodParlimen" : "064",
+		"KodDun" : "06427",
+		"UndiDalamPeti" : 26383,
+		"PeratusUndi" : "66.1",
+		"Majoriti" : 22169,
+		"MasaSah" : "2022-11-19T16:20:36.333Z"
+	},
+	{
+		"KodParlimen" : "083",
+		"KodDun" : "08314",
+		"UndiDalamPeti" : 22326,
+		"PeratusUndi" : "72.5",
+		"Majoriti" : 8679,
+		"MasaSah" : "2022-11-19T16:19:50.227Z"
+	},
+	{
+		"KodParlimen" : "024",
+		"KodDun" : "02400",
+		"UndiDalamPeti" : 82159,
+		"PeratusUndi" : "72.6",
+		"Majoriti" : 40847,
+		"MasaSah" : "2022-11-19T16:19:28.060Z"
+	},
+	{
+		"KodParlimen" : "046",
+		"KodDun" : "04600",
+		"UndiDalamPeti" : 69670,
+		"PeratusUndi" : "78.5",
+		"Majoriti" : 40400,
+		"MasaSah" : "2022-11-19T16:17:28.020Z"
+	},
+	{
+		"KodParlimen" : "083",
+		"KodDun" : "08315",
+		"UndiDalamPeti" : 30678,
+		"PeratusUndi" : "80.5",
+		"Majoriti" : 8989,
+		"MasaSah" : "2022-11-19T16:17:19.433Z"
+	},
+	{
+		"KodParlimen" : "003",
+		"KodDun" : "00313",
+		"UndiDalamPeti" : 9193,
+		"PeratusUndi" : "80",
+		"Majoriti" : 5101,
+		"MasaSah" : "2022-11-19T16:17:08.360Z"
+	},
+	{
+		"KodParlimen" : "002",
+		"KodDun" : "00207",
+		"UndiDalamPeti" : 11908,
+		"PeratusUndi" : "75.2",
+		"Majoriti" : 2200,
+		"MasaSah" : "2022-11-19T16:16:56.947Z"
+	},
+	{
+		"KodParlimen" : "067",
+		"KodDun" : "06700",
+		"UndiDalamPeti" : 36196,
+		"PeratusUndi" : "77.1",
+		"Majoriti" : 3566,
+		"MasaSah" : "2022-11-19T16:16:35.337Z"
+	},
+	{
+		"KodParlimen" : "023",
+		"KodDun" : "02300",
+		"UndiDalamPeti" : 61195,
+		"PeratusUndi" : "65.9",
+		"Majoriti" : 20636,
+		"MasaSah" : "2022-11-19T16:14:42.507Z"
+	},
+	{
+		"KodParlimen" : "034",
+		"KodDun" : "03400",
+		"UndiDalamPeti" : 85876,
+		"PeratusUndi" : "80.2",
+		"Majoriti" : 19032,
+		"MasaSah" : "2022-11-19T16:14:05.610Z"
+	},
+	{
+		"KodParlimen" : "067",
+		"KodDun" : "06734",
+		"UndiDalamPeti" : 17255,
+		"PeratusUndi" : "77.9",
+		"Majoriti" : 1164,
+		"MasaSah" : "2022-11-19T16:13:41.600Z"
+	},
+	{
+		"KodParlimen" : "001",
+		"KodDun" : "00104",
+		"UndiDalamPeti" : 7732,
+		"PeratusUndi" : "80.2",
+		"Majoriti" : 2021,
+		"MasaSah" : "2022-11-19T16:13:39.240Z"
+	},
+	{
+		"KodParlimen" : "006",
+		"KodDun" : "00600",
+		"UndiDalamPeti" : 84239,
+		"PeratusUndi" : "78.1",
+		"Majoriti" : 31584,
+		"MasaSah" : "2022-11-19T16:12:48.050Z"
+	},
+	{
+		"KodParlimen" : "030",
+		"KodDun" : "03000",
+		"UndiDalamPeti" : 43588,
+		"PeratusUndi" : "73.1",
+		"Majoriti" : 12464,
+		"MasaSah" : "2022-11-19T16:12:31.460Z"
+	},
+	{
+		"KodParlimen" : "042",
+		"KodDun" : "04200",
+		"UndiDalamPeti" : 67654,
+		"PeratusUndi" : "83.8",
+		"Majoriti" : 12252,
+		"MasaSah" : "2022-11-19T16:12:09.880Z"
+	},
+	{
+		"KodParlimen" : "181",
+		"KodDun" : "18100",
+		"UndiDalamPeti" : 29034,
+		"PeratusUndi" : "69.2",
+		"Majoriti" : 1108,
+		"MasaSah" : "2022-11-19T16:11:19.520Z"
+	},
+	{
+		"KodParlimen" : "029",
+		"KodDun" : "02900",
+		"UndiDalamPeti" : 65847,
+		"PeratusUndi" : "74.3",
+		"Majoriti" : 10154,
+		"MasaSah" : "2022-11-19T16:11:07.657Z"
+	},
+	{
+		"KodParlimen" : "137",
+		"KodDun" : "13700",
+		"UndiDalamPeti" : 95223,
+		"PeratusUndi" : "80.7",
+		"Majoriti" : 8638,
+		"MasaSah" : "2022-11-19T16:09:28.833Z"
+	},
+	{
+		"KodParlimen" : "064",
+		"KodDun" : "06425",
+		"UndiDalamPeti" : 26041,
+		"PeratusUndi" : "63.8",
+		"Majoriti" : 20734,
+		"MasaSah" : "2022-11-19T16:09:25.190Z"
+	},
+	{
+		"KodParlimen" : "119",
+		"KodDun" : "11900",
+		"UndiDalamPeti" : 61370,
+		"PeratusUndi" : "76.4",
+		"Majoriti" : 4632,
+		"MasaSah" : "2022-11-19T16:07:38.920Z"
+	},
+	{
+		"KodParlimen" : "099",
+		"KodDun" : "09900",
+		"UndiDalamPeti" : 105264,
+		"PeratusUndi" : "79.1",
+		"Majoriti" : 29681,
+		"MasaSah" : "2022-11-19T16:07:32.307Z"
+	},
+	{
+		"KodParlimen" : "101",
+		"KodDun" : "10100",
+		"UndiDalamPeti" : 138003,
+		"PeratusUndi" : "82.9",
+		"Majoriti" : 14896,
+		"MasaSah" : "2022-11-19T16:07:11.163Z"
+	},
+	{
+		"KodParlimen" : "001",
+		"KodDun" : "00102",
+		"UndiDalamPeti" : 8921,
+		"PeratusUndi" : "73.7",
+		"Majoriti" : 1047,
+		"MasaSah" : "2022-11-19T16:07:03.543Z"
+	},
+	{
+		"KodParlimen" : "020",
+		"KodDun" : "02000",
+		"UndiDalamPeti" : 78391,
+		"PeratusUndi" : "73.5",
+		"Majoriti" : 38270,
+		"MasaSah" : "2022-11-19T16:04:49.813Z"
+	},
+	{
+		"KodParlimen" : "188",
+		"KodDun" : "18800",
+		"UndiDalamPeti" : 58973,
+		"PeratusUndi" : "59",
+		"Majoriti" : 4376,
+		"MasaSah" : "2022-11-19T16:04:31.057Z"
+	},
+	{
+		"KodParlimen" : "025",
+		"KodDun" : "02500",
+		"UndiDalamPeti" : 90956,
+		"PeratusUndi" : "74.1",
+		"Majoriti" : 29901,
+		"MasaSah" : "2022-11-19T16:03:27.357Z"
+	},
+	{
+		"KodParlimen" : "087",
+		"KodDun" : "08727",
+		"UndiDalamPeti" : 11042,
+		"PeratusUndi" : "79",
+		"Majoriti" : 1454,
+		"MasaSah" : "2022-11-19T16:03:17.580Z"
+	},
+	{
+		"KodParlimen" : "150",
+		"KodDun" : "15000",
+		"UndiDalamPeti" : 100340,
+		"PeratusUndi" : "75.2",
+		"Majoriti" : 15972,
+		"MasaSah" : "2022-11-19T16:02:39.150Z"
+	},
+	{
+		"KodParlimen" : "078",
+		"KodDun" : "07801",
+		"UndiDalamPeti" : 19019,
+		"PeratusUndi" : "71",
+		"Majoriti" : 2484,
+		"MasaSah" : "2022-11-19T16:02:28.087Z"
+	},
+	{
+		"KodParlimen" : "083",
+		"KodDun" : "08316",
+		"UndiDalamPeti" : 15389,
+		"PeratusUndi" : "83",
+		"Majoriti" : 922,
+		"MasaSah" : "2022-11-19T16:02:19.987Z"
+	},
+	{
+		"KodParlimen" : "094",
+		"KodDun" : "09400",
+		"UndiDalamPeti" : 123866,
+		"PeratusUndi" : "80.4",
+		"Majoriti" : 1562,
+		"MasaSah" : "2022-11-19T15:59:53.860Z"
+	},
+	{
+		"KodParlimen" : "003",
+		"KodDun" : "00315",
+		"UndiDalamPeti" : 8364,
+		"PeratusUndi" : "80.4",
+		"Majoriti" : 3335,
+		"MasaSah" : "2022-11-19T15:59:33.913Z"
+	},
+	{
+		"KodParlimen" : "125",
+		"KodDun" : "12500",
+		"UndiDalamPeti" : 36811,
+		"PeratusUndi" : "86.2",
+		"Majoriti" : 2310,
+		"MasaSah" : "2022-11-19T15:59:15.870Z"
+	},
+	{
+		"KodParlimen" : "031",
+		"KodDun" : "03100",
+		"UndiDalamPeti" : 65477,
+		"PeratusUndi" : "71.1",
+		"Majoriti" : 25188,
+		"MasaSah" : "2022-11-19T15:57:33.233Z"
+	},
+	{
+		"KodParlimen" : "140",
+		"KodDun" : "14000",
+		"UndiDalamPeti" : 51238,
+		"PeratusUndi" : "74.1",
+		"Majoriti" : 5669,
+		"MasaSah" : "2022-11-19T15:57:31.490Z"
+	},
+	{
+		"KodParlimen" : "219",
+		"KodDun" : "21900",
+		"UndiDalamPeti" : 78768,
+		"PeratusUndi" : "55.2",
+		"Majoriti" : 6159,
+		"MasaSah" : "2022-11-19T15:54:02.120Z"
+	},
+	{
+		"KodParlimen" : "018",
+		"KodDun" : "01800",
+		"UndiDalamPeti" : 71267,
+		"PeratusUndi" : "79.4",
+		"Majoriti" : 13061,
+		"MasaSah" : "2022-11-19T15:52:51.777Z"
+	},
+	{
+		"KodParlimen" : "149",
+		"KodDun" : "14900",
+		"UndiDalamPeti" : 61900,
+		"PeratusUndi" : "79",
+		"Majoriti" : 4000,
+		"MasaSah" : "2022-11-19T15:52:43.213Z"
+	},
+	{
+		"KodParlimen" : "214",
+		"KodDun" : "21400",
+		"UndiDalamPeti" : 29224,
+		"PeratusUndi" : "64",
+		"Majoriti" : 4986,
+		"MasaSah" : "2022-11-19T15:51:30.423Z"
+	},
+	{
+		"KodParlimen" : "003",
+		"KodDun" : "00314",
+		"UndiDalamPeti" : 8269,
+		"PeratusUndi" : "77.4",
+		"Majoriti" : 4008,
+		"MasaSah" : "2022-11-19T15:51:07.900Z"
+	},
+	{
+		"KodParlimen" : "004",
+		"KodDun" : "00400",
+		"UndiDalamPeti" : 47988,
+		"PeratusUndi" : "72.1",
+		"Majoriti" : 13518,
+		"MasaSah" : "2022-11-19T15:50:51.477Z"
+	},
+	{
+		"KodParlimen" : "184",
+		"KodDun" : "18400",
+		"UndiDalamPeti" : 45438,
+		"PeratusUndi" : "63.1",
+		"Majoriti" : 12618,
+		"MasaSah" : "2022-11-19T15:49:20.463Z"
+	},
+	{
+		"KodParlimen" : "033",
+		"KodDun" : "03300",
+		"UndiDalamPeti" : 86241,
+		"PeratusUndi" : "77.5",
+		"Majoriti" : 18666,
+		"MasaSah" : "2022-11-19T15:48:31.483Z"
+	},
+	{
+		"KodParlimen" : "040",
+		"KodDun" : "04000",
+		"UndiDalamPeti" : 114383,
+		"PeratusUndi" : "82.1",
+		"Majoriti" : 27179,
+		"MasaSah" : "2022-11-19T15:48:25.477Z"
+	},
+	{
+		"KodParlimen" : "013",
+		"KodDun" : "01300",
+		"UndiDalamPeti" : 51577,
+		"PeratusUndi" : "81.8",
+		"Majoriti" : 21787,
+		"MasaSah" : "2022-11-19T15:46:58.087Z"
+	},
+	{
+		"KodParlimen" : "161",
+		"KodDun" : "16100",
+		"UndiDalamPeti" : 118066,
+		"PeratusUndi" : "71.6",
+		"Majoriti" : 33174,
+		"MasaSah" : "2022-11-19T15:45:59.883Z"
+	},
+	{
+		"KodParlimen" : "215",
+		"KodDun" : "21500",
+		"UndiDalamPeti" : 22381,
+		"PeratusUndi" : "49.9",
+		"Majoriti" : 12402,
+		"MasaSah" : "2022-11-19T15:44:44.703Z"
+	},
+	{
+		"KodParlimen" : "129",
+		"KodDun" : "12900",
+		"UndiDalamPeti" : 49151,
+		"PeratusUndi" : "78.1",
+		"Majoriti" : 6483,
+		"MasaSah" : "2022-11-19T15:44:13.847Z"
+	},
+	{
+		"KodParlimen" : "218",
+		"KodDun" : "21800",
+		"UndiDalamPeti" : 34284,
+		"PeratusUndi" : "58.7",
+		"Majoriti" : 11745,
+		"MasaSah" : "2022-11-19T15:43:08.107Z"
+	},
+	{
+		"KodParlimen" : "158",
+		"KodDun" : "15800",
+		"UndiDalamPeti" : 168979,
+		"PeratusUndi" : "75.9",
+		"Majoriti" : 30720,
+		"MasaSah" : "2022-11-19T15:42:55.123Z"
+	},
+	{
+		"KodParlimen" : "159",
+		"KodDun" : "15900",
+		"UndiDalamPeti" : 150578,
+		"PeratusUndi" : "76",
+		"Majoriti" : 31558,
+		"MasaSah" : "2022-11-19T15:41:00.110Z"
+	},
+	{
+		"KodParlimen" : "047",
+		"KodDun" : "04700",
+		"UndiDalamPeti" : 80329,
+		"PeratusUndi" : "80.4",
+		"Majoriti" : 16293,
+		"MasaSah" : "2022-11-19T15:40:03.383Z"
+	},
+	{
+		"KodParlimen" : "036",
+		"KodDun" : "03600",
+		"UndiDalamPeti" : 97319,
+		"PeratusUndi" : "79.2",
+		"Majoriti" : 40907,
+		"MasaSah" : "2022-11-19T15:39:54.273Z"
+	},
+	{
+		"KodParlimen" : "139",
+		"KodDun" : "13900",
+		"UndiDalamPeti" : 78151,
+		"PeratusUndi" : "81.4",
+		"Majoriti" : 322,
+		"MasaSah" : "2022-11-19T15:37:55.847Z"
+	},
+	{
+		"KodParlimen" : "179",
+		"KodDun" : "17900",
+		"UndiDalamPeti" : 42681,
+		"PeratusUndi" : "64.4",
+		"Majoriti" : 11092,
+		"MasaSah" : "2022-11-19T15:36:32.990Z"
+	},
+	{
+		"KodParlimen" : "003",
+		"KodDun" : "00312",
+		"UndiDalamPeti" : 10388,
+		"PeratusUndi" : "78.1",
+		"Majoriti" : 2485,
+		"MasaSah" : "2022-11-19T15:36:22.277Z"
+	},
+	{
+		"KodParlimen" : "019",
+		"KodDun" : "01900",
+		"UndiDalamPeti" : 105892,
+		"PeratusUndi" : "71.1",
+		"Majoriti" : 34793,
+		"MasaSah" : "2022-11-19T15:31:20.120Z"
+	},
+	{
+		"KodParlimen" : "178",
+		"KodDun" : "17800",
+		"UndiDalamPeti" : 29708,
+		"PeratusUndi" : "65",
+		"Majoriti" : 4691,
+		"MasaSah" : "2022-11-19T15:30:24.867Z"
+	},
+	{
+		"KodParlimen" : "135",
+		"KodDun" : "13500",
+		"UndiDalamPeti" : 73726,
+		"PeratusUndi" : "79.2",
+		"Majoriti" : 890,
+		"MasaSah" : "2022-11-19T15:30:14.240Z"
+	},
+	{
+		"KodParlimen" : "092",
+		"KodDun" : "09200",
+		"UndiDalamPeti" : 41423,
+		"PeratusUndi" : "80.4",
+		"Majoriti" : 5056,
+		"MasaSah" : "2022-11-19T15:28:58.347Z"
+	},
+	{
+		"KodParlimen" : "027",
+		"KodDun" : "02700",
+		"UndiDalamPeti" : 70310,
+		"PeratusUndi" : "71.5",
+		"Majoriti" : 44485,
+		"MasaSah" : "2022-11-19T15:27:26.363Z"
+	},
+	{
+		"KodParlimen" : "194",
+		"KodDun" : "19400",
+		"UndiDalamPeti" : 69714,
+		"PeratusUndi" : "63.8",
+		"Majoriti" : 41363,
+		"MasaSah" : "2022-11-19T15:27:21.897Z"
+	},
+	{
+		"KodParlimen" : "035",
+		"KodDun" : "03500",
+		"UndiDalamPeti" : 88364,
+		"PeratusUndi" : "83.6",
+		"Majoriti" : 29765,
+		"MasaSah" : "2022-11-19T15:26:26.767Z"
+	},
+	{
+		"KodParlimen" : "096",
+		"KodDun" : "09600",
+		"UndiDalamPeti" : 87553,
+		"PeratusUndi" : "85.2",
+		"Majoriti" : 1002,
+		"MasaSah" : "2022-11-19T15:26:19.927Z"
+	},
+	{
+		"KodParlimen" : "037",
+		"KodDun" : "03700",
+		"UndiDalamPeti" : 110016,
+		"PeratusUndi" : "83.7",
+		"Majoriti" : 41729,
+		"MasaSah" : "2022-11-19T15:23:15.397Z"
+	},
+	{
+		"KodParlimen" : "162",
+		"KodDun" : "16200",
+		"UndiDalamPeti" : 164995,
+		"PeratusUndi" : "74.4",
+		"Majoriti" : 60036,
+		"MasaSah" : "2022-11-19T15:23:13.050Z"
+	},
+	{
+		"KodParlimen" : "038",
+		"KodDun" : "03800",
+		"UndiDalamPeti" : 72801,
+		"PeratusUndi" : "83",
+		"Majoriti" : 15734,
+		"MasaSah" : "2022-11-19T15:23:09.790Z"
+	},
+	{
+		"KodParlimen" : "193",
+		"KodDun" : "19300",
+		"UndiDalamPeti" : 52459,
+		"PeratusUndi" : "66.3",
+		"Majoriti" : 38681,
+		"MasaSah" : "2022-11-19T15:21:56.650Z"
+	},
+	{
+		"KodParlimen" : "211",
+		"KodDun" : "21100",
+		"UndiDalamPeti" : 53811,
+		"PeratusUndi" : "61.8",
+		"Majoriti" : 11544,
+		"MasaSah" : "2022-11-19T15:21:37.707Z"
+	},
+	{
+		"KodParlimen" : "009",
+		"KodDun" : "00900",
+		"UndiDalamPeti" : 77760,
+		"PeratusUndi" : "73.6",
+		"Majoriti" : 9931,
+		"MasaSah" : "2022-11-19T15:21:08.973Z"
+	},
+	{
+		"KodParlimen" : "201",
+		"KodDun" : "20100",
+		"UndiDalamPeti" : 28017,
+		"PeratusUndi" : "65.3",
+		"Majoriti" : 14463,
+		"MasaSah" : "2022-11-19T15:19:08.250Z"
+	},
+	{
+		"KodParlimen" : "022",
+		"KodDun" : "02200",
+		"UndiDalamPeti" : 65972,
+		"PeratusUndi" : "70",
+		"Majoriti" : 30717,
+		"MasaSah" : "2022-11-19T15:18:25.077Z"
+	},
+	{
+		"KodParlimen" : "100",
+		"KodDun" : "10000",
+		"UndiDalamPeti" : 116262,
+		"PeratusUndi" : "78.3",
+		"Majoriti" : 48296,
+		"MasaSah" : "2022-11-19T15:15:33.873Z"
+	},
+	{
+		"KodParlimen" : "026",
+		"KodDun" : "02600",
+		"UndiDalamPeti" : 63762,
+		"PeratusUndi" : "75.1",
+		"Majoriti" : 23107,
+		"MasaSah" : "2022-11-19T15:14:08.670Z"
+	},
+	{
+		"KodParlimen" : "191",
+		"KodDun" : "19100",
+		"UndiDalamPeti" : 50545,
+		"PeratusUndi" : "60.5",
+		"Majoriti" : 9100,
+		"MasaSah" : "2022-11-19T15:13:12.347Z"
+	},
+	{
+		"KodParlimen" : "154",
+		"KodDun" : "15400",
+		"UndiDalamPeti" : 47294,
+		"PeratusUndi" : "71.6",
+		"Majoriti" : 2337,
+		"MasaSah" : "2022-11-19T15:12:57.860Z"
+	},
+	{
+		"KodParlimen" : "043",
+		"KodDun" : "04300",
+		"UndiDalamPeti" : 69392,
+		"PeratusUndi" : "77.7",
+		"Majoriti" : 49648,
+		"MasaSah" : "2022-11-19T15:12:47.077Z"
+	},
+	{
+		"KodParlimen" : "050",
+		"KodDun" : "05000",
+		"UndiDalamPeti" : 71565,
+		"PeratusUndi" : "76.3",
+		"Majoriti" : 38604,
+		"MasaSah" : "2022-11-19T15:11:57.563Z"
+	},
+	{
+		"KodParlimen" : "169",
+		"KodDun" : "16900",
+		"UndiDalamPeti" : 54786,
+		"PeratusUndi" : "69.2",
+		"Majoriti" : 4582,
+		"MasaSah" : "2022-11-19T15:11:47.760Z"
+	},
+	{
+		"KodParlimen" : "180",
+		"KodDun" : "18000",
+		"UndiDalamPeti" : 55296,
+		"PeratusUndi" : "63.4",
+		"Majoriti" : 8056,
+		"MasaSah" : "2022-11-19T15:11:22.207Z"
+	},
+	{
+		"KodParlimen" : "160",
+		"KodDun" : "16000",
+		"UndiDalamPeti" : 95230,
+		"PeratusUndi" : "70",
+		"Majoriti" : 16041,
+		"MasaSah" : "2022-11-19T15:10:14.343Z"
+	},
+	{
+		"KodParlimen" : "138",
+		"KodDun" : "13800",
+		"UndiDalamPeti" : 124519,
+		"PeratusUndi" : "76",
+		"Majoriti" : 46420,
+		"MasaSah" : "2022-11-19T15:09:28.687Z"
+	},
+	{
+		"KodParlimen" : "183",
+		"KodDun" : "18300",
+		"UndiDalamPeti" : 29868,
+		"PeratusUndi" : "67",
+		"Majoriti" : 1594,
+		"MasaSah" : "2022-11-19T15:08:23.147Z"
+	},
+	{
+		"KodParlimen" : "021",
+		"KodDun" : "02100",
+		"UndiDalamPeti" : 78740,
+		"PeratusUndi" : "68.5",
+		"Majoriti" : 22613,
+		"MasaSah" : "2022-11-19T15:07:07.863Z"
+	},
+	{
+		"KodParlimen" : "136",
+		"KodDun" : "13600",
+		"UndiDalamPeti" : 92746,
+		"PeratusUndi" : "80.2",
+		"Majoriti" : 8849,
+		"MasaSah" : "2022-11-19T15:06:38.143Z"
+	},
+	{
+		"KodParlimen" : "153",
+		"KodDun" : "15300",
+		"UndiDalamPeti" : 41320,
+		"PeratusUndi" : "75.4",
+		"Majoriti" : 10880,
+		"MasaSah" : "2022-11-19T15:03:54.820Z"
+	},
+	{
+		"KodParlimen" : "165",
+		"KodDun" : "16500",
+		"UndiDalamPeti" : 54983,
+		"PeratusUndi" : "78",
+		"Majoriti" : 6360,
+		"MasaSah" : "2022-11-19T15:03:28.280Z"
+	},
+	{
+		"KodParlimen" : "144",
+		"KodDun" : "14400",
+		"UndiDalamPeti" : 81145,
+		"PeratusUndi" : "77.8",
+		"Majoriti" : 9769,
+		"MasaSah" : "2022-11-19T15:02:51.580Z"
+	},
+	{
+		"KodParlimen" : "114",
+		"KodDun" : "11400",
+		"UndiDalamPeti" : 72587,
+		"PeratusUndi" : "77.2",
+		"Majoriti" : 61081,
+		"MasaSah" : "2022-11-19T15:02:40.857Z"
+	},
+	{
+		"KodParlimen" : "032",
+		"KodDun" : "03200",
+		"UndiDalamPeti" : 49120,
+		"PeratusUndi" : "70.7",
+		"Majoriti" : 163,
+		"MasaSah" : "2022-11-19T14:58:34.140Z"
+	},
+	{
+		"KodParlimen" : "148",
+		"KodDun" : "14800",
+		"UndiDalamPeti" : 47053,
+		"PeratusUndi" : "77.3",
+		"Majoriti" : 2963,
+		"MasaSah" : "2022-11-19T14:58:07.523Z"
+	},
+	{
+		"KodParlimen" : "120",
+		"KodDun" : "12000",
+		"UndiDalamPeti" : 53154,
+		"PeratusUndi" : "66.7",
+		"Majoriti" : 38977,
+		"MasaSah" : "2022-11-19T14:58:04.390Z"
+	},
+	{
+		"KodParlimen" : "186",
+		"KodDun" : "18600",
+		"UndiDalamPeti" : 31399,
+		"PeratusUndi" : "56.8",
+		"Majoriti" : 11031,
+		"MasaSah" : "2022-11-19T14:56:49.780Z"
+	},
+	{
+		"KodParlimen" : "007",
+		"KodDun" : "00700",
+		"UndiDalamPeti" : 49261,
+		"PeratusUndi" : "82.5",
+		"Majoriti" : 10959,
+		"MasaSah" : "2022-11-19T14:56:08.227Z"
+	},
+	{
+		"KodParlimen" : "146",
+		"KodDun" : "14600",
+		"UndiDalamPeti" : 53532,
+		"PeratusUndi" : "77.9",
+		"Majoriti" : 1345,
+		"MasaSah" : "2022-11-19T14:53:38.790Z"
+	},
+	{
+		"KodParlimen" : "195",
+		"KodDun" : "19500",
+		"UndiDalamPeti" : 63876,
+		"PeratusUndi" : "58.4",
+		"Majoriti" : 28891,
+		"MasaSah" : "2022-11-19T14:53:00.517Z"
+	},
+	{
+		"KodParlimen" : "133",
+		"KodDun" : "13300",
+		"UndiDalamPeti" : 61814,
+		"PeratusUndi" : "76.4",
+		"Majoriti" : 1276,
+		"MasaSah" : "2022-11-19T14:52:18.430Z"
+	},
+	{
+		"KodParlimen" : "176",
+		"KodDun" : "17600",
+		"UndiDalamPeti" : 31412,
+		"PeratusUndi" : "77.3",
+		"Majoriti" : 3037,
+		"MasaSah" : "2022-11-19T14:51:03.233Z"
+	},
+	{
+		"KodParlimen" : "095",
+		"KodDun" : "09500",
+		"UndiDalamPeti" : 51778,
+		"PeratusUndi" : "83.4",
+		"Majoriti" : 2180,
+		"MasaSah" : "2022-11-19T14:50:41.223Z"
+	},
+	{
+		"KodParlimen" : "152",
+		"KodDun" : "15200",
+		"UndiDalamPeti" : 96825,
+		"PeratusUndi" : "73.4",
+		"Majoriti" : 26406,
+		"MasaSah" : "2022-11-19T14:47:50.407Z"
+	},
+	{
+		"KodParlimen" : "143",
+		"KodDun" : "14300",
+		"UndiDalamPeti" : 54810,
+		"PeratusUndi" : "78.5",
+		"Majoriti" : 10007,
+		"MasaSah" : "2022-11-19T14:46:06.937Z"
+	},
+	{
+		"KodParlimen" : "134",
+		"KodDun" : "13400",
+		"UndiDalamPeti" : 55155,
+		"PeratusUndi" : "79.9",
+		"Majoriti" : 4411,
+		"MasaSah" : "2022-11-19T14:41:47.893Z"
+	},
+	{
+		"KodParlimen" : "155",
+		"KodDun" : "15500",
+		"UndiDalamPeti" : 51796,
+		"PeratusUndi" : "77.3",
+		"Majoriti" : 2991,
+		"MasaSah" : "2022-11-19T14:41:24.190Z"
+	},
+	{
+		"KodParlimen" : "202",
+		"KodDun" : "20200",
+		"UndiDalamPeti" : 32352,
+		"PeratusUndi" : "64.7",
+		"Majoriti" : 4039,
+		"MasaSah" : "2022-11-19T14:39:33.983Z"
+	},
+	{
+		"KodParlimen" : "164",
+		"KodDun" : "16400",
+		"UndiDalamPeti" : 57471,
+		"PeratusUndi" : "77",
+		"Majoriti" : 5758,
+		"MasaSah" : "2022-11-19T14:36:44.997Z"
+	},
+	{
+		"KodParlimen" : "198",
+		"KodDun" : "19800",
+		"UndiDalamPeti" : 51794,
+		"PeratusUndi" : "65.1",
+		"Majoriti" : 13338,
+		"MasaSah" : "2022-11-19T14:36:30.690Z"
+	},
+	{
+		"KodParlimen" : "172",
+		"KodDun" : "17200",
+		"UndiDalamPeti" : 44477,
+		"PeratusUndi" : "60.3",
+		"Majoriti" : 23783,
+		"MasaSah" : "2022-11-19T14:36:11.040Z"
+	},
+	{
+		"KodParlimen" : "190",
+		"KodDun" : "19000",
+		"UndiDalamPeti" : 51384,
+		"PeratusUndi" : "59",
+		"Majoriti" : 3800,
+		"MasaSah" : "2022-11-19T14:34:36.760Z"
+	},
+	{
+		"KodParlimen" : "147",
+		"KodDun" : "14700",
+		"UndiDalamPeti" : 63453,
+		"PeratusUndi" : "80.1",
+		"Majoriti" : 2021,
+		"MasaSah" : "2022-11-19T14:33:00.450Z"
+	},
+	{
+		"KodParlimen" : "210",
+		"KodDun" : "21000",
+		"UndiDalamPeti" : 18349,
+		"PeratusUndi" : "59.4",
+		"Majoriti" : 236,
+		"MasaSah" : "2022-11-19T14:32:18.430Z"
+	},
+	{
+		"KodParlimen" : "028",
+		"KodDun" : "02800",
+		"UndiDalamPeti" : 81991,
+		"PeratusUndi" : "72.7",
+		"Majoriti" : 29109,
+		"MasaSah" : "2022-11-19T14:32:01.497Z"
+	},
+	{
+		"KodParlimen" : "145",
+		"KodDun" : "14500",
+		"UndiDalamPeti" : 73882,
+		"PeratusUndi" : "76.2",
+		"Majoriti" : 19254,
+		"MasaSah" : "2022-11-19T14:31:41.880Z"
+	},
+	{
+		"KodParlimen" : "199",
+		"KodDun" : "19900",
+		"UndiDalamPeti" : 40485,
+		"PeratusUndi" : "62.2",
+		"Majoriti" : 16697,
+		"MasaSah" : "2022-11-19T14:30:54.023Z"
+	},
+	{
+		"KodParlimen" : "216",
+		"KodDun" : "21600",
+		"UndiDalamPeti" : 23718,
+		"PeratusUndi" : "54.8",
+		"Majoriti" : 7505,
+		"MasaSah" : "2022-11-19T14:30:18.720Z"
+	},
+	{
+		"KodParlimen" : "209",
+		"KodDun" : "20900",
+		"UndiDalamPeti" : 22868,
+		"PeratusUndi" : "65.8",
+		"Majoriti" : 1340,
+		"MasaSah" : "2022-11-19T14:27:16.110Z"
+	},
+	{
+		"KodParlimen" : "192",
+		"KodDun" : "19200",
+		"UndiDalamPeti" : 31798,
+		"PeratusUndi" : "67.6",
+		"Majoriti" : 5480,
+		"MasaSah" : "2022-11-19T14:25:14.560Z"
+	},
+	{
+		"KodParlimen" : "203",
+		"KodDun" : "20300",
+		"UndiDalamPeti" : 19494,
+		"PeratusUndi" : "67.4",
+		"Majoriti" : 100,
+		"MasaSah" : "2022-11-19T14:21:51.040Z"
+	},
+	{
+		"KodParlimen" : "141",
+		"KodDun" : "14100",
+		"UndiDalamPeti" : 48712,
+		"PeratusUndi" : "76.4",
+		"Majoriti" : 1734,
+		"MasaSah" : "2022-11-19T14:21:00.827Z"
+	},
+	{
+		"KodParlimen" : "196",
+		"KodDun" : "19600",
+		"UndiDalamPeti" : 74299,
+		"PeratusUndi" : "61.6",
+		"Majoriti" : 7158,
+		"MasaSah" : "2022-11-19T14:20:44.563Z"
+	},
+	{
+		"KodParlimen" : "174",
+		"KodDun" : "17400",
+		"UndiDalamPeti" : 51175,
+		"PeratusUndi" : "66.4",
+		"Majoriti" : 14410,
+		"MasaSah" : "2022-11-19T14:19:24.110Z"
+	},
+	{
+		"KodParlimen" : "166",
+		"KodDun" : "16600",
+		"UndiDalamPeti" : 28695,
+		"PeratusUndi" : "64.7",
+		"Majoriti" : 708,
+		"MasaSah" : "2022-11-19T14:18:08.697Z"
+	},
+	{
+		"KodParlimen" : "156",
+		"KodDun" : "15600",
+		"UndiDalamPeti" : 47651,
+		"PeratusUndi" : "78.5",
+		"Majoriti" : 8390,
+		"MasaSah" : "2022-11-19T14:17:44.940Z"
+	},
+	{
+		"KodParlimen" : "208",
+		"KodDun" : "20800",
+		"UndiDalamPeti" : 36899,
+		"PeratusUndi" : "67.3",
+		"Majoriti" : 3697,
+		"MasaSah" : "2022-11-19T14:17:30.820Z"
+	},
+	{
+		"KodParlimen" : "157",
+		"KodDun" : "15700",
+		"UndiDalamPeti" : 42159,
+		"PeratusUndi" : "76.4",
+		"Majoriti" : 5010,
+		"MasaSah" : "2022-11-19T14:14:02.223Z"
+	},
+	{
+		"KodParlimen" : "197",
+		"KodDun" : "19700",
+		"UndiDalamPeti" : 56003,
+		"PeratusUndi" : "68.4",
+		"Majoriti" : 29445,
+		"MasaSah" : "2022-11-19T14:13:46.737Z"
+	},
+	{
+		"KodParlimen" : "151",
+		"KodDun" : "15100",
+		"UndiDalamPeti" : 44669,
+		"PeratusUndi" : "75.9",
+		"Majoriti" : 1821,
+		"MasaSah" : "2022-11-19T14:11:04.067Z"
+	},
+	{
+		"KodParlimen" : "049",
+		"KodDun" : "04900",
+		"UndiDalamPeti" : 38069,
+		"PeratusUndi" : "72.2",
+		"Majoriti" : 28754,
+		"MasaSah" : "2022-11-19T14:03:39.663Z"
+	},
+	{
+		"KodParlimen" : "142",
+		"KodDun" : "14200",
+		"UndiDalamPeti" : 35179,
+		"PeratusUndi" : "70.8",
+		"Majoriti" : 2833,
+		"MasaSah" : "2022-11-19T14:03:24.520Z"
+	},
+	{
+		"KodParlimen" : "206",
+		"KodDun" : "20600",
+		"UndiDalamPeti" : 19278,
+		"PeratusUndi" : "58.9",
+		"Majoriti" : 13908,
+		"MasaSah" : "2022-11-19T14:00:51.133Z"
+	},
+	{
+		"KodParlimen" : "205",
+		"KodDun" : "20500",
+		"UndiDalamPeti" : 31217,
+		"PeratusUndi" : "70.3",
+		"Majoriti" : 8826,
+		"MasaSah" : "2022-11-19T13:56:44.297Z"
+	},
+	{
+		"KodParlimen" : "177",
+		"KodDun" : "17700",
+		"UndiDalamPeti" : 29850,
+		"PeratusUndi" : "69.2",
+		"Majoriti" : 2518,
+		"MasaSah" : "2022-11-19T13:52:51.123Z"
+	},
+	{
+		"KodParlimen" : "204",
+		"KodDun" : "20400",
+		"UndiDalamPeti" : 27141,
+		"PeratusUndi" : "65.3",
+		"Majoriti" : 11302,
+		"MasaSah" : "2022-11-19T13:36:44.593Z"
+	},
+	{
+		"KodParlimen" : "222",
+		"KodDun" : "22200",
+		"UndiDalamPeti" : 18406,
+		"PeratusUndi" : "55",
+		"Majoriti" : 5677,
+		"MasaSah" : "2022-11-19T13:32:37.043Z"
+	},
+	{
+		"KodParlimen" : "200",
+		"KodDun" : "20000",
+		"UndiDalamPeti" : 22822,
+		"PeratusUndi" : "70.2",
+		"Majoriti" : 14893,
+		"MasaSah" : "2022-11-19T13:28:50.030Z"
+	},
+	{
+		"KodParlimen" : "213",
+		"KodDun" : "21300",
+		"UndiDalamPeti" : 28096,
+		"PeratusUndi" : "60",
+		"Majoriti" : 15686,
+		"MasaSah" : "2022-11-19T13:09:43.317Z"
+	},
+	{
+		"KodParlimen" : "207",
+		"KodDun" : "20700",
+		"UndiDalamPeti" : 17220,
+		"PeratusUndi" : "61.1",
+		"Majoriti" : 14662,
+		"MasaSah" : "2022-11-19T12:39:38.477Z"
+	},
+	{
+		"KodParlimen" : "071",
+		"KodDun" : "07146",
+		"UndiDalamPeti" : 23566,
+		"PeratusUndi" : "71.6",
+		"Majoriti" : 4555,
+		"MasaSah" : "2022-11-05T01:58:32.847Z"
+	},
+	{
+		"KodParlimen" : "075",
+		"KodDun" : "07553",
+		"UndiDalamPeti" : 14421,
+		"PeratusUndi" : "73.4",
+		"Majoriti" : 3409,
+		"MasaSah" : "2022-11-05T01:31:58.773Z"
+	},
+	{
+		"KodParlimen" : "168",
+		"KodDun" : "16800",
+		"UndiDalamPeti" : 50701,
+		"PeratusUndi" : "63.0",
+		"Majoriti" : 8174,
+		"MasaSah" : "2022-11-05T01:30:21.303Z"
 	}
 ]

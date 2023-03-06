@@ -1,0 +1,1112 @@
+[
+	{
+		"KodParlimen" : "001",
+		"Penerangan" : "PADANG BESAR",
+		"Negeri" : "PERLIS"
+	},
+	{
+		"KodParlimen" : "002",
+		"Penerangan" : "KANGAR",
+		"Negeri" : "PERLIS"
+	},
+	{
+		"KodParlimen" : "003",
+		"Penerangan" : "ARAU",
+		"Negeri" : "PERLIS"
+	},
+	{
+		"KodParlimen" : "004",
+		"Penerangan" : "LANGKAWI",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "005",
+		"Penerangan" : "JERLUN",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "006",
+		"Penerangan" : "KUBANG PASU",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "007",
+		"Penerangan" : "PADANG TERAP",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "008",
+		"Penerangan" : "POKOK SENA",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "009",
+		"Penerangan" : "ALOR SETAR",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "010",
+		"Penerangan" : "KUALA KEDAH",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "011",
+		"Penerangan" : "PENDANG",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "012",
+		"Penerangan" : "JERAI",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "013",
+		"Penerangan" : "SIK",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "014",
+		"Penerangan" : "MERBOK",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "015",
+		"Penerangan" : "SUNGAI PETANI",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "016",
+		"Penerangan" : "BALING",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "017",
+		"Penerangan" : "PADANG SERAI",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "018",
+		"Penerangan" : "KULIM-BANDAR BAHARU",
+		"Negeri" : "KEDAH"
+	},
+	{
+		"KodParlimen" : "019",
+		"Penerangan" : "TUMPAT",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "020",
+		"Penerangan" : "PENGKALAN CHEPA",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "021",
+		"Penerangan" : "KOTA BHARU",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "022",
+		"Penerangan" : "PASIR MAS",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "023",
+		"Penerangan" : "RANTAU PANJANG",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "024",
+		"Penerangan" : "KUBANG KERIAN",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "025",
+		"Penerangan" : "BACHOK",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "026",
+		"Penerangan" : "KETEREH",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "027",
+		"Penerangan" : "TANAH MERAH",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "028",
+		"Penerangan" : "PASIR PUTEH",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "029",
+		"Penerangan" : "MACHANG",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "030",
+		"Penerangan" : "JELI",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "031",
+		"Penerangan" : "KUALA KRAI",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "032",
+		"Penerangan" : "GUA MUSANG",
+		"Negeri" : "KELANTAN"
+	},
+	{
+		"KodParlimen" : "033",
+		"Penerangan" : "BESUT",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "034",
+		"Penerangan" : "SETIU",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "035",
+		"Penerangan" : "KUALA NERUS",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "036",
+		"Penerangan" : "KUALA TERENGGANU",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "037",
+		"Penerangan" : "MARANG",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "038",
+		"Penerangan" : "HULU TERENGGANU",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "039",
+		"Penerangan" : "DUNGUN",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "040",
+		"Penerangan" : "KEMAMAN",
+		"Negeri" : "TERENGGANU"
+	},
+	{
+		"KodParlimen" : "041",
+		"Penerangan" : "KEPALA BATAS",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "042",
+		"Penerangan" : "TASEK GELUGOR",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "043",
+		"Penerangan" : "BAGAN",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "044",
+		"Penerangan" : "PERMATANG PAUH",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "045",
+		"Penerangan" : "BUKIT MERTAJAM",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "046",
+		"Penerangan" : "BATU KAWAN",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "047",
+		"Penerangan" : "NIBONG TEBAL",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "048",
+		"Penerangan" : "BUKIT BENDERA",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "049",
+		"Penerangan" : "TANJONG",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "050",
+		"Penerangan" : "JELUTONG",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "051",
+		"Penerangan" : "BUKIT GELUGOR",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "052",
+		"Penerangan" : "BAYAN BARU",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "053",
+		"Penerangan" : "BALIK PULAU",
+		"Negeri" : "PULAU PINANG"
+	},
+	{
+		"KodParlimen" : "054",
+		"Penerangan" : "GERIK",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "055",
+		"Penerangan" : "LENGGONG",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "056",
+		"Penerangan" : "LARUT",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "057",
+		"Penerangan" : "PARIT BUNTAR",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "058",
+		"Penerangan" : "BAGAN SERAI",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "059",
+		"Penerangan" : "BUKIT GANTANG",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "060",
+		"Penerangan" : "TAIPING",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "061",
+		"Penerangan" : "PADANG RENGAS",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "062",
+		"Penerangan" : "SUNGAI SIPUT",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "063",
+		"Penerangan" : "TAMBUN",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "064",
+		"Penerangan" : "IPOH TIMOR",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "065",
+		"Penerangan" : "IPOH BARAT",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "066",
+		"Penerangan" : "BATU GAJAH",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "067",
+		"Penerangan" : "KUALA KANGSAR",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "068",
+		"Penerangan" : "BERUAS",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "069",
+		"Penerangan" : "PARIT",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "070",
+		"Penerangan" : "KAMPAR",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "071",
+		"Penerangan" : "GOPENG",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "072",
+		"Penerangan" : "TAPAH",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "073",
+		"Penerangan" : "PASIR SALAK",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "074",
+		"Penerangan" : "LUMUT",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "075",
+		"Penerangan" : "BAGAN DATUK",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "076",
+		"Penerangan" : "TELUK INTAN",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "077",
+		"Penerangan" : "TANJONG MALIM",
+		"Negeri" : "PERAK"
+	},
+	{
+		"KodParlimen" : "078",
+		"Penerangan" : "CAMERON HIGHLANDS",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "079",
+		"Penerangan" : "LIPIS",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "080",
+		"Penerangan" : "RAUB",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "081",
+		"Penerangan" : "JERANTUT",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "082",
+		"Penerangan" : "INDERA MAHKOTA",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "083",
+		"Penerangan" : "KUANTAN",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "084",
+		"Penerangan" : "PAYA BESAR",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "085",
+		"Penerangan" : "PEKAN",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "086",
+		"Penerangan" : "MARAN",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "087",
+		"Penerangan" : "KUALA KRAU",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "088",
+		"Penerangan" : "TEMERLOH",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "089",
+		"Penerangan" : "BENTONG",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "090",
+		"Penerangan" : "BERA",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "091",
+		"Penerangan" : "ROMPIN",
+		"Negeri" : "PAHANG"
+	},
+	{
+		"KodParlimen" : "092",
+		"Penerangan" : "SABAK BERNAM",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "093",
+		"Penerangan" : "SUNGAI BESAR",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "094",
+		"Penerangan" : "HULU SELANGOR",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "095",
+		"Penerangan" : "TANJONG KARANG",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "096",
+		"Penerangan" : "KUALA SELANGOR",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "097",
+		"Penerangan" : "SELAYANG",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "098",
+		"Penerangan" : "GOMBAK",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "099",
+		"Penerangan" : "AMPANG",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "100",
+		"Penerangan" : "PANDAN",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "101",
+		"Penerangan" : "HULU LANGAT",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "102",
+		"Penerangan" : "BANGI",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "103",
+		"Penerangan" : "PUCHONG",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "104",
+		"Penerangan" : "SUBANG",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "105",
+		"Penerangan" : "PETALING JAYA",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "106",
+		"Penerangan" : "DAMANSARA",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "107",
+		"Penerangan" : "SUNGAI BULOH",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "108",
+		"Penerangan" : "SHAH ALAM",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "109",
+		"Penerangan" : "KAPAR",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "110",
+		"Penerangan" : "KLANG",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "111",
+		"Penerangan" : "KOTA RAJA",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "112",
+		"Penerangan" : "KUALA LANGAT",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "113",
+		"Penerangan" : "SEPANG",
+		"Negeri" : "SELANGOR"
+	},
+	{
+		"KodParlimen" : "114",
+		"Penerangan" : "KEPONG",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "115",
+		"Penerangan" : "BATU",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "116",
+		"Penerangan" : "WANGSA MAJU",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "117",
+		"Penerangan" : "SEGAMBUT",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "118",
+		"Penerangan" : "SETIAWANGSA",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "119",
+		"Penerangan" : "TITIWANGSA",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "120",
+		"Penerangan" : "BUKIT BINTANG",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "121",
+		"Penerangan" : "LEMBAH PANTAI",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "122",
+		"Penerangan" : "SEPUTEH",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "123",
+		"Penerangan" : "CHERAS",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "124",
+		"Penerangan" : "BANDAR TUN RAZAK",
+		"Negeri" : "W.P KUALA LUMPUR"
+	},
+	{
+		"KodParlimen" : "125",
+		"Penerangan" : "PUTRAJAYA",
+		"Negeri" : "W.P PUTRAJAYA"
+	},
+	{
+		"KodParlimen" : "126",
+		"Penerangan" : "JELEBU",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "127",
+		"Penerangan" : "JEMPOL",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "128",
+		"Penerangan" : "SEREMBAN",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "129",
+		"Penerangan" : "KUALA PILAH",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "130",
+		"Penerangan" : "RASAH",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "131",
+		"Penerangan" : "REMBAU",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "132",
+		"Penerangan" : "PORT DICKSON",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "133",
+		"Penerangan" : "TAMPIN",
+		"Negeri" : "NEGERI SEMBILAN"
+	},
+	{
+		"KodParlimen" : "134",
+		"Penerangan" : "MASJID TANAH",
+		"Negeri" : "MELAKA"
+	},
+	{
+		"KodParlimen" : "135",
+		"Penerangan" : "ALOR GAJAH",
+		"Negeri" : "MELAKA"
+	},
+	{
+		"KodParlimen" : "136",
+		"Penerangan" : "TANGGA BATU",
+		"Negeri" : "MELAKA"
+	},
+	{
+		"KodParlimen" : "137",
+		"Penerangan" : "HANG TUAH JAYA",
+		"Negeri" : "MELAKA"
+	},
+	{
+		"KodParlimen" : "138",
+		"Penerangan" : "KOTA MELAKA",
+		"Negeri" : "MELAKA"
+	},
+	{
+		"KodParlimen" : "139",
+		"Penerangan" : "JASIN",
+		"Negeri" : "MELAKA"
+	},
+	{
+		"KodParlimen" : "140",
+		"Penerangan" : "SEGAMAT",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "141",
+		"Penerangan" : "SEKIJANG",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "142",
+		"Penerangan" : "LABIS",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "143",
+		"Penerangan" : "PAGOH",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "144",
+		"Penerangan" : "LEDANG",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "145",
+		"Penerangan" : "BAKRI",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "146",
+		"Penerangan" : "MUAR",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "147",
+		"Penerangan" : "PARIT SULONG",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "148",
+		"Penerangan" : "AYER HITAM",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "149",
+		"Penerangan" : "SRI GADING",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "150",
+		"Penerangan" : "BATU PAHAT",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "151",
+		"Penerangan" : "SIMPANG RENGGAM",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "152",
+		"Penerangan" : "KLUANG",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "153",
+		"Penerangan" : "SEMBRONG",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "154",
+		"Penerangan" : "MERSING",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "155",
+		"Penerangan" : "TENGGARA",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "156",
+		"Penerangan" : "KOTA TINGGI",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "157",
+		"Penerangan" : "PENGERANG",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "158",
+		"Penerangan" : "TEBRAU",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "159",
+		"Penerangan" : "PASIR GUDANG",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "160",
+		"Penerangan" : "JOHOR BAHRU",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "161",
+		"Penerangan" : "PULAI",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "162",
+		"Penerangan" : "ISKANDAR PUTERI",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "163",
+		"Penerangan" : "KULAI",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "164",
+		"Penerangan" : "PONTIAN",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "165",
+		"Penerangan" : "TANJUNG PIAI",
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "166",
+		"Penerangan" : "LABUAN",
+		"Negeri" : "W.P LABUAN"
+	},
+	{
+		"KodParlimen" : "167",
+		"Penerangan" : "KUDAT",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "168",
+		"Penerangan" : "KOTA MARUDU",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "169",
+		"Penerangan" : "KOTA BELUD",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "170",
+		"Penerangan" : "TUARAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "171",
+		"Penerangan" : "SEPANGGAR",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "172",
+		"Penerangan" : "KOTA KINABALU",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "173",
+		"Penerangan" : "PUTATAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "174",
+		"Penerangan" : "PENAMPANG",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "175",
+		"Penerangan" : "PAPAR",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "176",
+		"Penerangan" : "KIMANIS",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "177",
+		"Penerangan" : "BEAUFORT",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "178",
+		"Penerangan" : "SIPITANG",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "179",
+		"Penerangan" : "RANAU",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "180",
+		"Penerangan" : "KENINGAU",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "181",
+		"Penerangan" : "TENOM",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "182",
+		"Penerangan" : "PENSIANGAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "183",
+		"Penerangan" : "BELURAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "184",
+		"Penerangan" : "LIBARAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "185",
+		"Penerangan" : "BATU SAPI",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "186",
+		"Penerangan" : "SANDAKAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "187",
+		"Penerangan" : "KINABATANGAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "188",
+		"Penerangan" : "LAHAD DATU",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "189",
+		"Penerangan" : "SEMPORNA",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "190",
+		"Penerangan" : "TAWAU",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "191",
+		"Penerangan" : "KALABAKAN",
+		"Negeri" : "SABAH"
+	},
+	{
+		"KodParlimen" : "192",
+		"Penerangan" : "MAS GADING",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "193",
+		"Penerangan" : "SANTUBONG",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "194",
+		"Penerangan" : "PETRA JAYA",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "195",
+		"Penerangan" : "BANDAR KUCHING",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "196",
+		"Penerangan" : "STAMPIN",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "197",
+		"Penerangan" : "KOTA SAMARAHAN",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "198",
+		"Penerangan" : "PUNCAK BORNEO",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "199",
+		"Penerangan" : "SERIAN",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "200",
+		"Penerangan" : "BATANG SADONG",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "201",
+		"Penerangan" : "BATANG LUPAR",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "202",
+		"Penerangan" : "SRI AMAN",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "203",
+		"Penerangan" : "LUBOK ANTU",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "204",
+		"Penerangan" : "BETONG",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "205",
+		"Penerangan" : "SARATOK",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "206",
+		"Penerangan" : "TANJONG MANIS",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "207",
+		"Penerangan" : "IGAN",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "208",
+		"Penerangan" : "SARIKEI",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "209",
+		"Penerangan" : "JULAU",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "210",
+		"Penerangan" : "KANOWIT",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "211",
+		"Penerangan" : "LANANG",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "212",
+		"Penerangan" : "SIBU",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "213",
+		"Penerangan" : "MUKAH",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "214",
+		"Penerangan" : "SELANGAU",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "215",
+		"Penerangan" : "KAPIT",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "216",
+		"Penerangan" : "HULU RAJANG",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "217",
+		"Penerangan" : "BINTULU",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "218",
+		"Penerangan" : "SIBUTI",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "219",
+		"Penerangan" : "MIRI",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "220",
+		"Penerangan" : "BARAM",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "221",
+		"Penerangan" : "LIMBANG",
+		"Negeri" : "SARAWAK"
+	},
+	{
+		"KodParlimen" : "222",
+		"Penerangan" : "LAWAS",
+		"Negeri" : "SARAWAK"
+	}
+]
