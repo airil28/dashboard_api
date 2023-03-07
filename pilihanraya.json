@@ -30,5 +30,13 @@
     "TarikhPengundian": "2022-11-19",
     "JenisPRK" : "DUN",
 		"Jenis" : 30
-  }
+  },
+  {
+		"Kod" : "2016-01",
+		"Nama" : "PRU DUN SARAWAK KE-11",
+		"NamaSingkatan" : "PRU DUN SARAWAK KE-11",
+		"TarikhPengundian" : "2021-11-30",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	}
 ]

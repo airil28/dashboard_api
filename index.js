@@ -68,6 +68,10 @@ app.get('/2018-01/dppr', (req, res) => {
   res.sendFile(__dirname + '/2018-01/DPPR.json');
 });
 
+//pru dun johor ke 15
+app.get('/2022-01/calondun', (req, res) => {
+  res.sendFile(__dirname + '/2022-01/calon_dun.json');
+});
 
 app.get('/keputusan2', (req, res) => {
   res.writeHead(200, {

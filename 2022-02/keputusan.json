@@ -2670,5 +2670,21 @@
 		"PeratusUndi" : "63.0",
 		"Majoriti" : 8174,
 		"MasaSah" : "2022-11-05T01:30:21.303Z"
+	},
+	{
+		"KodParlimen" : "017",
+		"KodDun" : "01700",
+		"UndiDalamPeti" : 92169,
+		"PeratusUndi" : "69",
+		"Majoriti" : 16260,
+		"MasaSah" : "2022-12-07T14:40:23.277Z"
+	},
+	{
+		"KodParlimen" : "091",
+		"KodDun" : "09142",
+		"UndiDalamPeti" : 16599,
+		"PeratusUndi" : "58.4",
+		"Majoriti" : 573,
+		"MasaSah" : "2022-12-07T14:21:57.090Z"
 	}
 ]
