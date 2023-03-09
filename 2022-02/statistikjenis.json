@@ -1,0 +1,115 @@
+[
+
+	{
+		"Negeri" : "JOHOR",
+		"Jumlah" : 2616575,
+		"UndiAwal" : 23013,
+		"UndiBiasa" : 2593562,
+		"UndiPos" : 44174
+	},
+	{
+		"Negeri" : "KEDAH",
+		"Jumlah" : 1441938,
+		"UndiAwal" : 14733,
+		"UndiBiasa" : 1427205,
+		"UndiPos" : 29975
+	},
+	{
+		"Negeri" : "KELANTAN",
+		"Jumlah" : 1404763,
+		"UndiAwal" : 11196,
+		"UndiBiasa" : 1393567,
+		"UndiPos" : 29052
+	},
+	{
+		"Negeri" : "MELAKA",
+		"Jumlah" : 657324,
+		"UndiAwal" : 12679,
+		"UndiBiasa" : 644645,
+		"UndiPos" : 12816
+	},
+	{
+		"Negeri" : "NEGERI SEMBILAN",
+		"Jumlah" : 850865,
+		"UndiAwal" : 20368,
+		"UndiBiasa" : 830497,
+		"UndiPos" : 17325
+	},
+	{
+		"Negeri" : "PAHANG",
+		"Jumlah" : 1136944,
+		"UndiAwal" : 21274,
+		"UndiBiasa" : 1115670,
+		"UndiPos" : 21233
+	},
+	{
+		"Negeri" : "PERAK",
+		"Jumlah" : 2036872,
+		"UndiAwal" : 31510,
+		"UndiBiasa" : 2005362,
+		"UndiPos" : 40121
+	},
+	{
+		"Negeri" : "PERLIS",
+		"Jumlah" : 195927,
+		"UndiAwal" : 3685,
+		"UndiBiasa" : 192242,
+		"UndiPos" : 3656
+	},
+	{
+		"Negeri" : "PULAU PINANG",
+		"Jumlah" : 1226626,
+		"UndiAwal" : 11202,
+		"UndiBiasa" : 1215424,
+		"UndiPos" : 18552
+	},
+	{
+		"Negeri" : "SABAH",
+		"Jumlah" : 1689387,
+		"UndiAwal" : 21502,
+		"UndiBiasa" : 1667885,
+		"UndiPos" : 28331
+	},
+	{
+		"Negeri" : "SARAWAK",
+		"Jumlah" : 1943074,
+		"UndiAwal" : 22234,
+		"UndiBiasa" : 1920840,
+		"UndiPos" : 29228
+	},
+	{
+		"Negeri" : "SELANGOR",
+		"Jumlah" : 3677848,
+		"UndiAwal" : 25058,
+		"UndiBiasa" : 3652790,
+		"UndiPos" : 51807
+	},
+	{
+		"Negeri" : "TERENGGANU",
+		"Jumlah" : 922856,
+		"UndiAwal" : 7108,
+		"UndiBiasa" : 915748,
+		"UndiPos" : 14913
+	},
+	{
+		"Negeri" : "W.P KUALA LUMPUR",
+		"Jumlah" : 1151407,
+		"UndiAwal" : 39714,
+		"UndiBiasa" : 1111693,
+		"UndiPos" : 18202
+	},
+	{
+		"Negeri" : "W.P LABUAN",
+		"Jumlah" : 44484,
+		"UndiAwal" : 1450,
+		"UndiBiasa" : 43034,
+		"UndiPos" : 623
+	},
+	{
+		"Negeri" : "W.P PUTRAJAYA",
+		"Jumlah" : 42881,
+		"UndiAwal" : 1455,
+		"UndiBiasa" : 41426,
+		"UndiPos" : 1003
+	}
+]

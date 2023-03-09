@@ -46,6 +46,14 @@ app.get('/parlimen', (req, res) => {
   res.sendFile(__dirname + '/parlimen.json');
 });
 
+app.get('/statistikumur', (req, res) => {
+  res.sendFile(__dirname + '/2022-02/statistikumur.json');
+});
+
+app.get('/statistikjenis', (req, res) => {
+  res.sendFile(__dirname + '/2022-02/statistikjenis.json');
+});
+
 // PRU KE 14
 
 app.get('/2018-01/calonparlimen', (req, res) => {
@@ -71,6 +79,14 @@ app.get('/2018-01/dppr', (req, res) => {
 //pru dun johor ke 15
 app.get('/2022-01/calondun', (req, res) => {
   res.sendFile(__dirname + '/2022-01/calon_dun.json');
+});
+
+app.get('/2022-01/statistik', (req, res) => {
+  res.sendFile(__dirname + '/2022-01/statistik.json');
+});
+
+app.get('/2022-01/keputusan', (req, res) => {
+  res.sendFile(__dirname + '/2022-01/keputusan.json');
 });
 
 app.get('/keputusan2', (req, res) => {
