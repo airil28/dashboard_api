@@ -1,0 +1,450 @@
+[
+	{
+		"KodParlimen" : "162",
+		"KodDun" : "16249",
+		"UndiDalamPeti" : 57752,
+		"PeratusUndi" : "50.3",
+		"Majoriti" : 4360,
+		"MasaSah" : "2022-03-12T16:10:01.000Z"
+	},
+	{
+		"KodParlimen" : "152",
+		"KodDun" : "15229",
+		"UndiDalamPeti" : 37030,
+		"PeratusUndi" : "57.3",
+		"Majoriti" : 5166,
+		"MasaSah" : "2022-03-12T16:06:04.000Z"
+	},
+	{
+		"KodParlimen" : "160",
+		"KodDun" : "16045",
+		"UndiDalamPeti" : 28306,
+		"PeratusUndi" : "47",
+		"Majoriti" : 2866,
+		"MasaSah" : "2022-03-12T16:02:55.000Z"
+	},
+	{
+		"KodParlimen" : "158",
+		"KodDun" : "15841",
+		"UndiDalamPeti" : 53722,
+		"PeratusUndi" : "47.9",
+		"Majoriti" : 7114,
+		"MasaSah" : "2022-03-12T16:02:22.000Z"
+	},
+	{
+		"KodParlimen" : "158",
+		"KodDun" : "15840",
+		"UndiDalamPeti" : 57470,
+		"PeratusUndi" : "54.8",
+		"Majoriti" : 5281,
+		"MasaSah" : "2022-03-12T16:01:27.000Z"
+	},
+	{
+		"KodParlimen" : "159",
+		"KodDun" : "15942",
+		"UndiDalamPeti" : 48659,
+		"PeratusUndi" : "53.2",
+		"Majoriti" : 1922,
+		"MasaSah" : "2022-03-12T15:54:43.000Z"
+	},
+	{
+		"KodParlimen" : "161",
+		"KodDun" : "16147",
+		"UndiDalamPeti" : 31019,
+		"PeratusUndi" : "50.4",
+		"Majoriti" : 3514,
+		"MasaSah" : "2022-03-12T15:37:39.000Z"
+	},
+	{
+		"KodParlimen" : "144",
+		"KodDun" : "14410",
+		"UndiDalamPeti" : 20166,
+		"PeratusUndi" : "56.9",
+		"Majoriti" : 372,
+		"MasaSah" : "2022-03-12T15:32:23.000Z"
+	},
+	{
+		"KodParlimen" : "140",
+		"KodDun" : "14001",
+		"UndiDalamPeti" : 16188,
+		"PeratusUndi" : "57.1",
+		"Majoriti" : 5377,
+		"MasaSah" : "2022-03-12T15:31:32.000Z"
+	},
+	{
+		"KodParlimen" : "163",
+		"KodDun" : "16352",
+		"UndiDalamPeti" : 32388,
+		"PeratusUndi" : "51.1",
+		"Majoriti" : 5921,
+		"MasaSah" : "2022-03-12T15:27:43.000Z"
+	},
+	{
+		"KodParlimen" : "150",
+		"KodDun" : "15023",
+		"UndiDalamPeti" : 34796,
+		"PeratusUndi" : "50.7",
+		"Majoriti" : 9956,
+		"MasaSah" : "2022-03-12T15:24:04.000Z"
+	},
+	{
+		"KodParlimen" : "147",
+		"KodDun" : "14717",
+		"UndiDalamPeti" : 28459,
+		"PeratusUndi" : "61.4",
+		"Majoriti" : 4041,
+		"MasaSah" : "2022-03-12T15:23:43.000Z"
+	},
+	{
+		"KodParlimen" : "150",
+		"KodDun" : "15024",
+		"UndiDalamPeti" : 21981,
+		"PeratusUndi" : "59.2",
+		"Majoriti" : 3912,
+		"MasaSah" : "2022-03-12T15:23:32.000Z"
+	},
+	{
+		"KodParlimen" : "145",
+		"KodDun" : "14513",
+		"UndiDalamPeti" : 21756,
+		"PeratusUndi" : "54.7",
+		"Majoriti" : 2399,
+		"MasaSah" : "2022-03-12T15:18:55.000Z"
+	},
+	{
+		"KodParlimen" : "152",
+		"KodDun" : "15228",
+		"UndiDalamPeti" : 34209,
+		"PeratusUndi" : "51.9",
+		"Majoriti" : 10107,
+		"MasaSah" : "2022-03-12T15:18:21.000Z"
+	},
+	{
+		"KodParlimen" : "149",
+		"KodDun" : "14922",
+		"UndiDalamPeti" : 21793,
+		"PeratusUndi" : "60.9",
+		"Majoriti" : 4219,
+		"MasaSah" : "2022-03-12T15:18:06.000Z"
+	},
+	{
+		"KodParlimen" : "148",
+		"KodDun" : "14820",
+		"UndiDalamPeti" : 18289,
+		"PeratusUndi" : "66.8",
+		"Majoriti" : 5846,
+		"MasaSah" : "2022-03-12T15:15:36.000Z"
+	},
+	{
+		"KodParlimen" : "155",
+		"KodDun" : "15534",
+		"UndiDalamPeti" : 22333,
+		"PeratusUndi" : "58.4",
+		"Majoriti" : 5854,
+		"MasaSah" : "2022-03-12T15:15:22.000Z"
+	},
+	{
+		"KodParlimen" : "141",
+		"KodDun" : "14104",
+		"UndiDalamPeti" : 18690,
+		"PeratusUndi" : "55.7",
+		"Majoriti" : 1611,
+		"MasaSah" : "2022-03-12T15:06:20.000Z"
+	},
+	{
+		"KodParlimen" : "159",
+		"KodDun" : "15943",
+		"UndiDalamPeti" : 57051,
+		"PeratusUndi" : "55.7",
+		"Majoriti" : 7926,
+		"MasaSah" : "2022-03-12T15:04:47.000Z"
+	},
+	{
+		"KodParlimen" : "151",
+		"KodDun" : "15126",
+		"UndiDalamPeti" : 19898,
+		"PeratusUndi" : "59.3",
+		"Majoriti" : 6543,
+		"MasaSah" : "2022-03-12T15:03:28.000Z"
+	},
+	{
+		"KodParlimen" : "157",
+		"KodDun" : "15739",
+		"UndiDalamPeti" : 14967,
+		"PeratusUndi" : "59.9",
+		"Majoriti" : 5903,
+		"MasaSah" : "2022-03-12T15:02:56.000Z"
+	},
+	{
+		"KodParlimen" : "149",
+		"KodDun" : "14921",
+		"UndiDalamPeti" : 23944,
+		"PeratusUndi" : "57.6",
+		"Majoriti" : 294,
+		"MasaSah" : "2022-03-12T14:59:51.000Z"
+	},
+	{
+		"KodParlimen" : "160",
+		"KodDun" : "16044",
+		"UndiDalamPeti" : 39065,
+		"PeratusUndi" : "51.7",
+		"Majoriti" : 6178,
+		"MasaSah" : "2022-03-12T14:59:21.000Z"
+	},
+	{
+		"KodParlimen" : "146",
+		"KodDun" : "14616",
+		"UndiDalamPeti" : 18531,
+		"PeratusUndi" : "61.8",
+		"Majoriti" : 2293,
+		"MasaSah" : "2022-03-12T14:57:51.000Z"
+	},
+	{
+		"KodParlimen" : "141",
+		"KodDun" : "14103",
+		"UndiDalamPeti" : 17542,
+		"PeratusUndi" : "59",
+		"Majoriti" : 4187,
+		"MasaSah" : "2022-03-12T14:56:41.000Z"
+	},
+	{
+		"KodParlimen" : "140",
+		"KodDun" : "14002",
+		"UndiDalamPeti" : 22042,
+		"PeratusUndi" : "53.7",
+		"Majoriti" : 714,
+		"MasaSah" : "2022-03-12T14:56:02.000Z"
+	},
+	{
+		"KodParlimen" : "154",
+		"KodDun" : "15433",
+		"UndiDalamPeti" : 21865,
+		"PeratusUndi" : "57.2",
+		"Majoriti" : 1356,
+		"MasaSah" : "2022-03-12T14:55:02.000Z"
+	},
+	{
+		"KodParlimen" : "157",
+		"KodDun" : "15738",
+		"UndiDalamPeti" : 18827,
+		"PeratusUndi" : "63.1",
+		"Majoriti" : 7505,
+		"MasaSah" : "2022-03-12T14:54:10.000Z"
+	},
+	{
+		"KodParlimen" : "165",
+		"KodDun" : "16555",
+		"UndiDalamPeti" : 21727,
+		"PeratusUndi" : "60.9",
+		"Majoriti" : 4835,
+		"MasaSah" : "2022-03-12T14:53:02.000Z"
+	},
+	{
+		"KodParlimen" : "144",
+		"KodDun" : "14411",
+		"UndiDalamPeti" : 22543,
+		"PeratusUndi" : "58.1",
+		"Majoriti" : 699,
+		"MasaSah" : "2022-03-12T14:52:42.000Z"
+	},
+	{
+		"KodParlimen" : "146",
+		"KodDun" : "14615",
+		"UndiDalamPeti" : 21372,
+		"PeratusUndi" : "55.8",
+		"Majoriti" : 1037,
+		"MasaSah" : "2022-03-12T14:51:51.000Z"
+	},
+	{
+		"KodParlimen" : "143",
+		"KodDun" : "14307",
+		"UndiDalamPeti" : 22789,
+		"PeratusUndi" : "61",
+		"Majoriti" : 710,
+		"MasaSah" : "2022-03-12T14:50:59.000Z"
+	},
+	{
+		"KodParlimen" : "161",
+		"KodDun" : "16146",
+		"UndiDalamPeti" : 43433,
+		"PeratusUndi" : "43.3",
+		"Majoriti" : 3347,
+		"MasaSah" : "2022-03-12T14:49:38.000Z"
+	},
+	{
+		"KodParlimen" : "151",
+		"KodDun" : "15127",
+		"UndiDalamPeti" : 14110,
+		"PeratusUndi" : "56.4",
+		"Majoriti" : 2815,
+		"MasaSah" : "2022-03-12T14:47:38.000Z"
+	},
+	{
+		"KodParlimen" : "164",
+		"KodDun" : "16454",
+		"UndiDalamPeti" : 25460,
+		"PeratusUndi" : "54.5",
+		"Majoriti" : 6325,
+		"MasaSah" : "2022-03-12T14:46:29.000Z"
+	},
+	{
+		"KodParlimen" : "150",
+		"KodDun" : "15025",
+		"UndiDalamPeti" : 16503,
+		"PeratusUndi" : "61.2",
+		"Majoriti" : 1920,
+		"MasaSah" : "2022-03-12T14:45:24.000Z"
+	},
+	{
+		"KodParlimen" : "155",
+		"KodDun" : "15535",
+		"UndiDalamPeti" : 16404,
+		"PeratusUndi" : "58.8",
+		"Majoriti" : 4888,
+		"MasaSah" : "2022-03-12T14:43:39.000Z"
+	},
+	{
+		"KodParlimen" : "143",
+		"KodDun" : "14308",
+		"UndiDalamPeti" : 19218,
+		"PeratusUndi" : "59.9",
+		"Majoriti" : 198,
+		"MasaSah" : "2022-03-12T14:41:46.000Z"
+	},
+	{
+		"KodParlimen" : "156",
+		"KodDun" : "15636",
+		"UndiDalamPeti" : 19300,
+		"PeratusUndi" : "67.6",
+		"Majoriti" : 5679,
+		"MasaSah" : "2022-03-12T14:41:32.000Z"
+	},
+	{
+		"KodParlimen" : "162",
+		"KodDun" : "16248",
+		"UndiDalamPeti" : 45637,
+		"PeratusUndi" : "44.9",
+		"Majoriti" : 13943,
+		"MasaSah" : "2022-03-12T14:40:56.000Z"
+	},
+	{
+		"KodParlimen" : "163",
+		"KodDun" : "16351",
+		"UndiDalamPeti" : 24703,
+		"PeratusUndi" : "53.7",
+		"Majoriti" : 137,
+		"MasaSah" : "2022-03-12T14:34:01.000Z"
+	},
+	{
+		"KodParlimen" : "153",
+		"KodDun" : "15330",
+		"UndiDalamPeti" : 15095,
+		"PeratusUndi" : "58.8",
+		"Majoriti" : 3176,
+		"MasaSah" : "2022-03-12T14:32:38.000Z"
+	},
+	{
+		"KodParlimen" : "142",
+		"KodDun" : "14206",
+		"UndiDalamPeti" : 13985,
+		"PeratusUndi" : "51.3",
+		"Majoriti" : 3569,
+		"MasaSah" : "2022-03-12T14:32:17.000Z"
+	},
+	{
+		"KodParlimen" : "163",
+		"KodDun" : "16350",
+		"UndiDalamPeti" : 22973,
+		"PeratusUndi" : "58.3",
+		"Majoriti" : 4755,
+		"MasaSah" : "2022-03-12T14:27:17.000Z"
+	},
+	{
+		"KodParlimen" : "147",
+		"KodDun" : "14718",
+		"UndiDalamPeti" : 22102,
+		"PeratusUndi" : "68",
+		"Majoriti" : 6274,
+		"MasaSah" : "2022-03-12T14:26:13.000Z"
+	},
+	{
+		"KodParlimen" : "153",
+		"KodDun" : "15331",
+		"UndiDalamPeti" : 17193,
+		"PeratusUndi" : "58.9",
+		"Majoriti" : 6698,
+		"MasaSah" : "2022-03-12T14:22:34.000Z"
+	},
+	{
+		"KodParlimen" : "145",
+		"KodDun" : "14512",
+		"UndiDalamPeti" : 17243,
+		"PeratusUndi" : "49.9",
+		"Majoriti" : 7476,
+		"MasaSah" : "2022-03-12T14:18:07.000Z"
+	},
+	{
+		"KodParlimen" : "142",
+		"KodDun" : "14205",
+		"UndiDalamPeti" : 12258,
+		"PeratusUndi" : "54.5",
+		"Majoriti" : 1736,
+		"MasaSah" : "2022-03-12T14:15:07.000Z"
+	},
+	{
+		"KodParlimen" : "144",
+		"KodDun" : "14409",
+		"UndiDalamPeti" : 17808,
+		"PeratusUndi" : "61.3",
+		"Majoriti" : 3146,
+		"MasaSah" : "2022-03-12T14:13:01.000Z"
+	},
+	{
+		"KodParlimen" : "164",
+		"KodDun" : "16453",
+		"UndiDalamPeti" : 17572,
+		"PeratusUndi" : "62.8",
+		"Majoriti" : 5859,
+		"MasaSah" : "2022-03-12T14:11:08.000Z"
+	},
+	{
+		"KodParlimen" : "165",
+		"KodDun" : "16556",
+		"UndiDalamPeti" : 19737,
+		"PeratusUndi" : "57.2",
+		"Majoriti" : 8201,
+		"MasaSah" : "2022-03-12T14:09:11.000Z"
+	},
+	{
+		"KodParlimen" : "154",
+		"KodDun" : "15432",
+		"UndiDalamPeti" : 15413,
+		"PeratusUndi" : "55.4",
+		"Majoriti" : 3041,
+		"MasaSah" : "2022-03-12T14:08:34.000Z"
+	},
+	{
+		"KodParlimen" : "145",
+		"KodDun" : "14514",
+		"UndiDalamPeti" : 14494,
+		"PeratusUndi" : "64.4",
+		"Majoriti" : 1535,
+		"MasaSah" : "2022-03-12T14:06:35.000Z"
+	},
+	{
+		"KodParlimen" : "148",
+		"KodDun" : "14819",
+		"UndiDalamPeti" : 18934,
+		"PeratusUndi" : "57.5",
+		"Majoriti" : 2741,
+		"MasaSah" : "2022-03-12T13:48:24.000Z"
+	},
+	{
+		"KodParlimen" : "156",
+		"KodDun" : "15637",
+		"UndiDalamPeti" : 20371,
+		"PeratusUndi" : "62.6",
+		"Majoriti" : 6039,
+		"MasaSah" : "2022-03-12T13:37:00.000Z"
+	}
+]
