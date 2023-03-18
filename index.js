@@ -14,47 +14,90 @@ app.get('/pilihanraya', (req, res) => {
 });
 
 app.get('/negeri', (req, res) => {
-  res.sendFile(__dirname + '/negeri.json');
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+  const data = require('./negeri.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  req.on('close', () => {
+    res.end();
+  });
 });
 
-// PRU KE 15
-app.get('/dun', (req, res) => {
+//////////////// PRU KE 15
+app.get('/2022-02/dun', (req, res) => {
   res.sendFile(__dirname + '/2022-02/dun.json');
 });
 
-app.get('/calonparlimen', (req, res) => {
-  res.sendFile(__dirname + '/2022-02/calon_parlimen.json');
+app.get('/2022-02/calonparlimen', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+  const data = require('./2022-02/calon_parlimen.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
 });
 
-app.get('/calondun', (req, res) => {
-  res.sendFile(__dirname + '/2022-02/calon_dun.json');
+app.get('/2022-02/calondun', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+  const data = require('./2022-02/calon_dun.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
 });
 
-app.get('/keputusan', (req, res) => {
+app.get('/2022-02/keputusan', (req, res) => {
   res.sendFile(__dirname + '/2022-02/keputusan.json');
 });
 
-app.get('/statistik', (req, res) => {
+app.get('/2022-02/statistik', (req, res) => {
   res.sendFile(__dirname + '/2022-02/statistik.json');
 });
 
-app.get('/dppr', (req, res) => {
+app.get('/2022-02/dppr', (req, res) => {
   res.sendFile(__dirname + '/2022-02/DPPR.json');
 });
 
-app.get('/parlimen', (req, res) => {
+app.get('/2022-02/parlimen', (req, res) => {
   res.sendFile(__dirname + '/parlimen.json');
 });
 
-app.get('/statistikumur', (req, res) => {
+app.get('/2022-02/statistikumur', (req, res) => {
   res.sendFile(__dirname + '/2022-02/statistikumur.json');
 });
 
-app.get('/statistikjenis', (req, res) => {
+app.get('/2022-02/statistikjenis', (req, res) => {
   res.sendFile(__dirname + '/2022-02/statistikjenis.json');
 });
 
-// PRU KE 14
+/////////////////// PRU KE 14
 
 app.get('/2018-01/calonparlimen', (req, res) => {
   res.sendFile(__dirname + '/2018-01/calon_parlimen.json');
@@ -76,17 +119,62 @@ app.get('/2018-01/dppr', (req, res) => {
   res.sendFile(__dirname + '/2018-01/DPPR.json');
 });
 
-//pru dun johor ke 15
+//////////////PRU DUN JOHOR KE-15
 app.get('/2022-01/calondun', (req, res) => {
-  res.sendFile(__dirname + '/2022-01/calon_dun.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+  const data = require('./2022-01/calon_dun.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
 });
 
 app.get('/2022-01/statistik', (req, res) => {
-  res.sendFile(__dirname + '/2022-01/statistik.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+  const data = require('./2022-01/statistik.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
 });
 
 app.get('/2022-01/keputusan', (req, res) => {
-  res.sendFile(__dirname + '/2022-01/keputusan.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+  const data = require('./2022-01/keputusan.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
 });
 
 app.get('/keputusan2', (req, res) => {
