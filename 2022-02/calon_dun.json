@@ -1,4 +1,5 @@
-[	{
+[
+	{
 		"Kod" : "2022-02",
 		"NoCalon" : 4,
 		"NamaCalon" : "ZAHIDI BIN ZAINUL ABIDIN",
@@ -15,6 +16,7 @@
 		"KodDun" : "00101",
 		"NamaDun" : "TITI TINGGI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:37:32.360Z"
@@ -36,6 +38,7 @@
 		"KodDun" : "00101",
 		"NamaDun" : "TITI TINGGI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T04:04:36.677Z"
@@ -57,6 +60,7 @@
 		"KodDun" : "00101",
 		"NamaDun" : "TITI TINGGI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:09:53.333Z"
@@ -78,6 +82,7 @@
 		"KodDun" : "00101",
 		"NamaDun" : "TITI TINGGI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:33:31.730Z"
@@ -99,6 +104,7 @@
 		"KodDun" : "00101",
 		"NamaDun" : "TITI TINGGI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:41:04.440Z"
@@ -120,6 +126,7 @@
 		"KodDun" : "00101",
 		"NamaDun" : "TITI TINGGI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:39:54.253Z"
@@ -141,6 +148,7 @@
 		"KodDun" : "00102",
 		"NamaDun" : "BESERI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:30:04.957Z"
@@ -162,6 +170,7 @@
 		"KodDun" : "00102",
 		"NamaDun" : "BESERI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:15:48.207Z"
@@ -183,6 +192,7 @@
 		"KodDun" : "00102",
 		"NamaDun" : "BESERI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:01:51.870Z"
@@ -204,6 +214,7 @@
 		"KodDun" : "00102",
 		"NamaDun" : "BESERI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T01:56:11.373Z"
@@ -225,6 +236,7 @@
 		"KodDun" : "00103",
 		"NamaDun" : "CHUPING",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:11:14.187Z"
@@ -246,6 +258,7 @@
 		"KodDun" : "00103",
 		"NamaDun" : "CHUPING",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:33:27.780Z"
@@ -267,6 +280,7 @@
 		"KodDun" : "00103",
 		"NamaDun" : "CHUPING",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:13:40.060Z"
@@ -288,6 +302,7 @@
 		"KodDun" : "00104",
 		"NamaDun" : "MATA AYER",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:24:35.867Z"
@@ -309,6 +324,7 @@
 		"KodDun" : "00104",
 		"NamaDun" : "MATA AYER",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:01:44.913Z"
@@ -330,6 +346,7 @@
 		"KodDun" : "00104",
 		"NamaDun" : "MATA AYER",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:23:24.913Z"
@@ -351,6 +368,7 @@
 		"KodDun" : "00105",
 		"NamaDun" : "SANTAN",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:57:33.437Z"
@@ -372,6 +390,7 @@
 		"KodDun" : "00105",
 		"NamaDun" : "SANTAN",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T02:56:44.140Z"
@@ -393,6 +412,7 @@
 		"KodDun" : "00105",
 		"NamaDun" : "SANTAN",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "PADANG BESAR",
 		"MasaSah" : "2022-11-05T03:29:02.183Z"
@@ -414,6 +434,7 @@
 		"KodDun" : "00206",
 		"NamaDun" : "BINTONG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:55:38.627Z"
@@ -435,6 +456,7 @@
 		"KodDun" : "00206",
 		"NamaDun" : "BINTONG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:55:38.567Z"
@@ -456,6 +478,7 @@
 		"KodDun" : "00206",
 		"NamaDun" : "BINTONG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:55:38.787Z"
@@ -477,6 +500,7 @@
 		"KodDun" : "00206",
 		"NamaDun" : "BINTONG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:55:38.680Z"
@@ -498,6 +522,7 @@
 		"KodDun" : "00206",
 		"NamaDun" : "BINTONG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:55:38.840Z"
@@ -519,6 +544,7 @@
 		"KodDun" : "00206",
 		"NamaDun" : "BINTONG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:55:38.733Z"
@@ -540,6 +566,7 @@
 		"KodDun" : "00207",
 		"NamaDun" : "SENA",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:35:56.207Z"
@@ -561,6 +588,7 @@
 		"KodDun" : "00207",
 		"NamaDun" : "SENA",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:35:56.267Z"
@@ -582,6 +610,7 @@
 		"KodDun" : "00207",
 		"NamaDun" : "SENA",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:35:56.233Z"
@@ -603,6 +632,7 @@
 		"KodDun" : "00207",
 		"NamaDun" : "SENA",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:35:56.177Z"
@@ -624,6 +654,7 @@
 		"KodDun" : "00208",
 		"NamaDun" : "INDERA KAYANGAN",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:09.560Z"
@@ -645,6 +676,7 @@
 		"KodDun" : "00208",
 		"NamaDun" : "INDERA KAYANGAN",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:09.530Z"
@@ -666,6 +698,7 @@
 		"KodDun" : "00208",
 		"NamaDun" : "INDERA KAYANGAN",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:09.590Z"
@@ -687,6 +720,7 @@
 		"KodDun" : "00208",
 		"NamaDun" : "INDERA KAYANGAN",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:09.623Z"
@@ -708,6 +742,7 @@
 		"KodDun" : "00209",
 		"NamaDun" : "KUALA PERLIS",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:22.277Z"
@@ -729,6 +764,7 @@
 		"KodDun" : "00209",
 		"NamaDun" : "KUALA PERLIS",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:22.220Z"
@@ -750,6 +786,7 @@
 		"KodDun" : "00209",
 		"NamaDun" : "KUALA PERLIS",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:22.190Z"
@@ -771,6 +808,7 @@
 		"KodDun" : "00209",
 		"NamaDun" : "KUALA PERLIS",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:22.247Z"
@@ -792,6 +830,7 @@
 		"KodDun" : "00209",
 		"NamaDun" : "KUALA PERLIS",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:22.147Z"
@@ -813,6 +852,7 @@
 		"KodDun" : "00210",
 		"NamaDun" : "KAYANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:30.923Z"
@@ -834,6 +874,7 @@
 		"KodDun" : "00210",
 		"NamaDun" : "KAYANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:30.890Z"
@@ -855,6 +896,7 @@
 		"KodDun" : "00210",
 		"NamaDun" : "KAYANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:30.953Z"
@@ -876,6 +918,7 @@
 		"KodDun" : "00210",
 		"NamaDun" : "KAYANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "KANGAR",
 		"MasaSah" : "2023-02-28T01:36:30.857Z"
@@ -897,6 +940,7 @@
 		"KodDun" : "00311",
 		"NamaDun" : "PAUH",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:27:57.053Z"
@@ -918,6 +962,7 @@
 		"KodDun" : "00311",
 		"NamaDun" : "PAUH",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:05:04.680Z"
@@ -939,6 +984,7 @@
 		"KodDun" : "00311",
 		"NamaDun" : "PAUH",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:13:51.970Z"
@@ -960,6 +1006,7 @@
 		"KodDun" : "00311",
 		"NamaDun" : "PAUH",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:58:46.660Z"
@@ -981,6 +1028,7 @@
 		"KodDun" : "00312",
 		"NamaDun" : "TAMBUN TULANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T03:52:20.677Z"
@@ -1002,6 +1050,7 @@
 		"KodDun" : "00312",
 		"NamaDun" : "TAMBUN TULANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:52:35.150Z"
@@ -1023,6 +1072,7 @@
 		"KodDun" : "00312",
 		"NamaDun" : "TAMBUN TULANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T03:31:34.143Z"
@@ -1044,6 +1094,7 @@
 		"KodDun" : "00312",
 		"NamaDun" : "TAMBUN TULANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T01:58:18.123Z"
@@ -1065,6 +1116,7 @@
 		"KodDun" : "00313",
 		"NamaDun" : "GUAR SANJI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:33:27.627Z"
@@ -1086,6 +1138,7 @@
 		"KodDun" : "00313",
 		"NamaDun" : "GUAR SANJI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T03:35:34.860Z"
@@ -1107,6 +1160,7 @@
 		"KodDun" : "00313",
 		"NamaDun" : "GUAR SANJI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T04:12:47.887Z"
@@ -1128,6 +1182,7 @@
 		"KodDun" : "00313",
 		"NamaDun" : "GUAR SANJI",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T01:31:34.287Z"
@@ -1149,6 +1204,7 @@
 		"KodDun" : "00314",
 		"NamaDun" : "SIMPANG EMPAT",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T03:59:13.757Z"
@@ -1170,6 +1226,7 @@
 		"KodDun" : "00314",
 		"NamaDun" : "SIMPANG EMPAT",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T03:50:03.340Z"
@@ -1191,6 +1248,7 @@
 		"KodDun" : "00314",
 		"NamaDun" : "SIMPANG EMPAT",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:50:05.493Z"
@@ -1212,6 +1270,7 @@
 		"KodDun" : "00314",
 		"NamaDun" : "SIMPANG EMPAT",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T04:21:44.530Z"
@@ -1233,6 +1292,7 @@
 		"KodDun" : "00314",
 		"NamaDun" : "SIMPANG EMPAT",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:44:55.250Z"
@@ -1254,6 +1314,7 @@
 		"KodDun" : "00314",
 		"NamaDun" : "SIMPANG EMPAT",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:31:53.750Z"
@@ -1275,6 +1336,7 @@
 		"KodDun" : "00315",
 		"NamaDun" : "SANGLANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T03:11:39.763Z"
@@ -1296,6 +1358,7 @@
 		"KodDun" : "00315",
 		"NamaDun" : "SANGLANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T02:07:38.677Z"
@@ -1317,6 +1380,7 @@
 		"KodDun" : "00315",
 		"NamaDun" : "SANGLANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T01:50:07.067Z"
@@ -1338,6 +1402,7 @@
 		"KodDun" : "00315",
 		"NamaDun" : "SANGLANG",
 		"KodNegeri" : "09",
+		"ParlimenOrder" : 1,
 		"Negeri" : "PERLIS",
 		"NamaParlimen" : "ARAU",
 		"MasaSah" : "2022-11-05T04:27:53.977Z"
@@ -1359,6 +1424,7 @@
 		"KodDun" : "05401",
 		"NamaDun" : "PENGKALAN HULU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GERIK",
 		"MasaSah" : "2022-11-05T03:35:38.097Z"
@@ -1380,6 +1446,7 @@
 		"KodDun" : "05401",
 		"NamaDun" : "PENGKALAN HULU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GERIK",
 		"MasaSah" : "2022-11-05T02:26:26.727Z"
@@ -1401,6 +1468,7 @@
 		"KodDun" : "05401",
 		"NamaDun" : "PENGKALAN HULU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GERIK",
 		"MasaSah" : "2022-11-05T02:20:07.827Z"
@@ -1422,6 +1490,7 @@
 		"KodDun" : "05402",
 		"NamaDun" : "TEMENGOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GERIK",
 		"MasaSah" : "2022-11-05T05:45:33.090Z"
@@ -1443,6 +1512,7 @@
 		"KodDun" : "05402",
 		"NamaDun" : "TEMENGOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GERIK",
 		"MasaSah" : "2022-11-05T02:15:48.083Z"
@@ -1464,6 +1534,7 @@
 		"KodDun" : "05402",
 		"NamaDun" : "TEMENGOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GERIK",
 		"MasaSah" : "2022-11-05T01:43:21.263Z"
@@ -1485,6 +1556,7 @@
 		"KodDun" : "05503",
 		"NamaDun" : "KENERING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LENGGONG",
 		"MasaSah" : "2022-11-05T03:53:42.987Z"
@@ -1506,6 +1578,7 @@
 		"KodDun" : "05503",
 		"NamaDun" : "KENERING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LENGGONG",
 		"MasaSah" : "2022-11-05T03:51:37.883Z"
@@ -1527,6 +1600,7 @@
 		"KodDun" : "05503",
 		"NamaDun" : "KENERING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LENGGONG",
 		"MasaSah" : "2022-11-05T03:54:50.807Z"
@@ -1548,6 +1622,7 @@
 		"KodDun" : "05504",
 		"NamaDun" : "KOTA TAMPAN",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LENGGONG",
 		"MasaSah" : "2022-11-05T03:49:24.070Z"
@@ -1569,6 +1644,7 @@
 		"KodDun" : "05504",
 		"NamaDun" : "KOTA TAMPAN",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LENGGONG",
 		"MasaSah" : "2022-11-05T03:35:32.640Z"
@@ -1590,6 +1666,7 @@
 		"KodDun" : "05504",
 		"NamaDun" : "KOTA TAMPAN",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LENGGONG",
 		"MasaSah" : "2022-11-05T03:25:30.883Z"
@@ -1611,6 +1688,7 @@
 		"KodDun" : "05605",
 		"NamaDun" : "SELAMA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:10:23.640Z"
@@ -1632,6 +1710,7 @@
 		"KodDun" : "05605",
 		"NamaDun" : "SELAMA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T01:29:44.970Z"
@@ -1653,6 +1732,7 @@
 		"KodDun" : "05605",
 		"NamaDun" : "SELAMA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:20:22.033Z"
@@ -1674,6 +1754,7 @@
 		"KodDun" : "05605",
 		"NamaDun" : "SELAMA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:47:51.153Z"
@@ -1695,6 +1776,7 @@
 		"KodDun" : "05606",
 		"NamaDun" : "KUBU GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:56:26.630Z"
@@ -1716,6 +1798,7 @@
 		"KodDun" : "05606",
 		"NamaDun" : "KUBU GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:04:44.123Z"
@@ -1737,6 +1820,7 @@
 		"KodDun" : "05606",
 		"NamaDun" : "KUBU GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:28:57.660Z"
@@ -1758,6 +1842,7 @@
 		"KodDun" : "05606",
 		"NamaDun" : "KUBU GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:19:11.243Z"
@@ -1779,6 +1864,7 @@
 		"KodDun" : "05607",
 		"NamaDun" : "BATU KURAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:04:30.153Z"
@@ -1800,6 +1886,7 @@
 		"KodDun" : "05607",
 		"NamaDun" : "BATU KURAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T01:54:16.870Z"
@@ -1821,6 +1908,7 @@
 		"KodDun" : "05607",
 		"NamaDun" : "BATU KURAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T01:39:47.660Z"
@@ -1842,6 +1930,7 @@
 		"KodDun" : "05607",
 		"NamaDun" : "BATU KURAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LARUT",
 		"MasaSah" : "2022-11-05T02:35:07.417Z"
@@ -1863,6 +1952,7 @@
 		"KodDun" : "05708",
 		"NamaDun" : "TITI SERONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT BUNTAR",
 		"MasaSah" : "2022-11-05T02:53:19.110Z"
@@ -1884,6 +1974,7 @@
 		"KodDun" : "05708",
 		"NamaDun" : "TITI SERONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT BUNTAR",
 		"MasaSah" : "2022-11-05T02:59:32.523Z"
@@ -1905,6 +1996,7 @@
 		"KodDun" : "05708",
 		"NamaDun" : "TITI SERONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT BUNTAR",
 		"MasaSah" : "2022-11-05T02:57:37.490Z"
@@ -1926,6 +2018,7 @@
 		"KodDun" : "05709",
 		"NamaDun" : "KUALA KURAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT BUNTAR",
 		"MasaSah" : "2022-11-05T01:57:19.443Z"
@@ -1947,6 +2040,7 @@
 		"KodDun" : "05709",
 		"NamaDun" : "KUALA KURAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT BUNTAR",
 		"MasaSah" : "2022-11-05T01:55:22.070Z"
@@ -1968,6 +2062,7 @@
 		"KodDun" : "05709",
 		"NamaDun" : "KUALA KURAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT BUNTAR",
 		"MasaSah" : "2022-11-05T02:01:03.503Z"
@@ -1989,6 +2084,7 @@
 		"KodDun" : "05810",
 		"NamaDun" : "ALOR PONGSU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T02:47:33.813Z"
@@ -2010,6 +2106,7 @@
 		"KodDun" : "05810",
 		"NamaDun" : "ALOR PONGSU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T02:39:49.540Z"
@@ -2031,6 +2128,7 @@
 		"KodDun" : "05810",
 		"NamaDun" : "ALOR PONGSU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T03:21:10.240Z"
@@ -2052,6 +2150,7 @@
 		"KodDun" : "05811",
 		"NamaDun" : "GUNONG SEMANGGOL",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T02:50:58.243Z"
@@ -2073,6 +2172,7 @@
 		"KodDun" : "05811",
 		"NamaDun" : "GUNONG SEMANGGOL",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T03:16:49.250Z"
@@ -2094,6 +2194,7 @@
 		"KodDun" : "05811",
 		"NamaDun" : "GUNONG SEMANGGOL",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T03:32:31.270Z"
@@ -2115,6 +2216,7 @@
 		"KodDun" : "05812",
 		"NamaDun" : "SELINSING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T02:56:10.053Z"
@@ -2136,6 +2238,7 @@
 		"KodDun" : "05812",
 		"NamaDun" : "SELINSING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T03:08:31.780Z"
@@ -2157,6 +2260,7 @@
 		"KodDun" : "05812",
 		"NamaDun" : "SELINSING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN SERAI",
 		"MasaSah" : "2022-11-05T02:34:38.487Z"
@@ -2178,6 +2282,7 @@
 		"KodDun" : "05913",
 		"NamaDun" : "KUALA SEPETANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T03:55:17.427Z"
@@ -2199,6 +2304,7 @@
 		"KodDun" : "05913",
 		"NamaDun" : "KUALA SEPETANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T01:51:03.300Z"
@@ -2220,6 +2326,7 @@
 		"KodDun" : "05913",
 		"NamaDun" : "KUALA SEPETANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T03:45:23.960Z"
@@ -2241,6 +2348,7 @@
 		"KodDun" : "05913",
 		"NamaDun" : "KUALA SEPETANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T04:01:37.150Z"
@@ -2262,6 +2370,7 @@
 		"KodDun" : "05914",
 		"NamaDun" : "CHANGKAT JERING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T05:32:33.133Z"
@@ -2283,6 +2392,7 @@
 		"KodDun" : "05914",
 		"NamaDun" : "CHANGKAT JERING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T01:41:58.127Z"
@@ -2304,6 +2414,7 @@
 		"KodDun" : "05914",
 		"NamaDun" : "CHANGKAT JERING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T01:39:33.273Z"
@@ -2325,6 +2436,7 @@
 		"KodDun" : "05914",
 		"NamaDun" : "CHANGKAT JERING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T06:33:08.537Z"
@@ -2346,6 +2458,7 @@
 		"KodDun" : "05915",
 		"NamaDun" : "TRONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T03:36:32.890Z"
@@ -2367,6 +2480,7 @@
 		"KodDun" : "05915",
 		"NamaDun" : "TRONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T03:41:40.373Z"
@@ -2388,6 +2502,7 @@
 		"KodDun" : "05915",
 		"NamaDun" : "TRONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T03:39:00.340Z"
@@ -2409,6 +2524,7 @@
 		"KodDun" : "05915",
 		"NamaDun" : "TRONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BUKIT GANTANG",
 		"MasaSah" : "2022-11-05T01:28:53.907Z"
@@ -2430,6 +2546,7 @@
 		"KodDun" : "06016",
 		"NamaDun" : "KAMUNTING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T03:08:50.677Z"
@@ -2451,6 +2568,7 @@
 		"KodDun" : "06016",
 		"NamaDun" : "KAMUNTING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T03:04:26.153Z"
@@ -2472,6 +2590,7 @@
 		"KodDun" : "06016",
 		"NamaDun" : "KAMUNTING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T03:01:12.803Z"
@@ -2493,6 +2612,7 @@
 		"KodDun" : "06017",
 		"NamaDun" : "POKOK ASSAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T03:11:09.887Z"
@@ -2514,6 +2634,7 @@
 		"KodDun" : "06017",
 		"NamaDun" : "POKOK ASSAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T03:16:54.020Z"
@@ -2535,6 +2656,7 @@
 		"KodDun" : "06017",
 		"NamaDun" : "POKOK ASSAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T06:13:54.377Z"
@@ -2556,6 +2678,7 @@
 		"KodDun" : "06017",
 		"NamaDun" : "POKOK ASSAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T06:12:40.687Z"
@@ -2577,6 +2700,7 @@
 		"KodDun" : "06017",
 		"NamaDun" : "POKOK ASSAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T07:00:22.830Z"
@@ -2598,6 +2722,7 @@
 		"KodDun" : "06018",
 		"NamaDun" : "AULONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T06:15:14.517Z"
@@ -2619,6 +2744,7 @@
 		"KodDun" : "06018",
 		"NamaDun" : "AULONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T06:14:43.233Z"
@@ -2640,6 +2766,7 @@
 		"KodDun" : "06018",
 		"NamaDun" : "AULONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T03:26:58.240Z"
@@ -2661,6 +2788,7 @@
 		"KodDun" : "06018",
 		"NamaDun" : "AULONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T03:29:52.433Z"
@@ -2682,6 +2810,7 @@
 		"KodDun" : "06018",
 		"NamaDun" : "AULONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAIPING",
 		"MasaSah" : "2022-11-05T02:43:45.020Z"
@@ -2703,6 +2832,7 @@
 		"KodDun" : "06119",
 		"NamaDun" : "CHENDEROH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PADANG RENGAS",
 		"MasaSah" : "2022-11-05T03:00:13.303Z"
@@ -2724,6 +2854,7 @@
 		"KodDun" : "06119",
 		"NamaDun" : "CHENDEROH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PADANG RENGAS",
 		"MasaSah" : "2022-11-05T02:45:47.503Z"
@@ -2745,6 +2876,7 @@
 		"KodDun" : "06119",
 		"NamaDun" : "CHENDEROH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PADANG RENGAS",
 		"MasaSah" : "2022-11-05T02:29:54.980Z"
@@ -2766,6 +2898,7 @@
 		"KodDun" : "06119",
 		"NamaDun" : "CHENDEROH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PADANG RENGAS",
 		"MasaSah" : "2022-11-05T03:13:35.167Z"
@@ -2787,6 +2920,7 @@
 		"KodDun" : "06120",
 		"NamaDun" : "LUBOK MERBAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PADANG RENGAS",
 		"MasaSah" : "2022-11-05T03:24:03.993Z"
@@ -2808,6 +2942,7 @@
 		"KodDun" : "06120",
 		"NamaDun" : "LUBOK MERBAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PADANG RENGAS",
 		"MasaSah" : "2022-11-05T02:57:32.123Z"
@@ -2829,6 +2964,7 @@
 		"KodDun" : "06120",
 		"NamaDun" : "LUBOK MERBAU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PADANG RENGAS",
 		"MasaSah" : "2022-11-05T02:52:30.273Z"
@@ -2850,6 +2986,7 @@
 		"KodDun" : "06221",
 		"NamaDun" : "LINTANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "SUNGAI SIPUT",
 		"MasaSah" : "2022-11-05T01:50:52.007Z"
@@ -2871,6 +3008,7 @@
 		"KodDun" : "06221",
 		"NamaDun" : "LINTANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "SUNGAI SIPUT",
 		"MasaSah" : "2022-11-05T02:16:28.657Z"
@@ -2892,6 +3030,7 @@
 		"KodDun" : "06221",
 		"NamaDun" : "LINTANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "SUNGAI SIPUT",
 		"MasaSah" : "2022-11-05T01:25:05.800Z"
@@ -2913,6 +3052,7 @@
 		"KodDun" : "06222",
 		"NamaDun" : "JALONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "SUNGAI SIPUT",
 		"MasaSah" : "2022-11-05T02:10:23.863Z"
@@ -2934,6 +3074,7 @@
 		"KodDun" : "06222",
 		"NamaDun" : "JALONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "SUNGAI SIPUT",
 		"MasaSah" : "2022-11-05T01:21:08.950Z"
@@ -2955,6 +3096,7 @@
 		"KodDun" : "06222",
 		"NamaDun" : "JALONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "SUNGAI SIPUT",
 		"MasaSah" : "2022-11-05T06:08:49.730Z"
@@ -2976,6 +3118,7 @@
 		"KodDun" : "06222",
 		"NamaDun" : "JALONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "SUNGAI SIPUT",
 		"MasaSah" : "2022-11-05T02:35:58.820Z"
@@ -2997,6 +3140,7 @@
 		"KodDun" : "06323",
 		"NamaDun" : "MANJOI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAMBUN",
 		"MasaSah" : "2022-11-05T04:42:06.033Z"
@@ -3018,6 +3162,7 @@
 		"KodDun" : "06323",
 		"NamaDun" : "MANJOI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAMBUN",
 		"MasaSah" : "2022-11-05T04:41:05.940Z"
@@ -3039,6 +3184,7 @@
 		"KodDun" : "06323",
 		"NamaDun" : "MANJOI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAMBUN",
 		"MasaSah" : "2022-11-05T04:39:29.670Z"
@@ -3060,6 +3206,7 @@
 		"KodDun" : "06324",
 		"NamaDun" : "HULU KINTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAMBUN",
 		"MasaSah" : "2022-11-05T06:09:43.397Z"
@@ -3081,6 +3228,7 @@
 		"KodDun" : "06324",
 		"NamaDun" : "HULU KINTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAMBUN",
 		"MasaSah" : "2022-11-05T03:38:05.927Z"
@@ -3102,6 +3250,7 @@
 		"KodDun" : "06324",
 		"NamaDun" : "HULU KINTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAMBUN",
 		"MasaSah" : "2022-11-05T03:31:21.557Z"
@@ -3123,6 +3272,7 @@
 		"KodDun" : "06324",
 		"NamaDun" : "HULU KINTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAMBUN",
 		"MasaSah" : "2022-11-05T03:32:17.410Z"
@@ -3144,6 +3294,7 @@
 		"KodDun" : "06425",
 		"NamaDun" : "CANNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T02:50:26.633Z"
@@ -3165,6 +3316,7 @@
 		"KodDun" : "06425",
 		"NamaDun" : "CANNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T02:13:08.870Z"
@@ -3186,6 +3338,7 @@
 		"KodDun" : "06425",
 		"NamaDun" : "CANNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T03:53:02.810Z"
@@ -3207,6 +3360,7 @@
 		"KodDun" : "06426",
 		"NamaDun" : "TEBING TINGGI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T02:31:02.053Z"
@@ -3228,6 +3382,7 @@
 		"KodDun" : "06426",
 		"NamaDun" : "TEBING TINGGI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T03:01:42.540Z"
@@ -3249,6 +3404,7 @@
 		"KodDun" : "06426",
 		"NamaDun" : "TEBING TINGGI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T03:04:30.223Z"
@@ -3270,6 +3426,7 @@
 		"KodDun" : "06426",
 		"NamaDun" : "TEBING TINGGI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T01:35:03.130Z"
@@ -3291,6 +3448,7 @@
 		"KodDun" : "06427",
 		"NamaDun" : "PASIR PINJI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T02:48:38.173Z"
@@ -3312,6 +3470,7 @@
 		"KodDun" : "06427",
 		"NamaDun" : "PASIR PINJI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T03:43:31.370Z"
@@ -3333,6 +3492,7 @@
 		"KodDun" : "06427",
 		"NamaDun" : "PASIR PINJI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH TIMOR",
 		"MasaSah" : "2022-11-05T01:48:20.657Z"
@@ -3354,6 +3514,7 @@
 		"KodDun" : "06528",
 		"NamaDun" : "BERCHAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T02:55:49.483Z"
@@ -3375,6 +3536,7 @@
 		"KodDun" : "06528",
 		"NamaDun" : "BERCHAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T03:06:14.243Z"
@@ -3396,6 +3558,7 @@
 		"KodDun" : "06528",
 		"NamaDun" : "BERCHAM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T02:33:49.543Z"
@@ -3417,6 +3580,7 @@
 		"KodDun" : "06529",
 		"NamaDun" : "KEPAYANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T01:48:34.713Z"
@@ -3438,6 +3602,7 @@
 		"KodDun" : "06529",
 		"NamaDun" : "KEPAYANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T02:46:40.940Z"
@@ -3459,6 +3624,7 @@
 		"KodDun" : "06529",
 		"NamaDun" : "KEPAYANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T03:24:38.853Z"
@@ -3480,6 +3646,7 @@
 		"KodDun" : "06530",
 		"NamaDun" : "BUNTONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T02:44:23.593Z"
@@ -3501,6 +3668,7 @@
 		"KodDun" : "06530",
 		"NamaDun" : "BUNTONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T06:32:13.540Z"
@@ -3522,6 +3690,7 @@
 		"KodDun" : "06530",
 		"NamaDun" : "BUNTONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T06:31:22.333Z"
@@ -3543,6 +3712,7 @@
 		"KodDun" : "06530",
 		"NamaDun" : "BUNTONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T02:24:13.710Z"
@@ -3564,6 +3734,7 @@
 		"KodDun" : "06530",
 		"NamaDun" : "BUNTONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "IPOH BARAT",
 		"MasaSah" : "2022-11-05T02:41:06.903Z"
@@ -3585,6 +3756,7 @@
 		"KodDun" : "06631",
 		"NamaDun" : "JELAPANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T04:04:00.360Z"
@@ -3606,6 +3778,7 @@
 		"KodDun" : "06631",
 		"NamaDun" : "JELAPANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T02:03:28.840Z"
@@ -3627,6 +3800,7 @@
 		"KodDun" : "06631",
 		"NamaDun" : "JELAPANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T02:13:12.710Z"
@@ -3648,6 +3822,7 @@
 		"KodDun" : "06632",
 		"NamaDun" : "MENGLEMBU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T01:46:56.430Z"
@@ -3669,6 +3844,7 @@
 		"KodDun" : "06632",
 		"NamaDun" : "MENGLEMBU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T02:29:38.293Z"
@@ -3690,6 +3866,7 @@
 		"KodDun" : "06632",
 		"NamaDun" : "MENGLEMBU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T04:05:52.017Z"
@@ -3711,6 +3888,7 @@
 		"KodDun" : "06633",
 		"NamaDun" : "TRONOH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T03:57:08.567Z"
@@ -3732,6 +3910,7 @@
 		"KodDun" : "06633",
 		"NamaDun" : "TRONOH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T02:22:48.783Z"
@@ -3753,6 +3932,7 @@
 		"KodDun" : "06633",
 		"NamaDun" : "TRONOH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T03:13:53.663Z"
@@ -3774,6 +3954,7 @@
 		"KodDun" : "06633",
 		"NamaDun" : "TRONOH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T06:08:21.713Z"
@@ -3795,6 +3976,7 @@
 		"KodDun" : "06633",
 		"NamaDun" : "TRONOH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T01:32:57.877Z"
@@ -3816,6 +3998,7 @@
 		"KodDun" : "06633",
 		"NamaDun" : "TRONOH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BATU GAJAH",
 		"MasaSah" : "2022-11-05T03:15:16.703Z"
@@ -3837,6 +4020,7 @@
 		"KodDun" : "06734",
 		"NamaDun" : "BUKIT CHANDAN",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KUALA KANGSAR",
 		"MasaSah" : "2022-11-05T04:04:45.900Z"
@@ -3858,6 +4042,7 @@
 		"KodDun" : "06734",
 		"NamaDun" : "BUKIT CHANDAN",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KUALA KANGSAR",
 		"MasaSah" : "2022-11-05T03:08:05.137Z"
@@ -3879,6 +4064,7 @@
 		"KodDun" : "06734",
 		"NamaDun" : "BUKIT CHANDAN",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KUALA KANGSAR",
 		"MasaSah" : "2022-11-05T04:08:49.137Z"
@@ -3900,6 +4086,7 @@
 		"KodDun" : "06735",
 		"NamaDun" : "MANONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KUALA KANGSAR",
 		"MasaSah" : "2022-11-05T04:34:53.183Z"
@@ -3921,6 +4108,7 @@
 		"KodDun" : "06735",
 		"NamaDun" : "MANONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KUALA KANGSAR",
 		"MasaSah" : "2022-11-05T04:15:37.660Z"
@@ -3942,6 +4130,7 @@
 		"KodDun" : "06735",
 		"NamaDun" : "MANONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KUALA KANGSAR",
 		"MasaSah" : "2022-11-05T03:12:49.150Z"
@@ -3963,6 +4152,7 @@
 		"KodDun" : "06836",
 		"NamaDun" : "PENGKALAN BAHARU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T02:15:20.860Z"
@@ -3984,6 +4174,7 @@
 		"KodDun" : "06836",
 		"NamaDun" : "PENGKALAN BAHARU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T02:17:11.873Z"
@@ -4005,6 +4196,7 @@
 		"KodDun" : "06836",
 		"NamaDun" : "PENGKALAN BAHARU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T03:18:19.407Z"
@@ -4026,6 +4218,7 @@
 		"KodDun" : "06836",
 		"NamaDun" : "PENGKALAN BAHARU",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T01:57:24.343Z"
@@ -4047,6 +4240,7 @@
 		"KodDun" : "06837",
 		"NamaDun" : "PANTAI REMIS",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T02:03:24.643Z"
@@ -4068,6 +4262,7 @@
 		"KodDun" : "06837",
 		"NamaDun" : "PANTAI REMIS",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T02:13:21.060Z"
@@ -4089,6 +4284,7 @@
 		"KodDun" : "06837",
 		"NamaDun" : "PANTAI REMIS",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T04:00:14.910Z"
@@ -4110,6 +4306,7 @@
 		"KodDun" : "06838",
 		"NamaDun" : "ASTAKA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T02:19:11.843Z"
@@ -4131,6 +4328,7 @@
 		"KodDun" : "06838",
 		"NamaDun" : "ASTAKA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T02:09:11.703Z"
@@ -4152,6 +4350,7 @@
 		"KodDun" : "06838",
 		"NamaDun" : "ASTAKA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BERUAS",
 		"MasaSah" : "2022-11-05T02:17:44.687Z"
@@ -4173,6 +4372,7 @@
 		"KodDun" : "06939",
 		"NamaDun" : "BELANJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T04:06:21.837Z"
@@ -4194,6 +4394,7 @@
 		"KodDun" : "06939",
 		"NamaDun" : "BELANJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T03:53:26.987Z"
@@ -4215,6 +4416,7 @@
 		"KodDun" : "06939",
 		"NamaDun" : "BELANJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T03:11:29.590Z"
@@ -4236,6 +4438,7 @@
 		"KodDun" : "06939",
 		"NamaDun" : "BELANJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T02:46:00.807Z"
@@ -4257,6 +4460,7 @@
 		"KodDun" : "06940",
 		"NamaDun" : "BOTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T03:07:49.787Z"
@@ -4278,6 +4482,7 @@
 		"KodDun" : "06940",
 		"NamaDun" : "BOTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T02:07:29.620Z"
@@ -4299,6 +4504,7 @@
 		"KodDun" : "06940",
 		"NamaDun" : "BOTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T02:58:54.647Z"
@@ -4320,6 +4526,7 @@
 		"KodDun" : "06940",
 		"NamaDun" : "BOTA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PARIT",
 		"MasaSah" : "2022-11-05T03:09:29.587Z"
@@ -4341,6 +4548,7 @@
 		"KodDun" : "07041",
 		"NamaDun" : "MALIM NAWAR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:10:08.850Z"
@@ -4362,6 +4570,7 @@
 		"KodDun" : "07041",
 		"NamaDun" : "MALIM NAWAR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:11:41.653Z"
@@ -4383,6 +4592,7 @@
 		"KodDun" : "07041",
 		"NamaDun" : "MALIM NAWAR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:00:44.467Z"
@@ -4404,6 +4614,7 @@
 		"KodDun" : "07041",
 		"NamaDun" : "MALIM NAWAR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T03:59:05.780Z"
@@ -4425,6 +4636,7 @@
 		"KodDun" : "07042",
 		"NamaDun" : "KERANJI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:00:43.160Z"
@@ -4446,6 +4658,7 @@
 		"KodDun" : "07042",
 		"NamaDun" : "KERANJI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:03:08.763Z"
@@ -4467,6 +4680,7 @@
 		"KodDun" : "07042",
 		"NamaDun" : "KERANJI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T03:21:24.467Z"
@@ -4488,6 +4702,7 @@
 		"KodDun" : "07042",
 		"NamaDun" : "KERANJI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T03:24:32.550Z"
@@ -4509,6 +4724,7 @@
 		"KodDun" : "07043",
 		"NamaDun" : "TUALANG SEKAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:04:51.663Z"
@@ -4530,6 +4746,7 @@
 		"KodDun" : "07043",
 		"NamaDun" : "TUALANG SEKAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:06:46.710Z"
@@ -4551,6 +4768,7 @@
 		"KodDun" : "07043",
 		"NamaDun" : "TUALANG SEKAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "KAMPAR",
 		"MasaSah" : "2022-11-05T04:10:10.663Z"
@@ -4572,6 +4790,7 @@
 		"KodDun" : "07144",
 		"NamaDun" : "SUNGAI RAPAT",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T02:57:40.153Z"
@@ -4593,6 +4812,7 @@
 		"KodDun" : "07144",
 		"NamaDun" : "SUNGAI RAPAT",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T04:02:23.827Z"
@@ -4614,6 +4834,7 @@
 		"KodDun" : "07144",
 		"NamaDun" : "SUNGAI RAPAT",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T02:31:33.470Z"
@@ -4635,6 +4856,7 @@
 		"KodDun" : "07144",
 		"NamaDun" : "SUNGAI RAPAT",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T01:40:37.600Z"
@@ -4656,6 +4878,7 @@
 		"KodDun" : "07145",
 		"NamaDun" : "SIMPANG PULAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T03:31:45.053Z"
@@ -4677,6 +4900,7 @@
 		"KodDun" : "07145",
 		"NamaDun" : "SIMPANG PULAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T01:57:28.293Z"
@@ -4698,6 +4922,7 @@
 		"KodDun" : "07145",
 		"NamaDun" : "SIMPANG PULAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T02:27:04.523Z"
@@ -4719,6 +4944,7 @@
 		"KodDun" : "07145",
 		"NamaDun" : "SIMPANG PULAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T03:48:29.560Z"
@@ -4740,6 +4966,7 @@
 		"KodDun" : "07146",
 		"NamaDun" : "TEJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T03:54:58.393Z"
@@ -4761,6 +4988,7 @@
 		"KodDun" : "07146",
 		"NamaDun" : "TEJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T03:40:07.300Z"
@@ -4782,6 +5010,7 @@
 		"KodDun" : "07146",
 		"NamaDun" : "TEJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T02:26:56.670Z"
@@ -4803,6 +5032,7 @@
 		"KodDun" : "07146",
 		"NamaDun" : "TEJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T02:54:54.737Z"
@@ -4824,6 +5054,7 @@
 		"KodDun" : "07146",
 		"NamaDun" : "TEJA",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "GOPENG",
 		"MasaSah" : "2022-11-05T02:01:37.467Z"
@@ -4845,6 +5076,7 @@
 		"KodDun" : "07247",
 		"NamaDun" : "CHENDERIANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:21:38.570Z"
@@ -4866,6 +5098,7 @@
 		"KodDun" : "07247",
 		"NamaDun" : "CHENDERIANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:52:43.653Z"
@@ -4887,6 +5120,7 @@
 		"KodDun" : "07247",
 		"NamaDun" : "CHENDERIANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T06:05:36.173Z"
@@ -4908,6 +5142,7 @@
 		"KodDun" : "07247",
 		"NamaDun" : "CHENDERIANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T05:41:27.080Z"
@@ -4929,6 +5164,7 @@
 		"KodDun" : "07247",
 		"NamaDun" : "CHENDERIANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:57:43.493Z"
@@ -4950,6 +5186,7 @@
 		"KodDun" : "07247",
 		"NamaDun" : "CHENDERIANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T04:13:27.390Z"
@@ -4971,6 +5208,7 @@
 		"KodDun" : "07247",
 		"NamaDun" : "CHENDERIANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:16:26.913Z"
@@ -4992,6 +5230,7 @@
 		"KodDun" : "07248",
 		"NamaDun" : "AYER KUNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:34:40.943Z"
@@ -5013,6 +5252,7 @@
 		"KodDun" : "07248",
 		"NamaDun" : "AYER KUNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:31:54.130Z"
@@ -5034,6 +5274,7 @@
 		"KodDun" : "07248",
 		"NamaDun" : "AYER KUNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:26:51.747Z"
@@ -5055,6 +5296,7 @@
 		"KodDun" : "07248",
 		"NamaDun" : "AYER KUNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:29:09.183Z"
@@ -5076,6 +5318,7 @@
 		"KodDun" : "07248",
 		"NamaDun" : "AYER KUNING",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TAPAH",
 		"MasaSah" : "2022-11-05T03:19:13.673Z"
@@ -5097,6 +5340,7 @@
 		"KodDun" : "07349",
 		"NamaDun" : "SUNGAI MANIK",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PASIR SALAK",
 		"MasaSah" : "2022-11-05T01:58:24.790Z"
@@ -5118,6 +5362,7 @@
 		"KodDun" : "07349",
 		"NamaDun" : "SUNGAI MANIK",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PASIR SALAK",
 		"MasaSah" : "2022-11-05T02:40:53.070Z"
@@ -5139,6 +5384,7 @@
 		"KodDun" : "07349",
 		"NamaDun" : "SUNGAI MANIK",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PASIR SALAK",
 		"MasaSah" : "2022-11-05T02:48:43.237Z"
@@ -5160,6 +5406,7 @@
 		"KodDun" : "07350",
 		"NamaDun" : "KAMPONG GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PASIR SALAK",
 		"MasaSah" : "2022-11-05T02:00:23.760Z"
@@ -5181,6 +5428,7 @@
 		"KodDun" : "07350",
 		"NamaDun" : "KAMPONG GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PASIR SALAK",
 		"MasaSah" : "2022-11-05T07:18:51.963Z"
@@ -5202,6 +5450,7 @@
 		"KodDun" : "07350",
 		"NamaDun" : "KAMPONG GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PASIR SALAK",
 		"MasaSah" : "2022-11-05T01:51:52.377Z"
@@ -5223,6 +5472,7 @@
 		"KodDun" : "07350",
 		"NamaDun" : "KAMPONG GAJAH",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "PASIR SALAK",
 		"MasaSah" : "2022-11-05T05:55:53.610Z"
@@ -5244,6 +5494,7 @@
 		"KodDun" : "07451",
 		"NamaDun" : "PASIR PANJANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:42:57.030Z"
@@ -5265,6 +5516,7 @@
 		"KodDun" : "07451",
 		"NamaDun" : "PASIR PANJANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:33:34.260Z"
@@ -5286,6 +5538,7 @@
 		"KodDun" : "07451",
 		"NamaDun" : "PASIR PANJANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:08:33.440Z"
@@ -5307,6 +5560,7 @@
 		"KodDun" : "07451",
 		"NamaDun" : "PASIR PANJANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:51:21.307Z"
@@ -5328,6 +5582,7 @@
 		"KodDun" : "07451",
 		"NamaDun" : "PASIR PANJANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:31:57.643Z"
@@ -5349,6 +5604,7 @@
 		"KodDun" : "07452",
 		"NamaDun" : "PANGKOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:33:50.320Z"
@@ -5370,6 +5626,7 @@
 		"KodDun" : "07452",
 		"NamaDun" : "PANGKOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:40:27.753Z"
@@ -5391,6 +5648,7 @@
 		"KodDun" : "07452",
 		"NamaDun" : "PANGKOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T02:21:46.213Z"
@@ -5412,6 +5670,7 @@
 		"KodDun" : "07452",
 		"NamaDun" : "PANGKOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T03:52:34.000Z"
@@ -5433,6 +5692,7 @@
 		"KodDun" : "07452",
 		"NamaDun" : "PANGKOR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "LUMUT",
 		"MasaSah" : "2022-11-05T01:46:59.190Z"
@@ -5454,6 +5714,7 @@
 		"KodDun" : "07553",
 		"NamaDun" : "RUNGKUP",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN DATUK",
 		"MasaSah" : "2022-11-05T01:33:36.790Z"
@@ -5475,6 +5736,7 @@
 		"KodDun" : "07553",
 		"NamaDun" : "RUNGKUP",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN DATUK",
 		"MasaSah" : "2022-11-05T02:45:47.220Z"
@@ -5496,6 +5758,7 @@
 		"KodDun" : "07553",
 		"NamaDun" : "RUNGKUP",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN DATUK",
 		"MasaSah" : "2022-11-05T02:24:16.540Z"
@@ -5517,6 +5780,7 @@
 		"KodDun" : "07554",
 		"NamaDun" : "HUTAN MELINTANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN DATUK",
 		"MasaSah" : "2022-11-05T02:11:25.830Z"
@@ -5538,6 +5802,7 @@
 		"KodDun" : "07554",
 		"NamaDun" : "HUTAN MELINTANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN DATUK",
 		"MasaSah" : "2022-11-05T02:43:13.117Z"
@@ -5559,6 +5824,7 @@
 		"KodDun" : "07554",
 		"NamaDun" : "HUTAN MELINTANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "BAGAN DATUK",
 		"MasaSah" : "2022-11-05T01:41:54.400Z"
@@ -5580,6 +5846,7 @@
 		"KodDun" : "07655",
 		"NamaDun" : "PASIR BEDAMAR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TELUK INTAN",
 		"MasaSah" : "2022-11-05T04:29:44.093Z"
@@ -5601,6 +5868,7 @@
 		"KodDun" : "07655",
 		"NamaDun" : "PASIR BEDAMAR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TELUK INTAN",
 		"MasaSah" : "2022-11-05T08:25:12.847Z"
@@ -5622,6 +5890,7 @@
 		"KodDun" : "07655",
 		"NamaDun" : "PASIR BEDAMAR",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TELUK INTAN",
 		"MasaSah" : "2022-11-05T04:28:43.663Z"
@@ -5643,6 +5912,7 @@
 		"KodDun" : "07656",
 		"NamaDun" : "CHANGKAT JONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TELUK INTAN",
 		"MasaSah" : "2022-11-05T04:47:02.703Z"
@@ -5664,6 +5934,7 @@
 		"KodDun" : "07656",
 		"NamaDun" : "CHANGKAT JONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TELUK INTAN",
 		"MasaSah" : "2022-11-05T04:49:44.550Z"
@@ -5685,6 +5956,7 @@
 		"KodDun" : "07656",
 		"NamaDun" : "CHANGKAT JONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TELUK INTAN",
 		"MasaSah" : "2022-11-05T04:55:16.680Z"
@@ -5706,6 +5978,7 @@
 		"KodDun" : "07656",
 		"NamaDun" : "CHANGKAT JONG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TELUK INTAN",
 		"MasaSah" : "2022-11-05T05:07:23.320Z"
@@ -5727,6 +6000,7 @@
 		"KodDun" : "07757",
 		"NamaDun" : "SUNGKAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T02:52:40.397Z"
@@ -5748,6 +6022,7 @@
 		"KodDun" : "07757",
 		"NamaDun" : "SUNGKAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T08:18:16.100Z"
@@ -5769,6 +6044,7 @@
 		"KodDun" : "07757",
 		"NamaDun" : "SUNGKAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T03:01:10.033Z"
@@ -5790,6 +6066,7 @@
 		"KodDun" : "07757",
 		"NamaDun" : "SUNGKAI",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T02:06:11.820Z"
@@ -5811,6 +6088,7 @@
 		"KodDun" : "07758",
 		"NamaDun" : "SLIM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T02:27:40.860Z"
@@ -5832,6 +6110,7 @@
 		"KodDun" : "07758",
 		"NamaDun" : "SLIM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T04:08:50.303Z"
@@ -5853,6 +6132,7 @@
 		"KodDun" : "07758",
 		"NamaDun" : "SLIM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T02:55:24.617Z"
@@ -5874,6 +6154,7 @@
 		"KodDun" : "07758",
 		"NamaDun" : "SLIM",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T03:29:19.527Z"
@@ -5895,6 +6176,7 @@
 		"KodDun" : "07759",
 		"NamaDun" : "BEHRANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T03:42:34.917Z"
@@ -5916,6 +6198,7 @@
 		"KodDun" : "07759",
 		"NamaDun" : "BEHRANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T03:04:58.090Z"
@@ -5937,6 +6220,7 @@
 		"KodDun" : "07759",
 		"NamaDun" : "BEHRANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T04:27:11.890Z"
@@ -5958,6 +6242,7 @@
 		"KodDun" : "07759",
 		"NamaDun" : "BEHRANG",
 		"KodNegeri" : "08",
+		"ParlimenOrder" : 6,
 		"Negeri" : "PERAK",
 		"NamaParlimen" : "TANJONG MALIM",
 		"MasaSah" : "2022-11-05T04:10:50.180Z"
@@ -5979,6 +6264,7 @@
 		"KodDun" : "07801",
 		"NamaDun" : "TANAH RATA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "CAMERON HIGHLANDS",
 		"MasaSah" : "2022-11-05T04:33:50.123Z"
@@ -6000,6 +6286,7 @@
 		"KodDun" : "07801",
 		"NamaDun" : "TANAH RATA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "CAMERON HIGHLANDS",
 		"MasaSah" : "2022-11-05T03:03:17.170Z"
@@ -6021,6 +6308,7 @@
 		"KodDun" : "07801",
 		"NamaDun" : "TANAH RATA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "CAMERON HIGHLANDS",
 		"MasaSah" : "2022-11-05T04:30:37.643Z"
@@ -6042,6 +6330,7 @@
 		"KodDun" : "07802",
 		"NamaDun" : "JELAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "CAMERON HIGHLANDS",
 		"MasaSah" : "2022-11-05T04:31:46.877Z"
@@ -6063,6 +6352,7 @@
 		"KodDun" : "07802",
 		"NamaDun" : "JELAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "CAMERON HIGHLANDS",
 		"MasaSah" : "2022-11-05T04:57:50.580Z"
@@ -6084,6 +6374,7 @@
 		"KodDun" : "07802",
 		"NamaDun" : "JELAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "CAMERON HIGHLANDS",
 		"MasaSah" : "2022-11-05T05:03:37.963Z"
@@ -6105,6 +6396,7 @@
 		"KodDun" : "07903",
 		"NamaDun" : "PADANG TENGKU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T04:43:35.950Z"
@@ -6126,6 +6418,7 @@
 		"KodDun" : "07903",
 		"NamaDun" : "PADANG TENGKU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T04:35:06.580Z"
@@ -6147,6 +6440,7 @@
 		"KodDun" : "07903",
 		"NamaDun" : "PADANG TENGKU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T02:39:47.963Z"
@@ -6168,6 +6462,7 @@
 		"KodDun" : "07903",
 		"NamaDun" : "PADANG TENGKU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T04:33:39.667Z"
@@ -6189,6 +6484,7 @@
 		"KodDun" : "07904",
 		"NamaDun" : "CHEKA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T06:55:47.083Z"
@@ -6210,6 +6506,7 @@
 		"KodDun" : "07904",
 		"NamaDun" : "CHEKA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T01:48:51.637Z"
@@ -6231,6 +6528,7 @@
 		"KodDun" : "07904",
 		"NamaDun" : "CHEKA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T03:11:51.877Z"
@@ -6252,6 +6550,7 @@
 		"KodDun" : "07904",
 		"NamaDun" : "CHEKA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T02:13:17.320Z"
@@ -6273,6 +6572,7 @@
 		"KodDun" : "07905",
 		"NamaDun" : "BENTA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T03:10:19.137Z"
@@ -6294,6 +6594,7 @@
 		"KodDun" : "07905",
 		"NamaDun" : "BENTA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T05:15:57.077Z"
@@ -6315,6 +6616,7 @@
 		"KodDun" : "07905",
 		"NamaDun" : "BENTA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "LIPIS",
 		"MasaSah" : "2022-11-05T04:38:48.440Z"
@@ -6336,6 +6638,7 @@
 		"KodDun" : "08006",
 		"NamaDun" : "BATU TALAM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T03:29:52.497Z"
@@ -6357,6 +6660,7 @@
 		"KodDun" : "08006",
 		"NamaDun" : "BATU TALAM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T02:35:42.320Z"
@@ -6378,6 +6682,7 @@
 		"KodDun" : "08006",
 		"NamaDun" : "BATU TALAM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T03:16:17.883Z"
@@ -6399,6 +6704,7 @@
 		"KodDun" : "08007",
 		"NamaDun" : "TRAS",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T02:20:43.150Z"
@@ -6420,6 +6726,7 @@
 		"KodDun" : "08007",
 		"NamaDun" : "TRAS",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T04:24:55.197Z"
@@ -6441,6 +6748,7 @@
 		"KodDun" : "08007",
 		"NamaDun" : "TRAS",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T05:53:14.647Z"
@@ -6462,6 +6770,7 @@
 		"KodDun" : "08007",
 		"NamaDun" : "TRAS",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T03:25:31.667Z"
@@ -6483,6 +6792,7 @@
 		"KodDun" : "08008",
 		"NamaDun" : "DONG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T02:14:42.130Z"
@@ -6504,6 +6814,7 @@
 		"KodDun" : "08008",
 		"NamaDun" : "DONG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T04:32:52.070Z"
@@ -6525,6 +6836,7 @@
 		"KodDun" : "08008",
 		"NamaDun" : "DONG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "RAUB",
 		"MasaSah" : "2022-11-05T04:34:19.087Z"
@@ -6546,6 +6858,7 @@
 		"KodDun" : "08109",
 		"NamaDun" : "TAHAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T03:22:51.157Z"
@@ -6567,6 +6880,7 @@
 		"KodDun" : "08109",
 		"NamaDun" : "TAHAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T01:29:26.110Z"
@@ -6588,6 +6902,7 @@
 		"KodDun" : "08109",
 		"NamaDun" : "TAHAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T01:49:23.887Z"
@@ -6609,6 +6924,7 @@
 		"KodDun" : "08110",
 		"NamaDun" : "DAMAK",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T01:58:03.663Z"
@@ -6630,6 +6946,7 @@
 		"KodDun" : "08110",
 		"NamaDun" : "DAMAK",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T04:36:23.510Z"
@@ -6651,6 +6968,7 @@
 		"KodDun" : "08110",
 		"NamaDun" : "DAMAK",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T01:40:22.423Z"
@@ -6672,6 +6990,7 @@
 		"KodDun" : "08110",
 		"NamaDun" : "DAMAK",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T01:56:28.230Z"
@@ -6693,6 +7012,7 @@
 		"KodDun" : "08111",
 		"NamaDun" : "PULAU TAWAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T03:36:35.040Z"
@@ -6714,6 +7034,7 @@
 		"KodDun" : "08111",
 		"NamaDun" : "PULAU TAWAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T01:53:10.473Z"
@@ -6735,6 +7056,7 @@
 		"KodDun" : "08111",
 		"NamaDun" : "PULAU TAWAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T03:21:20.997Z"
@@ -6756,6 +7078,7 @@
 		"KodDun" : "08111",
 		"NamaDun" : "PULAU TAWAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T02:48:20.717Z"
@@ -6777,6 +7100,7 @@
 		"KodDun" : "08111",
 		"NamaDun" : "PULAU TAWAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "JERANTUT",
 		"MasaSah" : "2022-11-05T01:45:48.663Z"
@@ -6798,6 +7122,7 @@
 		"KodDun" : "08212",
 		"NamaDun" : "BESERAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T04:49:39.467Z"
@@ -6819,6 +7144,7 @@
 		"KodDun" : "08212",
 		"NamaDun" : "BESERAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T04:44:39.437Z"
@@ -6840,6 +7166,7 @@
 		"KodDun" : "08212",
 		"NamaDun" : "BESERAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T04:41:44.253Z"
@@ -6861,6 +7188,7 @@
 		"KodDun" : "08212",
 		"NamaDun" : "BESERAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T02:13:54.123Z"
@@ -6882,6 +7210,7 @@
 		"KodDun" : "08212",
 		"NamaDun" : "BESERAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T05:34:57.777Z"
@@ -6903,6 +7232,7 @@
 		"KodDun" : "08213",
 		"NamaDun" : "SEMAMBU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T02:48:22.597Z"
@@ -6924,6 +7254,7 @@
 		"KodDun" : "08213",
 		"NamaDun" : "SEMAMBU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T04:47:03.813Z"
@@ -6945,6 +7276,7 @@
 		"KodDun" : "08213",
 		"NamaDun" : "SEMAMBU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T03:23:54.940Z"
@@ -6966,6 +7298,7 @@
 		"KodDun" : "08213",
 		"NamaDun" : "SEMAMBU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "INDERA MAHKOTA",
 		"MasaSah" : "2022-11-05T02:26:04.883Z"
@@ -6987,6 +7320,7 @@
 		"KodDun" : "08314",
 		"NamaDun" : "TERUNTUM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T03:25:55.730Z"
@@ -7008,6 +7342,7 @@
 		"KodDun" : "08314",
 		"NamaDun" : "TERUNTUM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T02:28:51.397Z"
@@ -7029,6 +7364,7 @@
 		"KodDun" : "08314",
 		"NamaDun" : "TERUNTUM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T01:55:34.300Z"
@@ -7050,6 +7386,7 @@
 		"KodDun" : "08314",
 		"NamaDun" : "TERUNTUM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T03:28:08.140Z"
@@ -7071,6 +7408,7 @@
 		"KodDun" : "08315",
 		"NamaDun" : "TANJUNG LUMPUR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T02:43:19.590Z"
@@ -7092,6 +7430,7 @@
 		"KodDun" : "08315",
 		"NamaDun" : "TANJUNG LUMPUR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T04:52:18.850Z"
@@ -7113,6 +7452,7 @@
 		"KodDun" : "08315",
 		"NamaDun" : "TANJUNG LUMPUR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T02:36:32.937Z"
@@ -7134,6 +7474,7 @@
 		"KodDun" : "08315",
 		"NamaDun" : "TANJUNG LUMPUR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T03:31:59.537Z"
@@ -7155,6 +7496,7 @@
 		"KodDun" : "08316",
 		"NamaDun" : "INDERAPURA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T03:46:44.000Z"
@@ -7176,6 +7518,7 @@
 		"KodDun" : "08316",
 		"NamaDun" : "INDERAPURA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T03:42:11.803Z"
@@ -7197,6 +7540,7 @@
 		"KodDun" : "08316",
 		"NamaDun" : "INDERAPURA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T03:40:22.373Z"
@@ -7218,6 +7562,7 @@
 		"KodDun" : "08316",
 		"NamaDun" : "INDERAPURA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUANTAN",
 		"MasaSah" : "2022-11-05T03:48:54.823Z"
@@ -7239,6 +7584,7 @@
 		"KodDun" : "08417",
 		"NamaDun" : "SUNGAI LEMBING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T03:44:33.550Z"
@@ -7260,6 +7606,7 @@
 		"KodDun" : "08417",
 		"NamaDun" : "SUNGAI LEMBING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:03:46.957Z"
@@ -7281,6 +7628,7 @@
 		"KodDun" : "08417",
 		"NamaDun" : "SUNGAI LEMBING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:00:25.850Z"
@@ -7302,6 +7650,7 @@
 		"KodDun" : "08417",
 		"NamaDun" : "SUNGAI LEMBING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T03:57:09.637Z"
@@ -7323,6 +7672,7 @@
 		"KodDun" : "08418",
 		"NamaDun" : "LEPAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:13:24.987Z"
@@ -7344,6 +7694,7 @@
 		"KodDun" : "08418",
 		"NamaDun" : "LEPAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:32:15.363Z"
@@ -7365,6 +7716,7 @@
 		"KodDun" : "08418",
 		"NamaDun" : "LEPAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:02:02.353Z"
@@ -7386,6 +7738,7 @@
 		"KodDun" : "08418",
 		"NamaDun" : "LEPAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:05:24.050Z"
@@ -7407,6 +7760,7 @@
 		"KodDun" : "08419",
 		"NamaDun" : "PANCHING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:17:32.330Z"
@@ -7428,6 +7782,7 @@
 		"KodDun" : "08419",
 		"NamaDun" : "PANCHING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T03:30:04.043Z"
@@ -7449,6 +7804,7 @@
 		"KodDun" : "08419",
 		"NamaDun" : "PANCHING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:26:12.400Z"
@@ -7470,6 +7826,7 @@
 		"KodDun" : "08419",
 		"NamaDun" : "PANCHING",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PAYA BESAR",
 		"MasaSah" : "2022-11-05T04:39:51.220Z"
@@ -7491,6 +7848,7 @@
 		"KodDun" : "08520",
 		"NamaDun" : "PULAU MANIS",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T01:48:00.780Z"
@@ -7512,6 +7870,7 @@
 		"KodDun" : "08520",
 		"NamaDun" : "PULAU MANIS",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T05:03:27.527Z"
@@ -7533,6 +7892,7 @@
 		"KodDun" : "08520",
 		"NamaDun" : "PULAU MANIS",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T02:33:28.140Z"
@@ -7554,6 +7914,7 @@
 		"KodDun" : "08521",
 		"NamaDun" : "PERAMU JAYA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T03:04:43.937Z"
@@ -7575,6 +7936,7 @@
 		"KodDun" : "08521",
 		"NamaDun" : "PERAMU JAYA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T04:10:32.533Z"
@@ -7596,6 +7958,7 @@
 		"KodDun" : "08521",
 		"NamaDun" : "PERAMU JAYA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T06:06:43.257Z"
@@ -7617,6 +7980,7 @@
 		"KodDun" : "08521",
 		"NamaDun" : "PERAMU JAYA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T03:34:33.297Z"
@@ -7638,6 +8002,7 @@
 		"KodDun" : "08522",
 		"NamaDun" : "BEBAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T04:35:57.790Z"
@@ -7659,6 +8024,7 @@
 		"KodDun" : "08522",
 		"NamaDun" : "BEBAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T02:02:26.167Z"
@@ -7680,6 +8046,7 @@
 		"KodDun" : "08522",
 		"NamaDun" : "BEBAR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T04:54:53.703Z"
@@ -7701,6 +8068,7 @@
 		"KodDun" : "08523",
 		"NamaDun" : "CHINI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T02:58:48.207Z"
@@ -7722,6 +8090,7 @@
 		"KodDun" : "08523",
 		"NamaDun" : "CHINI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T05:06:30.483Z"
@@ -7743,6 +8112,7 @@
 		"KodDun" : "08523",
 		"NamaDun" : "CHINI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "PEKAN",
 		"MasaSah" : "2022-11-05T02:50:28.910Z"
@@ -7764,6 +8134,7 @@
 		"KodDun" : "08624",
 		"NamaDun" : "LUIT",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T02:04:15.660Z"
@@ -7785,6 +8156,7 @@
 		"KodDun" : "08624",
 		"NamaDun" : "LUIT",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T02:34:18.673Z"
@@ -7806,6 +8178,7 @@
 		"KodDun" : "08624",
 		"NamaDun" : "LUIT",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T03:39:37.240Z"
@@ -7827,6 +8200,7 @@
 		"KodDun" : "08625",
 		"NamaDun" : "KUALA SENTUL",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T02:21:00.163Z"
@@ -7848,6 +8222,7 @@
 		"KodDun" : "08625",
 		"NamaDun" : "KUALA SENTUL",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T02:17:54.413Z"
@@ -7869,6 +8244,7 @@
 		"KodDun" : "08625",
 		"NamaDun" : "KUALA SENTUL",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T02:48:00.153Z"
@@ -7890,6 +8266,7 @@
 		"KodDun" : "08626",
 		"NamaDun" : "CHENOR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T03:10:19.970Z"
@@ -7911,6 +8288,7 @@
 		"KodDun" : "08626",
 		"NamaDun" : "CHENOR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T05:02:49.640Z"
@@ -7932,6 +8310,7 @@
 		"KodDun" : "08626",
 		"NamaDun" : "CHENOR",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "MARAN",
 		"MasaSah" : "2022-11-05T05:00:47.233Z"
@@ -7953,6 +8332,7 @@
 		"KodDun" : "08727",
 		"NamaDun" : "JENDERAK",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T03:50:35.320Z"
@@ -7974,6 +8354,7 @@
 		"KodDun" : "08727",
 		"NamaDun" : "JENDERAK",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T04:15:25.793Z"
@@ -7995,6 +8376,7 @@
 		"KodDun" : "08727",
 		"NamaDun" : "JENDERAK",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T01:53:54.610Z"
@@ -8016,6 +8398,7 @@
 		"KodDun" : "08728",
 		"NamaDun" : "KERDAU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T02:02:42.700Z"
@@ -8037,6 +8420,7 @@
 		"KodDun" : "08728",
 		"NamaDun" : "KERDAU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T02:24:09.607Z"
@@ -8058,6 +8442,7 @@
 		"KodDun" : "08728",
 		"NamaDun" : "KERDAU",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T04:33:53.110Z"
@@ -8079,6 +8464,7 @@
 		"KodDun" : "08729",
 		"NamaDun" : "JENGKA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T03:52:51.137Z"
@@ -8100,6 +8486,7 @@
 		"KodDun" : "08729",
 		"NamaDun" : "JENGKA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T02:27:47.327Z"
@@ -8121,6 +8508,7 @@
 		"KodDun" : "08729",
 		"NamaDun" : "JENGKA",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "KUALA KRAU",
 		"MasaSah" : "2022-11-05T01:52:00.470Z"
@@ -8142,6 +8530,7 @@
 		"KodDun" : "08830",
 		"NamaDun" : "MENTAKAB",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T05:05:49.647Z"
@@ -8163,6 +8552,7 @@
 		"KodDun" : "08830",
 		"NamaDun" : "MENTAKAB",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T03:07:19.333Z"
@@ -8184,6 +8574,7 @@
 		"KodDun" : "08830",
 		"NamaDun" : "MENTAKAB",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T04:56:56.543Z"
@@ -8205,6 +8596,7 @@
 		"KodDun" : "08830",
 		"NamaDun" : "MENTAKAB",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T03:37:37.623Z"
@@ -8226,6 +8618,7 @@
 		"KodDun" : "08831",
 		"NamaDun" : "LANCHANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T02:45:08.587Z"
@@ -8247,6 +8640,7 @@
 		"KodDun" : "08831",
 		"NamaDun" : "LANCHANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T05:23:53.753Z"
@@ -8268,6 +8662,7 @@
 		"KodDun" : "08831",
 		"NamaDun" : "LANCHANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T05:12:09.160Z"
@@ -8289,6 +8684,7 @@
 		"KodDun" : "08831",
 		"NamaDun" : "LANCHANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T05:04:11.917Z"
@@ -8310,6 +8706,7 @@
 		"KodDun" : "08831",
 		"NamaDun" : "LANCHANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T04:58:49.110Z"
@@ -8331,6 +8728,7 @@
 		"KodDun" : "08832",
 		"NamaDun" : "KUALA SEMANTAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T05:14:15.407Z"
@@ -8352,6 +8750,7 @@
 		"KodDun" : "08832",
 		"NamaDun" : "KUALA SEMANTAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T05:16:50.247Z"
@@ -8373,6 +8772,7 @@
 		"KodDun" : "08832",
 		"NamaDun" : "KUALA SEMANTAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T02:43:26.597Z"
@@ -8394,6 +8794,7 @@
 		"KodDun" : "08832",
 		"NamaDun" : "KUALA SEMANTAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "TEMERLOH",
 		"MasaSah" : "2022-11-05T02:12:33.950Z"
@@ -8415,6 +8816,7 @@
 		"KodDun" : "08933",
 		"NamaDun" : "BILUT",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:03:21.367Z"
@@ -8436,6 +8838,7 @@
 		"KodDun" : "08933",
 		"NamaDun" : "BILUT",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:25:36.970Z"
@@ -8457,6 +8860,7 @@
 		"KodDun" : "08933",
 		"NamaDun" : "BILUT",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:09:17.713Z"
@@ -8478,6 +8882,7 @@
 		"KodDun" : "08933",
 		"NamaDun" : "BILUT",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T02:50:11.873Z"
@@ -8499,6 +8904,7 @@
 		"KodDun" : "08934",
 		"NamaDun" : "KETARI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T02:59:02.007Z"
@@ -8520,6 +8926,7 @@
 		"KodDun" : "08934",
 		"NamaDun" : "KETARI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:22:30.343Z"
@@ -8541,6 +8948,7 @@
 		"KodDun" : "08934",
 		"NamaDun" : "KETARI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T02:54:14.970Z"
@@ -8562,6 +8970,7 @@
 		"KodDun" : "08935",
 		"NamaDun" : "SABAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:20:02.580Z"
@@ -8583,6 +8992,7 @@
 		"KodDun" : "08935",
 		"NamaDun" : "SABAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:17:47.750Z"
@@ -8604,6 +9014,7 @@
 		"KodDun" : "08935",
 		"NamaDun" : "SABAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:06:53.907Z"
@@ -8625,6 +9036,7 @@
 		"KodDun" : "08936",
 		"NamaDun" : "PELANGAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:10:40.700Z"
@@ -8646,6 +9058,7 @@
 		"KodDun" : "08936",
 		"NamaDun" : "PELANGAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T03:56:51.437Z"
@@ -8667,6 +9080,7 @@
 		"KodDun" : "08936",
 		"NamaDun" : "PELANGAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T03:58:19.577Z"
@@ -8688,6 +9102,7 @@
 		"KodDun" : "08936",
 		"NamaDun" : "PELANGAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BENTONG",
 		"MasaSah" : "2022-11-05T05:12:09.670Z"
@@ -8709,6 +9124,7 @@
 		"KodDun" : "09037",
 		"NamaDun" : "GUAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T01:35:03.730Z"
@@ -8730,6 +9146,7 @@
 		"KodDun" : "09037",
 		"NamaDun" : "GUAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T01:52:08.493Z"
@@ -8751,6 +9168,7 @@
 		"KodDun" : "09037",
 		"NamaDun" : "GUAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T01:48:58.743Z"
@@ -8772,6 +9190,7 @@
 		"KodDun" : "09037",
 		"NamaDun" : "GUAI",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T02:16:47.800Z"
@@ -8793,6 +9212,7 @@
 		"KodDun" : "09038",
 		"NamaDun" : "TRIANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T03:55:09.017Z"
@@ -8814,6 +9234,7 @@
 		"KodDun" : "09038",
 		"NamaDun" : "TRIANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T02:06:57.937Z"
@@ -8835,6 +9256,7 @@
 		"KodDun" : "09038",
 		"NamaDun" : "TRIANG",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T03:51:13.733Z"
@@ -8856,6 +9278,7 @@
 		"KodDun" : "09039",
 		"NamaDun" : "KEMAYAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T03:18:46.160Z"
@@ -8877,6 +9300,7 @@
 		"KodDun" : "09039",
 		"NamaDun" : "KEMAYAN",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "BERA",
 		"MasaSah" : "2022-11-05T02:48:29.787Z"
@@ -8898,6 +9322,7 @@
 		"KodDun" : "09140",
 		"NamaDun" : "BUKIT IBAM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "ROMPIN",
 		"MasaSah" : "2022-11-05T04:07:41.710Z"
@@ -8919,6 +9344,7 @@
 		"KodDun" : "09140",
 		"NamaDun" : "BUKIT IBAM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "ROMPIN",
 		"MasaSah" : "2022-11-05T02:55:50.643Z"
@@ -8940,6 +9366,7 @@
 		"KodDun" : "09140",
 		"NamaDun" : "BUKIT IBAM",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "ROMPIN",
 		"MasaSah" : "2022-11-05T04:06:38.890Z"
@@ -8961,6 +9388,7 @@
 		"KodDun" : "09141",
 		"NamaDun" : "MUADZAM SHAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "ROMPIN",
 		"MasaSah" : "2022-11-05T04:12:57.250Z"
@@ -8982,6 +9410,7 @@
 		"KodDun" : "09141",
 		"NamaDun" : "MUADZAM SHAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "ROMPIN",
 		"MasaSah" : "2022-11-05T04:14:44.140Z"
@@ -9003,6 +9432,7 @@
 		"KodDun" : "09141",
 		"NamaDun" : "MUADZAM SHAH",
 		"KodNegeri" : "06",
+		"ParlimenOrder" : 7,
 		"Negeri" : "PAHANG",
 		"NamaParlimen" : "ROMPIN",
 		"MasaSah" : "2022-11-05T04:13:59.200Z"
