@@ -14,21 +14,9 @@ app.get('/pilihanraya', (req, res) => {
 });
 
 app.get('/negeri', (req, res) => {
-  res.writeHead(200, {
-    'Content-Type': 'text/event-stream',
-    'Cache-Control': 'no-cache',
-    'Connection': 'keep-alive'
-  });
-
-  const data = require('./negeri.json');
-  res.write('data: ');
-  res.write(JSON.stringify(data));
-  res.write('\n\n');
-
-  req.on('close', () => {
-    res.end();
-  });
+  res.sendFile(__dirname + '/negeri.json');
 });
+
 
 //////////////// PRU KE 15
 app.get('/2022-02/dun', (req, res) => {
