@@ -14,5 +14,13 @@
     "TarikhPengundian": "2022-03-12",
     "JenisPRK" : null,
 		"Jenis" : 20
+  },
+  {
+    "Kod": "2021-51",
+    "Nama": "PILIHAN RAYA UMUM DUN SARAWAK KE-12 (2021)",
+    "NamaSingkatan": "PRU DUN SARAWAK KE-12 (2021)",
+    "TarikhPengundian": "2021-12-18",
+    "JenisPRK" : null,
+		"Jenis" : 20
   }
 ]
