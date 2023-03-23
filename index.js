@@ -116,6 +116,7 @@ app.get('/2022-01/calondun', (req, res) => {
     'Connection': 'keep-alive'
   });
 
+
   const data = require('./2022-01/calon_dun.json');
   res.write('data: ');
   res.write(JSON.stringify(data));
@@ -125,6 +126,18 @@ app.get('/2022-01/calondun', (req, res) => {
   req.on('close', () => {
     res.end();
   });
+});
+
+app.get('/2022-01/statistikumur', (req, res) => {
+  res.sendFile(__dirname + '/2022-01/statistikumur.json');
+});
+
+app.get('/2022-01/statistikjenis', (req, res) => {
+  res.sendFile(__dirname + '/2022-01/statistikjenis.json');
+});
+
+app.get('/2022-01/keputusan', (req, res) => {
+  res.sendFile(__dirname + '/2022-01/keputusan.json');
 });
 
 app.get('/2022-01/statistik', (req, res) => {
@@ -146,24 +159,6 @@ app.get('/2022-01/statistik', (req, res) => {
   });
 });
 
-app.get('/2022-01/keputusan', (req, res) => {
-  // Set headers for SSE
-  res.writeHead(200, {
-    'Content-Type': 'text/event-stream',
-    'Cache-Control': 'no-cache',
-    'Connection': 'keep-alive'
-  });
-
-  const data = require('./2022-01/keputusan.json');
-  res.write('data: ');
-  res.write(JSON.stringify(data));
-  res.write('\n\n');
-
-  // Handle client disconnect
-  req.on('close', () => {
-    res.end();
-  });
-});
 
 app.get('/keputusan2', (req, res) => {
   res.writeHead(200, {
