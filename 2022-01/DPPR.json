@@ -1,0 +1,340 @@
+{
+    "select KodDun,KodParlimen,Negeri,\r\ncount(dpprId) as Jumlah\r\nfrom DPPR d\r\nwhere PilihanrayaId = '956EC2DA-2546-4789-8A81-BE39DDD05499'\r\nGROUP BY KodDun,KodParlimen,Negeri ": [
+        {
+            "KodDun" : "14002",
+            "KodParlimen" : "140",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 41221
+        },
+        {
+            "KodDun" : "16044",
+            "KodParlimen" : "160",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 76003
+        },
+        {
+            "KodDun" : "15331",
+            "KodParlimen" : "153",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 29343
+        },
+        {
+            "KodDun" : "15738",
+            "KodParlimen" : "157",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 29933
+        },
+        {
+            "KodDun" : "14514",
+            "KodParlimen" : "145",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 22594
+        },
+        {
+            "KodDun" : "14513",
+            "KodParlimen" : "145",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 40014
+        },
+        {
+            "KodDun" : "14921",
+            "KodParlimen" : "149",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 41851
+        },
+        {
+            "KodDun" : "15432",
+            "KodParlimen" : "154",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 27924
+        },
+        {
+            "KodDun" : "15841",
+            "KodParlimen" : "158",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 112804
+        },
+        {
+            "KodDun" : "16147",
+            "KodParlimen" : "161",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 62011
+        },
+        {
+            "KodDun" : "16555",
+            "KodParlimen" : "165",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 35865
+        },
+        {
+            "KodDun" : "15739",
+            "KodParlimen" : "157",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 25132
+        },
+        {
+            "KodDun" : "14206",
+            "KodParlimen" : "142",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 27426
+        },
+        {
+            "KodDun" : "16351",
+            "KodParlimen" : "163",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 46237
+        },
+        {
+            "KodDun" : "14307",
+            "KodParlimen" : "143",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 37494
+        },
+        {
+            "KodDun" : "15943",
+            "KodParlimen" : "159",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 103598
+        },
+        {
+            "KodDun" : "15024",
+            "KodParlimen" : "150",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 37374
+        },
+        {
+            "KodDun" : "16556",
+            "KodParlimen" : "165",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 34624
+        },
+        {
+            "KodDun" : "15023",
+            "KodParlimen" : "150",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 69092
+        },
+        {
+            "KodDun" : "15330",
+            "KodParlimen" : "153",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 25831
+        },
+        {
+            "KodDun" : "15637",
+            "KodParlimen" : "156",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 32658
+        },
+        {
+            "KodDun" : "14410",
+            "KodParlimen" : "144",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 35554
+        },
+        {
+            "KodDun" : "15126",
+            "KodParlimen" : "151",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 33764
+        },
+        {
+            "KodDun" : "15127",
+            "KodParlimen" : "151",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 25147
+        },
+        {
+            "KodDun" : "16352",
+            "KodParlimen" : "163",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 63717
+        },
+        {
+            "KodDun" : "16350",
+            "KodParlimen" : "163",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 39611
+        },
+        {
+            "KodDun" : "15228",
+            "KodParlimen" : "152",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 66362
+        },
+        {
+            "KodDun" : "14103",
+            "KodParlimen" : "141",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 29923
+        },
+        {
+            "KodDun" : "16454",
+            "KodParlimen" : "164",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 46991
+        },
+        {
+            "KodDun" : "16146",
+            "KodParlimen" : "161",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 101262
+        },
+        {
+            "KodDun" : "16249",
+            "KodParlimen" : "162",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 116415
+        },
+        {
+            "KodDun" : "15942",
+            "KodParlimen" : "159",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 91882
+        },
+        {
+            "KodDun" : "14411",
+            "KodParlimen" : "144",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 39018
+        },
+        {
+            "KodDun" : "16045",
+            "KodParlimen" : "160",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 60577
+        },
+        {
+            "KodDun" : "15025",
+            "KodParlimen" : "150",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 27123
+        },
+        {
+            "KodDun" : "16248",
+            "KodParlimen" : "162",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 102828
+        },
+        {
+            "KodDun" : "14512",
+            "KodParlimen" : "145",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 34728
+        },
+        {
+            "KodDun" : "14616",
+            "KodParlimen" : "146",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 30121
+        },
+        {
+            "KodDun" : "14308",
+            "KodParlimen" : "143",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 32213
+        },
+        {
+            "KodDun" : "15535",
+            "KodParlimen" : "155",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 28045
+        },
+        {
+            "KodDun" : "14819",
+            "KodParlimen" : "148",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 33053
+        },
+        {
+            "KodDun" : "14104",
+            "KodParlimen" : "141",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 33702
+        },
+        {
+            "KodDun" : "14717",
+            "KodParlimen" : "147",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 46640
+        },
+        {
+            "KodDun" : "14718",
+            "KodParlimen" : "147",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 32696
+        },
+        {
+            "KodDun" : "14205",
+            "KodParlimen" : "142",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 22613
+        },
+        {
+            "KodDun" : "14615",
+            "KodParlimen" : "146",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 38596
+        },
+        {
+            "KodDun" : "15636",
+            "KodParlimen" : "156",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 28659
+        },
+        {
+            "KodDun" : "14922",
+            "KodParlimen" : "149",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 36059
+        },
+        {
+            "KodDun" : "15229",
+            "KodParlimen" : "152",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 65074
+        },
+        {
+            "KodDun" : "15840",
+            "KodParlimen" : "158",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 105707
+        },
+        {
+            "KodDun" : "16453",
+            "KodParlimen" : "164",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 28165
+        },
+        {
+            "KodDun" : "14820",
+            "KodParlimen" : "148",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 27734
+        },
+        {
+            "KodDun" : "15534",
+            "KodParlimen" : "155",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 38408
+        },
+        {
+            "KodDun" : "15433",
+            "KodParlimen" : "154",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 38408
+        },
+        {
+            "KodDun" : "14409",
+            "KodParlimen" : "144",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 29434
+        },
+        {
+            "KodDun" : "14001",
+            "KodParlimen" : "140",
+            "Negeri" : "JOHOR",
+            "Jumlah" : 28481
+        }
+    ]}
+    

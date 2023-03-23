@@ -140,6 +140,10 @@ app.get('/2022-01/keputusan', (req, res) => {
   res.sendFile(__dirname + '/2022-01/keputusan.json');
 });
 
+app.get('/2022-01/dppr', (req, res) => {
+  res.sendFile(__dirname + '/2022-01/DPPR.json');
+});
+
 app.get('/2022-01/statistik', (req, res) => {
   // Set headers for SSE
   res.writeHead(200, {
