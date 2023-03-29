@@ -1,11 +1,14 @@
-[	
+[
 	{
 		"KodParlimen" : "084",
 		"KodDun" : "08419",
 		"UndiDalamPeti" : 27823,
 		"PeratusUndi" : "79.9",
 		"Majoriti" : 7136,
-		"MasaSah" : "2022-11-19T20:24:00.713Z"
+		"MasaSah" : "2022-11-19T20:24:00.713Z",
+		"UndiTolak" : 252,
+		"UndiTakKembali" : 40,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "071",
@@ -13,7 +16,10 @@
 		"UndiDalamPeti" : 36484,
 		"PeratusUndi" : "76.1",
 		"Majoriti" : 3494,
-		"MasaSah" : "2022-11-19T20:19:59.780Z"
+		"MasaSah" : "2022-11-19T20:19:59.780Z",
+		"UndiTolak" : 542,
+		"UndiTakKembali" : 13,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "084",
@@ -21,7 +27,10 @@
 		"UndiDalamPeti" : 19978,
 		"PeratusUndi" : "77.8",
 		"Majoriti" : 419,
-		"MasaSah" : "2022-11-19T20:19:11.287Z"
+		"MasaSah" : "2022-11-19T20:19:11.287Z",
+		"UndiTolak" : 256,
+		"UndiTakKembali" : 37,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "075",
@@ -29,7 +38,10 @@
 		"UndiDalamPeti" : 28179,
 		"PeratusUndi" : "73.4",
 		"Majoriti" : 1130,
-		"MasaSah" : "2022-11-19T20:17:53.880Z"
+		"MasaSah" : "2022-11-19T20:17:53.880Z",
+		"UndiTolak" : 485,
+		"UndiTakKembali" : 73,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "071",
@@ -37,7 +49,10 @@
 		"UndiDalamPeti" : 44862,
 		"PeratusUndi" : "71.6",
 		"Majoriti" : 23273,
-		"MasaSah" : "2022-11-19T20:16:25.900Z"
+		"MasaSah" : "2022-11-19T20:16:25.900Z",
+		"UndiTolak" : 517,
+		"UndiTakKembali" : 46,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "071",
@@ -45,7 +60,10 @@
 		"UndiDalamPeti" : 104730,
 		"PeratusUndi" : "73.1",
 		"Majoriti" : 27148,
-		"MasaSah" : "2022-11-19T20:15:32.927Z"
+		"MasaSah" : "2022-11-19T20:15:32.927Z",
+		"UndiTolak" : 1092,
+		"UndiTakKembali" : 270,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "084",
@@ -53,7 +71,10 @@
 		"UndiDalamPeti" : 14866,
 		"PeratusUndi" : "77.8",
 		"Majoriti" : 1054,
-		"MasaSah" : "2022-11-19T20:14:27.013Z"
+		"MasaSah" : "2022-11-19T20:14:27.013Z",
+		"UndiTolak" : 172,
+		"UndiTakKembali" : 14,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "068",
@@ -61,7 +82,10 @@
 		"UndiDalamPeti" : 16677,
 		"PeratusUndi" : "74",
 		"Majoriti" : 1076,
-		"MasaSah" : "2022-11-19T19:56:24.043Z"
+		"MasaSah" : "2022-11-19T19:56:24.043Z",
+		"UndiTolak" : 253,
+		"UndiTakKembali" : 36,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "117",
@@ -69,7 +93,10 @@
 		"UndiDalamPeti" : 85885,
 		"PeratusUndi" : "72.1",
 		"Majoriti" : 59684,
-		"MasaSah" : "2022-11-19T19:53:14.583Z"
+		"MasaSah" : "2022-11-19T19:53:14.583Z",
+		"UndiTolak" : 389,
+		"UndiTakKembali" : 389,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "116",
@@ -77,7 +104,10 @@
 		"UndiDalamPeti" : 93238,
 		"PeratusUndi" : "77.7",
 		"Majoriti" : 20696,
-		"MasaSah" : "2022-11-19T19:49:05.120Z"
+		"MasaSah" : "2022-11-19T19:49:05.120Z",
+		"UndiTolak" : 498,
+		"UndiTakKembali" : 255,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "089",
@@ -85,7 +115,10 @@
 		"UndiDalamPeti" : 23856,
 		"PeratusUndi" : "77.7",
 		"Majoriti" : 120,
-		"MasaSah" : "2022-11-19T19:41:54.237Z"
+		"MasaSah" : "2022-11-19T19:41:54.237Z",
+		"UndiTolak" : 242,
+		"UndiTakKembali" : 46,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "075",
@@ -93,7 +126,10 @@
 		"UndiDalamPeti" : 42604,
 		"PeratusUndi" : "73.4",
 		"Majoriti" : 348,
-		"MasaSah" : "2022-11-19T19:40:25.977Z"
+		"MasaSah" : "2022-11-19T19:40:25.977Z",
+		"UndiTolak" : 748,
+		"UndiTakKembali" : 91,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "069",
@@ -101,7 +137,10 @@
 		"UndiDalamPeti" : 24293,
 		"PeratusUndi" : "80.8",
 		"Majoriti" : 1963,
-		"MasaSah" : "2022-11-19T19:38:08.997Z"
+		"MasaSah" : "2022-11-19T19:38:08.997Z",
+		"UndiTolak" : 350,
+		"UndiTakKembali" : 60,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "089",
@@ -109,7 +148,10 @@
 		"UndiDalamPeti" : 11981,
 		"PeratusUndi" : "76.7",
 		"Majoriti" : 96,
-		"MasaSah" : "2022-11-19T19:37:44.573Z"
+		"MasaSah" : "2022-11-19T19:37:44.573Z",
+		"UndiTolak" : 136,
+		"UndiTakKembali" : 24,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "068",
@@ -117,7 +159,10 @@
 		"UndiDalamPeti" : 73297,
 		"PeratusUndi" : "67.9",
 		"Majoriti" : 33971,
-		"MasaSah" : "2022-11-19T19:32:41.390Z"
+		"MasaSah" : "2022-11-19T19:32:41.390Z",
+		"UndiTolak" : 1124,
+		"UndiTakKembali" : 186,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "122",
@@ -125,7 +170,10 @@
 		"UndiDalamPeti" : 87856,
 		"PeratusUndi" : "70.6",
 		"Majoriti" : 67187,
-		"MasaSah" : "2022-11-19T19:30:52.683Z"
+		"MasaSah" : "2022-11-19T19:30:52.683Z",
+		"UndiTolak" : 402,
+		"UndiTakKembali" : 251,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "115",
@@ -133,7 +181,10 @@
 		"UndiDalamPeti" : 87623,
 		"PeratusUndi" : "77.1",
 		"Majoriti" : 22241,
-		"MasaSah" : "2022-11-19T19:27:35.390Z"
+		"MasaSah" : "2022-11-19T19:27:35.390Z",
+		"UndiTolak" : 477,
+		"UndiTakKembali" : 218,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "069",
@@ -141,7 +192,10 @@
 		"UndiDalamPeti" : 38046,
 		"PeratusUndi" : "79.7",
 		"Majoriti" : 2155,
-		"MasaSah" : "2022-11-19T19:19:37.930Z"
+		"MasaSah" : "2022-11-19T19:19:37.930Z",
+		"UndiTolak" : 501,
+		"UndiTakKembali" : 126,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "089",
@@ -149,7 +203,10 @@
 		"UndiDalamPeti" : 18663,
 		"PeratusUndi" : "77",
 		"Majoriti" : 3111,
-		"MasaSah" : "2022-11-19T19:19:15.290Z"
+		"MasaSah" : "2022-11-19T19:19:15.290Z",
+		"UndiTolak" : 188,
+		"UndiTakKembali" : 39,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "069",
@@ -157,7 +214,10 @@
 		"UndiDalamPeti" : 13780,
 		"PeratusUndi" : "77.8",
 		"Majoriti" : 1223,
-		"MasaSah" : "2022-11-19T19:18:02.440Z"
+		"MasaSah" : "2022-11-19T19:18:02.440Z",
+		"UndiTolak" : 228,
+		"UndiTakKembali" : 40,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "058",
@@ -165,7 +225,10 @@
 		"UndiDalamPeti" : 22571,
 		"PeratusUndi" : "78.8",
 		"Majoriti" : 4015,
-		"MasaSah" : "2022-11-19T19:14:17.793Z"
+		"MasaSah" : "2022-11-19T19:14:17.793Z",
+		"UndiTolak" : 338,
+		"UndiTakKembali" : 12,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "063",
@@ -173,7 +236,10 @@
 		"UndiDalamPeti" : 68394,
 		"PeratusUndi" : "79.5",
 		"Majoriti" : 6768,
-		"MasaSah" : "2022-11-19T19:12:37.270Z"
+		"MasaSah" : "2022-11-19T19:12:37.270Z",
+		"UndiTolak" : 759,
+		"UndiTakKembali" : 176,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "132",
@@ -181,7 +247,10 @@
 		"UndiDalamPeti" : 81274,
 		"PeratusUndi" : "78",
 		"Majoriti" : 23601,
-		"MasaSah" : "2022-11-19T19:08:07.023Z"
+		"MasaSah" : "2022-11-19T19:08:07.023Z",
+		"UndiTolak" : 1089,
+		"UndiTakKembali" : 162,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "068",
@@ -189,7 +258,10 @@
 		"UndiDalamPeti" : 27370,
 		"PeratusUndi" : "66.6",
 		"Majoriti" : 17835,
-		"MasaSah" : "2022-11-19T19:06:33.743Z"
+		"MasaSah" : "2022-11-19T19:06:33.743Z",
+		"UndiTolak" : 337,
+		"UndiTakKembali" : 93,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "063",
@@ -197,7 +269,10 @@
 		"UndiDalamPeti" : 57784,
 		"PeratusUndi" : "78",
 		"Majoriti" : 4163,
-		"MasaSah" : "2022-11-19T19:06:09.007Z"
+		"MasaSah" : "2022-11-19T19:06:09.007Z",
+		"UndiTolak" : 846,
+		"UndiTakKembali" : 139,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "063",
@@ -205,7 +280,10 @@
 		"UndiDalamPeti" : 126138,
 		"PeratusUndi" : "78.8",
 		"Majoriti" : 3736,
-		"MasaSah" : "2022-11-19T19:05:29.603Z"
+		"MasaSah" : "2022-11-19T19:05:29.603Z",
+		"UndiTolak" : 1369,
+		"UndiTakKembali" : 306,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "073",
@@ -213,7 +291,10 @@
 		"UndiDalamPeti" : 31095,
 		"PeratusUndi" : "79.6",
 		"Majoriti" : 3757,
-		"MasaSah" : "2022-11-19T19:01:44.410Z"
+		"MasaSah" : "2022-11-19T19:01:44.410Z",
+		"UndiTolak" : 461,
+		"UndiTakKembali" : 142,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "068",
@@ -221,7 +302,10 @@
 		"UndiDalamPeti" : 29256,
 		"PeratusUndi" : "66",
 		"Majoriti" : 16432,
-		"MasaSah" : "2022-11-19T19:01:18.877Z"
+		"MasaSah" : "2022-11-19T19:01:18.877Z",
+		"UndiTolak" : 408,
+		"UndiTakKembali" : 52,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "088",
@@ -229,7 +313,10 @@
 		"UndiDalamPeti" : 29449,
 		"PeratusUndi" : "80.3",
 		"Majoriti" : 1738,
-		"MasaSah" : "2022-11-19T18:57:54.987Z"
+		"MasaSah" : "2022-11-19T18:57:54.987Z",
+		"UndiTolak" : 272,
+		"UndiTakKembali" : 83,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "074",
@@ -237,7 +324,10 @@
 		"UndiDalamPeti" : 22420,
 		"PeratusUndi" : "74.4",
 		"Majoriti" : 1011,
-		"MasaSah" : "2022-11-19T18:57:36.700Z"
+		"MasaSah" : "2022-11-19T18:57:36.700Z",
+		"UndiTolak" : 412,
+		"UndiTakKembali" : 302,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "109",
@@ -245,7 +335,10 @@
 		"UndiDalamPeti" : 159494,
 		"PeratusUndi" : "84.3",
 		"Majoriti" : 11782,
-		"MasaSah" : "2022-11-19T18:55:46.527Z"
+		"MasaSah" : "2022-11-19T18:55:46.527Z",
+		"UndiTolak" : 1464,
+		"UndiTakKembali" : 206,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "055",
@@ -253,7 +346,10 @@
 		"UndiDalamPeti" : 11494,
 		"PeratusUndi" : "75",
 		"Majoriti" : 1237,
-		"MasaSah" : "2022-11-19T18:53:39.857Z"
+		"MasaSah" : "2022-11-19T18:53:39.857Z",
+		"UndiTolak" : 158,
+		"UndiTakKembali" : 22,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "089",
@@ -261,7 +357,10 @@
 		"UndiDalamPeti" : 12828,
 		"PeratusUndi" : "78.5",
 		"Majoriti" : 4048,
-		"MasaSah" : "2022-11-19T18:52:44.587Z"
+		"MasaSah" : "2022-11-19T18:52:44.587Z",
+		"UndiTolak" : 164,
+		"UndiTakKembali" : 18,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "112",
@@ -269,7 +368,10 @@
 		"UndiDalamPeti" : 125296,
 		"PeratusUndi" : "84.4",
 		"Majoriti" : 1833,
-		"MasaSah" : "2022-11-19T18:50:05.713Z"
+		"MasaSah" : "2022-11-19T18:50:05.713Z",
+		"UndiTolak" : 1436,
+		"UndiTakKembali" : 153,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "010",
@@ -277,7 +379,10 @@
 		"UndiDalamPeti" : 101286,
 		"PeratusUndi" : "76.6",
 		"Majoriti" : 28061,
-		"MasaSah" : "2022-11-19T18:48:37.293Z"
+		"MasaSah" : "2022-11-19T18:48:37.293Z",
+		"UndiTolak" : 811,
+		"UndiTakKembali" : 224,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "011",
@@ -285,7 +390,10 @@
 		"UndiDalamPeti" : 76244,
 		"PeratusUndi" : "80.8",
 		"Majoriti" : 31289,
-		"MasaSah" : "2022-11-19T18:46:59.953Z"
+		"MasaSah" : "2022-11-19T18:46:59.953Z",
+		"UndiTolak" : 650,
+		"UndiTakKembali" : 137,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "074",
@@ -293,7 +401,10 @@
 		"UndiDalamPeti" : 49589,
 		"PeratusUndi" : "80",
 		"Majoriti" : 5117,
-		"MasaSah" : "2022-11-19T18:46:23.507Z"
+		"MasaSah" : "2022-11-19T18:46:23.507Z",
+		"UndiTolak" : 428,
+		"UndiTakKembali" : 363,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "088",
@@ -301,7 +412,10 @@
 		"UndiDalamPeti" : 83396,
 		"PeratusUndi" : "78.3",
 		"Majoriti" : 5520,
-		"MasaSah" : "2022-11-19T18:42:00.250Z"
+		"MasaSah" : "2022-11-19T18:42:00.250Z",
+		"UndiTolak" : 759,
+		"UndiTakKembali" : 216,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "060",
@@ -309,7 +423,10 @@
 		"UndiDalamPeti" : 29946,
 		"PeratusUndi" : "75.4",
 		"Majoriti" : 3100,
-		"MasaSah" : "2022-11-19T18:40:39.303Z"
+		"MasaSah" : "2022-11-19T18:40:39.303Z",
+		"UndiTolak" : 282,
+		"UndiTakKembali" : 85,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "074",
@@ -317,7 +434,10 @@
 		"UndiDalamPeti" : 72152,
 		"PeratusUndi" : "78.2",
 		"Majoriti" : 363,
-		"MasaSah" : "2022-11-19T18:39:27.923Z"
+		"MasaSah" : "2022-11-19T18:39:27.923Z",
+		"UndiTolak" : 990,
+		"UndiTakKembali" : 520,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "089",
@@ -325,7 +445,10 @@
 		"UndiDalamPeti" : 67332,
 		"PeratusUndi" : "77.5",
 		"Majoriti" : 692,
-		"MasaSah" : "2022-11-19T18:34:10.370Z"
+		"MasaSah" : "2022-11-19T18:34:10.370Z",
+		"UndiTolak" : 675,
+		"UndiTakKembali" : 120,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "060",
@@ -333,7 +456,10 @@
 		"UndiDalamPeti" : 85890,
 		"PeratusUndi" : "70.9",
 		"Majoriti" : 25529,
-		"MasaSah" : "2022-11-19T18:31:35.810Z"
+		"MasaSah" : "2022-11-19T18:31:35.810Z",
+		"UndiTolak" : 1121,
+		"UndiTakKembali" : 246,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "058",
@@ -341,7 +467,10 @@
 		"UndiDalamPeti" : 63428,
 		"PeratusUndi" : "79.1",
 		"Majoriti" : 18551,
-		"MasaSah" : "2022-11-19T18:29:52.980Z"
+		"MasaSah" : "2022-11-19T18:29:52.980Z",
+		"UndiTolak" : 895,
+		"UndiTakKembali" : 93,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "060",
@@ -349,7 +478,10 @@
 		"UndiDalamPeti" : 25026,
 		"PeratusUndi" : "68.7",
 		"Majoriti" : 12180,
-		"MasaSah" : "2022-11-19T18:28:20.993Z"
+		"MasaSah" : "2022-11-19T18:28:20.993Z",
+		"UndiTolak" : 197,
+		"UndiTakKembali" : 76,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "056",
@@ -357,7 +489,10 @@
 		"UndiDalamPeti" : 17628,
 		"PeratusUndi" : "80.3",
 		"Majoriti" : 3218,
-		"MasaSah" : "2022-11-19T18:25:56.997Z"
+		"MasaSah" : "2022-11-19T18:25:56.997Z",
+		"UndiTolak" : 248,
+		"UndiTakKembali" : 62,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "085",
@@ -365,7 +500,10 @@
 		"UndiDalamPeti" : 20204,
 		"PeratusUndi" : "77.5",
 		"Majoriti" : 2125,
-		"MasaSah" : "2022-11-19T18:24:22.043Z"
+		"MasaSah" : "2022-11-19T18:24:22.043Z",
+		"UndiTolak" : 320,
+		"UndiTakKembali" : 40,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "085",
@@ -373,7 +511,10 @@
 		"UndiDalamPeti" : 15965,
 		"PeratusUndi" : "75.1",
 		"Majoriti" : 6273,
-		"MasaSah" : "2022-11-19T18:23:23.077Z"
+		"MasaSah" : "2022-11-19T18:23:23.077Z",
+		"UndiTolak" : 402,
+		"UndiTakKembali" : 32,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "088",
@@ -381,7 +522,10 @@
 		"UndiDalamPeti" : 25329,
 		"PeratusUndi" : "77.5",
 		"Majoriti" : 451,
-		"MasaSah" : "2022-11-19T18:23:13.777Z"
+		"MasaSah" : "2022-11-19T18:23:13.777Z",
+		"UndiTolak" : 361,
+		"UndiTakKembali" : 59,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "085",
@@ -389,7 +533,10 @@
 		"UndiDalamPeti" : 33854,
 		"PeratusUndi" : "81",
 		"Majoriti" : 7823,
-		"MasaSah" : "2022-11-19T18:22:12.013Z"
+		"MasaSah" : "2022-11-19T18:22:12.013Z",
+		"UndiTolak" : 299,
+		"UndiTakKembali" : 98,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "045",
@@ -397,7 +544,10 @@
 		"UndiDalamPeti" : 93512,
 		"PeratusUndi" : "77.5",
 		"Majoriti" : 57685,
-		"MasaSah" : "2022-11-19T18:22:07.690Z"
+		"MasaSah" : "2022-11-19T18:22:07.690Z",
+		"UndiTolak" : 767,
+		"UndiTakKembali" : 183,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "060",
@@ -405,7 +555,10 @@
 		"UndiDalamPeti" : 30926,
 		"PeratusUndi" : "68.6",
 		"Majoriti" : 14857,
-		"MasaSah" : "2022-11-19T18:22:05.397Z"
+		"MasaSah" : "2022-11-19T18:22:05.397Z",
+		"UndiTolak" : 261,
+		"UndiTakKembali" : 86,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "124",
@@ -413,7 +566,10 @@
 		"UndiDalamPeti" : 93593,
 		"PeratusUndi" : "78.7",
 		"Majoriti" : 9817,
-		"MasaSah" : "2022-11-19T18:21:30.670Z"
+		"MasaSah" : "2022-11-19T18:21:30.670Z",
+		"UndiTolak" : 572,
+		"UndiTakKembali" : 252,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "085",
@@ -421,7 +577,10 @@
 		"UndiDalamPeti" : 24374,
 		"PeratusUndi" : "81.1",
 		"Majoriti" : 3931,
-		"MasaSah" : "2022-11-19T18:21:05.790Z"
+		"MasaSah" : "2022-11-19T18:21:05.790Z",
+		"UndiTolak" : 276,
+		"UndiTakKembali" : 53,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "085",
@@ -429,7 +588,10 @@
 		"UndiDalamPeti" : 94391,
 		"PeratusUndi" : "79.2",
 		"Majoriti" : 8949,
-		"MasaSah" : "2022-11-19T18:20:00.707Z"
+		"MasaSah" : "2022-11-19T18:20:00.707Z",
+		"UndiTolak" : 1350,
+		"UndiTakKembali" : 227,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "108",
@@ -437,7 +599,10 @@
 		"UndiDalamPeti" : 136689,
 		"PeratusUndi" : "82.7",
 		"Majoriti" : 18095,
-		"MasaSah" : "2022-11-19T18:18:34.250Z"
+		"MasaSah" : "2022-11-19T18:18:34.250Z",
+		"UndiTolak" : 919,
+		"UndiTakKembali" : 393,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "056",
@@ -445,7 +610,10 @@
 		"UndiDalamPeti" : 52610,
 		"PeratusUndi" : "80.3",
 		"Majoriti" : 11598,
-		"MasaSah" : "2022-11-19T18:18:03.190Z"
+		"MasaSah" : "2022-11-19T18:18:03.190Z",
+		"UndiTolak" : 735,
+		"UndiTakKembali" : 154,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "082",
@@ -453,7 +621,10 @@
 		"UndiDalamPeti" : 94162,
 		"PeratusUndi" : "78.3",
 		"Majoriti" : 8399,
-		"MasaSah" : "2022-11-19T18:13:25.223Z"
+		"MasaSah" : "2022-11-19T18:13:25.223Z",
+		"UndiTolak" : 783,
+		"UndiTakKembali" : 284,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "065",
@@ -461,7 +632,10 @@
 		"UndiDalamPeti" : 16671,
 		"PeratusUndi" : "66.3",
 		"Majoriti" : 9491,
-		"MasaSah" : "2022-11-19T18:13:13.460Z"
+		"MasaSah" : "2022-11-19T18:13:13.460Z",
+		"UndiTolak" : 173,
+		"UndiTakKembali" : 32,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "082",
@@ -469,7 +643,10 @@
 		"UndiDalamPeti" : 47647,
 		"PeratusUndi" : "78",
 		"Majoriti" : 1804,
-		"MasaSah" : "2022-11-19T18:11:20.637Z"
+		"MasaSah" : "2022-11-19T18:11:20.637Z",
+		"UndiTolak" : 405,
+		"UndiTakKembali" : 76,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "078",
@@ -477,7 +654,10 @@
 		"UndiDalamPeti" : 34115,
 		"PeratusUndi" : "74.3",
 		"Majoriti" : 4544,
-		"MasaSah" : "2022-11-19T18:10:28.600Z"
+		"MasaSah" : "2022-11-19T18:10:28.600Z",
+		"UndiTolak" : 850,
+		"UndiTakKembali" : 75,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "078",
@@ -485,7 +665,10 @@
 		"UndiDalamPeti" : 15149,
 		"PeratusUndi" : "79.2",
 		"Majoriti" : 6983,
-		"MasaSah" : "2022-11-19T18:08:42.567Z"
+		"MasaSah" : "2022-11-19T18:08:42.567Z",
+		"UndiTolak" : 483,
+		"UndiTakKembali" : 38,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "082",
@@ -493,7 +676,10 @@
 		"UndiDalamPeti" : 46484,
 		"PeratusUndi" : "78.6",
 		"Majoriti" : 11521,
-		"MasaSah" : "2022-11-19T18:08:40.817Z"
+		"MasaSah" : "2022-11-19T18:08:40.817Z",
+		"UndiTolak" : 405,
+		"UndiTakKembali" : 186,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "065",
@@ -501,7 +687,10 @@
 		"UndiDalamPeti" : 25761,
 		"PeratusUndi" : "70.3",
 		"Majoriti" : 19155,
-		"MasaSah" : "2022-11-19T18:04:21.163Z"
+		"MasaSah" : "2022-11-19T18:04:21.163Z",
+		"UndiTolak" : 278,
+		"UndiTakKembali" : 65,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "066",
@@ -509,7 +698,10 @@
 		"UndiDalamPeti" : 25003,
 		"PeratusUndi" : "65.7",
 		"Majoriti" : 11372,
-		"MasaSah" : "2022-11-19T18:03:34.877Z"
+		"MasaSah" : "2022-11-19T18:03:34.877Z",
+		"UndiTolak" : 373,
+		"UndiTakKembali" : 60,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "072",
@@ -517,7 +709,10 @@
 		"UndiDalamPeti" : 45447,
 		"PeratusUndi" : "73.5",
 		"Majoriti" : 5064,
-		"MasaSah" : "2022-11-19T18:02:26.583Z"
+		"MasaSah" : "2022-11-19T18:02:26.583Z",
+		"UndiTolak" : 966,
+		"UndiTakKembali" : 90,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "066",
@@ -525,7 +720,10 @@
 		"UndiDalamPeti" : 24510,
 		"PeratusUndi" : "70.1",
 		"Majoriti" : 20111,
-		"MasaSah" : "2022-11-19T18:02:17.780Z"
+		"MasaSah" : "2022-11-19T18:02:17.780Z",
+		"UndiTolak" : 214,
+		"UndiTakKembali" : 80,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "091",
@@ -533,7 +731,10 @@
 		"UndiDalamPeti" : 68056,
 		"PeratusUndi" : "76.6",
 		"Majoriti" : 1438,
-		"MasaSah" : "2022-11-19T18:00:56.647Z"
+		"MasaSah" : "2022-11-19T18:00:56.647Z",
+		"UndiTolak" : 1129,
+		"UndiTakKembali" : 177,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "066",
@@ -541,7 +742,10 @@
 		"UndiDalamPeti" : 26244,
 		"PeratusUndi" : "67.9",
 		"Majoriti" : 21191,
-		"MasaSah" : "2022-11-19T18:00:48.790Z"
+		"MasaSah" : "2022-11-19T18:00:48.790Z",
+		"UndiTolak" : 229,
+		"UndiTakKembali" : 40,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "167",
@@ -549,7 +753,10 @@
 		"UndiDalamPeti" : 45822,
 		"PeratusUndi" : "60.8",
 		"Majoriti" : 1967,
-		"MasaSah" : "2022-11-19T17:59:54.120Z"
+		"MasaSah" : "2022-11-19T17:59:54.120Z",
+		"UndiTolak" : 714,
+		"UndiTakKembali" : 234,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "087",
@@ -557,7 +764,10 @@
 		"UndiDalamPeti" : 25038,
 		"PeratusUndi" : "80.1",
 		"Majoriti" : 6904,
-		"MasaSah" : "2022-11-19T17:59:25.853Z"
+		"MasaSah" : "2022-11-19T17:59:25.853Z",
+		"UndiTolak" : 213,
+		"UndiTakKembali" : 71,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "066",
@@ -565,7 +775,10 @@
 		"UndiDalamPeti" : 75780,
 		"PeratusUndi" : "67.9",
 		"Majoriti" : 53836,
-		"MasaSah" : "2022-11-19T17:58:33.730Z"
+		"MasaSah" : "2022-11-19T17:58:33.730Z",
+		"UndiTolak" : 825,
+		"UndiTakKembali" : 155,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "062",
@@ -573,7 +786,10 @@
 		"UndiDalamPeti" : 27345,
 		"PeratusUndi" : "69.7",
 		"Majoriti" : 8713,
-		"MasaSah" : "2022-11-19T17:57:58.917Z"
+		"MasaSah" : "2022-11-19T17:57:58.917Z",
+		"UndiTolak" : 338,
+		"UndiTakKembali" : 46,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "065",
@@ -581,7 +797,10 @@
 		"UndiDalamPeti" : 79129,
 		"PeratusUndi" : "69.2",
 		"Majoriti" : 56667,
-		"MasaSah" : "2022-11-19T17:56:55.763Z"
+		"MasaSah" : "2022-11-19T17:56:55.763Z",
+		"UndiTolak" : 773,
+		"UndiTakKembali" : 185,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "110",
@@ -589,7 +808,10 @@
 		"UndiDalamPeti" : 165279,
 		"PeratusUndi" : "79.2",
 		"Majoriti" : 91801,
-		"MasaSah" : "2022-11-19T17:56:14.077Z"
+		"MasaSah" : "2022-11-19T17:56:14.077Z",
+		"UndiTolak" : 1374,
+		"UndiTakKembali" : 275,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "014",
@@ -597,7 +819,10 @@
 		"UndiDalamPeti" : 103571,
 		"PeratusUndi" : "78.4",
 		"Majoriti" : 21019,
-		"MasaSah" : "2022-11-19T17:55:53.137Z"
+		"MasaSah" : "2022-11-19T17:55:53.137Z",
+		"UndiTolak" : 1027,
+		"UndiTakKembali" : 208,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "056",
@@ -605,7 +830,10 @@
 		"UndiDalamPeti" : 16961,
 		"PeratusUndi" : "79.6",
 		"Majoriti" : 4322,
-		"MasaSah" : "2022-11-19T17:55:44.113Z"
+		"MasaSah" : "2022-11-19T17:55:44.113Z",
+		"UndiTolak" : 280,
+		"UndiTakKembali" : 42,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "065",
@@ -613,7 +841,10 @@
 		"UndiDalamPeti" : 36699,
 		"PeratusUndi" : "69.7",
 		"Majoriti" : 26114,
-		"MasaSah" : "2022-11-19T17:54:59.457Z"
+		"MasaSah" : "2022-11-19T17:54:59.457Z",
+		"UndiTolak" : 270,
+		"UndiTakKembali" : 87,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "131",
@@ -621,7 +852,10 @@
 		"UndiDalamPeti" : 110262,
 		"PeratusUndi" : "82.8",
 		"Majoriti" : 19897,
-		"MasaSah" : "2022-11-19T17:54:56.957Z"
+		"MasaSah" : "2022-11-19T17:54:56.957Z",
+		"UndiTolak" : 826,
+		"UndiTakKembali" : 324,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "062",
@@ -629,7 +863,10 @@
 		"UndiDalamPeti" : 25300,
 		"PeratusUndi" : "76.5",
 		"Majoriti" : 5280,
-		"MasaSah" : "2022-11-19T17:54:09.020Z"
+		"MasaSah" : "2022-11-19T17:54:09.020Z",
+		"UndiTolak" : 469,
+		"UndiTakKembali" : 34,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "062",
@@ -637,7 +874,10 @@
 		"UndiDalamPeti" : 52640,
 		"PeratusUndi" : "72.8",
 		"Majoriti" : 1846,
-		"MasaSah" : "2022-11-19T17:52:49.443Z"
+		"MasaSah" : "2022-11-19T17:52:49.443Z",
+		"UndiTolak" : 991,
+		"UndiTakKembali" : 85,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "128",
@@ -645,7 +885,10 @@
 		"UndiDalamPeti" : 124393,
 		"PeratusUndi" : "79.4",
 		"Majoriti" : 30841,
-		"MasaSah" : "2022-11-19T17:52:05.253Z"
+		"MasaSah" : "2022-11-19T17:52:05.253Z",
+		"UndiTolak" : 1109,
+		"UndiTakKembali" : 420,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "072",
@@ -653,7 +896,10 @@
 		"UndiDalamPeti" : 23860,
 		"PeratusUndi" : "74.8",
 		"Majoriti" : 2213,
-		"MasaSah" : "2022-11-19T17:51:06.393Z"
+		"MasaSah" : "2022-11-19T17:51:06.393Z",
+		"UndiTolak" : 394,
+		"UndiTakKembali" : 46,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "072",
@@ -661,7 +907,10 @@
 		"UndiDalamPeti" : 21593,
 		"PeratusUndi" : "72.1",
 		"Majoriti" : 2251,
-		"MasaSah" : "2022-11-19T17:51:01.663Z"
+		"MasaSah" : "2022-11-19T17:51:01.663Z",
+		"UndiTolak" : 505,
+		"UndiTakKembali" : 37,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "058",
@@ -669,7 +918,10 @@
 		"UndiDalamPeti" : 21946,
 		"PeratusUndi" : "80.2",
 		"Majoriti" : 7466,
-		"MasaSah" : "2022-11-19T17:50:19.283Z"
+		"MasaSah" : "2022-11-19T17:50:19.283Z",
+		"UndiTolak" : 315,
+		"UndiTakKembali" : 32,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "059",
@@ -677,7 +929,10 @@
 		"UndiDalamPeti" : 13148,
 		"PeratusUndi" : "77.3",
 		"Majoriti" : 616,
-		"MasaSah" : "2022-11-19T17:47:20.627Z"
+		"MasaSah" : "2022-11-19T17:47:20.627Z",
+		"UndiTolak" : 191,
+		"UndiTakKembali" : 13,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "107",
@@ -685,7 +940,10 @@
 		"UndiDalamPeti" : 130584,
 		"PeratusUndi" : "82.8",
 		"Majoriti" : 2693,
-		"MasaSah" : "2022-11-19T17:44:34.180Z"
+		"MasaSah" : "2022-11-19T17:44:34.180Z",
+		"UndiTolak" : 945,
+		"UndiTakKembali" : 262,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "081",
@@ -693,7 +951,10 @@
 		"UndiDalamPeti" : 67592,
 		"PeratusUndi" : "77.9",
 		"Majoriti" : 8092,
-		"MasaSah" : "2022-11-19T17:43:53.317Z"
+		"MasaSah" : "2022-11-19T17:43:53.317Z",
+		"UndiTolak" : 838,
+		"UndiTakKembali" : 182,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "077",
@@ -701,7 +962,10 @@
 		"UndiDalamPeti" : 23818,
 		"PeratusUndi" : "78",
 		"Majoriti" : 416,
-		"MasaSah" : "2022-11-19T17:42:59.087Z"
+		"MasaSah" : "2022-11-19T17:42:59.087Z",
+		"UndiTolak" : 272,
+		"UndiTakKembali" : 43,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "057",
@@ -709,7 +973,10 @@
 		"UndiDalamPeti" : 24822,
 		"PeratusUndi" : "76.3",
 		"Majoriti" : 1347,
-		"MasaSah" : "2022-11-19T17:41:48.470Z"
+		"MasaSah" : "2022-11-19T17:41:48.470Z",
+		"UndiTolak" : 259,
+		"UndiTakKembali" : 50,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "086",
@@ -717,7 +984,10 @@
 		"UndiDalamPeti" : 41514,
 		"PeratusUndi" : "78.4",
 		"Majoriti" : 1821,
-		"MasaSah" : "2022-11-19T17:41:46.860Z"
+		"MasaSah" : "2022-11-19T17:41:46.860Z",
+		"UndiTolak" : 422,
+		"UndiTakKembali" : 151,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "111",
@@ -725,7 +995,10 @@
 		"UndiDalamPeti" : 199326,
 		"PeratusUndi" : "81.7",
 		"Majoriti" : 73998,
-		"MasaSah" : "2022-11-19T17:41:19.923Z"
+		"MasaSah" : "2022-11-19T17:41:19.923Z",
+		"UndiTolak" : 1586,
+		"UndiTakKembali" : 552,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "081",
@@ -733,7 +1006,10 @@
 		"UndiDalamPeti" : 16531,
 		"PeratusUndi" : "79.3",
 		"Majoriti" : 2014,
-		"MasaSah" : "2022-11-19T17:40:32.367Z"
+		"MasaSah" : "2022-11-19T17:40:32.367Z",
+		"UndiTolak" : 267,
+		"UndiTakKembali" : 38,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "081",
@@ -741,7 +1017,10 @@
 		"UndiDalamPeti" : 26525,
 		"PeratusUndi" : "76.1",
 		"Majoriti" : 2296,
-		"MasaSah" : "2022-11-19T17:40:04.410Z"
+		"MasaSah" : "2022-11-19T17:40:04.410Z",
+		"UndiTolak" : 318,
+		"UndiTakKembali" : 81,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "081",
@@ -749,7 +1028,10 @@
 		"UndiDalamPeti" : 24468,
 		"PeratusUndi" : "78.7",
 		"Majoriti" : 3487,
-		"MasaSah" : "2022-11-19T17:39:30.743Z"
+		"MasaSah" : "2022-11-19T17:39:30.743Z",
+		"UndiTolak" : 298,
+		"UndiTakKembali" : 63,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "084",
@@ -757,7 +1039,10 @@
 		"UndiDalamPeti" : 62661,
 		"PeratusUndi" : "78.7",
 		"Majoriti" : 1317,
-		"MasaSah" : "2022-11-19T17:37:55.833Z"
+		"MasaSah" : "2022-11-19T17:37:55.833Z",
+		"UndiTolak" : 678,
+		"UndiTakKembali" : 107,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "044",
@@ -765,7 +1050,10 @@
 		"UndiDalamPeti" : 88096,
 		"PeratusUndi" : "82.3",
 		"Majoriti" : 5272,
-		"MasaSah" : "2022-11-19T17:37:19.753Z"
+		"MasaSah" : "2022-11-19T17:37:19.753Z",
+		"UndiTolak" : 648,
+		"UndiTakKembali" : 158,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "005",
@@ -773,7 +1061,10 @@
 		"UndiDalamPeti" : 52824,
 		"PeratusUndi" : "78.3",
 		"Majoriti" : 20456,
-		"MasaSah" : "2022-11-19T17:36:23.417Z"
+		"MasaSah" : "2022-11-19T17:36:23.417Z",
+		"UndiTolak" : 617,
+		"UndiTakKembali" : 85,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "073",
@@ -781,7 +1072,10 @@
 		"UndiDalamPeti" : 26873,
 		"PeratusUndi" : "76",
 		"Majoriti" : 3950,
-		"MasaSah" : "2022-11-19T17:36:05.170Z"
+		"MasaSah" : "2022-11-19T17:36:05.170Z",
+		"UndiTolak" : 449,
+		"UndiTakKembali" : 106,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "086",
@@ -789,7 +1083,10 @@
 		"UndiDalamPeti" : 13195,
 		"PeratusUndi" : "75.9",
 		"Majoriti" : 241,
-		"MasaSah" : "2022-11-19T17:35:54.970Z"
+		"MasaSah" : "2022-11-19T17:35:54.970Z",
+		"UndiTolak" : 181,
+		"UndiTakKembali" : 35,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "073",
@@ -797,7 +1094,10 @@
 		"UndiDalamPeti" : 57908,
 		"PeratusUndi" : "77.9",
 		"Majoriti" : 5003,
-		"MasaSah" : "2022-11-19T17:35:31.753Z"
+		"MasaSah" : "2022-11-19T17:35:31.753Z",
+		"UndiTolak" : 885,
+		"UndiTakKembali" : 309,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "088",
@@ -805,7 +1105,10 @@
 		"UndiDalamPeti" : 28618,
 		"PeratusUndi" : "77",
 		"Majoriti" : 3657,
-		"MasaSah" : "2022-11-19T17:34:54.237Z"
+		"MasaSah" : "2022-11-19T17:34:54.237Z",
+		"UndiTolak" : 182,
+		"UndiTakKembali" : 80,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "059",
@@ -813,7 +1116,10 @@
 		"UndiDalamPeti" : 30923,
 		"PeratusUndi" : "77",
 		"Majoriti" : 3580,
-		"MasaSah" : "2022-11-19T17:34:02.090Z"
+		"MasaSah" : "2022-11-19T17:34:02.090Z",
+		"UndiTolak" : 486,
+		"UndiTakKembali" : 49,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "097",
@@ -821,7 +1127,10 @@
 		"UndiDalamPeti" : 146069,
 		"PeratusUndi" : "80.6",
 		"Majoriti" : 23619,
-		"MasaSah" : "2022-11-19T17:31:03.100Z"
+		"MasaSah" : "2022-11-19T17:31:03.100Z",
+		"UndiTolak" : 1188,
+		"UndiTakKembali" : 300,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "077",
@@ -829,7 +1138,10 @@
 		"UndiDalamPeti" : 16466,
 		"PeratusUndi" : "70.6",
 		"Majoriti" : 5238,
-		"MasaSah" : "2022-11-19T17:30:56.383Z"
+		"MasaSah" : "2022-11-19T17:30:56.383Z",
+		"UndiTolak" : 274,
+		"UndiTakKembali" : 36,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "059",
@@ -837,7 +1149,10 @@
 		"UndiDalamPeti" : 72600,
 		"PeratusUndi" : "77.2",
 		"Majoriti" : 12756,
-		"MasaSah" : "2022-11-19T17:29:47.797Z"
+		"MasaSah" : "2022-11-19T17:29:47.797Z",
+		"UndiTolak" : 1033,
+		"UndiTakKembali" : 135,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "056",
@@ -845,7 +1160,10 @@
 		"UndiDalamPeti" : 18020,
 		"PeratusUndi" : "80.8",
 		"Majoriti" : 5358,
-		"MasaSah" : "2022-11-19T17:27:32.690Z"
+		"MasaSah" : "2022-11-19T17:27:32.690Z",
+		"UndiTolak" : 258,
+		"UndiTakKembali" : 26,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "051",
@@ -853,7 +1171,10 @@
 		"UndiDalamPeti" : 86719,
 		"PeratusUndi" : "74.3",
 		"Majoriti" : 63112,
-		"MasaSah" : "2022-11-19T17:27:12.653Z"
+		"MasaSah" : "2022-11-19T17:27:12.653Z",
+		"UndiTolak" : 646,
+		"UndiTakKembali" : 277,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "091",
@@ -861,7 +1182,10 @@
 		"UndiDalamPeti" : 23984,
 		"PeratusUndi" : "77.5",
 		"Majoriti" : 2456,
-		"MasaSah" : "2022-11-19T17:27:04.153Z"
+		"MasaSah" : "2022-11-19T17:27:04.153Z",
+		"UndiTolak" : 368,
+		"UndiTakKembali" : 56,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "077",
@@ -869,7 +1193,10 @@
 		"UndiDalamPeti" : 70815,
 		"PeratusUndi" : "75.6",
 		"Majoriti" : 3541,
-		"MasaSah" : "2022-11-19T17:25:20.327Z"
+		"MasaSah" : "2022-11-19T17:25:20.327Z",
+		"UndiTolak" : 1144,
+		"UndiTakKembali" : 113,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "118",
@@ -877,7 +1204,10 @@
 		"UndiDalamPeti" : 75460,
 		"PeratusUndi" : "79.1",
 		"Majoriti" : 12164,
-		"MasaSah" : "2022-11-19T17:25:07.530Z"
+		"MasaSah" : "2022-11-19T17:25:07.530Z",
+		"UndiTolak" : 696,
+		"UndiTakKembali" : 265,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "212",
@@ -885,7 +1215,10 @@
 		"UndiDalamPeti" : 67172,
 		"PeratusUndi" : "63.7",
 		"Majoriti" : 7760,
-		"MasaSah" : "2022-11-19T17:24:23.830Z"
+		"MasaSah" : "2022-11-19T17:24:23.830Z",
+		"UndiTolak" : 1230,
+		"UndiTakKembali" : 237,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "016",
@@ -893,7 +1226,10 @@
 		"UndiDalamPeti" : 110205,
 		"PeratusUndi" : "83.5",
 		"Majoriti" : 29137,
-		"MasaSah" : "2022-11-19T17:23:33.780Z"
+		"MasaSah" : "2022-11-19T17:23:33.780Z",
+		"UndiTolak" : 1141,
+		"UndiTakKembali" : 148,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "055",
@@ -901,7 +1237,10 @@
 		"UndiDalamPeti" : 16635,
 		"PeratusUndi" : "77.2",
 		"Majoriti" : 763,
-		"MasaSah" : "2022-11-19T17:22:59.693Z"
+		"MasaSah" : "2022-11-19T17:22:59.693Z",
+		"UndiTolak" : 325,
+		"UndiTakKembali" : 44,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "041",
@@ -909,7 +1248,10 @@
 		"UndiDalamPeti" : 70016,
 		"PeratusUndi" : "84.4",
 		"Majoriti" : 2867,
-		"MasaSah" : "2022-11-19T17:22:30.360Z"
+		"MasaSah" : "2022-11-19T17:22:30.360Z",
+		"UndiTolak" : 714,
+		"UndiTakKembali" : 134,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "058",
@@ -917,7 +1259,10 @@
 		"UndiDalamPeti" : 18932,
 		"PeratusUndi" : "78.2",
 		"Majoriti" : 3279,
-		"MasaSah" : "2022-11-19T17:22:10.960Z"
+		"MasaSah" : "2022-11-19T17:22:10.960Z",
+		"UndiTolak" : 228,
+		"UndiTakKembali" : 27,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "061",
@@ -925,7 +1270,10 @@
 		"UndiDalamPeti" : 30248,
 		"PeratusUndi" : "78.4",
 		"Majoriti" : 3046,
-		"MasaSah" : "2022-11-19T17:21:21.977Z"
+		"MasaSah" : "2022-11-19T17:21:21.977Z",
+		"UndiTolak" : 370,
+		"UndiTakKembali" : 68,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "091",
@@ -933,7 +1281,10 @@
 		"UndiDalamPeti" : 22678,
 		"PeratusUndi" : "76.6",
 		"Majoriti" : 1234,
-		"MasaSah" : "2022-11-19T17:18:30.853Z"
+		"MasaSah" : "2022-11-19T17:18:30.853Z",
+		"UndiTolak" : 409,
+		"UndiTakKembali" : 55,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "080",
@@ -941,7 +1292,10 @@
 		"UndiDalamPeti" : 13692,
 		"PeratusUndi" : "80.5",
 		"Majoriti" : 1046,
-		"MasaSah" : "2022-11-19T17:17:26.570Z"
+		"MasaSah" : "2022-11-19T17:17:26.570Z",
+		"UndiTolak" : 145,
+		"UndiTakKembali" : 33,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "086",
@@ -949,7 +1303,10 @@
 		"UndiDalamPeti" : 15800,
 		"PeratusUndi" : "81.6",
 		"Majoriti" : 2706,
-		"MasaSah" : "2022-11-19T17:17:11.840Z"
+		"MasaSah" : "2022-11-19T17:17:11.840Z",
+		"UndiTolak" : 159,
+		"UndiTakKembali" : 38,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "002",
@@ -957,7 +1314,10 @@
 		"UndiDalamPeti" : 56860,
 		"PeratusUndi" : "76.1",
 		"Majoriti" : 9192,
-		"MasaSah" : "2022-11-19T17:16:38.903Z"
+		"MasaSah" : "2022-11-19T17:16:38.903Z",
+		"UndiTolak" : 660,
+		"UndiTakKembali" : 108,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "221",
@@ -965,7 +1325,10 @@
 		"UndiDalamPeti" : 20024,
 		"PeratusUndi" : "47.9",
 		"Majoriti" : 9998,
-		"MasaSah" : "2022-11-19T17:15:57.113Z"
+		"MasaSah" : "2022-11-19T17:15:57.113Z",
+		"UndiTolak" : 228,
+		"UndiTakKembali" : 106,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "220",
@@ -973,7 +1336,10 @@
 		"UndiDalamPeti" : 30115,
 		"PeratusUndi" : "50.8",
 		"Majoriti" : 7339,
-		"MasaSah" : "2022-11-19T17:15:57.113Z"
+		"MasaSah" : "2022-11-19T17:15:57.113Z",
+		"UndiTolak" : 332,
+		"UndiTakKembali" : 103,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "055",
@@ -981,7 +1347,10 @@
 		"UndiDalamPeti" : 28122,
 		"PeratusUndi" : "76.3",
 		"Majoriti" : 879,
-		"MasaSah" : "2022-11-19T17:13:58.970Z"
+		"MasaSah" : "2022-11-19T17:13:58.970Z",
+		"UndiTolak" : 443,
+		"UndiTakKembali" : 67,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "059",
@@ -989,7 +1358,10 @@
 		"UndiDalamPeti" : 28533,
 		"PeratusUndi" : "77.3",
 		"Majoriti" : 3151,
-		"MasaSah" : "2022-11-19T17:13:55.500Z"
+		"MasaSah" : "2022-11-19T17:13:55.500Z",
+		"UndiTolak" : 385,
+		"UndiTakKembali" : 70,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "080",
@@ -997,7 +1369,10 @@
 		"UndiDalamPeti" : 56968,
 		"PeratusUndi" : "76.1",
 		"Majoriti" : 4357,
-		"MasaSah" : "2022-11-19T17:13:39.410Z"
+		"MasaSah" : "2022-11-19T17:13:39.410Z",
+		"UndiTolak" : 733,
+		"UndiTakKembali" : 120,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "061",
@@ -1005,7 +1380,10 @@
 		"UndiDalamPeti" : 16568,
 		"PeratusUndi" : "79.4",
 		"Majoriti" : 2955,
-		"MasaSah" : "2022-11-19T17:12:59.200Z"
+		"MasaSah" : "2022-11-19T17:12:59.200Z",
+		"UndiTolak" : 199,
+		"UndiTakKembali" : 36,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "098",
@@ -1013,7 +1391,10 @@
 		"UndiDalamPeti" : 166548,
 		"PeratusUndi" : "80.8",
 		"Majoriti" : 12729,
-		"MasaSah" : "2022-11-19T17:12:43.167Z"
+		"MasaSah" : "2022-11-19T17:12:43.167Z",
+		"UndiTolak" : 1122,
+		"UndiTakKembali" : 499,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "061",
@@ -1021,7 +1402,10 @@
 		"UndiDalamPeti" : 13682,
 		"PeratusUndi" : "77.1",
 		"Majoriti" : 75,
-		"MasaSah" : "2022-11-19T17:12:04.690Z"
+		"MasaSah" : "2022-11-19T17:12:04.690Z",
+		"UndiTolak" : 138,
+		"UndiTakKembali" : 27,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "077",
@@ -1029,7 +1413,10 @@
 		"UndiDalamPeti" : 30515,
 		"PeratusUndi" : "76.8",
 		"Majoriti" : 202,
-		"MasaSah" : "2022-11-19T17:11:41.143Z"
+		"MasaSah" : "2022-11-19T17:11:41.143Z",
+		"UndiTolak" : 486,
+		"UndiTakKembali" : 145,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "001",
@@ -1037,7 +1424,10 @@
 		"UndiDalamPeti" : 9732,
 		"PeratusUndi" : "72.7",
 		"Majoriti" : 3785,
-		"MasaSah" : "2022-11-19T17:10:24.023Z"
+		"MasaSah" : "2022-11-19T17:10:24.023Z",
+		"UndiTolak" : 145,
+		"UndiTakKembali" : 16,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "217",
@@ -1045,7 +1435,10 @@
 		"UndiDalamPeti" : 71152,
 		"PeratusUndi" : "62.7",
 		"Majoriti" : 22168,
-		"MasaSah" : "2022-11-19T17:09:11.110Z"
+		"MasaSah" : "2022-11-19T17:09:11.110Z",
+		"UndiTolak" : 760,
+		"UndiTakKembali" : 104,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "087",
@@ -1053,7 +1446,10 @@
 		"UndiDalamPeti" : 12262,
 		"PeratusUndi" : "80.9",
 		"Majoriti" : 1929,
-		"MasaSah" : "2022-11-19T17:08:26.523Z"
+		"MasaSah" : "2022-11-19T17:08:26.523Z",
+		"UndiTolak" : 141,
+		"UndiTakKembali" : 19,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "090",
@@ -1061,7 +1457,10 @@
 		"UndiDalamPeti" : 19306,
 		"PeratusUndi" : "79.5",
 		"Majoriti" : 2678,
-		"MasaSah" : "2022-11-19T17:08:26.077Z"
+		"MasaSah" : "2022-11-19T17:08:26.077Z",
+		"UndiTolak" : 251,
+		"UndiTakKembali" : 101,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "001",
@@ -1069,7 +1468,10 @@
 		"UndiDalamPeti" : 45982,
 		"PeratusUndi" : "76.5",
 		"Majoriti" : 12514,
-		"MasaSah" : "2022-11-19T17:07:58.383Z"
+		"MasaSah" : "2022-11-19T17:07:58.383Z",
+		"UndiTolak" : 694,
+		"UndiTakKembali" : 77,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "087",
@@ -1077,7 +1479,10 @@
 		"UndiDalamPeti" : 48348,
 		"PeratusUndi" : "80",
 		"Majoriti" : 1024,
-		"MasaSah" : "2022-11-19T17:07:36.263Z"
+		"MasaSah" : "2022-11-19T17:07:36.263Z",
+		"UndiTolak" : 595,
+		"UndiTakKembali" : 100,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "121",
@@ -1085,7 +1490,10 @@
 		"UndiDalamPeti" : 77229,
 		"PeratusUndi" : "76.1",
 		"Majoriti" : 13912,
-		"MasaSah" : "2022-11-19T17:07:10.550Z"
+		"MasaSah" : "2022-11-19T17:07:10.550Z",
+		"UndiTolak" : 515,
+		"UndiTakKembali" : 240,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "002",
@@ -1093,7 +1501,10 @@
 		"UndiDalamPeti" : 12893,
 		"PeratusUndi" : "79",
 		"Majoriti" : 4329,
-		"MasaSah" : "2022-11-19T17:06:34.727Z"
+		"MasaSah" : "2022-11-19T17:06:34.727Z",
+		"UndiTolak" : 172,
+		"UndiTakKembali" : 33,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "086",
@@ -1101,7 +1512,10 @@
 		"UndiDalamPeti" : 12561,
 		"PeratusUndi" : "77.4",
 		"Majoriti" : 1166,
-		"MasaSah" : "2022-11-19T17:05:11.813Z"
+		"MasaSah" : "2022-11-19T17:05:11.813Z",
+		"UndiTolak" : 139,
+		"UndiTakKembali" : 35,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "130",
@@ -1109,7 +1523,10 @@
 		"UndiDalamPeti" : 120594,
 		"PeratusUndi" : "77.6",
 		"Majoriti" : 61987,
-		"MasaSah" : "2022-11-19T17:05:05.433Z"
+		"MasaSah" : "2022-11-19T17:05:05.433Z",
+		"UndiTolak" : 903,
+		"UndiTakKembali" : 334,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "052",
@@ -1117,7 +1534,10 @@
 		"UndiDalamPeti" : 90878,
 		"PeratusUndi" : "76.2",
 		"Majoriti" : 34902,
-		"MasaSah" : "2022-11-19T17:05:01.490Z"
+		"MasaSah" : "2022-11-19T17:05:01.490Z",
+		"UndiTolak" : 1170,
+		"UndiTakKembali" : 339,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "102",
@@ -1125,7 +1545,10 @@
 		"UndiDalamPeti" : 246221,
 		"PeratusUndi" : "81.3",
 		"Majoriti" : 69701,
-		"MasaSah" : "2022-11-19T17:04:27.360Z"
+		"MasaSah" : "2022-11-19T17:04:27.360Z",
+		"UndiTolak" : 1930,
+		"UndiTakKembali" : 574,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "104",
@@ -1133,7 +1556,10 @@
 		"UndiDalamPeti" : 178921,
 		"PeratusUndi" : "77.8",
 		"Majoriti" : 115074,
-		"MasaSah" : "2022-11-19T17:03:42.800Z"
+		"MasaSah" : "2022-11-19T17:03:42.800Z",
+		"UndiTolak" : 938,
+		"UndiTakKembali" : 657,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "105",
@@ -1141,7 +1567,10 @@
 		"UndiDalamPeti" : 147526,
 		"PeratusUndi" : "75.9",
 		"Majoriti" : 50575,
-		"MasaSah" : "2022-11-19T17:01:14.667Z"
+		"MasaSah" : "2022-11-19T17:01:14.667Z",
+		"UndiTolak" : 1664,
+		"UndiTakKembali" : 495,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "057",
@@ -1149,7 +1578,10 @@
 		"UndiDalamPeti" : 53495,
 		"PeratusUndi" : "78.2",
 		"Majoriti" : 5395,
-		"MasaSah" : "2022-11-19T17:00:39.880Z"
+		"MasaSah" : "2022-11-19T17:00:39.880Z",
+		"UndiTolak" : 592,
+		"UndiTakKembali" : 101,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "001",
@@ -1157,7 +1589,10 @@
 		"UndiDalamPeti" : 11098,
 		"PeratusUndi" : "78",
 		"Majoriti" : 2420,
-		"MasaSah" : "2022-11-19T16:59:03.613Z"
+		"MasaSah" : "2022-11-19T16:59:03.613Z",
+		"UndiTolak" : 170,
+		"UndiTakKembali" : 13,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "057",
@@ -1165,7 +1600,10 @@
 		"UndiDalamPeti" : 28667,
 		"PeratusUndi" : "80",
 		"Majoriti" : 5274,
-		"MasaSah" : "2022-11-19T16:58:10.080Z"
+		"MasaSah" : "2022-11-19T16:58:10.080Z",
+		"UndiTolak" : 314,
+		"UndiTakKembali" : 57,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "173",
@@ -1173,7 +1611,10 @@
 		"UndiDalamPeti" : 42038,
 		"PeratusUndi" : "66.8",
 		"Majoriti" : 124,
-		"MasaSah" : "2022-11-19T16:57:13.563Z"
+		"MasaSah" : "2022-11-19T16:57:13.563Z",
+		"UndiTolak" : 789,
+		"UndiTakKembali" : 183,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "090",
@@ -1181,7 +1622,10 @@
 		"UndiDalamPeti" : 21852,
 		"PeratusUndi" : "80",
 		"Majoriti" : 6913,
-		"MasaSah" : "2022-11-19T16:57:03.293Z"
+		"MasaSah" : "2022-11-19T16:57:03.293Z",
+		"UndiTolak" : 1209,
+		"UndiTakKembali" : 28,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "170",
@@ -1189,7 +1633,10 @@
 		"UndiDalamPeti" : 58973,
 		"PeratusUndi" : "70.9",
 		"Majoriti" : 233,
-		"MasaSah" : "2022-11-19T16:56:02.560Z"
+		"MasaSah" : "2022-11-19T16:56:02.560Z",
+		"UndiTolak" : 746,
+		"UndiTakKembali" : 149,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "175",
@@ -1197,7 +1644,10 @@
 		"UndiDalamPeti" : 44172,
 		"PeratusUndi" : "73.9",
 		"Majoriti" : 12224,
-		"MasaSah" : "2022-11-19T16:54:42.590Z"
+		"MasaSah" : "2022-11-19T16:54:42.590Z",
+		"UndiTolak" : 663,
+		"UndiTakKembali" : 123,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "054",
@@ -1205,7 +1655,10 @@
 		"UndiDalamPeti" : 35282,
 		"PeratusUndi" : "74.3",
 		"Majoriti" : 1377,
-		"MasaSah" : "2022-11-19T16:54:34.560Z"
+		"MasaSah" : "2022-11-19T16:54:34.560Z",
+		"UndiTolak" : 670,
+		"UndiTakKembali" : 78,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "090",
@@ -1213,7 +1666,10 @@
 		"UndiDalamPeti" : 19207,
 		"PeratusUndi" : "74.2",
 		"Majoriti" : 6219,
-		"MasaSah" : "2022-11-19T16:54:13.533Z"
+		"MasaSah" : "2022-11-19T16:54:13.533Z",
+		"UndiTolak" : 237,
+		"UndiTakKembali" : 11,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "103",
@@ -1221,7 +1677,10 @@
 		"UndiDalamPeti" : 122171,
 		"PeratusUndi" : "80.1",
 		"Majoriti" : 57957,
-		"MasaSah" : "2022-11-19T16:51:52.983Z"
+		"MasaSah" : "2022-11-19T16:51:52.983Z",
+		"UndiTolak" : 1222,
+		"UndiTakKembali" : 266,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "002",
@@ -1229,7 +1688,10 @@
 		"UndiDalamPeti" : 10722,
 		"PeratusUndi" : "79.9",
 		"Majoriti" : 3261,
-		"MasaSah" : "2022-11-19T16:50:58.720Z"
+		"MasaSah" : "2022-11-19T16:50:58.720Z",
+		"UndiTolak" : 126,
+		"UndiTakKembali" : 22,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "189",
@@ -1237,7 +1699,10 @@
 		"UndiDalamPeti" : 39191,
 		"PeratusUndi" : "55.4",
 		"Majoriti" : 20810,
-		"MasaSah" : "2022-11-19T16:48:44.340Z"
+		"MasaSah" : "2022-11-19T16:48:44.340Z",
+		"UndiTolak" : 282,
+		"UndiTakKembali" : 787,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "080",
@@ -1245,7 +1710,10 @@
 		"UndiDalamPeti" : 27944,
 		"PeratusUndi" : "73.1",
 		"Majoriti" : 11397,
-		"MasaSah" : "2022-11-19T16:46:46.510Z"
+		"MasaSah" : "2022-11-19T16:46:46.510Z",
+		"UndiTolak" : 258,
+		"UndiTakKembali" : 57,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "002",
@@ -1253,7 +1721,10 @@
 		"UndiDalamPeti" : 10534,
 		"PeratusUndi" : "72.9",
 		"Majoriti" : 1873,
-		"MasaSah" : "2022-11-19T16:46:14.583Z"
+		"MasaSah" : "2022-11-19T16:46:14.583Z",
+		"UndiTolak" : 129,
+		"UndiTakKembali" : 16,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "070",
@@ -1261,7 +1732,10 @@
 		"UndiDalamPeti" : 60238,
 		"PeratusUndi" : "67.2",
 		"Majoriti" : 14330,
-		"MasaSah" : "2022-11-19T16:45:11.080Z"
+		"MasaSah" : "2022-11-19T16:45:11.080Z",
+		"UndiTolak" : 852,
+		"UndiTakKembali" : 161,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "080",
@@ -1269,7 +1743,10 @@
 		"UndiDalamPeti" : 15340,
 		"PeratusUndi" : "78.1",
 		"Majoriti" : 2869,
-		"MasaSah" : "2022-11-19T16:45:07.367Z"
+		"MasaSah" : "2022-11-19T16:45:07.367Z",
+		"UndiTolak" : 256,
+		"UndiTakKembali" : 32,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "012",
@@ -1277,7 +1754,10 @@
 		"UndiDalamPeti" : 83130,
 		"PeratusUndi" : "79.3",
 		"Majoriti" : 33192,
-		"MasaSah" : "2022-11-19T16:44:33.337Z"
+		"MasaSah" : "2022-11-19T16:44:33.337Z",
+		"UndiTolak" : 837,
+		"UndiTakKembali" : 164,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "079",
@@ -1285,7 +1765,10 @@
 		"UndiDalamPeti" : 36243,
 		"PeratusUndi" : "77.1",
 		"Majoriti" : 6118,
-		"MasaSah" : "2022-11-19T16:43:47.223Z"
+		"MasaSah" : "2022-11-19T16:43:47.223Z",
+		"UndiTolak" : 388,
+		"UndiTakKembali" : 100,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "064",
@@ -1293,7 +1776,10 @@
 		"UndiDalamPeti" : 28063,
 		"PeratusUndi" : "75.7",
 		"Majoriti" : 660,
-		"MasaSah" : "2022-11-19T16:43:00.183Z"
+		"MasaSah" : "2022-11-19T16:43:00.183Z",
+		"UndiTolak" : 252,
+		"UndiTakKembali" : 124,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "113",
@@ -1301,7 +1787,10 @@
 		"UndiDalamPeti" : 139378,
 		"PeratusUndi" : "83.1",
 		"Majoriti" : 8949,
-		"MasaSah" : "2022-11-19T16:42:52.917Z"
+		"MasaSah" : "2022-11-19T16:42:52.917Z",
+		"UndiTolak" : 1423,
+		"UndiTakKembali" : 289,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "002",
@@ -1309,7 +1798,10 @@
 		"UndiDalamPeti" : 10806,
 		"PeratusUndi" : "73.5",
 		"Majoriti" : 154,
-		"MasaSah" : "2022-11-19T16:42:15.303Z"
+		"MasaSah" : "2022-11-19T16:42:15.303Z",
+		"UndiTolak" : 136,
+		"UndiTakKembali" : 12,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "064",
@@ -1317,7 +1809,10 @@
 		"UndiDalamPeti" : 80458,
 		"PeratusUndi" : "68.4",
 		"Majoriti" : 43888,
-		"MasaSah" : "2022-11-19T16:41:00.197Z"
+		"MasaSah" : "2022-11-19T16:41:00.197Z",
+		"UndiTolak" : 678,
+		"UndiTakKembali" : 381,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "008",
@@ -1325,7 +1820,10 @@
 		"UndiDalamPeti" : 88767,
 		"PeratusUndi" : "77.5",
 		"Majoriti" : 31751,
-		"MasaSah" : "2022-11-19T16:40:35.700Z"
+		"MasaSah" : "2022-11-19T16:40:35.700Z",
+		"UndiTolak" : 823,
+		"UndiTakKembali" : 209,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "090",
@@ -1333,7 +1831,10 @@
 		"UndiDalamPeti" : 60362,
 		"PeratusUndi" : "77.9",
 		"Majoriti" : 16695,
-		"MasaSah" : "2022-11-19T16:39:59.447Z"
+		"MasaSah" : "2022-11-19T16:39:59.447Z",
+		"UndiTolak" : 814,
+		"UndiTakKembali" : 145,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "127",
@@ -1341,7 +1842,10 @@
 		"UndiDalamPeti" : 72629,
 		"PeratusUndi" : "76",
 		"Majoriti" : 5857,
-		"MasaSah" : "2022-11-19T16:37:21.770Z"
+		"MasaSah" : "2022-11-19T16:37:21.770Z",
+		"UndiTolak" : 834,
+		"UndiTakKembali" : 179,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "070",
@@ -1349,7 +1853,10 @@
 		"UndiDalamPeti" : 23610,
 		"PeratusUndi" : "74.1",
 		"Majoriti" : 253,
-		"MasaSah" : "2022-11-19T16:37:21.077Z"
+		"MasaSah" : "2022-11-19T16:37:21.077Z",
+		"UndiTolak" : 289,
+		"UndiTakKembali" : 56,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "070",
@@ -1357,7 +1864,10 @@
 		"UndiDalamPeti" : 18826,
 		"PeratusUndi" : "63.6",
 		"Majoriti" : 7259,
-		"MasaSah" : "2022-11-19T16:34:36.093Z"
+		"MasaSah" : "2022-11-19T16:34:36.093Z",
+		"UndiTolak" : 208,
+		"UndiTakKembali" : 59,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "076",
@@ -1365,7 +1875,10 @@
 		"UndiDalamPeti" : 64910,
 		"PeratusUndi" : "74.7",
 		"Majoriti" : 15169,
-		"MasaSah" : "2022-11-19T16:33:48.890Z"
+		"MasaSah" : "2022-11-19T16:33:48.890Z",
+		"UndiTolak" : 716,
+		"UndiTakKembali" : 218,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "079",
@@ -1373,7 +1886,10 @@
 		"UndiDalamPeti" : 12524,
 		"PeratusUndi" : "74.7",
 		"Majoriti" : 1223,
-		"MasaSah" : "2022-11-19T16:33:41.083Z"
+		"MasaSah" : "2022-11-19T16:33:41.083Z",
+		"UndiTolak" : 143,
+		"UndiTakKembali" : 41,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "039",
@@ -1381,7 +1897,10 @@
 		"UndiDalamPeti" : 92005,
 		"PeratusUndi" : "79.7",
 		"Majoriti" : 34105,
-		"MasaSah" : "2022-11-19T16:33:36.477Z"
+		"MasaSah" : "2022-11-19T16:33:36.477Z",
+		"UndiTolak" : 736,
+		"UndiTakKembali" : 123,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "054",
@@ -1389,7 +1908,10 @@
 		"UndiDalamPeti" : 20062,
 		"PeratusUndi" : "73.4",
 		"Majoriti" : 1048,
-		"MasaSah" : "2022-11-19T16:32:30.267Z"
+		"MasaSah" : "2022-11-19T16:32:30.267Z",
+		"UndiTolak" : 425,
+		"UndiTakKembali" : 48,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "126",
@@ -1397,7 +1919,10 @@
 		"UndiDalamPeti" : 45907,
 		"PeratusUndi" : "77.2",
 		"Majoriti" : 8125,
-		"MasaSah" : "2022-11-19T16:31:53.277Z"
+		"MasaSah" : "2022-11-19T16:31:53.277Z",
+		"UndiTolak" : 573,
+		"UndiTakKembali" : 101,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "079",
@@ -1405,7 +1930,10 @@
 		"UndiDalamPeti" : 15450,
 		"PeratusUndi" : "79.9",
 		"Majoriti" : 507,
-		"MasaSah" : "2022-11-19T16:31:30.233Z"
+		"MasaSah" : "2022-11-19T16:31:30.233Z",
+		"UndiTolak" : 182,
+		"UndiTakKembali" : 47,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "067",
@@ -1413,7 +1941,10 @@
 		"UndiDalamPeti" : 18891,
 		"PeratusUndi" : "76.4",
 		"Majoriti" : 2912,
-		"MasaSah" : "2022-11-19T16:31:07.607Z"
+		"MasaSah" : "2022-11-19T16:31:07.607Z",
+		"UndiTolak" : 226,
+		"UndiTakKembali" : 43,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "003",
@@ -1421,7 +1952,10 @@
 		"UndiDalamPeti" : 47516,
 		"PeratusUndi" : "78.2",
 		"Majoriti" : 23216,
-		"MasaSah" : "2022-11-19T16:30:57.577Z"
+		"MasaSah" : "2022-11-19T16:30:57.577Z",
+		"UndiTolak" : 727,
+		"UndiTakKembali" : 88,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "187",
@@ -1429,7 +1963,10 @@
 		"UndiDalamPeti" : 29806,
 		"PeratusUndi" : "66.7",
 		"Majoriti" : 4330,
-		"MasaSah" : "2022-11-19T16:30:55.737Z"
+		"MasaSah" : "2022-11-19T16:30:55.737Z",
+		"UndiTolak" : 452,
+		"UndiTakKembali" : 76,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "054",
@@ -1437,7 +1974,10 @@
 		"UndiDalamPeti" : 15216,
 		"PeratusUndi" : "75.7",
 		"Majoriti" : 1324,
-		"MasaSah" : "2022-11-19T16:30:27.960Z"
+		"MasaSah" : "2022-11-19T16:30:27.960Z",
+		"UndiTolak" : 271,
+		"UndiTakKembali" : 36,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "079",
@@ -1445,7 +1985,10 @@
 		"UndiDalamPeti" : 8263,
 		"PeratusUndi" : "76",
 		"Majoriti" : 1521,
-		"MasaSah" : "2022-11-19T16:30:03.347Z"
+		"MasaSah" : "2022-11-19T16:30:03.347Z",
+		"UndiTolak" : 74,
+		"UndiTakKembali" : 18,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "015",
@@ -1453,7 +1996,10 @@
 		"UndiDalamPeti" : 131191,
 		"PeratusUndi" : "77.8",
 		"Majoriti" : 1115,
-		"MasaSah" : "2022-11-19T16:29:17.983Z"
+		"MasaSah" : "2022-11-19T16:29:17.983Z",
+		"UndiTolak" : 1187,
+		"UndiTakKembali" : 256,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "003",
@@ -1461,7 +2007,10 @@
 		"UndiDalamPeti" : 11314,
 		"PeratusUndi" : "76.6",
 		"Majoriti" : 2229,
-		"MasaSah" : "2022-11-19T16:28:48.870Z"
+		"MasaSah" : "2022-11-19T16:28:48.870Z",
+		"UndiTolak" : 169,
+		"UndiTakKembali" : 20,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "076",
@@ -1469,7 +2018,10 @@
 		"UndiDalamPeti" : 37193,
 		"PeratusUndi" : "77.6",
 		"Majoriti" : 1087,
-		"MasaSah" : "2022-11-19T16:28:26.193Z"
+		"MasaSah" : "2022-11-19T16:28:26.193Z",
+		"UndiTolak" : 460,
+		"UndiTakKembali" : 114,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "171",
@@ -1477,7 +2029,10 @@
 		"UndiDalamPeti" : 71279,
 		"PeratusUndi" : "66.1",
 		"Majoriti" : 7042,
-		"MasaSah" : "2022-11-19T16:26:49.760Z"
+		"MasaSah" : "2022-11-19T16:26:49.760Z",
+		"UndiTolak" : 975,
+		"UndiTakKembali" : 384,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "123",
@@ -1485,7 +2040,10 @@
 		"UndiDalamPeti" : 72046,
 		"PeratusUndi" : "71.4",
 		"Majoriti" : 54448,
-		"MasaSah" : "2022-11-19T16:26:09.303Z"
+		"MasaSah" : "2022-11-19T16:26:09.303Z",
+		"UndiTolak" : 300,
+		"UndiTakKembali" : 161,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "001",
@@ -1493,7 +2051,10 @@
 		"UndiDalamPeti" : 8498,
 		"PeratusUndi" : "79.2",
 		"Majoriti" : 2108,
-		"MasaSah" : "2022-11-19T16:26:05.927Z"
+		"MasaSah" : "2022-11-19T16:26:05.927Z",
+		"UndiTolak" : 72,
+		"UndiTakKembali" : 13,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "083",
@@ -1501,7 +2062,10 @@
 		"UndiDalamPeti" : 68393,
 		"PeratusUndi" : "78.2",
 		"Majoriti" : 2866,
-		"MasaSah" : "2022-11-19T16:25:47.913Z"
+		"MasaSah" : "2022-11-19T16:25:47.913Z",
+		"UndiTolak" : 631,
+		"UndiTakKembali" : 122,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "070",
@@ -1509,7 +2073,10 @@
 		"UndiDalamPeti" : 17806,
 		"PeratusUndi" : "63.2",
 		"Majoriti" : 8749,
-		"MasaSah" : "2022-11-19T16:25:43.623Z"
+		"MasaSah" : "2022-11-19T16:25:43.623Z",
+		"UndiTolak" : 240,
+		"UndiTakKembali" : 39,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "185",
@@ -1517,7 +2084,10 @@
 		"UndiDalamPeti" : 27516,
 		"PeratusUndi" : "62.9",
 		"Majoriti" : 4821,
-		"MasaSah" : "2022-11-19T16:23:45.127Z"
+		"MasaSah" : "2022-11-19T16:23:45.127Z",
+		"UndiTolak" : 479,
+		"UndiTakKembali" : 92,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "076",
@@ -1525,7 +2095,10 @@
 		"UndiDalamPeti" : 27751,
 		"PeratusUndi" : "71.1",
 		"Majoriti" : 17446,
-		"MasaSah" : "2022-11-19T16:23:43.887Z"
+		"MasaSah" : "2022-11-19T16:23:43.887Z",
+		"UndiTolak" : 272,
+		"UndiTakKembali" : 77,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "163",
@@ -1533,7 +2106,10 @@
 		"UndiDalamPeti" : 116110,
 		"PeratusUndi" : "76.9",
 		"Majoriti" : 36023,
-		"MasaSah" : "2022-11-19T16:23:14.377Z"
+		"MasaSah" : "2022-11-19T16:23:14.377Z",
+		"UndiTolak" : 857,
+		"UndiTakKembali" : 229,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "106",
@@ -1541,7 +2117,10 @@
 		"UndiDalamPeti" : 175910,
 		"PeratusUndi" : "73.9",
 		"Majoriti" : 124619,
-		"MasaSah" : "2022-11-19T16:22:56.263Z"
+		"MasaSah" : "2022-11-19T16:22:56.263Z",
+		"UndiTolak" : 973,
+		"UndiTakKembali" : 715,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "182",
@@ -1549,7 +2128,10 @@
 		"UndiDalamPeti" : 37493,
 		"PeratusUndi" : "67.5",
 		"Majoriti" : 5412,
-		"MasaSah" : "2022-11-19T16:21:49.030Z"
+		"MasaSah" : "2022-11-19T16:21:49.030Z",
+		"UndiTolak" : 383,
+		"UndiTakKembali" : 91,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "093",
@@ -1557,7 +2139,10 @@
 		"UndiDalamPeti" : 51511,
 		"PeratusUndi" : "80.1",
 		"Majoriti" : 2721,
-		"MasaSah" : "2022-11-19T16:21:40.507Z"
+		"MasaSah" : "2022-11-19T16:21:40.507Z",
+		"UndiTolak" : 441,
+		"UndiTakKembali" : 83,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "064",
@@ -1565,7 +2150,10 @@
 		"UndiDalamPeti" : 26383,
 		"PeratusUndi" : "66.1",
 		"Majoriti" : 22169,
-		"MasaSah" : "2022-11-19T16:20:36.333Z"
+		"MasaSah" : "2022-11-19T16:20:36.333Z",
+		"UndiTolak" : 195,
+		"UndiTakKembali" : 4,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "083",
@@ -1573,7 +2161,10 @@
 		"UndiDalamPeti" : 22326,
 		"PeratusUndi" : "72.5",
 		"Majoriti" : 8679,
-		"MasaSah" : "2022-11-19T16:19:50.227Z"
+		"MasaSah" : "2022-11-19T16:19:50.227Z",
+		"UndiTolak" : 183,
+		"UndiTakKembali" : 51,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "024",
@@ -1581,7 +2172,10 @@
 		"UndiDalamPeti" : 82159,
 		"PeratusUndi" : "72.6",
 		"Majoriti" : 40847,
-		"MasaSah" : "2022-11-19T16:19:28.060Z"
+		"MasaSah" : "2022-11-19T16:19:28.060Z",
+		"UndiTolak" : 775,
+		"UndiTakKembali" : 343,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "046",
@@ -1589,7 +2183,10 @@
 		"UndiDalamPeti" : 69670,
 		"PeratusUndi" : "78.5",
 		"Majoriti" : 40400,
-		"MasaSah" : "2022-11-19T16:17:28.020Z"
+		"MasaSah" : "2022-11-19T16:17:28.020Z",
+		"UndiTolak" : 839,
+		"UndiTakKembali" : 89,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "083",
@@ -1597,7 +2194,10 @@
 		"UndiDalamPeti" : 30678,
 		"PeratusUndi" : "80.5",
 		"Majoriti" : 8989,
-		"MasaSah" : "2022-11-19T16:17:19.433Z"
+		"MasaSah" : "2022-11-19T16:17:19.433Z",
+		"UndiTolak" : 306,
+		"UndiTakKembali" : 51,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "003",
@@ -1605,7 +2205,10 @@
 		"UndiDalamPeti" : 9193,
 		"PeratusUndi" : "80",
 		"Majoriti" : 5101,
-		"MasaSah" : "2022-11-19T16:17:08.360Z"
+		"MasaSah" : "2022-11-19T16:17:08.360Z",
+		"UndiTolak" : 140,
+		"UndiTakKembali" : 17,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "002",
@@ -1613,7 +2216,10 @@
 		"UndiDalamPeti" : 11908,
 		"PeratusUndi" : "75.2",
 		"Majoriti" : 2200,
-		"MasaSah" : "2022-11-19T16:16:56.947Z"
+		"MasaSah" : "2022-11-19T16:16:56.947Z",
+		"UndiTolak" : 155,
+		"UndiTakKembali" : 21,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "067",
@@ -1621,7 +2227,10 @@
 		"UndiDalamPeti" : 36196,
 		"PeratusUndi" : "77.1",
 		"Majoriti" : 3566,
-		"MasaSah" : "2022-11-19T16:16:35.337Z"
+		"MasaSah" : "2022-11-19T16:16:35.337Z",
+		"UndiTolak" : 442,
+		"UndiTakKembali" : 33,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "023",
@@ -1629,7 +2238,10 @@
 		"UndiDalamPeti" : 61195,
 		"PeratusUndi" : "65.9",
 		"Majoriti" : 20636,
-		"MasaSah" : "2022-11-19T16:14:42.507Z"
+		"MasaSah" : "2022-11-19T16:14:42.507Z",
+		"UndiTolak" : 668,
+		"UndiTakKembali" : 211,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "034",
@@ -1637,7 +2249,10 @@
 		"UndiDalamPeti" : 85876,
 		"PeratusUndi" : "80.2",
 		"Majoriti" : 19032,
-		"MasaSah" : "2022-11-19T16:14:05.610Z"
+		"MasaSah" : "2022-11-19T16:14:05.610Z",
+		"UndiTolak" : 1044,
+		"UndiTakKembali" : 153,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "067",
@@ -1645,7 +2260,10 @@
 		"UndiDalamPeti" : 17255,
 		"PeratusUndi" : "77.9",
 		"Majoriti" : 1164,
-		"MasaSah" : "2022-11-19T16:13:41.600Z"
+		"MasaSah" : "2022-11-19T16:13:41.600Z",
+		"UndiTolak" : 211,
+		"UndiTakKembali" : 36,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "001",
@@ -1653,7 +2271,10 @@
 		"UndiDalamPeti" : 7732,
 		"PeratusUndi" : "80.2",
 		"Majoriti" : 2021,
-		"MasaSah" : "2022-11-19T16:13:39.240Z"
+		"MasaSah" : "2022-11-19T16:13:39.240Z",
+		"UndiTolak" : 121,
+		"UndiTakKembali" : 18,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "006",
@@ -1661,7 +2282,10 @@
 		"UndiDalamPeti" : 84239,
 		"PeratusUndi" : "78.1",
 		"Majoriti" : 31584,
-		"MasaSah" : "2022-11-19T16:12:48.050Z"
+		"MasaSah" : "2022-11-19T16:12:48.050Z",
+		"UndiTolak" : 837,
+		"UndiTakKembali" : 247,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "030",
@@ -1669,7 +2293,10 @@
 		"UndiDalamPeti" : 43588,
 		"PeratusUndi" : "73.1",
 		"Majoriti" : 12464,
-		"MasaSah" : "2022-11-19T16:12:31.460Z"
+		"MasaSah" : "2022-11-19T16:12:31.460Z",
+		"UndiTolak" : 635,
+		"UndiTakKembali" : 144,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "042",
@@ -1677,7 +2304,10 @@
 		"UndiDalamPeti" : 67654,
 		"PeratusUndi" : "83.8",
 		"Majoriti" : 12252,
-		"MasaSah" : "2022-11-19T16:12:09.880Z"
+		"MasaSah" : "2022-11-19T16:12:09.880Z",
+		"UndiTolak" : 542,
+		"UndiTakKembali" : 136,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "181",
@@ -1685,7 +2315,10 @@
 		"UndiDalamPeti" : 29034,
 		"PeratusUndi" : "69.2",
 		"Majoriti" : 1108,
-		"MasaSah" : "2022-11-19T16:11:19.520Z"
+		"MasaSah" : "2022-11-19T16:11:19.520Z",
+		"UndiTolak" : 385,
+		"UndiTakKembali" : 44,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "029",
@@ -1693,7 +2326,10 @@
 		"UndiDalamPeti" : 65847,
 		"PeratusUndi" : "74.3",
 		"Majoriti" : 10154,
-		"MasaSah" : "2022-11-19T16:11:07.657Z"
+		"MasaSah" : "2022-11-19T16:11:07.657Z",
+		"UndiTolak" : 733,
+		"UndiTakKembali" : 177,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "137",
@@ -1701,7 +2337,10 @@
 		"UndiDalamPeti" : 95223,
 		"PeratusUndi" : "80.7",
 		"Majoriti" : 8638,
-		"MasaSah" : "2022-11-19T16:09:28.833Z"
+		"MasaSah" : "2022-11-19T16:09:28.833Z",
+		"UndiTolak" : 737,
+		"UndiTakKembali" : 369,
+		"Negeri" : "MELAKA"
 	},
 	{
 		"KodParlimen" : "064",
@@ -1709,7 +2348,10 @@
 		"UndiDalamPeti" : 26041,
 		"PeratusUndi" : "63.8",
 		"Majoriti" : 20734,
-		"MasaSah" : "2022-11-19T16:09:25.190Z"
+		"MasaSah" : "2022-11-19T16:09:25.190Z",
+		"UndiTolak" : 179,
+		"UndiTakKembali" : 148,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "119",
@@ -1717,7 +2359,10 @@
 		"UndiDalamPeti" : 61370,
 		"PeratusUndi" : "76.4",
 		"Majoriti" : 4632,
-		"MasaSah" : "2022-11-19T16:07:38.920Z"
+		"MasaSah" : "2022-11-19T16:07:38.920Z",
+		"UndiTolak" : 512,
+		"UndiTakKembali" : 323,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "099",
@@ -1725,7 +2370,10 @@
 		"UndiDalamPeti" : 105264,
 		"PeratusUndi" : "79.1",
 		"Majoriti" : 29681,
-		"MasaSah" : "2022-11-19T16:07:32.307Z"
+		"MasaSah" : "2022-11-19T16:07:32.307Z",
+		"UndiTolak" : 834,
+		"UndiTakKembali" : 283,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "101",
@@ -1733,7 +2381,10 @@
 		"UndiDalamPeti" : 138003,
 		"PeratusUndi" : "82.9",
 		"Majoriti" : 14896,
-		"MasaSah" : "2022-11-19T16:07:11.163Z"
+		"MasaSah" : "2022-11-19T16:07:11.163Z",
+		"UndiTolak" : 1214,
+		"UndiTakKembali" : 336,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "001",
@@ -1741,7 +2392,10 @@
 		"UndiDalamPeti" : 8921,
 		"PeratusUndi" : "73.7",
 		"Majoriti" : 1047,
-		"MasaSah" : "2022-11-19T16:07:03.543Z"
+		"MasaSah" : "2022-11-19T16:07:03.543Z",
+		"UndiTolak" : 108,
+		"UndiTakKembali" : 18,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "020",
@@ -1749,7 +2403,10 @@
 		"UndiDalamPeti" : 78391,
 		"PeratusUndi" : "73.5",
 		"Majoriti" : 38270,
-		"MasaSah" : "2022-11-19T16:04:49.813Z"
+		"MasaSah" : "2022-11-19T16:04:49.813Z",
+		"UndiTolak" : 630,
+		"UndiTakKembali" : 268,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "188",
@@ -1757,7 +2414,10 @@
 		"UndiDalamPeti" : 58973,
 		"PeratusUndi" : "59",
 		"Majoriti" : 4376,
-		"MasaSah" : "2022-11-19T16:04:31.057Z"
+		"MasaSah" : "2022-11-19T16:04:31.057Z",
+		"UndiTolak" : 828,
+		"UndiTakKembali" : 194,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "025",
@@ -1765,7 +2425,10 @@
 		"UndiDalamPeti" : 90956,
 		"PeratusUndi" : "74.1",
 		"Majoriti" : 29901,
-		"MasaSah" : "2022-11-19T16:03:27.357Z"
+		"MasaSah" : "2022-11-19T16:03:27.357Z",
+		"UndiTolak" : 1539,
+		"UndiTakKembali" : 267,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "087",
@@ -1773,7 +2436,10 @@
 		"UndiDalamPeti" : 11042,
 		"PeratusUndi" : "79",
 		"Majoriti" : 1454,
-		"MasaSah" : "2022-11-19T16:03:17.580Z"
+		"MasaSah" : "2022-11-19T16:03:17.580Z",
+		"UndiTolak" : 231,
+		"UndiTakKembali" : 12,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "150",
@@ -1781,7 +2447,10 @@
 		"UndiDalamPeti" : 100340,
 		"PeratusUndi" : "75.2",
 		"Majoriti" : 15972,
-		"MasaSah" : "2022-11-19T16:02:39.150Z"
+		"MasaSah" : "2022-11-19T16:02:39.150Z",
+		"UndiTolak" : 846,
+		"UndiTakKembali" : 339,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "078",
@@ -1789,7 +2458,10 @@
 		"UndiDalamPeti" : 19019,
 		"PeratusUndi" : "71",
 		"Majoriti" : 2484,
-		"MasaSah" : "2022-11-19T16:02:28.087Z"
+		"MasaSah" : "2022-11-19T16:02:28.087Z",
+		"UndiTolak" : 438,
+		"UndiTakKembali" : 33,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "083",
@@ -1797,7 +2469,10 @@
 		"UndiDalamPeti" : 15389,
 		"PeratusUndi" : "83",
 		"Majoriti" : 922,
-		"MasaSah" : "2022-11-19T16:02:19.987Z"
+		"MasaSah" : "2022-11-19T16:02:19.987Z",
+		"UndiTolak" : 159,
+		"UndiTakKembali" : 19,
+		"Negeri" : "PAHANG"
 	},
 	{
 		"KodParlimen" : "094",
@@ -1805,7 +2480,10 @@
 		"UndiDalamPeti" : 123866,
 		"PeratusUndi" : "80.4",
 		"Majoriti" : 1562,
-		"MasaSah" : "2022-11-19T15:59:53.860Z"
+		"MasaSah" : "2022-11-19T15:59:53.860Z",
+		"UndiTolak" : 1424,
+		"UndiTakKembali" : 218,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "003",
@@ -1813,7 +2491,10 @@
 		"UndiDalamPeti" : 8364,
 		"PeratusUndi" : "80.4",
 		"Majoriti" : 3335,
-		"MasaSah" : "2022-11-19T15:59:33.913Z"
+		"MasaSah" : "2022-11-19T15:59:33.913Z",
+		"UndiTolak" : 138,
+		"UndiTakKembali" : 13,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "125",
@@ -1821,7 +2502,10 @@
 		"UndiDalamPeti" : 36811,
 		"PeratusUndi" : "86.2",
 		"Majoriti" : 2310,
-		"MasaSah" : "2022-11-19T15:59:15.870Z"
+		"MasaSah" : "2022-11-19T15:59:15.870Z",
+		"UndiTolak" : 168,
+		"UndiTakKembali" : 158,
+		"Negeri" : "W.P PUTRAJAYA"
 	},
 	{
 		"KodParlimen" : "031",
@@ -1829,7 +2513,10 @@
 		"UndiDalamPeti" : 65477,
 		"PeratusUndi" : "71.1",
 		"Majoriti" : 25188,
-		"MasaSah" : "2022-11-19T15:57:33.233Z"
+		"MasaSah" : "2022-11-19T15:57:33.233Z",
+		"UndiTolak" : 796,
+		"UndiTakKembali" : 207,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "140",
@@ -1837,7 +2524,10 @@
 		"UndiDalamPeti" : 51238,
 		"PeratusUndi" : "74.1",
 		"Majoriti" : 5669,
-		"MasaSah" : "2022-11-19T15:57:31.490Z"
+		"MasaSah" : "2022-11-19T15:57:31.490Z",
+		"UndiTolak" : 586,
+		"UndiTakKembali" : 157,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "219",
@@ -1845,7 +2535,10 @@
 		"UndiDalamPeti" : 78768,
 		"PeratusUndi" : "55.2",
 		"Majoriti" : 6159,
-		"MasaSah" : "2022-11-19T15:54:02.120Z"
+		"MasaSah" : "2022-11-19T15:54:02.120Z",
+		"UndiTolak" : 620,
+		"UndiTakKembali" : 228,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "018",
@@ -1853,7 +2546,10 @@
 		"UndiDalamPeti" : 71267,
 		"PeratusUndi" : "79.4",
 		"Majoriti" : 13061,
-		"MasaSah" : "2022-11-19T15:52:51.777Z"
+		"MasaSah" : "2022-11-19T15:52:51.777Z",
+		"UndiTolak" : 938,
+		"UndiTakKembali" : 349,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "149",
@@ -1861,7 +2557,10 @@
 		"UndiDalamPeti" : 61900,
 		"PeratusUndi" : "79",
 		"Majoriti" : 4000,
-		"MasaSah" : "2022-11-19T15:52:43.213Z"
+		"MasaSah" : "2022-11-19T15:52:43.213Z",
+		"UndiTolak" : 636,
+		"UndiTakKembali" : 198,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "214",
@@ -1869,7 +2568,10 @@
 		"UndiDalamPeti" : 29224,
 		"PeratusUndi" : "64",
 		"Majoriti" : 4986,
-		"MasaSah" : "2022-11-19T15:51:30.423Z"
+		"MasaSah" : "2022-11-19T15:51:30.423Z",
+		"UndiTolak" : 428,
+		"UndiTakKembali" : 56,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "003",
@@ -1877,7 +2579,10 @@
 		"UndiDalamPeti" : 8269,
 		"PeratusUndi" : "77.4",
 		"Majoriti" : 4008,
-		"MasaSah" : "2022-11-19T15:51:07.900Z"
+		"MasaSah" : "2022-11-19T15:51:07.900Z",
+		"UndiTolak" : 154,
+		"UndiTakKembali" : 11,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "004",
@@ -1885,7 +2590,10 @@
 		"UndiDalamPeti" : 47988,
 		"PeratusUndi" : "72.1",
 		"Majoriti" : 13518,
-		"MasaSah" : "2022-11-19T15:50:51.477Z"
+		"MasaSah" : "2022-11-19T15:50:51.477Z",
+		"UndiTolak" : 508,
+		"UndiTakKembali" : 135,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "184",
@@ -1893,7 +2601,10 @@
 		"UndiDalamPeti" : 45438,
 		"PeratusUndi" : "63.1",
 		"Majoriti" : 12618,
-		"MasaSah" : "2022-11-19T15:49:20.463Z"
+		"MasaSah" : "2022-11-19T15:49:20.463Z",
+		"UndiTolak" : 907,
+		"UndiTakKembali" : 194,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "033",
@@ -1901,7 +2612,10 @@
 		"UndiDalamPeti" : 86241,
 		"PeratusUndi" : "77.5",
 		"Majoriti" : 18666,
-		"MasaSah" : "2022-11-19T15:48:31.483Z"
+		"MasaSah" : "2022-11-19T15:48:31.483Z",
+		"UndiTolak" : 877,
+		"UndiTakKembali" : 246,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "040",
@@ -1909,7 +2623,10 @@
 		"UndiDalamPeti" : 114383,
 		"PeratusUndi" : "82.1",
 		"Majoriti" : 27179,
-		"MasaSah" : "2022-11-19T15:48:25.477Z"
+		"MasaSah" : "2022-11-19T15:48:25.477Z",
+		"UndiTolak" : 1288,
+		"UndiTakKembali" : 150,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "013",
@@ -1917,7 +2634,10 @@
 		"UndiDalamPeti" : 51577,
 		"PeratusUndi" : "81.8",
 		"Majoriti" : 21787,
-		"MasaSah" : "2022-11-19T15:46:58.087Z"
+		"MasaSah" : "2022-11-19T15:46:58.087Z",
+		"UndiTolak" : 416,
+		"UndiTakKembali" : 82,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "161",
@@ -1925,7 +2645,10 @@
 		"UndiDalamPeti" : 118066,
 		"PeratusUndi" : "71.6",
 		"Majoriti" : 33174,
-		"MasaSah" : "2022-11-19T15:45:59.883Z"
+		"MasaSah" : "2022-11-19T15:45:59.883Z",
+		"UndiTolak" : 763,
+		"UndiTakKembali" : 348,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "215",
@@ -1933,7 +2656,10 @@
 		"UndiDalamPeti" : 22381,
 		"PeratusUndi" : "49.9",
 		"Majoriti" : 12402,
-		"MasaSah" : "2022-11-19T15:44:44.703Z"
+		"MasaSah" : "2022-11-19T15:44:44.703Z",
+		"UndiTolak" : 382,
+		"UndiTakKembali" : 164,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "129",
@@ -1941,7 +2667,10 @@
 		"UndiDalamPeti" : 49151,
 		"PeratusUndi" : "78.1",
 		"Majoriti" : 6483,
-		"MasaSah" : "2022-11-19T15:44:13.847Z"
+		"MasaSah" : "2022-11-19T15:44:13.847Z",
+		"UndiTolak" : 489,
+		"UndiTakKembali" : 220,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "218",
@@ -1949,7 +2678,10 @@
 		"UndiDalamPeti" : 34284,
 		"PeratusUndi" : "58.7",
 		"Majoriti" : 11745,
-		"MasaSah" : "2022-11-19T15:43:08.107Z"
+		"MasaSah" : "2022-11-19T15:43:08.107Z",
+		"UndiTolak" : 368,
+		"UndiTakKembali" : 87,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "158",
@@ -1957,7 +2689,10 @@
 		"UndiDalamPeti" : 168979,
 		"PeratusUndi" : "75.9",
 		"Majoriti" : 30720,
-		"MasaSah" : "2022-11-19T15:42:55.123Z"
+		"MasaSah" : "2022-11-19T15:42:55.123Z",
+		"UndiTolak" : 1014,
+		"UndiTakKembali" : 435,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "159",
@@ -1965,7 +2700,10 @@
 		"UndiDalamPeti" : 150578,
 		"PeratusUndi" : "76",
 		"Majoriti" : 31558,
-		"MasaSah" : "2022-11-19T15:41:00.110Z"
+		"MasaSah" : "2022-11-19T15:41:00.110Z",
+		"UndiTolak" : 1298,
+		"UndiTakKembali" : 298,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "047",
@@ -1973,7 +2711,10 @@
 		"UndiDalamPeti" : 80329,
 		"PeratusUndi" : "80.4",
 		"Majoriti" : 16293,
-		"MasaSah" : "2022-11-19T15:40:03.383Z"
+		"MasaSah" : "2022-11-19T15:40:03.383Z",
+		"UndiTolak" : 1021,
+		"UndiTakKembali" : 148,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "036",
@@ -1981,7 +2722,10 @@
 		"UndiDalamPeti" : 97319,
 		"PeratusUndi" : "79.2",
 		"Majoriti" : 40907,
-		"MasaSah" : "2022-11-19T15:39:54.273Z"
+		"MasaSah" : "2022-11-19T15:39:54.273Z",
+		"UndiTolak" : 767,
+		"UndiTakKembali" : 286,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "139",
@@ -1989,7 +2733,10 @@
 		"UndiDalamPeti" : 78151,
 		"PeratusUndi" : "81.4",
 		"Majoriti" : 322,
-		"MasaSah" : "2022-11-19T15:37:55.847Z"
+		"MasaSah" : "2022-11-19T15:37:55.847Z",
+		"UndiTolak" : 553,
+		"UndiTakKembali" : 178,
+		"Negeri" : "MELAKA"
 	},
 	{
 		"KodParlimen" : "179",
@@ -1997,7 +2744,10 @@
 		"UndiDalamPeti" : 42681,
 		"PeratusUndi" : "64.4",
 		"Majoriti" : 11092,
-		"MasaSah" : "2022-11-19T15:36:32.990Z"
+		"MasaSah" : "2022-11-19T15:36:32.990Z",
+		"UndiTolak" : 383,
+		"UndiTakKembali" : 130,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "003",
@@ -2005,7 +2755,10 @@
 		"UndiDalamPeti" : 10388,
 		"PeratusUndi" : "78.1",
 		"Majoriti" : 2485,
-		"MasaSah" : "2022-11-19T15:36:22.277Z"
+		"MasaSah" : "2022-11-19T15:36:22.277Z",
+		"UndiTolak" : 225,
+		"UndiTakKembali" : 122,
+		"Negeri" : "PERLIS"
 	},
 	{
 		"KodParlimen" : "019",
@@ -2013,7 +2766,10 @@
 		"UndiDalamPeti" : 105892,
 		"PeratusUndi" : "71.1",
 		"Majoriti" : 34793,
-		"MasaSah" : "2022-11-19T15:31:20.120Z"
+		"MasaSah" : "2022-11-19T15:31:20.120Z",
+		"UndiTolak" : 1233,
+		"UndiTakKembali" : 281,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "178",
@@ -2021,7 +2777,10 @@
 		"UndiDalamPeti" : 29708,
 		"PeratusUndi" : "65",
 		"Majoriti" : 4691,
-		"MasaSah" : "2022-11-19T15:30:24.867Z"
+		"MasaSah" : "2022-11-19T15:30:24.867Z",
+		"UndiTolak" : 647,
+		"UndiTakKembali" : 108,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "135",
@@ -2029,7 +2788,10 @@
 		"UndiDalamPeti" : 73726,
 		"PeratusUndi" : "79.2",
 		"Majoriti" : 890,
-		"MasaSah" : "2022-11-19T15:30:14.240Z"
+		"MasaSah" : "2022-11-19T15:30:14.240Z",
+		"UndiTolak" : 726,
+		"UndiTakKembali" : 174,
+		"Negeri" : "MELAKA"
 	},
 	{
 		"KodParlimen" : "092",
@@ -2037,7 +2799,10 @@
 		"UndiDalamPeti" : 41423,
 		"PeratusUndi" : "80.4",
 		"Majoriti" : 5056,
-		"MasaSah" : "2022-11-19T15:28:58.347Z"
+		"MasaSah" : "2022-11-19T15:28:58.347Z",
+		"UndiTolak" : 446,
+		"UndiTakKembali" : 62,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "027",
@@ -2045,7 +2810,10 @@
 		"UndiDalamPeti" : 70310,
 		"PeratusUndi" : "71.5",
 		"Majoriti" : 44485,
-		"MasaSah" : "2022-11-19T15:27:26.363Z"
+		"MasaSah" : "2022-11-19T15:27:26.363Z",
+		"UndiTolak" : 624,
+		"UndiTakKembali" : 357,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "194",
@@ -2053,7 +2821,10 @@
 		"UndiDalamPeti" : 69714,
 		"PeratusUndi" : "63.8",
 		"Majoriti" : 41363,
-		"MasaSah" : "2022-11-19T15:27:21.897Z"
+		"MasaSah" : "2022-11-19T15:27:21.897Z",
+		"UndiTolak" : 551,
+		"UndiTakKembali" : 360,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "035",
@@ -2061,7 +2832,10 @@
 		"UndiDalamPeti" : 88364,
 		"PeratusUndi" : "83.6",
 		"Majoriti" : 29765,
-		"MasaSah" : "2022-11-19T15:26:26.767Z"
+		"MasaSah" : "2022-11-19T15:26:26.767Z",
+		"UndiTolak" : 736,
+		"UndiTakKembali" : 229,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "096",
@@ -2069,7 +2843,10 @@
 		"UndiDalamPeti" : 87553,
 		"PeratusUndi" : "85.2",
 		"Majoriti" : 1002,
-		"MasaSah" : "2022-11-19T15:26:19.927Z"
+		"MasaSah" : "2022-11-19T15:26:19.927Z",
+		"UndiTolak" : 1072,
+		"UndiTakKembali" : 132,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "037",
@@ -2077,7 +2854,10 @@
 		"UndiDalamPeti" : 110016,
 		"PeratusUndi" : "83.7",
 		"Majoriti" : 41729,
-		"MasaSah" : "2022-11-19T15:23:15.397Z"
+		"MasaSah" : "2022-11-19T15:23:15.397Z",
+		"UndiTolak" : 948,
+		"UndiTakKembali" : 296,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "162",
@@ -2085,7 +2865,10 @@
 		"UndiDalamPeti" : 164995,
 		"PeratusUndi" : "74.4",
 		"Majoriti" : 60036,
-		"MasaSah" : "2022-11-19T15:23:13.050Z"
+		"MasaSah" : "2022-11-19T15:23:13.050Z",
+		"UndiTolak" : 1315,
+		"UndiTakKembali" : 532,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "038",
@@ -2093,7 +2876,10 @@
 		"UndiDalamPeti" : 72801,
 		"PeratusUndi" : "83",
 		"Majoriti" : 15734,
-		"MasaSah" : "2022-11-19T15:23:09.790Z"
+		"MasaSah" : "2022-11-19T15:23:09.790Z",
+		"UndiTolak" : 793,
+		"UndiTakKembali" : 169,
+		"Negeri" : "TERENGGANU"
 	},
 	{
 		"KodParlimen" : "193",
@@ -2101,7 +2887,10 @@
 		"UndiDalamPeti" : 52459,
 		"PeratusUndi" : "66.3",
 		"Majoriti" : 38681,
-		"MasaSah" : "2022-11-19T15:21:56.650Z"
+		"MasaSah" : "2022-11-19T15:21:56.650Z",
+		"UndiTolak" : 650,
+		"UndiTakKembali" : 300,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "211",
@@ -2109,7 +2898,10 @@
 		"UndiDalamPeti" : 53811,
 		"PeratusUndi" : "61.8",
 		"Majoriti" : 11544,
-		"MasaSah" : "2022-11-19T15:21:37.707Z"
+		"MasaSah" : "2022-11-19T15:21:37.707Z",
+		"UndiTolak" : 865,
+		"UndiTakKembali" : 161,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "009",
@@ -2117,7 +2909,10 @@
 		"UndiDalamPeti" : 77760,
 		"PeratusUndi" : "73.6",
 		"Majoriti" : 9931,
-		"MasaSah" : "2022-11-19T15:21:08.973Z"
+		"MasaSah" : "2022-11-19T15:21:08.973Z",
+		"UndiTolak" : 774,
+		"UndiTakKembali" : 209,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "201",
@@ -2125,7 +2920,10 @@
 		"UndiDalamPeti" : 28017,
 		"PeratusUndi" : "65.3",
 		"Majoriti" : 14463,
-		"MasaSah" : "2022-11-19T15:19:08.250Z"
+		"MasaSah" : "2022-11-19T15:19:08.250Z",
+		"UndiTolak" : 458,
+		"UndiTakKembali" : 101,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "022",
@@ -2133,7 +2931,10 @@
 		"UndiDalamPeti" : 65972,
 		"PeratusUndi" : "70",
 		"Majoriti" : 30717,
-		"MasaSah" : "2022-11-19T15:18:25.077Z"
+		"MasaSah" : "2022-11-19T15:18:25.077Z",
+		"UndiTolak" : 819,
+		"UndiTakKembali" : 173,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "100",
@@ -2141,7 +2942,10 @@
 		"UndiDalamPeti" : 116262,
 		"PeratusUndi" : "78.3",
 		"Majoriti" : 48296,
-		"MasaSah" : "2022-11-19T15:15:33.873Z"
+		"MasaSah" : "2022-11-19T15:15:33.873Z",
+		"UndiTolak" : 606,
+		"UndiTakKembali" : 214,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "026",
@@ -2149,7 +2953,10 @@
 		"UndiDalamPeti" : 63762,
 		"PeratusUndi" : "75.1",
 		"Majoriti" : 23107,
-		"MasaSah" : "2022-11-19T15:14:08.670Z"
+		"MasaSah" : "2022-11-19T15:14:08.670Z",
+		"UndiTolak" : 900,
+		"UndiTakKembali" : 298,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "191",
@@ -2157,7 +2964,10 @@
 		"UndiDalamPeti" : 50545,
 		"PeratusUndi" : "60.5",
 		"Majoriti" : 9100,
-		"MasaSah" : "2022-11-19T15:13:12.347Z"
+		"MasaSah" : "2022-11-19T15:13:12.347Z",
+		"UndiTolak" : 515,
+		"UndiTakKembali" : 246,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "154",
@@ -2165,7 +2975,10 @@
 		"UndiDalamPeti" : 47294,
 		"PeratusUndi" : "71.6",
 		"Majoriti" : 2337,
-		"MasaSah" : "2022-11-19T15:12:57.860Z"
+		"MasaSah" : "2022-11-19T15:12:57.860Z",
+		"UndiTolak" : 388,
+		"UndiTakKembali" : 175,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "043",
@@ -2173,7 +2986,10 @@
 		"UndiDalamPeti" : 69392,
 		"PeratusUndi" : "77.7",
 		"Majoriti" : 49648,
-		"MasaSah" : "2022-11-19T15:12:47.077Z"
+		"MasaSah" : "2022-11-19T15:12:47.077Z",
+		"UndiTolak" : 738,
+		"UndiTakKembali" : 124,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "050",
@@ -2181,7 +2997,10 @@
 		"UndiDalamPeti" : 71565,
 		"PeratusUndi" : "76.3",
 		"Majoriti" : 38604,
-		"MasaSah" : "2022-11-19T15:11:57.563Z"
+		"MasaSah" : "2022-11-19T15:11:57.563Z",
+		"UndiTolak" : 858,
+		"UndiTakKembali" : 188,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "169",
@@ -2189,7 +3008,10 @@
 		"UndiDalamPeti" : 54786,
 		"PeratusUndi" : "69.2",
 		"Majoriti" : 4582,
-		"MasaSah" : "2022-11-19T15:11:47.760Z"
+		"MasaSah" : "2022-11-19T15:11:47.760Z",
+		"UndiTolak" : 749,
+		"UndiTakKembali" : 486,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "180",
@@ -2197,7 +3019,10 @@
 		"UndiDalamPeti" : 55296,
 		"PeratusUndi" : "63.4",
 		"Majoriti" : 8056,
-		"MasaSah" : "2022-11-19T15:11:22.207Z"
+		"MasaSah" : "2022-11-19T15:11:22.207Z",
+		"UndiTolak" : 424,
+		"UndiTakKembali" : 246,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "160",
@@ -2205,7 +3030,10 @@
 		"UndiDalamPeti" : 95230,
 		"PeratusUndi" : "70",
 		"Majoriti" : 16041,
-		"MasaSah" : "2022-11-19T15:10:14.343Z"
+		"MasaSah" : "2022-11-19T15:10:14.343Z",
+		"UndiTolak" : 837,
+		"UndiTakKembali" : 291,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "138",
@@ -2213,7 +3041,10 @@
 		"UndiDalamPeti" : 124519,
 		"PeratusUndi" : "76",
 		"Majoriti" : 46420,
-		"MasaSah" : "2022-11-19T15:09:28.687Z"
+		"MasaSah" : "2022-11-19T15:09:28.687Z",
+		"UndiTolak" : 1338,
+		"UndiTakKembali" : 297,
+		"Negeri" : "MELAKA"
 	},
 	{
 		"KodParlimen" : "183",
@@ -2221,7 +3052,10 @@
 		"UndiDalamPeti" : 29868,
 		"PeratusUndi" : "67",
 		"Majoriti" : 1594,
-		"MasaSah" : "2022-11-19T15:08:23.147Z"
+		"MasaSah" : "2022-11-19T15:08:23.147Z",
+		"UndiTolak" : 534,
+		"UndiTakKembali" : 83,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "021",
@@ -2229,7 +3063,10 @@
 		"UndiDalamPeti" : 78740,
 		"PeratusUndi" : "68.5",
 		"Majoriti" : 22613,
-		"MasaSah" : "2022-11-19T15:07:07.863Z"
+		"MasaSah" : "2022-11-19T15:07:07.863Z",
+		"UndiTolak" : 721,
+		"UndiTakKembali" : 288,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "136",
@@ -2237,7 +3074,10 @@
 		"UndiDalamPeti" : 92746,
 		"PeratusUndi" : "80.2",
 		"Majoriti" : 8849,
-		"MasaSah" : "2022-11-19T15:06:38.143Z"
+		"MasaSah" : "2022-11-19T15:06:38.143Z",
+		"UndiTolak" : 719,
+		"UndiTakKembali" : 270,
+		"Negeri" : "MELAKA"
 	},
 	{
 		"KodParlimen" : "153",
@@ -2245,7 +3085,10 @@
 		"UndiDalamPeti" : 41320,
 		"PeratusUndi" : "75.4",
 		"Majoriti" : 10880,
-		"MasaSah" : "2022-11-19T15:03:54.820Z"
+		"MasaSah" : "2022-11-19T15:03:54.820Z",
+		"UndiTolak" : 390,
+		"UndiTakKembali" : 129,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "165",
@@ -2253,7 +3096,10 @@
 		"UndiDalamPeti" : 54983,
 		"PeratusUndi" : "78",
 		"Majoriti" : 6360,
-		"MasaSah" : "2022-11-19T15:03:28.280Z"
+		"MasaSah" : "2022-11-19T15:03:28.280Z",
+		"UndiTolak" : 395,
+		"UndiTakKembali" : 123,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "144",
@@ -2261,7 +3107,10 @@
 		"UndiDalamPeti" : 81145,
 		"PeratusUndi" : "77.8",
 		"Majoriti" : 9769,
-		"MasaSah" : "2022-11-19T15:02:51.580Z"
+		"MasaSah" : "2022-11-19T15:02:51.580Z",
+		"UndiTolak" : 838,
+		"UndiTakKembali" : 181,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "114",
@@ -2269,7 +3118,10 @@
 		"UndiDalamPeti" : 72587,
 		"PeratusUndi" : "77.2",
 		"Majoriti" : 61081,
-		"MasaSah" : "2022-11-19T15:02:40.857Z"
+		"MasaSah" : "2022-11-19T15:02:40.857Z",
+		"UndiTolak" : 268,
+		"UndiTakKembali" : 246,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "032",
@@ -2277,7 +3129,10 @@
 		"UndiDalamPeti" : 49120,
 		"PeratusUndi" : "70.7",
 		"Majoriti" : 163,
-		"MasaSah" : "2022-11-19T14:58:34.140Z"
+		"MasaSah" : "2022-11-19T14:58:34.140Z",
+		"UndiTolak" : 743,
+		"UndiTakKembali" : 579,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "148",
@@ -2285,7 +3140,10 @@
 		"UndiDalamPeti" : 47053,
 		"PeratusUndi" : "77.3",
 		"Majoriti" : 2963,
-		"MasaSah" : "2022-11-19T14:58:07.523Z"
+		"MasaSah" : "2022-11-19T14:58:07.523Z",
+		"UndiTolak" : 361,
+		"UndiTakKembali" : 119,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "120",
@@ -2293,7 +3151,10 @@
 		"UndiDalamPeti" : 53154,
 		"PeratusUndi" : "66.7",
 		"Majoriti" : 38977,
-		"MasaSah" : "2022-11-19T14:58:04.390Z"
+		"MasaSah" : "2022-11-19T14:58:04.390Z",
+		"UndiTolak" : 218,
+		"UndiTakKembali" : 93,
+		"Negeri" : "W.P KUALA LUMPUR"
 	},
 	{
 		"KodParlimen" : "186",
@@ -2301,7 +3162,10 @@
 		"UndiDalamPeti" : 31399,
 		"PeratusUndi" : "56.8",
 		"Majoriti" : 11031,
-		"MasaSah" : "2022-11-19T14:56:49.780Z"
+		"MasaSah" : "2022-11-19T14:56:49.780Z",
+		"UndiTolak" : 480,
+		"UndiTakKembali" : 134,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "007",
@@ -2309,7 +3173,10 @@
 		"UndiDalamPeti" : 49261,
 		"PeratusUndi" : "82.5",
 		"Majoriti" : 10959,
-		"MasaSah" : "2022-11-19T14:56:08.227Z"
+		"MasaSah" : "2022-11-19T14:56:08.227Z",
+		"UndiTolak" : 632,
+		"UndiTakKembali" : 80,
+		"Negeri" : "KEDAH"
 	},
 	{
 		"KodParlimen" : "146",
@@ -2317,7 +3184,10 @@
 		"UndiDalamPeti" : 53532,
 		"PeratusUndi" : "77.9",
 		"Majoriti" : 1345,
-		"MasaSah" : "2022-11-19T14:53:38.790Z"
+		"MasaSah" : "2022-11-19T14:53:38.790Z",
+		"UndiTolak" : 374,
+		"UndiTakKembali" : 163,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "195",
@@ -2325,7 +3195,10 @@
 		"UndiDalamPeti" : 63876,
 		"PeratusUndi" : "58.4",
 		"Majoriti" : 28891,
-		"MasaSah" : "2022-11-19T14:53:00.517Z"
+		"MasaSah" : "2022-11-19T14:53:00.517Z",
+		"UndiTolak" : 301,
+		"UndiTakKembali" : 192,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "133",
@@ -2333,7 +3206,10 @@
 		"UndiDalamPeti" : 61814,
 		"PeratusUndi" : "76.4",
 		"Majoriti" : 1276,
-		"MasaSah" : "2022-11-19T14:52:18.430Z"
+		"MasaSah" : "2022-11-19T14:52:18.430Z",
+		"UndiTolak" : 781,
+		"UndiTakKembali" : 146,
+		"Negeri" : "NEGERI SEMBILAN"
 	},
 	{
 		"KodParlimen" : "176",
@@ -2341,7 +3217,10 @@
 		"UndiDalamPeti" : 31412,
 		"PeratusUndi" : "77.3",
 		"Majoriti" : 3037,
-		"MasaSah" : "2022-11-19T14:51:03.233Z"
+		"MasaSah" : "2022-11-19T14:51:03.233Z",
+		"UndiTolak" : 344,
+		"UndiTakKembali" : 79,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "095",
@@ -2349,7 +3228,10 @@
 		"UndiDalamPeti" : 51778,
 		"PeratusUndi" : "83.4",
 		"Majoriti" : 2180,
-		"MasaSah" : "2022-11-19T14:50:41.223Z"
+		"MasaSah" : "2022-11-19T14:50:41.223Z",
+		"UndiTolak" : 573,
+		"UndiTakKembali" : 94,
+		"Negeri" : "SELANGOR"
 	},
 	{
 		"KodParlimen" : "152",
@@ -2357,7 +3239,10 @@
 		"UndiDalamPeti" : 96825,
 		"PeratusUndi" : "73.4",
 		"Majoriti" : 26406,
-		"MasaSah" : "2022-11-19T14:47:50.407Z"
+		"MasaSah" : "2022-11-19T14:47:50.407Z",
+		"UndiTolak" : 1204,
+		"UndiTakKembali" : 337,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "143",
@@ -2365,7 +3250,10 @@
 		"UndiDalamPeti" : 54810,
 		"PeratusUndi" : "78.5",
 		"Majoriti" : 10007,
-		"MasaSah" : "2022-11-19T14:46:06.937Z"
+		"MasaSah" : "2022-11-19T14:46:06.937Z",
+		"UndiTolak" : 419,
+		"UndiTakKembali" : 123,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "134",
@@ -2373,7 +3261,10 @@
 		"UndiDalamPeti" : 55155,
 		"PeratusUndi" : "79.9",
 		"Majoriti" : 4411,
-		"MasaSah" : "2022-11-19T14:41:47.893Z"
+		"MasaSah" : "2022-11-19T14:41:47.893Z",
+		"UndiTolak" : 406,
+		"UndiTakKembali" : 115,
+		"Negeri" : "MELAKA"
 	},
 	{
 		"KodParlimen" : "155",
@@ -2381,7 +3272,10 @@
 		"UndiDalamPeti" : 51796,
 		"PeratusUndi" : "77.3",
 		"Majoriti" : 2991,
-		"MasaSah" : "2022-11-19T14:41:24.190Z"
+		"MasaSah" : "2022-11-19T14:41:24.190Z",
+		"UndiTolak" : 446,
+		"UndiTakKembali" : 201,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "202",
@@ -2389,7 +3283,10 @@
 		"UndiDalamPeti" : 32352,
 		"PeratusUndi" : "64.7",
 		"Majoriti" : 4039,
-		"MasaSah" : "2022-11-19T14:39:33.983Z"
+		"MasaSah" : "2022-11-19T14:39:33.983Z",
+		"UndiTolak" : 435,
+		"UndiTakKembali" : 97,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "164",
@@ -2397,7 +3294,10 @@
 		"UndiDalamPeti" : 57471,
 		"PeratusUndi" : "77",
 		"Majoriti" : 5758,
-		"MasaSah" : "2022-11-19T14:36:44.997Z"
+		"MasaSah" : "2022-11-19T14:36:44.997Z",
+		"UndiTolak" : 620,
+		"UndiTakKembali" : 410,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "198",
@@ -2405,7 +3305,10 @@
 		"UndiDalamPeti" : 51794,
 		"PeratusUndi" : "65.1",
 		"Majoriti" : 13338,
-		"MasaSah" : "2022-11-19T14:36:30.690Z"
+		"MasaSah" : "2022-11-19T14:36:30.690Z",
+		"UndiTolak" : 640,
+		"UndiTakKembali" : 255,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "172",
@@ -2413,7 +3316,10 @@
 		"UndiDalamPeti" : 44477,
 		"PeratusUndi" : "60.3",
 		"Majoriti" : 23783,
-		"MasaSah" : "2022-11-19T14:36:11.040Z"
+		"MasaSah" : "2022-11-19T14:36:11.040Z",
+		"UndiTolak" : 357,
+		"UndiTakKembali" : 186,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "190",
@@ -2421,7 +3327,10 @@
 		"UndiDalamPeti" : 51384,
 		"PeratusUndi" : "59",
 		"Majoriti" : 3800,
-		"MasaSah" : "2022-11-19T14:34:36.760Z"
+		"MasaSah" : "2022-11-19T14:34:36.760Z",
+		"UndiTolak" : 697,
+		"UndiTakKembali" : 232,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "147",
@@ -2429,7 +3338,10 @@
 		"UndiDalamPeti" : 63453,
 		"PeratusUndi" : "80.1",
 		"Majoriti" : 2021,
-		"MasaSah" : "2022-11-19T14:33:00.450Z"
+		"MasaSah" : "2022-11-19T14:33:00.450Z",
+		"UndiTolak" : 499,
+		"UndiTakKembali" : 244,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "210",
@@ -2437,7 +3349,10 @@
 		"UndiDalamPeti" : 18349,
 		"PeratusUndi" : "59.4",
 		"Majoriti" : 236,
-		"MasaSah" : "2022-11-19T14:32:18.430Z"
+		"MasaSah" : "2022-11-19T14:32:18.430Z",
+		"UndiTolak" : 306,
+		"UndiTakKembali" : 61,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "028",
@@ -2445,7 +3360,10 @@
 		"UndiDalamPeti" : 81991,
 		"PeratusUndi" : "72.7",
 		"Majoriti" : 29109,
-		"MasaSah" : "2022-11-19T14:32:01.497Z"
+		"MasaSah" : "2022-11-19T14:32:01.497Z",
+		"UndiTolak" : 1013,
+		"UndiTakKembali" : 237,
+		"Negeri" : "KELANTAN"
 	},
 	{
 		"KodParlimen" : "145",
@@ -2453,7 +3371,10 @@
 		"UndiDalamPeti" : 73882,
 		"PeratusUndi" : "76.2",
 		"Majoriti" : 19254,
-		"MasaSah" : "2022-11-19T14:31:41.880Z"
+		"MasaSah" : "2022-11-19T14:31:41.880Z",
+		"UndiTolak" : 742,
+		"UndiTakKembali" : 239,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "199",
@@ -2461,7 +3382,10 @@
 		"UndiDalamPeti" : 40485,
 		"PeratusUndi" : "62.2",
 		"Majoriti" : 16697,
-		"MasaSah" : "2022-11-19T14:30:54.023Z"
+		"MasaSah" : "2022-11-19T14:30:54.023Z",
+		"UndiTolak" : 511,
+		"UndiTakKembali" : 135,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "216",
@@ -2469,7 +3393,10 @@
 		"UndiDalamPeti" : 23718,
 		"PeratusUndi" : "54.8",
 		"Majoriti" : 7505,
-		"MasaSah" : "2022-11-19T14:30:18.720Z"
+		"MasaSah" : "2022-11-19T14:30:18.720Z",
+		"UndiTolak" : 311,
+		"UndiTakKembali" : 89,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "209",
@@ -2477,7 +3404,10 @@
 		"UndiDalamPeti" : 22868,
 		"PeratusUndi" : "65.8",
 		"Majoriti" : 1340,
-		"MasaSah" : "2022-11-19T14:27:16.110Z"
+		"MasaSah" : "2022-11-19T14:27:16.110Z",
+		"UndiTolak" : 331,
+		"UndiTakKembali" : 59,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "192",
@@ -2485,7 +3415,10 @@
 		"UndiDalamPeti" : 31798,
 		"PeratusUndi" : "67.6",
 		"Majoriti" : 5480,
-		"MasaSah" : "2022-11-19T14:25:14.560Z"
+		"MasaSah" : "2022-11-19T14:25:14.560Z",
+		"UndiTolak" : 419,
+		"UndiTakKembali" : 94,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "203",
@@ -2493,7 +3426,10 @@
 		"UndiDalamPeti" : 19494,
 		"PeratusUndi" : "67.4",
 		"Majoriti" : 100,
-		"MasaSah" : "2022-11-19T14:21:51.040Z"
+		"MasaSah" : "2022-11-19T14:21:51.040Z",
+		"UndiTolak" : 200,
+		"UndiTakKembali" : 43,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "141",
@@ -2501,7 +3437,10 @@
 		"UndiDalamPeti" : 48712,
 		"PeratusUndi" : "76.4",
 		"Majoriti" : 1734,
-		"MasaSah" : "2022-11-19T14:21:00.827Z"
+		"MasaSah" : "2022-11-19T14:21:00.827Z",
+		"UndiTolak" : 475,
+		"UndiTakKembali" : 142,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "196",
@@ -2509,7 +3448,10 @@
 		"UndiDalamPeti" : 74299,
 		"PeratusUndi" : "61.6",
 		"Majoriti" : 7158,
-		"MasaSah" : "2022-11-19T14:20:44.563Z"
+		"MasaSah" : "2022-11-19T14:20:44.563Z",
+		"UndiTolak" : 546,
+		"UndiTakKembali" : 248,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "174",
@@ -2517,7 +3459,10 @@
 		"UndiDalamPeti" : 51175,
 		"PeratusUndi" : "66.4",
 		"Majoriti" : 14410,
-		"MasaSah" : "2022-11-19T14:19:24.110Z"
+		"MasaSah" : "2022-11-19T14:19:24.110Z",
+		"UndiTolak" : 445,
+		"UndiTakKembali" : 126,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "166",
@@ -2525,7 +3470,10 @@
 		"UndiDalamPeti" : 28695,
 		"PeratusUndi" : "64.7",
 		"Majoriti" : 708,
-		"MasaSah" : "2022-11-19T14:18:08.697Z"
+		"MasaSah" : "2022-11-19T14:18:08.697Z",
+		"UndiTolak" : 246,
+		"UndiTakKembali" : 67,
+		"Negeri" : "W.P LABUAN"
 	},
 	{
 		"KodParlimen" : "156",
@@ -2533,7 +3481,10 @@
 		"UndiDalamPeti" : 47651,
 		"PeratusUndi" : "78.5",
 		"Majoriti" : 8390,
-		"MasaSah" : "2022-11-19T14:17:44.940Z"
+		"MasaSah" : "2022-11-19T14:17:44.940Z",
+		"UndiTolak" : 318,
+		"UndiTakKembali" : 478,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "208",
@@ -2541,7 +3492,10 @@
 		"UndiDalamPeti" : 36899,
 		"PeratusUndi" : "67.3",
 		"Majoriti" : 3697,
-		"MasaSah" : "2022-11-19T14:17:30.820Z"
+		"MasaSah" : "2022-11-19T14:17:30.820Z",
+		"UndiTolak" : 436,
+		"UndiTakKembali" : 126,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "157",
@@ -2549,7 +3503,10 @@
 		"UndiDalamPeti" : 42159,
 		"PeratusUndi" : "76.4",
 		"Majoriti" : 5010,
-		"MasaSah" : "2022-11-19T14:14:02.223Z"
+		"MasaSah" : "2022-11-19T14:14:02.223Z",
+		"UndiTolak" : 319,
+		"UndiTakKembali" : 129,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "197",
@@ -2557,7 +3514,10 @@
 		"UndiDalamPeti" : 56003,
 		"PeratusUndi" : "68.4",
 		"Majoriti" : 29445,
-		"MasaSah" : "2022-11-19T14:13:46.737Z"
+		"MasaSah" : "2022-11-19T14:13:46.737Z",
+		"UndiTolak" : 892,
+		"UndiTakKembali" : 235,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "151",
@@ -2565,7 +3525,10 @@
 		"UndiDalamPeti" : 44669,
 		"PeratusUndi" : "75.9",
 		"Majoriti" : 1821,
-		"MasaSah" : "2022-11-19T14:11:04.067Z"
+		"MasaSah" : "2022-11-19T14:11:04.067Z",
+		"UndiTolak" : 538,
+		"UndiTakKembali" : 132,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "049",
@@ -2573,7 +3536,10 @@
 		"UndiDalamPeti" : 38069,
 		"PeratusUndi" : "72.2",
 		"Majoriti" : 28754,
-		"MasaSah" : "2022-11-19T14:03:39.663Z"
+		"MasaSah" : "2022-11-19T14:03:39.663Z",
+		"UndiTolak" : 386,
+		"UndiTakKembali" : 72,
+		"Negeri" : "PULAU PINANG"
 	},
 	{
 		"KodParlimen" : "142",
@@ -2581,7 +3547,10 @@
 		"UndiDalamPeti" : 35179,
 		"PeratusUndi" : "70.8",
 		"Majoriti" : 2833,
-		"MasaSah" : "2022-11-19T14:03:24.520Z"
+		"MasaSah" : "2022-11-19T14:03:24.520Z",
+		"UndiTolak" : 434,
+		"UndiTakKembali" : 92,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "206",
@@ -2589,7 +3558,10 @@
 		"UndiDalamPeti" : 19278,
 		"PeratusUndi" : "58.9",
 		"Majoriti" : 13908,
-		"MasaSah" : "2022-11-19T14:00:51.133Z"
+		"MasaSah" : "2022-11-19T14:00:51.133Z",
+		"UndiTolak" : 238,
+		"UndiTakKembali" : 117,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "205",
@@ -2597,7 +3569,10 @@
 		"UndiDalamPeti" : 31217,
 		"PeratusUndi" : "70.3",
 		"Majoriti" : 8826,
-		"MasaSah" : "2022-11-19T13:56:44.297Z"
+		"MasaSah" : "2022-11-19T13:56:44.297Z",
+		"UndiTolak" : 376,
+		"UndiTakKembali" : 76,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "177",
@@ -2605,7 +3580,10 @@
 		"UndiDalamPeti" : 29850,
 		"PeratusUndi" : "69.2",
 		"Majoriti" : 2518,
-		"MasaSah" : "2022-11-19T13:52:51.123Z"
+		"MasaSah" : "2022-11-19T13:52:51.123Z",
+		"UndiTolak" : 552,
+		"UndiTakKembali" : 74,
+		"Negeri" : "SABAH"
 	},
 	{
 		"KodParlimen" : "204",
@@ -2613,7 +3591,10 @@
 		"UndiDalamPeti" : 27141,
 		"PeratusUndi" : "65.3",
 		"Majoriti" : 11302,
-		"MasaSah" : "2022-11-19T13:36:44.593Z"
+		"MasaSah" : "2022-11-19T13:36:44.593Z",
+		"UndiTolak" : 428,
+		"UndiTakKembali" : 98,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "222",
@@ -2621,7 +3602,10 @@
 		"UndiDalamPeti" : 18406,
 		"PeratusUndi" : "55",
 		"Majoriti" : 5677,
-		"MasaSah" : "2022-11-19T13:32:37.043Z"
+		"MasaSah" : "2022-11-19T13:32:37.043Z",
+		"UndiTolak" : 198,
+		"UndiTakKembali" : 89,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "200",
@@ -2629,7 +3613,10 @@
 		"UndiDalamPeti" : 22822,
 		"PeratusUndi" : "70.2",
 		"Majoriti" : 14893,
-		"MasaSah" : "2022-11-19T13:28:50.030Z"
+		"MasaSah" : "2022-11-19T13:28:50.030Z",
+		"UndiTolak" : 379,
+		"UndiTakKembali" : 102,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "213",
@@ -2637,7 +3624,10 @@
 		"UndiDalamPeti" : 28096,
 		"PeratusUndi" : "60",
 		"Majoriti" : 15686,
-		"MasaSah" : "2022-11-19T13:09:43.317Z"
+		"MasaSah" : "2022-11-19T13:09:43.317Z",
+		"UndiTolak" : 316,
+		"UndiTakKembali" : 71,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "207",
@@ -2645,7 +3635,10 @@
 		"UndiDalamPeti" : 17220,
 		"PeratusUndi" : "61.1",
 		"Majoriti" : 14662,
-		"MasaSah" : "2022-11-19T12:39:38.477Z"
+		"MasaSah" : "2022-11-19T12:39:38.477Z",
+		"UndiTolak" : 234,
+		"UndiTakKembali" : 66,
+		"Negeri" : "SARAWAK"
 	},
 	{
 		"KodParlimen" : "071",
@@ -2653,7 +3646,10 @@
 		"UndiDalamPeti" : 23566,
 		"PeratusUndi" : "71.6",
 		"Majoriti" : 4555,
-		"MasaSah" : "2022-11-05T01:58:32.847Z"
+		"MasaSah" : "2022-11-05T01:58:32.847Z",
+		"UndiTolak" : 309,
+		"UndiTakKembali" : 29,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "075",
@@ -2661,7 +3657,10 @@
 		"UndiDalamPeti" : 14421,
 		"PeratusUndi" : "73.4",
 		"Majoriti" : 3409,
-		"MasaSah" : "2022-11-05T01:31:58.773Z"
+		"MasaSah" : "2022-11-05T01:31:58.773Z",
+		"UndiTolak" : 247,
+		"UndiTakKembali" : 22,
+		"Negeri" : "PERAK"
 	},
 	{
 		"KodParlimen" : "168",
@@ -2669,22 +3668,9 @@
 		"UndiDalamPeti" : 50701,
 		"PeratusUndi" : "63.0",
 		"Majoriti" : 8174,
-		"MasaSah" : "2022-11-05T01:30:21.303Z"
-	},
-	{
-		"KodParlimen" : "017",
-		"KodDun" : "01700",
-		"UndiDalamPeti" : 92169,
-		"PeratusUndi" : "69",
-		"Majoriti" : 16260,
-		"MasaSah" : "2022-12-07T14:40:23.277Z"
-	},
-	{
-		"KodParlimen" : "091",
-		"KodDun" : "09142",
-		"UndiDalamPeti" : 16599,
-		"PeratusUndi" : "58.4",
-		"Majoriti" : 573,
-		"MasaSah" : "2022-12-07T14:21:57.090Z"
+		"MasaSah" : "2022-11-05T01:30:21.303Z",
+		"UndiTolak" : 755,
+		"UndiTakKembali" : 127,
+		"Negeri" : "SABAH"
 	}
 ]
