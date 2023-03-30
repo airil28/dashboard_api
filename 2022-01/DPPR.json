@@ -1,6 +1,5 @@
-{
-    "select KodDun,KodParlimen,Negeri,\r\ncount(dpprId) as Jumlah\r\nfrom DPPR d\r\nwhere PilihanrayaId = '956EC2DA-2546-4789-8A81-BE39DDD05499'\r\nGROUP BY KodDun,KodParlimen,Negeri ": [
-        {
+[
+            {
             "KodDun" : "14002",
             "KodParlimen" : "140",
             "Negeri" : "JOHOR",
@@ -336,5 +335,4 @@
             "Negeri" : "JOHOR",
             "Jumlah" : 28481
         }
-    ]}
-    
+    ]
