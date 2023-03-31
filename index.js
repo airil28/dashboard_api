@@ -65,10 +65,6 @@ app.get('/2022-02/keputusan', (req, res) => {
   res.sendFile(__dirname + '/2022-02/keputusan.json');
 });
 
-app.get('/2022-02/statistik', (req, res) => {
-  res.sendFile(__dirname + '/2022-02/statistik.json');
-});
-
 app.get('/2022-02/dppr', (req, res) => {
   res.sendFile(__dirname + '/2022-02/DPPR.json');
 });
@@ -85,29 +81,7 @@ app.get('/2022-02/statistikjenis', (req, res) => {
   res.sendFile(__dirname + '/2022-02/statistikjenis.json');
 });
 
-/////////////////// PRU KE 14
-
-app.get('/2018-01/calonparlimen', (req, res) => {
-  res.sendFile(__dirname + '/2018-01/calon_parlimen.json');
-});
-
-app.get('/2018-01/calondun', (req, res) => {
-  res.sendFile(__dirname + '/2022-02/calon_dun.json');
-});
-
-app.get('/2018-01/keputusan', (req, res) => {
-  res.sendFile(__dirname + '/2018-01/keputusan.json');
-});
-
-app.get('/2018-01/statistik', (req, res) => {
-  res.sendFile(__dirname + '/2018-01/statistik.json');
-});
-
-app.get('/2018-01/dppr', (req, res) => {
-  res.sendFile(__dirname + '/2018-01/DPPR.json');
-});
-
-//////////////PRU DUN JOHOR KE-15
+//PRU DUN JOHOR KE-15------------------------------------
 app.get('/2022-01/calondun', (req, res) => {
   // Set headers for SSE
   res.writeHead(200, {
@@ -163,7 +137,49 @@ app.get('/2022-01/statistik', (req, res) => {
   });
 });
 
+//PRK TIOMAN-----------------------------------------
 
+app.get('/2022-05/calondun', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+
+  const data = require('./2022-05/calon_dun.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
+});
+
+app.get('/2022-05/keputusan', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/keputusan.json');
+});
+
+app.get('/2022-05/dppr', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/DPPR.json');
+});
+
+app.get('/2022-05/parlimen', (req, res) => {
+  res.sendFile(__dirname + '/parlimen.json');
+});
+
+app.get('/2022-05/statistikumur', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/statistikumur.json');
+});
+
+app.get('/2022-05/statistikjenis', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/statistikjenis.json');
+});
+
+// TEST-----------------------------------------------
 app.get('/keputusan2', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'text/event-stream',
