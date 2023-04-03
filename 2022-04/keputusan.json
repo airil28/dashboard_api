@@ -1,0 +1,34 @@
+{
+"select * from Keputusan  WHERE PilihanrayaId ='F16BDC21-707F-436C-ABD9-3F26085D47E5'": [
+	{
+		"KeputusanId" : "145E08D2-413E-4162-8E42-3898EFAAADFE",
+		"PilihanrayaId" : "F16BDC21-707F-436C-ABD9-3F26085D47E5",
+		"ParlimenId" : "97C34A93-69FE-463B-A9F5-309016AECA3A",
+		"DunId" : "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
+		"KodParlimen" : "017",
+		"KodDun" : "01700",
+		"UndiTolak" : 753,
+		"UndiDalamPeti" : 92169,
+		"UndiKeluarPeti" : 92302,
+		"UndiTakKembali" : 133,
+		"PeratusBeza" : null,
+		"PeratusUndi" : "69",
+		"Majoriti" : 16260,
+		"Penerima" : null,
+		"Masa" : "2022-12-07T14:40:23.273Z",
+		"Status" : "I",
+		"IdSah" : "ADMIN",
+		"MasaSah" : "2022-12-07T14:40:23.277Z",
+		"IdIsytihar" : null,
+		"MasaIsytihar" : null,
+		"ResetSah" : null,
+		"MasaResetSah" : null,
+		"LogModul" : null,
+		"LogNamaServer" : null,
+		"LogIPServer" : null,
+		"LogDaftarOleh" : null,
+		"LogTarikhDaftar" : null,
+		"LogKemaskiniOleh" : null,
+		"LogTarikhKemaskini" : null
+	}
+]}

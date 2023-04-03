@@ -1,0 +1,29 @@
+{
+"SELECT\r\nNegeri,Jantina,\r\n\r\nSUM(CASE WHEN datediff(year, TahunLahir , getdate()) BETWEEN 18 AND 20 THEN 1 ELSE 0 END) AS [18-20],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) BETWEEN 21 AND 29 THEN 1 ELSE 0 END) AS [21-29],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) BETWEEN 30 AND 39 THEN 1 ELSE 0 END) AS [30-39],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) BETWEEN 40 AND 49 THEN 1 ELSE 0 END) AS [40-49],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) BETWEEN 50 AND 59 THEN 1 ELSE 0 END) AS [50-59],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) BETWEEN 60 AND 69 THEN 1 ELSE 0 END) AS [60-69],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) BETWEEN 70 AND 79 THEN 1 ELSE 0 END) AS [70-79],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) BETWEEN 80 AND 89 THEN 1 ELSE 0 END) AS [80-89],\r\nSUM(CASE WHEN datediff(year, TahunLahir, getdate()) > 89 THEN 1 ELSE 0 END) AS [90]\r\nfrom DPPR d \r\nwhere PilihanrayaId ='F16BDC21-707F-436C-ABD9-3F26085D47E5'\r\nGROUP BY Jantina, Negeri": [
+	{
+		"Negeri" : "KEDAH",
+		"Jantina" : "P ",
+		"18-20" : 3289,
+		"21-29" : 18020,
+		"30-39" : 14012,
+		"40-49" : 11472,
+		"50-59" : 9850,
+		"60-69" : 7056,
+		"70-79" : 3179,
+		"80-89" : 1156,
+		"90" : 249
+	},
+	{
+		"Negeri" : "KEDAH",
+		"Jantina" : "L ",
+		"18-20" : 3470,
+		"21-29" : 18622,
+		"30-39" : 14184,
+		"40-49" : 10728,
+		"50-59" : 9088,
+		"60-69" : 6031,
+		"70-79" : 2551,
+		"80-89" : 754,
+		"90" : 156
+	}
+]}

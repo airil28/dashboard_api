@@ -1,0 +1,14 @@
+{
+"select \r\ndppr.Negeri,\r\ncount(dpprid) as Jumlah,\r\nsum(iif(KategoriPemilihId ='0DA183F1-6F3A-44E3-9B3E-DEC2723D6BB4',1,0)) as Polis,\r\nsum(iif(KategoriPemilihId='BEA13902-6F4C-4ACE-B164-86CC19588C1A', 1, 0)) AS PasanganPolis,\r\nsum(iif(KategoriPemilihId ='9AEDB874-0778-437B-A94A-074B9DE071C1',1,0)) as Tentera,\r\nsum(iif(KategoriPemilihId='20F4C10F-69EE-4EE7-B50E-F332ACF98755', 1, 0)) AS PasanganTentera,\r\nsum(IIF(KategoriPemilihId = '8E37C518-3154-4320-A69B-A55DFDFE1534', 1, 0)) as UndiBiasa,\r\nsum(IIF(KategoriPemilihId = '2C57A999-7F98-46F2-886F-ABB5691BCE05', 1, 0)) as PTH,\r\nsum(iif(undipos != 0, 1, 0)) as UndiPos\r\nfrom dppr\r\nwhere dppr.PilihanrayaId = 'F16BDC21-707F-436C-ABD9-3F26085D47E5'\r\nGROUP BY\r\n   dppr.Negeri": [
+	{
+		"Negeri" : "KEDAH",
+		"Jumlah" : 133867,
+		"Polis" : 76,
+		"PasanganPolis" : 0,
+		"Tentera" : 0,
+		"PasanganTentera" : 0,
+		"UndiBiasa" : 133776,
+		"PTH" : 15,
+		"UndiPos" : 750
+	}
+]}
