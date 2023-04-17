@@ -1,0 +1,34 @@
+[
+    {
+      "Kod" : "2022-02",
+          "Nama" : "PILIHAN RAYA UMUM KE - 15",
+          "NamaSingkatan" : "PRU KE - 15",
+          "TarikhPengundian" : "2022-11-19",
+          "JenisPRK" : null,
+          "Jenis" : 10
+    },
+    {
+      "Kod": "2022-01",
+      "Nama": "PILIHAN RAYA UMUM DEWAN NEGERI JOHOR KE-15",
+      "NamaSingkatan": "PRU DEWAN NEGERI JOHOR KE-15",
+      "TarikhPengundian": "2022-03-12",
+      "JenisPRK" : null,
+          "Jenis" : 20
+    },
+    {
+      "Kod": "2021-51",
+      "Nama": "PILIHAN RAYA UMUM DUN SARAWAK KE-12 (2021)",
+      "NamaSingkatan": "PRU DUN SARAWAK KE-12 (2021)",
+      "TarikhPengundian": "2021-12-18",
+      "JenisPRK" : null,
+          "Jenis" : 20
+    },
+    {
+      "Kod": "2022-04",
+      "Nama": "PILIHAN RAYA UMUM KE-15 PARLIMEN  P.017 PADANG SERAI",
+      "NamaSingkatan": "PRU KE - 15 P.017  PADANG SERAI",
+      "TarikhPengundian": "2022-12-07",
+      "JenisPRK" : "PAR",
+          "Jenis" : 30
+    }
+  ]
