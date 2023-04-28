@@ -1,435 +1,69 @@
 [
-	{
-		"KodParlimen" : "162",
-		"KodDun" : "16249",
-		"UndiDalamPeti" : 57752,
-		"PeratusUndi" : "50.3",
-		"Majoriti" : 4360,
-		"MasaSah" : "2022-03-12T16:10:01.000Z"
-	},
-	{
-		"KodParlimen" : "152",
-		"KodDun" : "15229",
-		"UndiDalamPeti" : 37030,
-		"PeratusUndi" : "57.3",
-		"Majoriti" : 5166,
-		"MasaSah" : "2022-03-12T16:06:04.000Z"
-	},
-	{
-		"KodParlimen" : "160",
-		"KodDun" : "16045",
-		"UndiDalamPeti" : 28306,
-		"PeratusUndi" : "47",
-		"Majoriti" : 2866,
-		"MasaSah" : "2022-03-12T16:02:55.000Z"
-	},
-	{
-		"KodParlimen" : "158",
-		"KodDun" : "15841",
-		"UndiDalamPeti" : 53722,
-		"PeratusUndi" : "47.9",
-		"Majoriti" : 7114,
-		"MasaSah" : "2022-03-12T16:02:22.000Z"
-	},
-	{
-		"KodParlimen" : "158",
-		"KodDun" : "15840",
-		"UndiDalamPeti" : 57470,
-		"PeratusUndi" : "54.8",
-		"Majoriti" : 5281,
-		"MasaSah" : "2022-03-12T16:01:27.000Z"
-	},
-	{
-		"KodParlimen" : "159",
-		"KodDun" : "15942",
-		"UndiDalamPeti" : 48659,
-		"PeratusUndi" : "53.2",
-		"Majoriti" : 1922,
-		"MasaSah" : "2022-03-12T15:54:43.000Z"
-	},
-	{
-		"KodParlimen" : "161",
-		"KodDun" : "16147",
-		"UndiDalamPeti" : 31019,
-		"PeratusUndi" : "50.4",
-		"Majoriti" : 3514,
-		"MasaSah" : "2022-03-12T15:37:39.000Z"
-	},
-	{
-		"KodParlimen" : "144",
-		"KodDun" : "14410",
-		"UndiDalamPeti" : 20166,
-		"PeratusUndi" : "56.9",
-		"Majoriti" : 372,
-		"MasaSah" : "2022-03-12T15:32:23.000Z"
-	},
-	{
-		"KodParlimen" : "140",
-		"KodDun" : "14001",
-		"UndiDalamPeti" : 16188,
-		"PeratusUndi" : "57.1",
-		"Majoriti" : 5377,
-		"MasaSah" : "2022-03-12T15:31:32.000Z"
-	},
-	{
-		"KodParlimen" : "163",
-		"KodDun" : "16352",
-		"UndiDalamPeti" : 32388,
-		"PeratusUndi" : "51.1",
-		"Majoriti" : 5921,
-		"MasaSah" : "2022-03-12T15:27:43.000Z"
-	},
-	{
-		"KodParlimen" : "150",
-		"KodDun" : "15023",
-		"UndiDalamPeti" : 34796,
-		"PeratusUndi" : "50.7",
-		"Majoriti" : 9956,
-		"MasaSah" : "2022-03-12T15:24:04.000Z"
-	},
-	{
-		"KodParlimen" : "147",
-		"KodDun" : "14717",
-		"UndiDalamPeti" : 28459,
-		"PeratusUndi" : "61.4",
-		"Majoriti" : 4041,
-		"MasaSah" : "2022-03-12T15:23:43.000Z"
-	},
-	{
-		"KodParlimen" : "150",
-		"KodDun" : "15024",
-		"UndiDalamPeti" : 21981,
-		"PeratusUndi" : "59.2",
-		"Majoriti" : 3912,
-		"MasaSah" : "2022-03-12T15:23:32.000Z"
-	},
-	{
-		"KodParlimen" : "145",
-		"KodDun" : "14513",
-		"UndiDalamPeti" : 21756,
-		"PeratusUndi" : "54.7",
-		"Majoriti" : 2399,
-		"MasaSah" : "2022-03-12T15:18:55.000Z"
-	},
-	{
-		"KodParlimen" : "152",
-		"KodDun" : "15228",
-		"UndiDalamPeti" : 34209,
-		"PeratusUndi" : "51.9",
-		"Majoriti" : 10107,
-		"MasaSah" : "2022-03-12T15:18:21.000Z"
-	},
-	{
-		"KodParlimen" : "149",
-		"KodDun" : "14922",
-		"UndiDalamPeti" : 21793,
-		"PeratusUndi" : "60.9",
-		"Majoriti" : 4219,
-		"MasaSah" : "2022-03-12T15:18:06.000Z"
-	},
-	{
-		"KodParlimen" : "148",
-		"KodDun" : "14820",
-		"UndiDalamPeti" : 18289,
-		"PeratusUndi" : "66.8",
-		"Majoriti" : 5846,
-		"MasaSah" : "2022-03-12T15:15:36.000Z"
-	},
-	{
-		"KodParlimen" : "155",
-		"KodDun" : "15534",
-		"UndiDalamPeti" : 22333,
-		"PeratusUndi" : "58.4",
-		"Majoriti" : 5854,
-		"MasaSah" : "2022-03-12T15:15:22.000Z"
-	},
-	{
-		"KodParlimen" : "141",
-		"KodDun" : "14104",
-		"UndiDalamPeti" : 18690,
-		"PeratusUndi" : "55.7",
-		"Majoriti" : 1611,
-		"MasaSah" : "2022-03-12T15:06:20.000Z"
-	},
-	{
-		"KodParlimen" : "159",
-		"KodDun" : "15943",
-		"UndiDalamPeti" : 57051,
-		"PeratusUndi" : "55.7",
-		"Majoriti" : 7926,
-		"MasaSah" : "2022-03-12T15:04:47.000Z"
+		{
+		"KodParlimen" : "151",
+		"KodDun" : "15127",
+		"UndiDalamPeti" : 14110,
+		"PeratusUndi" : "56.4000015258789",
+		"Majoriti" : 2815,
+		"MasaSah" : "2022-03-12T14:47:38.053Z",
+		"UndiTolak" : 381,
+		"UndiTakKembali" : 71,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "151",
 		"KodDun" : "15126",
 		"UndiDalamPeti" : 19898,
-		"PeratusUndi" : "59.3",
+		"PeratusUndi" : "59.2999992370605",
 		"Majoriti" : 6543,
-		"MasaSah" : "2022-03-12T15:03:28.000Z"
+		"MasaSah" : "2022-03-12T15:03:28.843Z",
+		"UndiTolak" : 425,
+		"UndiTakKembali" : 120,
+		"Negeri" : "JOHOR"
 	},
 	{
-		"KodParlimen" : "157",
-		"KodDun" : "15739",
-		"UndiDalamPeti" : 14967,
-		"PeratusUndi" : "59.9",
-		"Majoriti" : 5903,
-		"MasaSah" : "2022-03-12T15:02:56.000Z"
-	},
-	{
-		"KodParlimen" : "149",
-		"KodDun" : "14921",
-		"UndiDalamPeti" : 23944,
-		"PeratusUndi" : "57.6",
-		"Majoriti" : 294,
-		"MasaSah" : "2022-03-12T14:59:51.000Z"
-	},
-	{
-		"KodParlimen" : "160",
-		"KodDun" : "16044",
-		"UndiDalamPeti" : 39065,
-		"PeratusUndi" : "51.7",
-		"Majoriti" : 6178,
-		"MasaSah" : "2022-03-12T14:59:21.000Z"
-	},
-	{
-		"KodParlimen" : "146",
-		"KodDun" : "14616",
-		"UndiDalamPeti" : 18531,
-		"PeratusUndi" : "61.8",
-		"Majoriti" : 2293,
-		"MasaSah" : "2022-03-12T14:57:51.000Z"
-	},
-	{
-		"KodParlimen" : "141",
-		"KodDun" : "14103",
-		"UndiDalamPeti" : 17542,
-		"PeratusUndi" : "59",
-		"Majoriti" : 4187,
-		"MasaSah" : "2022-03-12T14:56:41.000Z"
-	},
-	{
-		"KodParlimen" : "140",
-		"KodDun" : "14002",
-		"UndiDalamPeti" : 22042,
-		"PeratusUndi" : "53.7",
-		"Majoriti" : 714,
-		"MasaSah" : "2022-03-12T14:56:02.000Z"
-	},
-	{
-		"KodParlimen" : "154",
-		"KodDun" : "15433",
-		"UndiDalamPeti" : 21865,
-		"PeratusUndi" : "57.2",
-		"Majoriti" : 1356,
-		"MasaSah" : "2022-03-12T14:55:02.000Z"
-	},
-	{
-		"KodParlimen" : "157",
-		"KodDun" : "15738",
-		"UndiDalamPeti" : 18827,
-		"PeratusUndi" : "63.1",
-		"Majoriti" : 7505,
-		"MasaSah" : "2022-03-12T14:54:10.000Z"
-	},
-	{
-		"KodParlimen" : "165",
-		"KodDun" : "16555",
-		"UndiDalamPeti" : 21727,
-		"PeratusUndi" : "60.9",
-		"Majoriti" : 4835,
-		"MasaSah" : "2022-03-12T14:53:02.000Z"
+		"KodParlimen" : "144",
+		"KodDun" : "14410",
+		"UndiDalamPeti" : 20166,
+		"PeratusUndi" : "56.9000015258789",
+		"Majoriti" : 372,
+		"MasaSah" : "2022-03-12T15:32:23.710Z",
+		"UndiTolak" : 326,
+		"UndiTakKembali" : 81,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "144",
 		"KodDun" : "14411",
 		"UndiDalamPeti" : 22543,
-		"PeratusUndi" : "58.1",
+		"PeratusUndi" : "58.0999984741211",
 		"Majoriti" : 699,
-		"MasaSah" : "2022-03-12T14:52:42.000Z"
-	},
-	{
-		"KodParlimen" : "146",
-		"KodDun" : "14615",
-		"UndiDalamPeti" : 21372,
-		"PeratusUndi" : "55.8",
-		"Majoriti" : 1037,
-		"MasaSah" : "2022-03-12T14:51:51.000Z"
-	},
-	{
-		"KodParlimen" : "143",
-		"KodDun" : "14307",
-		"UndiDalamPeti" : 22789,
-		"PeratusUndi" : "61",
-		"Majoriti" : 710,
-		"MasaSah" : "2022-03-12T14:50:59.000Z"
-	},
-	{
-		"KodParlimen" : "161",
-		"KodDun" : "16146",
-		"UndiDalamPeti" : 43433,
-		"PeratusUndi" : "43.3",
-		"Majoriti" : 3347,
-		"MasaSah" : "2022-03-12T14:49:38.000Z"
-	},
-	{
-		"KodParlimen" : "151",
-		"KodDun" : "15127",
-		"UndiDalamPeti" : 14110,
-		"PeratusUndi" : "56.4",
-		"Majoriti" : 2815,
-		"MasaSah" : "2022-03-12T14:47:38.000Z"
-	},
-	{
-		"KodParlimen" : "164",
-		"KodDun" : "16454",
-		"UndiDalamPeti" : 25460,
-		"PeratusUndi" : "54.5",
-		"Majoriti" : 6325,
-		"MasaSah" : "2022-03-12T14:46:29.000Z"
-	},
-	{
-		"KodParlimen" : "150",
-		"KodDun" : "15025",
-		"UndiDalamPeti" : 16503,
-		"PeratusUndi" : "61.2",
-		"Majoriti" : 1920,
-		"MasaSah" : "2022-03-12T14:45:24.000Z"
-	},
-	{
-		"KodParlimen" : "155",
-		"KodDun" : "15535",
-		"UndiDalamPeti" : 16404,
-		"PeratusUndi" : "58.8",
-		"Majoriti" : 4888,
-		"MasaSah" : "2022-03-12T14:43:39.000Z"
-	},
-	{
-		"KodParlimen" : "143",
-		"KodDun" : "14308",
-		"UndiDalamPeti" : 19218,
-		"PeratusUndi" : "59.9",
-		"Majoriti" : 198,
-		"MasaSah" : "2022-03-12T14:41:46.000Z"
-	},
-	{
-		"KodParlimen" : "156",
-		"KodDun" : "15636",
-		"UndiDalamPeti" : 19300,
-		"PeratusUndi" : "67.6",
-		"Majoriti" : 5679,
-		"MasaSah" : "2022-03-12T14:41:32.000Z"
-	},
-	{
-		"KodParlimen" : "162",
-		"KodDun" : "16248",
-		"UndiDalamPeti" : 45637,
-		"PeratusUndi" : "44.9",
-		"Majoriti" : 13943,
-		"MasaSah" : "2022-03-12T14:40:56.000Z"
-	},
-	{
-		"KodParlimen" : "163",
-		"KodDun" : "16351",
-		"UndiDalamPeti" : 24703,
-		"PeratusUndi" : "53.7",
-		"Majoriti" : 137,
-		"MasaSah" : "2022-03-12T14:34:01.000Z"
-	},
-	{
-		"KodParlimen" : "153",
-		"KodDun" : "15330",
-		"UndiDalamPeti" : 15095,
-		"PeratusUndi" : "58.8",
-		"Majoriti" : 3176,
-		"MasaSah" : "2022-03-12T14:32:38.000Z"
-	},
-	{
-		"KodParlimen" : "142",
-		"KodDun" : "14206",
-		"UndiDalamPeti" : 13985,
-		"PeratusUndi" : "51.3",
-		"Majoriti" : 3569,
-		"MasaSah" : "2022-03-12T14:32:17.000Z"
-	},
-	{
-		"KodParlimen" : "163",
-		"KodDun" : "16350",
-		"UndiDalamPeti" : 22973,
-		"PeratusUndi" : "58.3",
-		"Majoriti" : 4755,
-		"MasaSah" : "2022-03-12T14:27:17.000Z"
-	},
-	{
-		"KodParlimen" : "147",
-		"KodDun" : "14718",
-		"UndiDalamPeti" : 22102,
-		"PeratusUndi" : "68",
-		"Majoriti" : 6274,
-		"MasaSah" : "2022-03-12T14:26:13.000Z"
-	},
-	{
-		"KodParlimen" : "153",
-		"KodDun" : "15331",
-		"UndiDalamPeti" : 17193,
-		"PeratusUndi" : "58.9",
-		"Majoriti" : 6698,
-		"MasaSah" : "2022-03-12T14:22:34.000Z"
-	},
-	{
-		"KodParlimen" : "145",
-		"KodDun" : "14512",
-		"UndiDalamPeti" : 17243,
-		"PeratusUndi" : "49.9",
-		"Majoriti" : 7476,
-		"MasaSah" : "2022-03-12T14:18:07.000Z"
-	},
-	{
-		"KodParlimen" : "142",
-		"KodDun" : "14205",
-		"UndiDalamPeti" : 12258,
-		"PeratusUndi" : "54.5",
-		"Majoriti" : 1736,
-		"MasaSah" : "2022-03-12T14:15:07.000Z"
+		"MasaSah" : "2022-03-12T14:52:42.890Z",
+		"UndiTolak" : 387,
+		"UndiTakKembali" : 108,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "144",
 		"KodDun" : "14409",
 		"UndiDalamPeti" : 17808,
-		"PeratusUndi" : "61.3",
+		"PeratusUndi" : "61.2999992370605",
 		"Majoriti" : 3146,
-		"MasaSah" : "2022-03-12T14:13:01.000Z"
+		"MasaSah" : "2022-03-12T14:13:01.650Z",
+		"UndiTolak" : 305,
+		"UndiTakKembali" : 245,
+		"Negeri" : "JOHOR"
 	},
 	{
-		"KodParlimen" : "164",
-		"KodDun" : "16453",
-		"UndiDalamPeti" : 17572,
-		"PeratusUndi" : "62.8",
-		"Majoriti" : 5859,
-		"MasaSah" : "2022-03-12T14:11:08.000Z"
-	},
-	{
-		"KodParlimen" : "165",
-		"KodDun" : "16556",
-		"UndiDalamPeti" : 19737,
-		"PeratusUndi" : "57.2",
-		"Majoriti" : 8201,
-		"MasaSah" : "2022-03-12T14:09:11.000Z"
-	},
-	{
-		"KodParlimen" : "154",
-		"KodDun" : "15432",
-		"UndiDalamPeti" : 15413,
-		"PeratusUndi" : "55.4",
-		"Majoriti" : 3041,
-		"MasaSah" : "2022-03-12T14:08:34.000Z"
-	},
-	{
-		"KodParlimen" : "145",
-		"KodDun" : "14514",
-		"UndiDalamPeti" : 14494,
-		"PeratusUndi" : "64.4",
-		"Majoriti" : 1535,
-		"MasaSah" : "2022-03-12T14:06:35.000Z"
+		"KodParlimen" : "148",
+		"KodDun" : "14820",
+		"UndiDalamPeti" : 18289,
+		"PeratusUndi" : "66.8000030517578",
+		"Majoriti" : 5846,
+		"MasaSah" : "2022-03-12T15:15:36.490Z",
+		"UndiTolak" : 330,
+		"UndiTakKembali" : 224,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "148",
@@ -437,14 +71,548 @@
 		"UndiDalamPeti" : 18934,
 		"PeratusUndi" : "57.5",
 		"Majoriti" : 2741,
-		"MasaSah" : "2022-03-12T13:48:24.000Z"
+		"MasaSah" : "2022-03-12T13:48:24.507Z",
+		"UndiTolak" : 254,
+		"UndiTakKembali" : 83,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "159",
+		"KodDun" : "15942",
+		"UndiDalamPeti" : 48659,
+		"PeratusUndi" : "53.2000007629395",
+		"Majoriti" : 1922,
+		"MasaSah" : "2022-03-12T15:54:43.523Z",
+		"UndiTolak" : 1262,
+		"UndiTakKembali" : 243,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "159",
+		"KodDun" : "15943",
+		"UndiDalamPeti" : 57051,
+		"PeratusUndi" : "55.7000007629395",
+		"Majoriti" : 7926,
+		"MasaSah" : "2022-03-12T15:04:47.667Z",
+		"UndiTolak" : 1024,
+		"UndiTakKembali" : 607,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "149",
+		"KodDun" : "14922",
+		"UndiDalamPeti" : 21793,
+		"PeratusUndi" : "60.9000015258789",
+		"Majoriti" : 4219,
+		"MasaSah" : "2022-03-12T15:18:06.093Z",
+		"UndiTolak" : 341,
+		"UndiTakKembali" : 164,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "149",
+		"KodDun" : "14921",
+		"UndiDalamPeti" : 23944,
+		"PeratusUndi" : "57.5999984741211",
+		"Majoriti" : 294,
+		"MasaSah" : "2022-03-12T14:59:51.030Z",
+		"UndiTolak" : 424,
+		"UndiTakKembali" : 157,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "142",
+		"KodDun" : "14206",
+		"UndiDalamPeti" : 13985,
+		"PeratusUndi" : "51.2999992370605",
+		"Majoriti" : 3569,
+		"MasaSah" : "2022-03-12T14:32:17.750Z",
+		"UndiTolak" : 271,
+		"UndiTakKembali" : 86,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "142",
+		"KodDun" : "14205",
+		"UndiDalamPeti" : 12258,
+		"PeratusUndi" : "54.5",
+		"Majoriti" : 1736,
+		"MasaSah" : "2022-03-12T14:15:07.997Z",
+		"UndiTolak" : 281,
+		"UndiTakKembali" : 59,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "158",
+		"KodDun" : "15841",
+		"UndiDalamPeti" : 53722,
+		"PeratusUndi" : "47.9000015258789",
+		"Majoriti" : 7114,
+		"MasaSah" : "2022-03-12T16:02:22.387Z",
+		"UndiTolak" : 774,
+		"UndiTakKembali" : 341,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "158",
+		"KodDun" : "15840",
+		"UndiDalamPeti" : 57470,
+		"PeratusUndi" : "54.7999992370605",
+		"Majoriti" : 5281,
+		"MasaSah" : "2022-03-12T16:01:27.127Z",
+		"UndiTolak" : 1053,
+		"UndiTakKembali" : 468,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "160",
+		"KodDun" : "16044",
+		"UndiDalamPeti" : 39065,
+		"PeratusUndi" : "51.7000007629395",
+		"Majoriti" : 6178,
+		"MasaSah" : "2022-03-12T14:59:21.010Z",
+		"UndiTolak" : 632,
+		"UndiTakKembali" : 264,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "160",
+		"KodDun" : "16045",
+		"UndiDalamPeti" : 28306,
+		"PeratusUndi" : "47",
+		"Majoriti" : 2866,
+		"MasaSah" : "2022-03-12T16:02:55.497Z",
+		"UndiTolak" : 432,
+		"UndiTakKembali" : 184,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "143",
+		"KodDun" : "14308",
+		"UndiDalamPeti" : 19218,
+		"PeratusUndi" : "59.9000015258789",
+		"Majoriti" : 198,
+		"MasaSah" : "2022-03-12T14:41:46.413Z",
+		"UndiTolak" : 381,
+		"UndiTakKembali" : 63,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "143",
+		"KodDun" : "14307",
+		"UndiDalamPeti" : 22789,
+		"PeratusUndi" : "61",
+		"Majoriti" : 710,
+		"MasaSah" : "2022-03-12T14:50:59.917Z",
+		"UndiTolak" : 486,
+		"UndiTakKembali" : 85,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "163",
+		"KodDun" : "16352",
+		"UndiDalamPeti" : 32388,
+		"PeratusUndi" : "51.0999984741211",
+		"Majoriti" : 5921,
+		"MasaSah" : "2022-03-12T15:27:43.883Z",
+		"UndiTolak" : 457,
+		"UndiTakKembali" : 192,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "163",
+		"KodDun" : "16351",
+		"UndiDalamPeti" : 24703,
+		"PeratusUndi" : "53.7000007629395",
+		"Majoriti" : 137,
+		"MasaSah" : "2022-03-12T14:34:01.370Z",
+		"UndiTolak" : 624,
+		"UndiTakKembali" : 117,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "163",
+		"KodDun" : "16350",
+		"UndiDalamPeti" : 22973,
+		"PeratusUndi" : "58.2999992370605",
+		"Majoriti" : 4755,
+		"MasaSah" : "2022-03-12T14:27:17.083Z",
+		"UndiTolak" : 457,
+		"UndiTakKembali" : 115,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "152",
+		"KodDun" : "15228",
+		"UndiDalamPeti" : 34209,
+		"PeratusUndi" : "51.9000015258789",
+		"Majoriti" : 10107,
+		"MasaSah" : "2022-03-12T15:18:21.300Z",
+		"UndiTolak" : 574,
+		"UndiTakKembali" : 246,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "152",
+		"KodDun" : "15229",
+		"UndiDalamPeti" : 37030,
+		"PeratusUndi" : "57.2999992370605",
+		"Majoriti" : 5166,
+		"MasaSah" : "2022-03-12T16:06:04.470Z",
+		"UndiTolak" : 805,
+		"UndiTakKembali" : 286,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "161",
+		"KodDun" : "16146",
+		"UndiDalamPeti" : 43433,
+		"PeratusUndi" : "43.2999992370605",
+		"Majoriti" : 3347,
+		"MasaSah" : "2022-03-12T14:49:38.273Z",
+		"UndiTolak" : 695,
+		"UndiTakKembali" : 393,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "161",
+		"KodDun" : "16147",
+		"UndiDalamPeti" : 31019,
+		"PeratusUndi" : "50.4000015258789",
+		"Majoriti" : 3514,
+		"MasaSah" : "2022-03-12T15:37:39.407Z",
+		"UndiTolak" : 392,
+		"UndiTakKembali" : 235,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "165",
+		"KodDun" : "16555",
+		"UndiDalamPeti" : 21727,
+		"PeratusUndi" : "60.9000015258789",
+		"Majoriti" : 4835,
+		"MasaSah" : "2022-03-12T14:53:02.487Z",
+		"UndiTolak" : 335,
+		"UndiTakKembali" : 108,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "165",
+		"KodDun" : "16556",
+		"UndiDalamPeti" : 19737,
+		"PeratusUndi" : "57.2000007629395",
+		"Majoriti" : 8201,
+		"MasaSah" : "2022-03-12T14:09:11.667Z",
+		"UndiTolak" : 455,
+		"UndiTakKembali" : 82,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "154",
+		"KodDun" : "15432",
+		"UndiDalamPeti" : 15413,
+		"PeratusUndi" : "55.4000015258789",
+		"Majoriti" : 3041,
+		"MasaSah" : "2022-03-12T14:08:34.757Z",
+		"UndiTolak" : 212,
+		"UndiTakKembali" : 61,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "154",
+		"KodDun" : "15433",
+		"UndiDalamPeti" : 21865,
+		"PeratusUndi" : "57.2000007629395",
+		"Majoriti" : 1356,
+		"MasaSah" : "2022-03-12T14:55:02.933Z",
+		"UndiTolak" : 423,
+		"UndiTakKembali" : 117,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "164",
+		"KodDun" : "16453",
+		"UndiDalamPeti" : 17572,
+		"PeratusUndi" : "62.7999992370605",
+		"Majoriti" : 5859,
+		"MasaSah" : "2022-03-12T14:11:08.613Z",
+		"UndiTolak" : 300,
+		"UndiTakKembali" : 106,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "164",
+		"KodDun" : "16454",
+		"UndiDalamPeti" : 25460,
+		"PeratusUndi" : "54.5",
+		"Majoriti" : 6325,
+		"MasaSah" : "2022-03-12T14:46:29.073Z",
+		"UndiTolak" : 543,
+		"UndiTakKembali" : 156,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "146",
+		"KodDun" : "14616",
+		"UndiDalamPeti" : 18531,
+		"PeratusUndi" : "61.7999992370605",
+		"Majoriti" : 2293,
+		"MasaSah" : "2022-03-12T14:57:51.440Z",
+		"UndiTolak" : 331,
+		"UndiTakKembali" : 93,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "146",
+		"KodDun" : "14615",
+		"UndiDalamPeti" : 21372,
+		"PeratusUndi" : "55.7999992370605",
+		"Majoriti" : 1037,
+		"MasaSah" : "2022-03-12T14:51:51.297Z",
+		"UndiTolak" : 356,
+		"UndiTakKembali" : 151,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "155",
+		"KodDun" : "15535",
+		"UndiDalamPeti" : 16404,
+		"PeratusUndi" : "58.7999992370605",
+		"Majoriti" : 4888,
+		"MasaSah" : "2022-03-12T14:43:39.513Z",
+		"UndiTolak" : 289,
+		"UndiTakKembali" : 88,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "155",
+		"KodDun" : "15534",
+		"UndiDalamPeti" : 22333,
+		"PeratusUndi" : "58.4000015258789",
+		"Majoriti" : 5854,
+		"MasaSah" : "2022-03-12T15:15:22.173Z",
+		"UndiTolak" : 341,
+		"UndiTakKembali" : 102,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "140",
+		"KodDun" : "14001",
+		"UndiDalamPeti" : 16188,
+		"PeratusUndi" : "57.0999984741211",
+		"Majoriti" : 5377,
+		"MasaSah" : "2022-03-12T15:31:32.757Z",
+		"UndiTolak" : 464,
+		"UndiTakKembali" : 67,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "140",
+		"KodDun" : "14002",
+		"UndiDalamPeti" : 22042,
+		"PeratusUndi" : "53.7000007629395",
+		"Majoriti" : 714,
+		"MasaSah" : "2022-03-12T14:56:02.167Z",
+		"UndiTolak" : 348,
+		"UndiTakKembali" : 104,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "141",
+		"KodDun" : "14104",
+		"UndiDalamPeti" : 18690,
+		"PeratusUndi" : "55.7000007629395",
+		"Majoriti" : 1611,
+		"MasaSah" : "2022-03-12T15:06:20.610Z",
+		"UndiTolak" : 412,
+		"UndiTakKembali" : 80,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "141",
+		"KodDun" : "14103",
+		"UndiDalamPeti" : 17542,
+		"PeratusUndi" : "59",
+		"Majoriti" : 4187,
+		"MasaSah" : "2022-03-12T14:56:41.570Z",
+		"UndiTolak" : 301,
+		"UndiTakKembali" : 98,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "162",
+		"KodDun" : "16248",
+		"UndiDalamPeti" : 45637,
+		"PeratusUndi" : "44.9000015258789",
+		"Majoriti" : 13943,
+		"MasaSah" : "2022-03-12T14:40:56.050Z",
+		"UndiTolak" : 604,
+		"UndiTakKembali" : 507,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "162",
+		"KodDun" : "16249",
+		"UndiDalamPeti" : 57752,
+		"PeratusUndi" : "50.2999992370605",
+		"Majoriti" : 4360,
+		"MasaSah" : "2022-03-12T16:10:01.673Z",
+		"UndiTolak" : 1038,
+		"UndiTakKembali" : 755,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "150",
+		"KodDun" : "15023",
+		"UndiDalamPeti" : 34796,
+		"PeratusUndi" : "50.7000007629395",
+		"Majoriti" : 9956,
+		"MasaSah" : "2022-03-12T15:24:04.180Z",
+		"UndiTolak" : 870,
+		"UndiTakKembali" : 228,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "150",
+		"KodDun" : "15025",
+		"UndiDalamPeti" : 16503,
+		"PeratusUndi" : "61.2000007629395",
+		"Majoriti" : 1920,
+		"MasaSah" : "2022-03-12T14:45:24.280Z",
+		"UndiTolak" : 346,
+		"UndiTakKembali" : 95,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "150",
+		"KodDun" : "15024",
+		"UndiDalamPeti" : 21981,
+		"PeratusUndi" : "59.2000007629395",
+		"Majoriti" : 3912,
+		"MasaSah" : "2022-03-12T15:23:32.370Z",
+		"UndiTolak" : 424,
+		"UndiTakKembali" : 158,
+		"Negeri" : "JOHOR"
 	},
 	{
 		"KodParlimen" : "156",
 		"KodDun" : "15637",
 		"UndiDalamPeti" : 20371,
-		"PeratusUndi" : "62.6",
+		"PeratusUndi" : "62.5999984741211",
 		"Majoriti" : 6039,
-		"MasaSah" : "2022-03-12T13:37:00.000Z"
+		"MasaSah" : "2022-03-12T13:37:00.737Z",
+		"UndiTolak" : 273,
+		"UndiTakKembali" : 73,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "156",
+		"KodDun" : "15636",
+		"UndiDalamPeti" : 19300,
+		"PeratusUndi" : "67.5999984741211",
+		"Majoriti" : 5679,
+		"MasaSah" : "2022-03-12T14:41:32.330Z",
+		"UndiTolak" : 309,
+		"UndiTakKembali" : 77,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "153",
+		"KodDun" : "15331",
+		"UndiDalamPeti" : 17193,
+		"PeratusUndi" : "58.9000015258789",
+		"Majoriti" : 6698,
+		"MasaSah" : "2022-03-12T14:22:34.793Z",
+		"UndiTolak" : 465,
+		"UndiTakKembali" : 95,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "153",
+		"KodDun" : "15330",
+		"UndiDalamPeti" : 15095,
+		"PeratusUndi" : "58.7999992370605",
+		"Majoriti" : 3176,
+		"MasaSah" : "2022-03-12T14:32:38.047Z",
+		"UndiTolak" : 424,
+		"UndiTakKembali" : 81,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "157",
+		"KodDun" : "15739",
+		"UndiDalamPeti" : 14967,
+		"PeratusUndi" : "59.9000015258789",
+		"Majoriti" : 5903,
+		"MasaSah" : "2022-03-12T15:02:56.817Z",
+		"UndiTolak" : 260,
+		"UndiTakKembali" : 81,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "157",
+		"KodDun" : "15738",
+		"UndiDalamPeti" : 18827,
+		"PeratusUndi" : "63.0999984741211",
+		"Majoriti" : 7505,
+		"MasaSah" : "2022-03-12T14:54:10.433Z",
+		"UndiTolak" : 300,
+		"UndiTakKembali" : 70,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "145",
+		"KodDun" : "14512",
+		"UndiDalamPeti" : 17243,
+		"PeratusUndi" : "49.9000015258789",
+		"Majoriti" : 7476,
+		"MasaSah" : "2022-03-12T14:18:07.907Z",
+		"UndiTolak" : 239,
+		"UndiTakKembali" : 91,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "145",
+		"KodDun" : "14514",
+		"UndiDalamPeti" : 14494,
+		"PeratusUndi" : "64.4000015258789",
+		"Majoriti" : 1535,
+		"MasaSah" : "2022-03-12T14:06:35.537Z",
+		"UndiTolak" : 238,
+		"UndiTakKembali" : 56,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "145",
+		"KodDun" : "14513",
+		"UndiDalamPeti" : 21756,
+		"PeratusUndi" : "54.7000007629395",
+		"Majoriti" : 2399,
+		"MasaSah" : "2022-03-12T15:18:55.837Z",
+		"UndiTolak" : 387,
+		"UndiTakKembali" : 141,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "147",
+		"KodDun" : "14717",
+		"UndiDalamPeti" : 28459,
+		"PeratusUndi" : "61.4000015258789",
+		"Majoriti" : 4041,
+		"MasaSah" : "2022-03-12T15:23:43.790Z",
+		"UndiTolak" : 543,
+		"UndiTakKembali" : 161,
+		"Negeri" : "JOHOR"
+	},
+	{
+		"KodParlimen" : "147",
+		"KodDun" : "14718",
+		"UndiDalamPeti" : 22102,
+		"PeratusUndi" : "68",
+		"Majoriti" : 6274,
+		"MasaSah" : "2022-03-12T14:26:13.330Z",
+		"UndiTolak" : 350,
+		"UndiTakKembali" : 139,
+		"Negeri" : "JOHOR"
 	}
 ]
