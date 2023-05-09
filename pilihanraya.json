@@ -14,5 +14,13 @@
     "TarikhPengundian": "2022-03-12",
     "JenisPRK" : null,
 		"Jenis" : 20
+  },
+  {
+    "Kod": "2022-05",
+    "Nama": "PILIHAN RAYA UMUM KE-15 DUN N.42 TIOMAN, PAHANG",
+    "NamaSingkatan": "PRU KE - 15 N.42 TIOMAN",
+    "TarikhPengundian": "2022-12-07",
+    "JenisPRK" : "DUN",
+		"Jenis" : 30
   }
 ]
