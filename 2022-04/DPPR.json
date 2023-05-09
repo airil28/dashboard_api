@@ -1,5 +1,4 @@
-{
-"SELECT\r\nKodDun,KodParlimen,Negeri, count(dpprId) as Jumlah \r\nfrom DPPR d \r\nwhere PilihanrayaId = 'F16BDC21-707F-436C-ABD9-3F26085D47E5'\r\nGROUP BY KodDun,KodParlimen,Negeri ": [
+[
 	{
 		"KodDun" : "01733",
 		"KodParlimen" : "017",
@@ -12,4 +11,4 @@
 		"Negeri" : "KEDAH",
 		"Jumlah" : 81266
 	}
-]}
+]

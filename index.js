@@ -179,6 +179,48 @@ app.get('/2022-05/statistikjenis', (req, res) => {
   res.sendFile(__dirname + '/2022-05/statistikjenis.json');
 });
 
+//PRK padang serai-----------------------------------------
+
+app.get('/2022-04/calonparlimen', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+
+  const data = require('./2022-04/calon_parlimen.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
+});
+
+app.get('/2022-04/keputusan', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/keputusan.json');
+});
+
+app.get('/2022-04/dppr', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/DPPR.json');
+});
+
+app.get('/2022-04/parlimen', (req, res) => {
+  res.sendFile(__dirname + '/parlimen.json');
+});
+
+app.get('/2022-04/statistikumur', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/statistikumur.json');
+});
+
+app.get('/2022-04/statistikjenis', (req, res) => {
+  res.sendFile(__dirname + '/2022-05/statistikjenis.json');
+});
+
 // TEST-----------------------------------------------
 app.get('/keputusan2', (req, res) => {
   res.writeHead(200, {

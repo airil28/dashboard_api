@@ -1,6 +1,5 @@
-{
-"select * from Keputusan  WHERE PilihanrayaId ='F16BDC21-707F-436C-ABD9-3F26085D47E5'": [
-	{
+[
+		{
 		"KeputusanId" : "145E08D2-413E-4162-8E42-3898EFAAADFE",
 		"PilihanrayaId" : "F16BDC21-707F-436C-ABD9-3F26085D47E5",
 		"ParlimenId" : "97C34A93-69FE-463B-A9F5-309016AECA3A",
@@ -31,4 +30,4 @@
 		"LogKemaskiniOleh" : null,
 		"LogTarikhKemaskini" : null
 	}
-]}
+]

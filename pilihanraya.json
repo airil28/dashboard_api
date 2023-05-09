@@ -22,5 +22,13 @@
     "TarikhPengundian": "2022-12-07",
     "JenisPRK" : "DUN",
 		"Jenis" : 30
+  },
+  {
+    "Kod": "2022-04",
+    "Nama": "PILIHAN RAYA UMUM KE-15 PARLIMEN  P.017 PADANG SERAI",
+    "NamaSingkatan": "PRU KE - 15 P.017  PADANG SERAI",
+    "TarikhPengundian": "2022-12-07",
+    "JenisPRK" : "PAR",
+		"Jenis" : 30
   }
 ]
