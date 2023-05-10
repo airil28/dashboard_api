@@ -2,9 +2,12 @@
 	{
 		"KodParlimen" : "091",
 		"KodDun" : "09142",
-		"UndiDalamPeti" : 16599,
+		"UndiKeluarPeti" : 16621,
 		"PeratusUndi" : "58.4000015258789",
 		"Majoriti" : 573,
-		"MasaSah" : null
+		"MasaSah" : null,
+		"UndiTolak" : 91,
+		"UndiTakKembali" : 22,
+		"Negeri" : "PAHANG"
 	}
 ]

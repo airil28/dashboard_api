@@ -1,0 +1,14 @@
+{
+"\r\nSELECT k.KodParlimen ,k.KodDun, k.UndiKeluarPeti ,k.PeratusUndi, k.Majoriti, k.MasaSah, k.UndiTolak ,k.UndiTakKembali,\r\np.Negeri\r\nFROM Keputusan k\r\njoin Parlimen p on p.KodParlimen  = k.KodParlimen  \r\nwhere PilihanrayaId in\r\n('8107C364-4CDC-482E-86C3-2AFA56BE498E')": [
+	{
+		"KodParlimen" : "091",
+		"KodDun" : "09142",
+		"UndiKeluarPeti" : 16621,
+		"PeratusUndi" : "58.4000015258789",
+		"Majoriti" : 573,
+		"MasaSah" : null,
+		"UndiTolak" : 91,
+		"UndiTakKembali" : 22,
+		"Negeri" : "PAHANG"
+	}
+]}

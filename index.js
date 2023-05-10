@@ -202,11 +202,11 @@ app.get('/2022-04/calonparlimen', (req, res) => {
 });
 
 app.get('/2022-04/keputusan', (req, res) => {
-  res.sendFile(__dirname + '/2022-05/keputusan.json');
+  res.sendFile(__dirname + '/2022-04/keputusan.json');
 });
 
 app.get('/2022-04/dppr', (req, res) => {
-  res.sendFile(__dirname + '/2022-05/DPPR.json');
+  res.sendFile(__dirname + '/2022-04/DPPR.json');
 });
 
 app.get('/2022-04/parlimen', (req, res) => {
