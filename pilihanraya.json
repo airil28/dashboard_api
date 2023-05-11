@@ -30,5 +30,13 @@
     "TarikhPengundian": "2022-12-07",
     "JenisPRK" : "PAR",
 		"Jenis" : 30
-  }
+  },
+  {
+		"Kod" : "2023-32",
+		"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN (LATIHAN-CALON)",
+		"NamaSingkatan" : "PRU DUN KELANTAN (LATIHAN-CALON)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	}
 ]
