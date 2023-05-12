@@ -222,6 +222,27 @@ app.get('/2022-04/statistikjenis', (req, res) => {
 });
 
 // TEST-----------------------------------------------
+
+app.get('/2023-20/calondun', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+
+  const data = require('./2023-20/calon_dun.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
+});
+
 app.get('/keputusan2', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'text/event-stream',

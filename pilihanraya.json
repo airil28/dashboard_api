@@ -38,5 +38,13 @@
 		"TarikhPengundian" : "2023-05-19",
 		"JenisPRK" : null,
 		"Jenis" : 20
+	},
+  {
+		"Kod" : "2023-20",
+		"Nama" : "PILIHAN RAYA UMUM DUN PAHANG KE - 15 (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN PAHANG KE - 15 (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
 	}
 ]

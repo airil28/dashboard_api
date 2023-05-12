@@ -1,0 +1,755 @@
+{
+"SELECT Kod,Nama,NamaSingkatan,TarikhPengundian,JenisPRK,Jenis from Pilihanraya\r\nWHERE Mode !='30'\r\nORDER BY TarikhPengundian DESC ": [
+	{
+		"Kod" : "2023-34",
+		"Nama" : "PILIHAN RAYA UMUM DUN TERENGGANU (LATIHAN-CALON)",
+		"NamaSingkatan" : "PRU DUN TERENGGANU (LATIHAN-CALON)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-32",
+		"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN (LATIHAN-CALON)",
+		"NamaSingkatan" : "PRU DUN KELANTAN (LATIHAN-CALON)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-41",
+		"Nama" : "PILIHAN RAYA UMUM DUN NEGERI SEMBILAN (LATIHAN-CALON)",
+		"NamaSingkatan" : "PRU DUN NEGERI SEMBILAN (LATIHAN-CALON)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-35",
+		"Nama" : "PILIHAN RAYA UMUM DUN PULAU PINANG (LATIHAN-CALON)",
+		"NamaSingkatan" : "PRU DUN PULAU PINANG (LATIHAN-CALON)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-37",
+		"Nama" : "PILIHAN RAYA UMUM DUN SELANGOR (LATIHAN-CALON)",
+		"NamaSingkatan" : "PRU DUN SELANGOR (LATIHAN-CALON)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-30",
+		"Nama" : "PILIHAN RAYA UMUM DUN KEDAH (LATIHAN-CALON)",
+		"NamaSingkatan" : "PRU DUN KEDAH (LATIHAN-CALON)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2022-02",
+		"Nama" : "PILIHAN RAYA UMUM KE - 15",
+		"NamaSingkatan" : "PRU KE - 15",
+		"TarikhPengundian" : "2023-05-02",
+		"JenisPRK" : null,
+		"Jenis" : 10
+	},
+	{
+		"Kod" : "2023-24",
+		"Nama" : "PILIHAN RAYA UMUM DUN SELANGOR KE - 14 (LATIHAN)",
+		"NamaSingkatan" : "PRU DUN SELANGOR KE - 14 (LATIHAN)",
+		"TarikhPengundian" : "2023-04-21",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-22",
+		"Nama" : "PILIHAN RAYA UMUM DUN TERENGGANU KE - 15 (LATIHAN)",
+		"NamaSingkatan" : "PRU DUN TERENGGANU KE - 15 (LATIHAN)",
+		"TarikhPengundian" : "2023-04-21",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-23",
+		"Nama" : "PILIHAN RAYA UMUM DUN KEDAH KE - 16 (LATIHAN)",
+		"NamaSingkatan" : "PRU DUN KEDAH KE - 16 (LATIHAN)",
+		"TarikhPengundian" : "2023-04-20",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-10",
+		"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN KE - 15 (LATIHAN)",
+		"NamaSingkatan" : "PRU DUN KELANTAN KE - 15 (LATIHAN)",
+		"TarikhPengundian" : "2023-04-16",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-27",
+		"Nama" : "PILIHAN RAYA UMUM DUN NEGERI SEMBILAN KE - 15 (LATIHAN)",
+		"NamaSingkatan" : "PRU DUN NEGERI SEMBILAN KE - 15 (LATIHAN)",
+		"TarikhPengundian" : "2023-04-15",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-26",
+		"Nama" : "PILIHAN RAYA UMUM DUN PULAU PINANG KE - 15 (LATIHAN)",
+		"NamaSingkatan" : "PRU DUN PULAU PINANG KE - 15 (LATIHAN)",
+		"TarikhPengundian" : "2023-04-14",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-29",
+		"Nama" : "PILIHAN RAYA UMUM DUN KEDAH (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN KEDAH (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-04-11",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2022-01",
+		"Nama" : "PILIHAN RAYA UMUM DEWAN NEGERI JOHOR KE-15",
+		"NamaSingkatan" : "PRU DEWAN NEGERI JOHOR KE-15",
+		"TarikhPengundian" : "2023-03-29",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-38",
+		"Nama" : "PILIHAN RAYA UMUM DUN SELANGOR (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN SELANGOR (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-03-28",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-36",
+		"Nama" : "PILIHAN RAYA UMUM DUN PULAU PINANG (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN PULAU PINANG (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-03-28",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-31",
+		"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN KELANTAN (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-03-28",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-39",
+		"Nama" : "PILIHAN RAYA UMUM DUN NEGERI SEMBILAN (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN NEGERI SEMBILAN (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-03-28",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-33",
+		"Nama" : "PILIHAN RAYA UMUM DUN TERENGGANU (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN TERENGGANU (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-03-28",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-01",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.134  MASJID TANAH",
+		"NamaSingkatan" : "PRK P.134  MASJID TANAH",
+		"TarikhPengundian" : "2023-03-25",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2023-03",
+		"Nama" : "PILIHAN RAYA UMUM DEWAN NEGERI JOHOR KE - 16",
+		"NamaSingkatan" : "PRU DUN JOHOR KE - 16",
+		"TarikhPengundian" : "2023-03-10",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-25",
+		"Nama" : "PILIHAN RAYA UMUM DUN PULAU PINANG KE - 15 PENGUJIAN SIMULASI",
+		"NamaSingkatan" : "PRU DUN PULAU PINANG KE - 15",
+		"TarikhPengundian" : "2023-03-09",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-01",
+		"Nama" : "PRA PILIHAN RAYA KECIL DUN N.42 TIOMAN (SIMULASI)",
+		"NamaSingkatan" : "PRA PRK N.42 TIOMAN (S)",
+		"TarikhPengundian" : "2023-02-11",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2023-15",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.42 TIOMAN (SIMULASI -  PENJUMLAHAN)",
+		"NamaSingkatan" : "PRK N.42 TIOMAN (S) - PENJUMLAHAN",
+		"TarikhPengundian" : "2023-01-27",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2022-04",
+		"Nama" : "PILIHAN RAYA UMUM KE-15 PARLIMEN  P.017 PADANG SERAI",
+		"NamaSingkatan" : "PRU KE - 15 P.017  PADANG SERAI",
+		"TarikhPengundian" : "2022-12-07",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2022-05",
+		"Nama" : "PILIHAN RAYA UMUM KE-15 DUN N.42 TIOMAN, PAHANG",
+		"NamaSingkatan" : "PRU KE - 15 N.42 TIOMAN",
+		"TarikhPengundian" : "2022-12-07",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2022-03",
+		"Nama" : "PILIHAN RAYA KECIL (PRK) DEWAN UNDANGAN NEGERI (DUN) N.66 BUGAYA",
+		"NamaSingkatan" : "PRK N.66 BUGAYA",
+		"TarikhPengundian" : "2022-11-19",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2021-51",
+		"Nama" : "PILIHAN RAYA UMUM DUN SARAWAK KE-12 (2021)",
+		"NamaSingkatan" : "PRU DUN SARAWAK KE-12 (2021)",
+		"TarikhPengundian" : "2021-12-18",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2021-39",
+		"Nama" : "PILIHAN RAYA UMUM DUN MELAKA KE-15 (2021)",
+		"NamaSingkatan" : "PRU DUN MELAKA KE-15 (2021)",
+		"TarikhPengundian" : "2021-11-20",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2020-03",
+		"Nama" : "PILIHAN RAYA UMUM DUN SABAH KALI KE-16 (2021)",
+		"NamaSingkatan" : "PRU DUN SABAH KALI KE-16 (2020)",
+		"TarikhPengundian" : "2020-09-26",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2020-02",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.58 SLIM, PERAK (2020)",
+		"NamaSingkatan" : "PRK DUN N.58 SLIM, PERAK (2020)",
+		"TarikhPengundian" : "2020-08-29",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2020-01",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.23 CHINI, PAHANG (2020)",
+		"NamaSingkatan" : "PRK DUN N.23 CHINI, PAHANG (2020)",
+		"TarikhPengundian" : "2020-07-04",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2020-05",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.176 KIMANIS, SABAH (2020)",
+		"NamaSingkatan" : "PRK PARLIMEN P.176 KIMANIS, SABAH (2020)",
+		"TarikhPengundian" : "2020-01-18",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2019-04",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.165 TANJUNG PIAI, JOHOR (2019)",
+		"NamaSingkatan" : "PRK PARLIMEN P.165 TANJUNG PIAI, JOHOR (2019)",
+		"TarikhPengundian" : "2019-11-16",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2019-03",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.186 SANDAKAN, SABAH (2019)",
+		"NamaSingkatan" : "PRK PARLIMEN P.186 SANDAKAN, SABAH (2019)",
+		"TarikhPengundian" : "2019-05-11",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2019-02",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.27 RANTAU, NEGERI SEMBILAN (2019)",
+		"NamaSingkatan" : "PRK DUN N.27 RANTAU, NEGERI SEMBILAN (2019)",
+		"TarikhPengundian" : "2019-04-13",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2019-01",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.24 SEMENYIH, SELANGOR (2019)",
+		"NamaSingkatan" : "PRK DUN N.24 SEMENYIH, SELANGOR (2019)",
+		"TarikhPengundian" : "2019-03-02",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2018-06",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.078 CAMERON HIGHLANDS, PAHANG (2019)",
+		"NamaSingkatan" : "PRK PARLIMEN P.078 CAMERON HIGHLANDS, PAHANG (2019)",
+		"TarikhPengundian" : "2019-01-26",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2018-05",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.132 PORT DICKSON, NEGERI SEMBILAN (2018)",
+		"NamaSingkatan" : "PRK PARLIMEN P.132 PORT DICKSON, NEGERI SEMBILAN (2018)",
+		"TarikhPengundian" : "2018-10-13",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2018-04",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.32 SERI SETIA, SELANGOR (2018)",
+		"NamaSingkatan" : "PRK DUN N.32 SERI SETIA, SELANGOR (2018)",
+		"TarikhPengundian" : "2018-09-08",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2018-03",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.27 BALAKONG, SELANGOR (2018)",
+		"NamaSingkatan" : "PRK DUN N.27 BALAKONG, SELANGOR (2018)",
+		"TarikhPengundian" : "2018-09-08",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2018-02",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.49 SUNGAI KANDIS, SELANGOR (2018)",
+		"NamaSingkatan" : "PRK DUN N.49 SUNGAI KANDIS, SELANGOR (2018)",
+		"TarikhPengundian" : "2018-08-04",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2018-01",
+		"Nama" : "PILIHAN RAYA UMUM KE-14 (2018)",
+		"NamaSingkatan" : "PRU KE-14 (2018)",
+		"TarikhPengundian" : "2018-05-09",
+		"JenisPRK" : null,
+		"Jenis" : 10
+	},
+	{
+		"Kod" : "2017-01",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.03 TANJONG DATU, SARAWAK (2017)",
+		"NamaSingkatan" : "PRK DUN N.03 TANJONG DATU, SARAWAK (2017)",
+		"TarikhPengundian" : "2017-02-18",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2016-01",
+		"Nama" : "PILIHAN RAYA UMUM DUN SARAWAK KE-11 (2016)",
+		"NamaSingkatan" : "PRU DUN SARAWAK KE-11 (2016)",
+		"TarikhPengundian" : "2016-10-07",
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2016-03",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.093 SUNGAI BESAR, SELANGOR (2016)",
+		"NamaSingkatan" : "PRK PARLIMEN P.093 SUNGAI BESAR, SELANGOR (2016)",
+		"TarikhPengundian" : "2016-06-18",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2016-02",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.067 KUALA KANGSAR, PERAK (2016)",
+		"NamaSingkatan" : "PRK PARLIMEN P.067 KUALA KANGSAR, PERAK (2016)",
+		"TarikhPengundian" : "2016-06-18",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2015-01",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.044 PERMATANG PAUH, PULAU PINANG (2015)",
+		"NamaSingkatan" : "PRK PARLIMEN P.044 PERMATANG PAUH, PULAU PINANG (2015)",
+		"TarikhPengundian" : "2015-05-07",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2015-02",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.091 ROMPIN, PAHANG (2015)",
+		"NamaSingkatan" : "PRK PARLIMEN P.091 ROMPIN, PAHANG (2015)",
+		"TarikhPengundian" : "2015-05-05",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2015-34",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.06 CHEMPAKA, KELANTAN (2015)",
+		"NamaSingkatan" : "PRK DUN N.06 CHEMPAKA, KELANTAN (2015)",
+		"TarikhPengundian" : "2015-03-22",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2014-33",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.01 PENGKALAN KUBOR, KELANTAN (2014)",
+		"NamaSingkatan" : "PRK DUN N.01 PENGKALAN KUBOR, KELANTAN (2014)",
+		"TarikhPengundian" : "2014-09-25",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2014-32",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.076 TELOK INTAN, PERAK (2014)",
+		"NamaSingkatan" : "PRK PARLIMEN P.076 TELOK INTAN, PERAK (2014)",
+		"TarikhPengundian" : "2014-05-31",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2014-31",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.051 BUKIT GELUGOR, PULAU PINANG (2014)",
+		"NamaSingkatan" : "PRK PARLIMEN P.051 BUKIT GELUGOR, PULAU PINANG (2014)",
+		"TarikhPengundian" : "2014-05-25",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2014-30",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.51 BALINGIAN, SARAWAK (2014)",
+		"NamaSingkatan" : "PRK DUN N.51 BALINGIAN, SARAWAK (2014)",
+		"TarikhPengundian" : "2014-03-29",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2014-29",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.25 KAJANG, SELANGOR (2014)",
+		"NamaSingkatan" : "PRK DUN N.25 KAJANG, SELANGOR (2014)",
+		"TarikhPengundian" : "2014-03-23",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2013-07",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.20 SUNGAI LIMAU, KEDAH (2013)",
+		"NamaSingkatan" : "PRK DUN N.20 SUNGAI LIMAU, KEDAH (2013)",
+		"TarikhPengundian" : "2013-11-04",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2013-06",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.01 KUALA BESUT, TERENGGANU (2013)",
+		"NamaSingkatan" : "PRK DUN N.01 KUALA BESUT, TERENGGANU (2013)",
+		"TarikhPengundian" : "2013-07-24",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2013-01",
+		"Nama" : "PRU KE-13 (2013)",
+		"NamaSingkatan" : "PRU KE-13 (2013)",
+		"TarikhPengundian" : "2013-04-10",
+		"JenisPRK" : null,
+		"Jenis" : 10
+	},
+	{
+		"Kod" : "2011-27",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.28 KERDAU, PAHANG (2011)",
+		"NamaSingkatan" : "PRK DUN N.28 KERDAU, PAHANG (2011)",
+		"TarikhPengundian" : "2011-03-06",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2011-26",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.27 MERLIMAU, MELAKA (2011)",
+		"NamaSingkatan" : "PRK DUN N.27 MERLIMAU, MELAKA (2011)",
+		"TarikhPengundian" : "2011-03-06",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2011-25",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.05 TENANG, JOHOR (2011)",
+		"NamaSingkatan" : "PRK DUN N.05 TENANG, JOHOR (2011)",
+		"TarikhPengundian" : "2011-01-30",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2010-03",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.45 GALAS, KELANTAN (2010)",
+		"NamaSingkatan" : "PRK DUN N.45 GALAS, KELANTAN (2010)",
+		"TarikhPengundian" : "2010-11-04",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2010-04",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.185 BATU SAPI, SABAH (2010)",
+		"NamaSingkatan" : "PRK PARLIMEN P.185 BATU SAPI, SABAH (2010)",
+		"TarikhPengundian" : "2010-11-04",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2010-02",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.212 SIBU, SARAWAK (2010)",
+		"NamaSingkatan" : "PRK PARLIMEN P.212 SIBU, SARAWAK (2010)",
+		"TarikhPengundian" : "2010-05-16",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2010-01",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.094 HULU SELANGOR, SELANGOR (2010)",
+		"NamaSingkatan" : "PRK PARLIMEN P.094 HULU SELANGOR, SELANGOR (2010)",
+		"TarikhPengundian" : "2010-04-25",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-08",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.31  BAGAN PINANG, NEGERI SEMBILAN (2009)",
+		"NamaSingkatan" : "PRK DUN N.31 BAGAN PINANG, NEGERI SEMBILAN (2009)",
+		"TarikhPengundian" : "2009-10-11",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-08",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.11 PERMATANG PASIR, PULAU PINANG (2009)",
+		"NamaSingkatan" : "PRK DUN N.11 PERMATANG PASIR, PULAU PINANG (2009)",
+		"TarikhPengundian" : "2009-08-25",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-07",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.41 MANEK URAI, KELANTAN (2009)",
+		"NamaSingkatan" : "PRK DUN N.41 MANEK URAI, KELANTAN (2009)",
+		"TarikhPengundian" : "2009-07-14",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-06",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.12 PENANTI, PULAU PINANG (2009)",
+		"NamaSingkatan" : "PRK DUN N.12 PENANTI, PULAU PINANG (2009)",
+		"TarikhPengundian" : "2009-05-31",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-05",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.29 BATANG AIR, SARAWAK (2009)",
+		"NamaSingkatan" : "PRK DUN N.29 BATANG AIR, SARAWAK (2009)",
+		"TarikhPengundian" : "2009-04-07",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-04",
+		"Nama" : "PILIHAN RAYA KECIL DUN N.25 BUKIT SELAMBAU, KEDAH (2009)",
+		"NamaSingkatan" : "PRK DUN N.25 BUKIT SELAMBAU, KEDAH (2009)",
+		"TarikhPengundian" : "2009-04-07",
+		"JenisPRK" : "DUN",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-03",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.059 BUKIT GANTANG, PERAK (2009)",
+		"NamaSingkatan" : "PRK PARLIMEN P.059 BUKIT GANTANG, PERAK (2009)",
+		"TarikhPengundian" : "2009-04-07",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2009-02",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.036 KUALA TERENGGANU, TERENGGANU (2009)",
+		"NamaSingkatan" : "PRK PARLIMEN P.036 KUALA TERENGGANU, TERENGGANU (2009)",
+		"TarikhPengundian" : "2009-01-17",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2008-01",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.044 PERMATANG PAUH, PULAU PINANG (2008)",
+		"NamaSingkatan" : "PRK PARLIMEN P.044 PERMATANG PAUH, PULAU PINANG (2008)",
+		"TarikhPengundian" : "2008-08-26",
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2008-41",
+		"Nama" : "PILIHAN RAYA UMUM KE-12 (2008)",
+		"NamaSingkatan" : "PRU KE-12 (2008)",
+		"TarikhPengundian" : "2008-03-08",
+		"JenisPRK" : null,
+		"Jenis" : 10
+	},
+	{
+		"Kod" : "2023-53",
+		"Nama" : "PILIHAN RAYA UMUM DEWAN NEGERI SELANGOR (LATIHAN-KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN SELANGOR (LATIHAN-KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-51",
+		"Nama" : "PILIHAN RAYA UMUM DUN TERENGGANU (LATIHAN-KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN TERENGGANU (LATIHAN-KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-42",
+		"Nama" : "PILIHAN RAYA UMUM DUN SARAWAK KE - 13 (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN SARAWAK KE - 13 (KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2021-40",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.166 LABUAN, LABUAN (2021)",
+		"NamaSingkatan" : "PRK PARLIMEN P.166 LABUAN, LABUAN (2021)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2023-52",
+		"Nama" : "PILIHAN RAYA UMUM DUN PULAU PINANG (LATIHAN-KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN PULAU PINANG (LATIHAN-KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-45",
+		"Nama" : "PILIHAN RAYA UMUM DUN TERENGGANU (LATIHAN-PETUGAS)",
+		"NamaSingkatan" : "PRU DUN TERENGGANU (LATIHAN-PETUGAS)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-48",
+		"Nama" : "PILIHAN RAYA UMUM DUN NEGERI SEMBILAN (LATIHAN-PETUGAS)",
+		"NamaSingkatan" : "PRU DUN NEGERI SEMBILAN (LATIHAN-PETUGAS)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-47",
+		"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN (LATIHAN-PETUGAS)",
+		"NamaSingkatan" : "PRU DUN KELANTAN (LATIHAN-PETUGAS)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-54",
+		"Nama" : "PILIHAN RAYA UMUM DUN NEGERI SEMBILAN (LATIHAN-KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN NEGERI SEMBILAN (LATIHAN-KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-49",
+		"Nama" : "PILIHAN RAYA UMUM DUN KEDAH (LATIHAN-KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN KEDAH (LATIHAN-KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-43",
+		"Nama" : "PILIHAN RAYA UMUM DEWAN NEGERI SELANGOR (LATIHAN-PETUGAS)",
+		"NamaSingkatan" : "PRU DUN SELANGOR (LATIHAN-PETUGAS)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-44",
+		"Nama" : "PILIHAN RAYA UMUM DUN PULAU PINANG (LATIHAN-PETUGAS)",
+		"NamaSingkatan" : "PRU DUN PULAU PINANG (LATIHAN-PETUGAS)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-21",
+		"Nama" : "PILIHAN RAYA UMUM DUN PAHANG KE - 15 (CALON)",
+		"NamaSingkatan" : "PRU DUN PAHANG KE - 15 (CALON)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : "",
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-01",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.167  KUDAT",
+		"NamaSingkatan" : "PRK P.167  KUDAT",
+		"TarikhPengundian" : null,
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2023-20",
+		"Nama" : "PILIHAN RAYA UMUM DUN PAHANG KE - 15 (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN PAHANG KE - 15 (KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-50",
+		"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN (LATIHAN-KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN KELANTAN (LATIHAN-KEPUTUSAN)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-46",
+		"Nama" : "PILIHAN RAYA UMUM DUN KEDAH (LATIHAN-PETUGAS)",
+		"NamaSingkatan" : "PRU DUN KEDAH (LATIHAN-PETUGAS)",
+		"TarikhPengundian" : null,
+		"JenisPRK" : null,
+		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-28",
+		"Nama" : "PILIHAN RAYA KECIL PARLIMEN P.001  PADANG BESAR",
+		"NamaSingkatan" : "PRK P.001  PADANG BESAR",
+		"TarikhPengundian" : null,
+		"JenisPRK" : "PAR",
+		"Jenis" : 30
+	}
+]}
