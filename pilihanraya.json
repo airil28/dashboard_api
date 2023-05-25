@@ -46,5 +46,13 @@
 		"TarikhPengundian" : "2023-05-19",
 		"JenisPRK" : null,
 		"Jenis" : 20
+	},
+   {
+		"Kod" : "2023-38",
+		"Nama" : "PILIHAN RAYA UMUM DUN SELANGOR (KEPUTUSAN)",
+		"NamaSingkatan" : "PRU DUN SELANGOR (KEPUTUSAN)",
+		"TarikhPengundian" : "2023-05-19",
+		"JenisPRK" : null,
+		"Jenis" : 20
 	}
 ]
