@@ -334,6 +334,35 @@ app.get('/calondun2', (req, res) => {
   });
 });
 
+//pru dun selangor
+
+app.get('/2023-38/calondun', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+
+
+  const data = require('./2023-38/calon_dun.json');
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
+});
+
+app.get('/2023-38/dun', (req, res) => {
+  res.sendFile(__dirname + '/2023-38/dun.json');
+});
+
+app.get('/2023-38/keputusan', (req, res) => {
+  res.sendFile(__dirname + '/2023-38/keputusan.json');
+});
 
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
