@@ -32,13 +32,13 @@
 		"Jenis" : 30
   },
   {
-		"Kod" : "2023-32",
-		"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN (LATIHAN-CALON)",
-		"NamaSingkatan" : "PRU DUN KELANTAN (LATIHAN-CALON)",
-		"TarikhPengundian" : "2023-05-19",
-		"JenisPRK" : null,
-		"Jenis" : 20
-	},
+	"Kod" : "2023-32",
+	"Nama" : "PILIHAN RAYA UMUM DUN KELANTAN (LATIHAN-CALON)",
+	"NamaSingkatan" : "PRU DUN KELANTAN (LATIHAN-CALON)",
+	"TarikhPengundian" : "2023-05-19",
+	"JenisPRK" : null,
+	"Jenis" : 20
+  },
   {
 		"Kod" : "2023-20",
 		"Nama" : "PILIHAN RAYA UMUM DUN PAHANG KE - 15 (KEPUTUSAN)",
@@ -47,12 +47,28 @@
 		"JenisPRK" : null,
 		"Jenis" : 20
 	},
-   {
+   	{
 		"Kod" : "2023-38",
 		"Nama" : "PILIHAN RAYA UMUM DUN SELANGOR (KEPUTUSAN)",
 		"NamaSingkatan" : "PRU DUN SELANGOR (KEPUTUSAN)",
 		"TarikhPengundian" : "2023-06-30",
 		"JenisPRK" : null,
 		"Jenis" : 20
+	},
+	{
+		"Kod" : "2023-38",
+		"Nama" : "PRN NEGERI SEMBILAN",
+		"NamaSingkatan" : "PRN NEGERI SEMBILAN",
+		"TarikhPengundian" : "2023-06-30",
+		"JenisPRK" : null,
+		"Jenis" : 30
+	},
+	{
+		"Kod" : "2023-38",
+		"Nama" : "PRN TERENGGANU",
+		"NamaSingkatan" : "PRN TERENGGANU",
+		"TarikhPengundian" : "2023-06-30",
+		"JenisPRK" : null,
+		"Jenis" : 30
 	}
 ]
