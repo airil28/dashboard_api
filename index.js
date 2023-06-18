@@ -67,6 +67,20 @@ app.get('/api/v1/:kodPilihanraya/keputusan', (req, res) => {
   });
 });
 
+app.get('/api/v1/pilihanrayatest', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'application/json',
+  });
+  const data = require('/var/www/spr_integrated/public/api/pilihanraya.json');
+
+  res.write(JSON.stringify(data));
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
+});
+
 app.get('/api/v1/pilihanraya', (req, res) => {
   res.sendFile('/var/www/spr_integrated/public/api/pilihanraya.json');
 });
