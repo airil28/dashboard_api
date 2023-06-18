@@ -56,7 +56,7 @@ app.get('/api/v1/:kodPilihanraya/calonparlimen', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calonparlimen.json');
+  const data = require('./api/' + kodPilihanraya + '/calonparlimen.json');
 
   res.write('data: ');
   res.write(JSON.stringify(data));
@@ -75,7 +75,7 @@ app.get('/api/v1/:kodPilihanraya/keputusan', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/keputusan.json');
+  const data = require('./api/' + kodPilihanraya + '/keputusan.json');
 
   res.write('data: ');
   res.write(JSON.stringify(data));
