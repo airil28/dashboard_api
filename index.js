@@ -1,32 +1,14 @@
 const express = require('express')
 const path = require('path')
-
+const cors = require('cors');
 const app = express()
 
+app.use(cors({
+  origin: ['http://localhost:3031', 'http://pengujian3.spr.gov.my']
+}));
+
+
 app.use(express.static('/var/www/spr_integrated/public/api'))
-
-// SSE endpoint
-// app.get('/api/v1', (req, res) => {
-//   res.setHeader('Content-Type', 'text/event-stream')
-//   res.setHeader('Cache-Control', 'no-cache')
-//   res.setHeader('Connection', 'keep-alive')
-
-//   // Send SSE messages periodically
-//   const intervalId = setInterval(() => {
-//     const data = 'This is an SSE message'
-
-//     // Send SSE event
-//     res.write(`event: message\n`)
-//     res.write(`data: ${data}\n\n`)
-//   }, 1000);
-
-//   // Close SSE connection on client disconnect
-//   req.on('close', () => {
-//     clearInterval(intervalId)
-//     res.end()
-//   })
-// })
-
 
 app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
   // Set headers for SSE
