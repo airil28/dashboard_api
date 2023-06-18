@@ -36,7 +36,7 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require(`/var/www/spr_integrated/public/api/${kodPilihanraya}/calondun.json`);
+  const data = require(`/var/www/spr_integrated/public/api/${kodPilihanraya}/calondun`);
   console.log(`/var/www/spr_integrated/public/api/${kodPilihanraya}/calondun.json`)
   console.log(data)
   res.write('data: ');
@@ -51,7 +51,7 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
 app.get('/example/:data', (req, res) => {
   // Example JSON response
   const data = req.params.data;
-  const example = require('/var/www/spr_integrated/public/api/'+data+'/calondun.json');
+  const example = require('/var/www/spr_integrated/public/api/'+data+'/calondun');
   const responseBody = {
     message: 'This is an example response.${example}',
     data: {
