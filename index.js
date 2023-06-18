@@ -19,7 +19,7 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json');
+  const data = require('./api/' + kodPilihanraya + '/calondun.json');
   // const jsonData = {};
   // fs.readFile('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json', 'utf8', (err, data) => {
   //   if (err) {
