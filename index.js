@@ -40,7 +40,7 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
   res.write('data: ');
   res.write(JSON.stringify(data));
   res.write('\n\n');
-  console.log('')
+  console.log(data)
   // Handle client disconnect
   req.on('close', () => {
     res.end();
