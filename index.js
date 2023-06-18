@@ -18,7 +18,25 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/calondun.json');
+  // const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json');
+  const jsonData = {};
+  fs.readFile('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json', 'utf8', (err, data) => {
+    if (err) {
+      // Handle error if the file cannot be read
+      console.error(err);
+      res.status(500).send('Error reading JSON file');
+      return;
+    }
+
+    try {
+      // Parse the JSON data
+      jsonData = JSON.parse(data);
+
+    } catch (error) {
+      console.error(error);
+      res.status(500).send('Error parsing JSON data');
+    }
+  });
 
   res.write('data: ');
   res.write(JSON.stringify(data));
@@ -37,7 +55,7 @@ app.get('/api/v1/:kodPilihanraya/calonparlimen', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/calonparlimen.json');
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calonparlimen.json');
 
   res.write('data: ');
   res.write(JSON.stringify(data));
@@ -56,7 +74,7 @@ app.get('/api/v1/:kodPilihanraya/keputusan', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/keputusan.json');
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/keputusan.json');
 
   res.write('data: ');
   res.write(JSON.stringify(data));
@@ -97,7 +115,7 @@ app.get('/api/v1/:kodPilihanraya/parlimen', (req, res) => {
     'Content-Type': 'application/json',
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/parlimen.json');
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/parlimen.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -110,7 +128,7 @@ app.get('/api/v1/:kodPilihanraya/dun', (req, res) => {
     'Content-Type': 'application/json',
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/dun.json');
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/dun.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -123,7 +141,7 @@ app.get('/api/v1/:kodPilihanraya/statistikumur', (req, res) => {
     'Content-Type': 'application/json',
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/statistikumur.json');
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/statistikumur.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -136,7 +154,7 @@ app.get('/api/v1/:kodPilihanraya/statistikjenis', (req, res) => {
     'Content-Type': 'application/json',
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/statistikjenis.json');
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/statistikjenis.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -149,7 +167,7 @@ app.get('/api/v1/:kodPilihanraya/dppr', (req, res) => {
     'Content-Type': 'application/json',
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/dppr.json');
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/dppr.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -161,7 +179,7 @@ app.get('/api/v1/:kodPilihanraya/dppr', (req, res) => {
 app.get('/example/:data', (req, res) => {
   // Example JSON response
   const data = req.params.data;
-  const example = require('/var/www/spr_integrated/public/api/'+data+'/calondun.json');
+  const example = require('/var/www/spr_integrated/public/api/' + data + '/calondun.json');
   const responseBody = {
     message: 'This is an example response.${example}',
     data: {
