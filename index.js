@@ -67,7 +67,19 @@ app.get('/api/v1/:kodPilihanraya/keputusan', (req, res) => {
   });
 });
 
-app.get('/api/v1/pilihanrayatest', (req, res) => {
+app.get('/api/v1/negeri', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'application/json',
+  });
+  const data = require('/var/www/spr_integrated/public/api/negeri.json');
+
+  res.write(JSON.stringify(data));
+  res.end();
+
+});
+
+app.get('/api/v1/pilihanraya', (req, res) => {
   // Set headers for SSE
   res.writeHead(200, {
     'Content-Type': 'application/json',
@@ -79,32 +91,64 @@ app.get('/api/v1/pilihanrayatest', (req, res) => {
 
 });
 
-app.get('/api/v1/negeri', (req, res) => {
-  res.sendFile('/var/www/spr_integrated/public/api/negeri.json');
-});
-
-app.get('/api/v1/pilihanraya', (req, res) => {
-  res.sendFile('/var/www/spr_integrated/public/api/pilihanraya.json');
-});
-
 app.get('/api/v1/:kodPilihanraya/parlimen', (req, res) => {
-  res.sendFile('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/parlimen.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'application/json',
+  });
+  const data = require('/var/www/spr_integrated/public/api/parlimen.json');
+
+  res.write(JSON.stringify(data));
+  res.end();
+
 });
 
 app.get('/api/v1/:kodPilihanraya/dun', (req, res) => {
-  res.sendFile('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/dun.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'application/json',
+  });
+  const data = require('/var/www/spr_integrated/public/api/dun.json');
+
+  res.write(JSON.stringify(data));
+  res.end();
+
 });
 
 app.get('/api/v1/:kodPilihanraya/statistikumur', (req, res) => {
-  res.sendFile('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/statistikumur.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'application/json',
+  });
+  const data = require('/var/www/spr_integrated/public/api/statistikumur.json');
+
+  res.write(JSON.stringify(data));
+  res.end();
+
 });
 
 app.get('/api/v1/:kodPilihanraya/statistikjenis', (req, res) => {
-  res.sendFile('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/statistikjenis.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'application/json',
+  });
+  const data = require('/var/www/spr_integrated/public/api/statistikjenis.json');
+
+  res.write(JSON.stringify(data));
+  res.end();
+
 });
 
 app.get('/api/v1/:kodPilihanraya/dppr', (req, res) => {
-  res.sendFile('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/dppr.json');
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'application/json',
+  });
+  const data = require('/var/www/spr_integrated/public/api/dppr.json');
+
+  res.write(JSON.stringify(data));
+  res.end();
+
 });
 
 
