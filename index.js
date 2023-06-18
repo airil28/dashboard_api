@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 5050;
-const host = '0.0.0.0.';
+const host = '0.0.0.0';
 var cors = require('cors')
 
 app.use(cors())
