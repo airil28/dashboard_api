@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
-const port = 5051;
+const port = 5050;
+const host = '0.0.0.0';
 var cors = require('cors')
 
 app.use(cors())
@@ -364,6 +365,6 @@ app.get('/2023-38/keputusan', (req, res) => {
   res.sendFile(__dirname + '/2023-38/keputusan.json');
 });
 
-app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
+app.listen(port, host, () => {
+  console.log(`Server running at http://${host}:${port}`);
 });
