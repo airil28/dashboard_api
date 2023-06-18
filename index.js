@@ -75,6 +75,8 @@ app.get('/api/v1/pilihanrayatest', (req, res) => {
   const data = require('/var/www/spr_integrated/public/api/pilihanraya.json');
 
   res.write(JSON.stringify(data));
+  res.end();
+
 });
 
 app.get('/api/v1/pilihanraya', (req, res) => {
