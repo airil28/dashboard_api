@@ -51,7 +51,7 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
 app.get('/example/:data', (req, res) => {
   // Example JSON response
   const data = req.params.data;
-  const example = require(`/var/www/spr_integrated/public/api/${data}/calondun.json`);
+  const example = require('/var/www/spr_integrated/public/api/'+data+'/calondun.json');
   const responseBody = {
     message: 'This is an example response.${example}',
     data: {
