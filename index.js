@@ -19,28 +19,28 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  // const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json');
-  const jsonData = {};
-  fs.readFile('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json', 'utf8', (err, data) => {
-    if (err) {
-      // Handle error if the file cannot be read
-      console.error(err);
-      res.status(500).send('Error reading JSON file');
-      return;
-    }
+  const data = require('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json');
+  // const jsonData = {};
+  // fs.readFile('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json', 'utf8', (err, data) => {
+  //   if (err) {
+  //     // Handle error if the file cannot be read
+  //     console.error(err);
+  //     res.status(500).send('Error reading JSON file');
+  //     return;
+  //   }
 
-    try {
-      // Parse the JSON data
-      jsonData = JSON.parse(data);
+  //   try {
+  //     // Parse the JSON data
+  //     jsonData = JSON.parse(data);
 
-    } catch (error) {
-      console.error(error);
-      res.status(500).send('Error parsing JSON data');
-    }
-  });
+  //   } catch (error) {
+  //     console.error(error);
+  //     res.status(500).send('Error parsing JSON data');
+  //   }
+  // });
 
   res.write('data: ');
-  res.write(JSON.stringify(jsonData));
+  res.write(JSON.stringify(data));
   res.write('\n\n');
   // Handle client disconnect
   req.on('close', () => {
