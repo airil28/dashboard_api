@@ -4,7 +4,7 @@ const cors = require('cors');
 const app = express()
 
 app.use(cors({
-  origin: ['http://localhost:3031', 'http://pengujian3.spr.gov.my']
+  origin: ['http://localhost:3031', 'http://pengujian3.spr.gov.my:3031']
 }));
 
 
