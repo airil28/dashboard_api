@@ -79,6 +79,10 @@ app.get('/api/v1/pilihanrayatest', (req, res) => {
 
 });
 
+app.get('/api/v1/negeri', (req, res) => {
+  res.sendFile('/var/www/spr_integrated/public/api/negeri.json');
+});
+
 app.get('/api/v1/pilihanraya', (req, res) => {
   res.sendFile('/var/www/spr_integrated/public/api/pilihanraya.json');
 });
