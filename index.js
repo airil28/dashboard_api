@@ -96,7 +96,8 @@ app.get('/api/v1/:kodPilihanraya/parlimen', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'application/json',
   });
-  const data = require('/var/www/spr_integrated/public/api/parlimen.json');
+  const kodPilihanraya = req.params.kodPilihanraya;
+  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/parlimen.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -108,7 +109,8 @@ app.get('/api/v1/:kodPilihanraya/dun', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'application/json',
   });
-  const data = require('/var/www/spr_integrated/public/api/dun.json');
+  const kodPilihanraya = req.params.kodPilihanraya;
+  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/dun.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -120,7 +122,8 @@ app.get('/api/v1/:kodPilihanraya/statistikumur', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'application/json',
   });
-  const data = require('/var/www/spr_integrated/public/api/statistikumur.json');
+  const kodPilihanraya = req.params.kodPilihanraya;
+  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/statistikumur.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -132,7 +135,8 @@ app.get('/api/v1/:kodPilihanraya/statistikjenis', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'application/json',
   });
-  const data = require('/var/www/spr_integrated/public/api/statistikjenis.json');
+  const kodPilihanraya = req.params.kodPilihanraya;
+  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/statistikjenis.json');
 
   res.write(JSON.stringify(data));
   res.end();
@@ -144,7 +148,8 @@ app.get('/api/v1/:kodPilihanraya/dppr', (req, res) => {
   res.writeHead(200, {
     'Content-Type': 'application/json',
   });
-  const data = require('/var/www/spr_integrated/public/api/dppr.json');
+  const kodPilihanraya = req.params.kodPilihanraya;
+  const data = require('/var/www/spr_integrated/public/api/'+kodPilihanraya+'/dppr.json');
 
   res.write(JSON.stringify(data));
   res.end();
