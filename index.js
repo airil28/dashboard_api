@@ -36,11 +36,11 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('/var/www/spr_integrated/public/api/${kodPilihanraya}/calondun.json');
+  const data = require(`/var/www/spr_integrated/public/api/${kodPilihanraya}/calondun.json`);
   res.write('data: ');
   res.write(JSON.stringify(data));
   res.write('\n\n');
-
+  console.log('')
   // Handle client disconnect
   req.on('close', () => {
     res.end();
