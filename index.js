@@ -5,9 +5,12 @@ const cors = require('cors');
 const app = express()
 
 app.use(cors({
-  origin: ['http://localhost:3031', 'http://pengujian3.spr.gov.my:3031']
+  origin: [
+    'http://localhost:3031',
+    'http://pengujian3.spr.gov.my:3031',
+    'http://pengujian3.spr.gov.my:3031/@vite/client'
+  ]
 }));
-
 
 app.use(express.static('/var/www/spr_integrated/public/api'))
 
