@@ -23,24 +23,6 @@ app.get('/api/v1/:kodPilihanraya/calondun', (req, res) => {
   });
   const kodPilihanraya = req.params.kodPilihanraya;
   const data = require('./api/' + kodPilihanraya + '/calondun.json');
-  // const jsonData = {};
-  // fs.readFile('/var/www/spr_integrated/public/api/' + kodPilihanraya + '/calondun.json', 'utf8', (err, data) => {
-  //   if (err) {
-  //     // Handle error if the file cannot be read
-  //     console.error(err);
-  //     res.status(500).send('Error reading JSON file');
-  //     return;
-  //   }
-
-  //   try {
-  //     // Parse the JSON data
-  //     jsonData = JSON.parse(data);
-
-  //   } catch (error) {
-  //     console.error(error);
-  //     res.status(500).send('Error parsing JSON data');
-  //   }
-  // });
 
   res.write('data: ');
   res.write(JSON.stringify(data));
@@ -178,8 +160,6 @@ app.get('/api/v1/:kodPilihanraya/dppr', (req, res) => {
 
 });
 
-
-
 app.get('/example/:data', (req, res) => {
   // Example JSON response
   const data = req.params.data;
@@ -193,6 +173,26 @@ app.get('/example/:data', (req, res) => {
   };
 
   res.json(responseBody);
+});
+
+//with execution time
+app.get('/api/v2/:kodPilihanraya/calondun', (req, res) => {
+  // Set headers for SSE
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  });
+  const kodPilihanraya = req.params.kodPilihanraya;
+  const data = require('./apiv2/' + kodPilihanraya + '/calondun.json');
+
+  res.write('data: ');
+  res.write(JSON.stringify(data));
+  res.write('\n\n');
+  // Handle client disconnect
+  req.on('close', () => {
+    res.end();
+  });
 });
 
 // Start the server
