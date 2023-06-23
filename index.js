@@ -184,7 +184,8 @@ app.get('/api/v2/:kodPilihanraya/calondun', (req, res) => {
     'Connection': 'keep-alive'
   });
   const kodPilihanraya = req.params.kodPilihanraya;
-  const data = require('./apiv2/' + kodPilihanraya + '/calondun.json');
+  // const data = require('./apiv2/' + kodPilihanraya + '/calondun.json');
+  const example = require('/var/www/spr_integrated/public/apiv2/' + kodPilihanraya + '/calondun.json');
 
   res.write('data: ');
   res.write(JSON.stringify(data));
