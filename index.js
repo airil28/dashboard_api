@@ -7,6 +7,7 @@ const app = express()
 app.use(cors({
   origin: [
     'http://localhost:3031',
+    'http://localhost:3031/main',
     'http://pengujian3.spr.gov.my:3031',
     'http://pengujian3.spr.gov.my:3031/@vite/client'
   ]
